@@ -1,0 +1,56 @@
+{
+  "1": {
+    "id": 1,
+    "order": "1.00000000000000000000",
+    "label": "Leopold I.",
+    "lp_id": "lb-person-1",
+    "gnd_url": "https://d-nb.info/gnd/118571869",
+    "place_of_birth": [
+      {
+        "id": 1,
+        "value": "Wien, Stadt",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "date_of_birth": null
+  },
+  "2": {
+    "id": 2,
+    "order": "2.00000000000000000000",
+    "label": "Eleonora Magdalena Theresia, geb. Pfalz-Neuburg",
+    "lp_id": "lb-person-2",
+    "gnd_url": "https://d-nb.info/gnd/101026641",
+    "place_of_birth": [],
+    "date_of_birth": null
+  },
+  "3": {
+    "id": 3,
+    "order": "3.00000000000000000000",
+    "label": "Lamberg, Johann Maximilian von",
+    "lp_id": "lb-person-3",
+    "gnd_url": "https://d-nb.info/gnd/118823795",
+    "place_of_birth": [
+      {
+        "id": 3,
+        "value": "Brno",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "date_of_birth": null
+  },
+  "4": {
+    "id": 4,
+    "order": "4.00000000000000000000",
+    "label": "Kinsky, Franz Ulrich",
+    "lp_id": "lb-person-4",
+    "gnd_url": "https://d-nb.info/gnd/123530822",
+    "place_of_birth": [
+      {
+        "id": 1,
+        "value": "Wien, Stadt",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "date_of_birth": null
+  }
+}

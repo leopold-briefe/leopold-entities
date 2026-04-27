@@ -1,0 +1,21 @@
+import os
+from acdh_baserow_pyutils import BaseRowClient
+
+
+BASEROW_DB_ID = 1165
+BASEROW_URL = "https://baserow.acdh-dev.oeaw.ac.at/api/"
+BASEROW_USER = os.environ.get("BASEROW_USER")
+BASEROW_PW = os.environ.get("BASEROW_PW")
+BASEROW_TOKEN = os.environ.get("BASEROW_TOKEN")
+JSON_FOLDER = "json_dumps"
+TEI_FOLDER = "tei"
+
+
+try:
+    br_client = BaseRowClient(
+        BASEROW_USER, BASEROW_PW, BASEROW_TOKEN, br_base_url=BASEROW_URL
+    )
+    print("connection successfully established")
+except KeyError:
+    br_client = None
+    print("no baserow connection established, check credentials")

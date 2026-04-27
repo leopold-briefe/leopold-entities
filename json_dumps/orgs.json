@@ -1,0 +1,66 @@
+{
+  "1": {
+    "id": 1,
+    "order": "1.00000000000000000000",
+    "abbr": "OÖLA",
+    "label": "Oberösterreichisches Landesarchiv",
+    "lb_id": "lp-org-1",
+    "kind": {
+      "id": 23014,
+      "value": "archiv/library",
+      "color": "dark-cyan"
+    },
+    "gnd_url": "https://d-nb.info/gnd/2020619-7",
+    "letters": [
+      {
+        "id": 1,
+        "value": "lb-00001",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "2": {
+    "id": 2,
+    "order": "2.00000000000000000000",
+    "abbr": "ÖNB",
+    "label": "Österreichische Nationalbibliothek",
+    "lb_id": "lp-org-2",
+    "kind": {
+      "id": 23014,
+      "value": "archiv/library",
+      "color": "dark-cyan"
+    },
+    "gnd_url": "https://d-nb.info/gnd/2020893-5",
+    "letters": []
+  },
+  "3": {
+    "id": 3,
+    "order": "3.00000000000000000000",
+    "abbr": "HHStA",
+    "label": "Haus-, Hof- und Staatsarchiv",
+    "lb_id": "lp-org-3",
+    "kind": {
+      "id": 23014,
+      "value": "archiv/library",
+      "color": "dark-cyan"
+    },
+    "gnd_url": "https://d-nb.info/gnd/1045024-5",
+    "letters": [
+      {
+        "id": 2,
+        "value": "lb-00002",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 3,
+        "value": "lb-00003",
+        "order": "3.00000000000000000000"
+      },
+      {
+        "id": 4,
+        "value": "lb-00004",
+        "order": "4.00000000000000000000"
+      }
+    ]
+  }
+}

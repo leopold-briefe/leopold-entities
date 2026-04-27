@@ -1,0 +1,27 @@
+name: Dump Entities from Baserow
+
+on:
+  # schedule:
+  # - cron: "12 5 * * *"
+  workflow_dispatch:
+
+jobs:
+  download:
+    name: dump baserow
+    runs-on: ubuntu-latest
+    env:
+      BASEROW_TOKEN: ${{ secrets.BASEROW_TOKEN }}
+      BASEROW_USER: ${{ secrets.BASEROW_USER }}
+      BASEROW_PW: ${{ secrets.BASEROW_PW }}
+    steps:
+      - name: checkout the repo  
+        uses: actions/checkout@v6
+      - name: Install the latest version of uv
+        uses: astral-sh/setup-uv@v8.0.0
+      - name: dump the data
+        run: |
+          uv run src/dump_data.py
+      - name: Commit data
+        uses: stefanzweifel/git-auto-commit-action@v7
+        with:
+          commit_message: Data update from Baserow
