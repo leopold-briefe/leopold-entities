@@ -26,7 +26,7 @@
       <body>
          <div type="index_persons">
             <listPerson xml:id="listperson">
-               <person xml:id="lb-person-1">
+               <person xml:id="lb-person-1" n="Leopold I.">
                   <persName type="name">Leopold I.</persName>
                   <birth>
                      <date>1640-06-09</date>
@@ -41,11 +41,11 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118571869</idno>
                </person>
-               <person xml:id="lb-person-2">
+               <person xml:id="lb-person-2" n="Eleonora Magdalena Theresia, geb. Pfalz-Neuburg">
                   <persName type="name">Eleonora Magdalena Theresia, geb. Pfalz-Neuburg</persName>
                   <idno type="gnd">https://d-nb.info/gnd/101026641</idno>
                </person>
-               <person xml:id="lb-person-3">
+               <person xml:id="lb-person-3" n="Lamberg, Johann Maximilian von">
                   <persName type="name">Lamberg, Johann Maximilian von</persName>
                   <birth>
                      <settlement key="lp-place-3">
@@ -56,7 +56,7 @@
                   </birth>
                   <idno type="gnd">https://d-nb.info/gnd/118823795</idno>
                </person>
-               <person xml:id="lb-person-4">
+               <person xml:id="lb-person-4" n="Kinsky, Franz Ulrich">
                   <persName type="name">Kinsky, Franz Ulrich</persName>
                   <birth>
                      <settlement key="lp-place-1">

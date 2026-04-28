@@ -26,7 +26,7 @@
          <div type="index_persons">
             <listPerson xml:id="listperson">
             {% for x in objects %}
-               <person xml:id="{{ x.lb_id }}">
+               <person xml:id="{{ x.lb_id }}" n="{{ x.label }}">
                   <persName type="name">{{ x.label }}</persName>
                   {% for y in x.titel %}
                   <persName type="title">
