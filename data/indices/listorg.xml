@@ -31,7 +31,6 @@
                   <location>
                      <placeName key="lp-place-2">Linz</placeName>
                      <geo>48.30639 14.28611</geo>
-                     <idno type="geonames">https://www.geonames.org/2772400/</idno>
                   </location>
                   <idno type="GND">https://d-nb.info/gnd/2020619-7</idno>
                </org>
@@ -40,7 +39,6 @@
                   <location>
                      <placeName key="lp-place-1">Wien, Stadt</placeName>
                      <geo>48.20849 16.37208</geo>
-                     <idno type="geonames">https://www.geonames.org/2761369/</idno>
                   </location>
                   <idno type="GND">https://d-nb.info/gnd/2020893-5</idno>
                </org>
@@ -49,7 +47,6 @@
                   <location>
                      <placeName key="lp-place-1">Wien, Stadt</placeName>
                      <geo>48.20849 16.37208</geo>
-                     <idno type="geonames">https://www.geonames.org/2761369/</idno>
                   </location>
                   <idno type="GND">https://d-nb.info/gnd/1045024-5</idno>
                </org>

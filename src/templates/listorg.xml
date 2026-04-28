@@ -32,9 +32,6 @@
                   <location>
                      <placeName key="{{ p.lb_id }}">{{ p.label }}</placeName>{% if p.latitude %}
                      <geo>{{ p.latitude }} {{ p.longitude }}</geo>{% endif %}
-                     {% if p.geonames_url %}
-                     <idno type="geonames">{{ p.geonames_url }}</idno>
-                     {% endif %}
                   </location>
                   {% endfor %}
                   {% if x.gnd_url|length > 0 %}
