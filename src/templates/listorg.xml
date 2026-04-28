@@ -28,6 +28,15 @@
             {% for x in objects %}
                <org xml:id="{{ x.lb_id }}">
                   <orgName>{{ x.label }}</orgName>
+                  {% for p in x.located_in %}
+                  <location>
+                     <placeName key="{{ p.lb_id }}">{{ p.label }}</placeName>{% if p.latitude %}
+                     <geo>{{ p.latitude }} {{ p.longitude }}</geo>{% endif %}
+                     {% if p.geonames_url %}
+                     <idno type="geonames">{{ p.geonames_url }}</idno>
+                     {% endif %}
+                  </location>
+                  {% endfor %}
                   {% if x.gnd_url|length > 0 %}
                   <idno type="GND">{{ x.gnd_url }}</idno>
                   {% endif %}

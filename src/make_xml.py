@@ -13,7 +13,7 @@ templateLoader = jinja2.FileSystemLoader(searchpath="src/templates")
 templateEnv = jinja2.Environment(
     loader=templateLoader, trim_blocks=True, lstrip_blocks=True
 )
-out_dir = "./indices"
+out_dir = os.path.join("data/indices")
 
 os.makedirs(out_dir, exist_ok=True)
 files = glob.glob("./json_dumps/*.json")
