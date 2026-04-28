@@ -4,20 +4,26 @@
     "order": "1.00000000000000000000",
     "label": "Wien, Stadt",
     "lb_id": "lp-place-1",
-    "geonames_url": "https://sws.geonames.org/2761369/"
+    "geonames_url": "https://sws.geonames.org/2761369/",
+    "latitude": "48.20849",
+    "longitude": "16.37208"
   },
   "2": {
     "id": 2,
     "order": "2.00000000000000000000",
     "label": "Linz",
     "lb_id": "lp-place-2",
-    "geonames_url": "https://sws.geonames.org/2772400/"
+    "geonames_url": "https://sws.geonames.org/2772400/",
+    "latitude": "48.30639",
+    "longitude": "14.28611"
   },
   "3": {
     "id": 3,
     "order": "3.00000000000000000000",
     "label": "Brno",
     "lb_id": "lp-place-3",
-    "geonames_url": "https://www.geonames.org/3078610/brno.html"
+    "geonames_url": "https://www.geonames.org/3078610/brno.html",
+    "latitude": "49.19522",
+    "longitude": "16.60796"
   }
 }

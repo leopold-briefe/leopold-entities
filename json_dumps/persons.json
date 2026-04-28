@@ -3,54 +3,74 @@
     "id": 1,
     "order": "1.00000000000000000000",
     "label": "Leopold I.",
-    "lp_id": "lb-person-1",
+    "lb_id": "lb-person-1",
     "gnd_url": "https://d-nb.info/gnd/118571869",
     "place_of_birth": [
       {
         "id": 1,
-        "value": "Wien, Stadt",
-        "order": "1.00000000000000000000"
+        "order": "1.00000000000000000000",
+        "label": "Wien, Stadt",
+        "lb_id": "lp-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208"
       }
     ],
-    "date_of_birth": null
+    "date_of_birth": "1640-06-09",
+    "place_of_death": [],
+    "date_of_death": "1705-05-05"
   },
   "2": {
     "id": 2,
     "order": "2.00000000000000000000",
     "label": "Eleonora Magdalena Theresia, geb. Pfalz-Neuburg",
-    "lp_id": "lb-person-2",
+    "lb_id": "lb-person-2",
     "gnd_url": "https://d-nb.info/gnd/101026641",
     "place_of_birth": [],
-    "date_of_birth": null
+    "date_of_birth": null,
+    "place_of_death": [],
+    "date_of_death": null
   },
   "3": {
     "id": 3,
     "order": "3.00000000000000000000",
     "label": "Lamberg, Johann Maximilian von",
-    "lp_id": "lb-person-3",
+    "lb_id": "lb-person-3",
     "gnd_url": "https://d-nb.info/gnd/118823795",
     "place_of_birth": [
       {
         "id": 3,
-        "value": "Brno",
-        "order": "3.00000000000000000000"
+        "order": "3.00000000000000000000",
+        "label": "Brno",
+        "lb_id": "lp-place-3",
+        "geonames_url": "https://www.geonames.org/3078610/brno.html",
+        "latitude": "49.19522",
+        "longitude": "16.60796"
       }
     ],
-    "date_of_birth": null
+    "date_of_birth": null,
+    "place_of_death": [],
+    "date_of_death": null
   },
   "4": {
     "id": 4,
     "order": "4.00000000000000000000",
     "label": "Kinsky, Franz Ulrich",
-    "lp_id": "lb-person-4",
+    "lb_id": "lb-person-4",
     "gnd_url": "https://d-nb.info/gnd/123530822",
     "place_of_birth": [
       {
         "id": 1,
-        "value": "Wien, Stadt",
-        "order": "1.00000000000000000000"
+        "order": "1.00000000000000000000",
+        "label": "Wien, Stadt",
+        "lb_id": "lp-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208"
       }
     ],
-    "date_of_birth": null
+    "date_of_birth": null,
+    "place_of_death": [],
+    "date_of_death": null
   }
 }

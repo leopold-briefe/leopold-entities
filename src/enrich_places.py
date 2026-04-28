@@ -18,11 +18,10 @@ for x in tqdm(items):
     update_url = f"{br_client.br_base_url}database/rows/table/{place_table_id}/{x['id']}/?user_field_names=true"
    
     gn_object = gn_as_object(x["geonames_url"])
-    print(gn_as_object)
-    update_object["lat"] = gn_object.get("latitude")
-    update_object["long"] = gn_object.get("longitude")
+    update_object["latitude"] = gn_object.get("latitude")
+    update_object["longitude"] = gn_object.get("longitude")
     try:
-        if not update_object["lat"] or not update_object["long"]:
+        if not update_object["latitude"] or not update_object["longitude"]:
             print(f"Missing coordinates for {x['id']} ({x.get('geonames_url')}), skipping.")
             continue
         

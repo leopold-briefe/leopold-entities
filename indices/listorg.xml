@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -5,17 +6,17 @@
             <title type="main">Institutionenregister</title>
             <title type="sub">Korrespondenz von Kaiser Leopold I</title>
             <editor key="https://d-nb.info/gnd/132150654">
-                <forename>Petr</forename>
-                <surname>Maťa</surname>
+               <forename>Petr</forename>
+               <surname>Maťa</surname>
             </editor>
-        </titleStmt>
-        <publicationStmt>
+         </titleStmt>
+         <publicationStmt>
             <publisher key="https://d-nb.info/gnd/1001454-8">Österreichische Akademie der Wissenschaften</publisher>
             <date when="2028"/>
             <availability status="free">
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">Lizenziert unter CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/deed.de)</licence>
             </availability>
-        </publicationStmt>
+         </publicationStmt>
          <sourceDesc>
             <p>Register der im Projekt erwähnten Institutionen</p>
          </sourceDesc>
@@ -25,17 +26,18 @@
       <body>
          <div type="index_orgs">
             <listOrg xml:id="listorg">
-            {% for x in objects %}
-               <org xml:id="{{ x.lb_id }}">
-                  <orgName>{{ x.label }}</orgName>
-                  {% if x.gnd_url|length > 0 %}
-                  <idno type="GND">{{ x.gnd_url }}</idno>
-                  {% endif %}
-                  {% if x.wikidata|length > 0 %}
-                  <idno type="WIKIDATA">{{ x.wikidata }}</idno>
-                  {% endif %}
+               <org xml:id="lp-org-1">
+                  <orgName>Oberösterreichisches Landesarchiv</orgName>
+                  <idno type="GND">https://d-nb.info/gnd/2020619-7</idno>
                </org>
-            {% endfor %}
+               <org xml:id="lp-org-2">
+                  <orgName>Österreichische Nationalbibliothek</orgName>
+                  <idno type="GND">https://d-nb.info/gnd/2020893-5</idno>
+               </org>
+               <org xml:id="lp-org-3">
+                  <orgName>Haus-, Hof- und Staatsarchiv</orgName>
+                  <idno type="GND">https://d-nb.info/gnd/1045024-5</idno>
+               </org>
             </listOrg>
          </div>
       </body>
