@@ -34,6 +34,11 @@
       "id": 23015,
       "value": "Original",
       "color": "red"
+    },
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
     }
   },
   "2": {
@@ -71,6 +76,11 @@
       "id": 23015,
       "value": "Original",
       "color": "red"
+    },
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
     }
   },
   "3": {
@@ -108,6 +118,11 @@
       "id": 23016,
       "value": "Abschrift",
       "color": "darker-red"
+    },
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
     }
   },
   "4": {
@@ -145,6 +160,11 @@
       "id": 23015,
       "value": "Original",
       "color": "red"
+    },
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
     }
   }
 }
