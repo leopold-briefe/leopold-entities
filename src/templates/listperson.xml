@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Personenregsiter</title>
+            <title type="sub">Korrespondenz von Kaiser Leopold I</title>
+            <editor key="https://d-nb.info/gnd/132150654">
+                <forename>Petr</forename>
+                <surname>Maťa</surname>
+            </editor>
+        </titleStmt>
+        <publicationStmt>
+            <publisher key="https://d-nb.info/gnd/1001454-8">Österreichische Akademie der Wissenschaften</publisher>
+            <date when="2028"/>
+            <availability status="free">
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">Lizenziert unter CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/deed.de)</licence>
+            </availability>
+        </publicationStmt>
+         <sourceDesc>
+            <p>Register der im Projekt erwähnten Personen</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="index_persons">
+            <listPerson xml:id="listperson">
+            {% for x in objects %}
+               <person xml:id="{{ x.lb_id }}">
+                  <persName type="name">{{ x.name }}</persName>
+                  {% for y in x.titel %}
+                  <persName type="title">
+                     <roleName>{{ y.value }}</roleName>
+                  </persName>
+                  {% endfor %}
+                  {% if x.funktionsbezeichnungen%}
+                  <persName type="function">
+                     <roleName>{{ x.funktionsbezeichnungen }}</roleName>
+                  </persName>
+                  {% endif %}
+                  {% if x.year_of_birth is string %}
+                  <birth>
+                     <date notBefore="{% if x.year_of_birth|length == 3 %}0{% endif %}{{ x.year_of_birth }}-01-01" notAfter="{% if x.year_of_birth|length == 3 %}0{% endif %}{{ x.year_of_birth }}-12-31">{{ x.year_of_birth }}</date>
+                     {% if x.birth_place %}
+                     {% for p in x.birth_place %}
+                     <settlement key="emt_place_id_{{ p.id }}">
+                        <placeName>{{ p.value }}</placeName>
+                     </settlement>
+                     {% endfor %}
+                     {% endif %}
+                  </birth>
+                  {% endif %}
+                  {% if x.year_of_death is string %}
+                  <death>
+                     <date notBefore="{% if x.year_of_death|length == 3 %}0{% endif %}{{ x.year_of_death }}-01-01" notAfter="{% if x.year_of_death|length == 3 %}0{% endif %}{{ x.year_of_death }}-12-31">{{ x.year_of_death }}</date>
+                     {% if x.death_place %}
+                     {% for p in x.death_place %}
+                     <settlement key="emt_place_id_{{ p.id }}">
+                        <placeName>{{ p.value }}</placeName>
+                     </settlement>
+                     {% endfor %}
+                     {% endif %}
+                  </death>
+                  {% endif %}
+                  {% if x.gnd_url|length > 0 %}
+                  <idno type="GND">{{ x.gnd_url }}</idno>
+                  {% endif %}
+                  {% if x.ndb|length > 0 %}
+                  <idno type="NDB">{{ x.ndb }}</idno>
+                  {% endif %}
+                  {% if x.wikidata_url|length > 0 %}
+                  <idno type="WIKIDATA">{{ x.wikidata_url }}</idno>
+                  {% endif %}
+                  {% if x.other_url|length > 0 %}
+                  <idno type="URL">{{ x.other_url }}</idno>
+                  {% endif %}
+                  {% if x.img_source %}
+                  <figure>
+                     <graphic url="{{ x.lb_id }}.jpg"/>
+                     <caption>{{ x.img_name }}</caption>
+                  </figure>
+                  {% endif %}
+               </person>
+            {% endfor %}
+            </listPerson>
+         </div>
+      </body>
+   </text>
+</TEI>

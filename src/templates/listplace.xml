@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ortsregister</title>
+            <title type="sub">Korrespondenz von Kaiser Leopold I</title>
+            <editor key="https://d-nb.info/gnd/132150654">
+                <forename>Petr</forename>
+                <surname>Maťa</surname>
+            </editor>
+        </titleStmt>
+        <publicationStmt>
+            <publisher key="https://d-nb.info/gnd/1001454-8">Österreichische Akademie der Wissenschaften</publisher>
+            <date when="2028"/>
+            <availability status="free">
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">Lizenziert unter CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/deed.de)</licence>
+            </availability>
+        </publicationStmt>
+         <sourceDesc>
+            <p>Register der im Projekt erwähnten Orte</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="index_places">
+            <listPlace xml:id="listplace">
+            {% for x in objects %}
+               <place xml:id="{{ x.lb_id }}">
+                  <placeName>{{ x.name }}</placeName>
+                  {% if x.lat %}
+                  <location type="coords">
+                     <geo>{{ x.lat }} {{ x.long }}</geo>
+                  </location>
+                  {% endif %}
+                  {% if x.geonames|length > 0 %}
+                  <idno type="GEONAMES">{{ x.geonames }}</idno>
+                  {% endif %}
+                  {% if x.gnd_url|length > 0 %}
+                  <idno type="GND">{{ x.gnd_url }}</idno>
+                  {% endif %}
+                  {% if x.wikidata|length > 0 %}
+                  <idno type="WIKIDATA">{{ x.wikidata }}</idno>
+                  {% endif %}
+               </place>
+            {% endfor %}
+            </listPlace>
+         </div>
+      </body>
+   </text>
+</TEI>
