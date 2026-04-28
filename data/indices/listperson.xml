@@ -39,11 +39,11 @@
                   <death>
                      <date>1705-05-05</date>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/118571869</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/118571869</idno>
                </person>
                <person xml:id="lb-person-2">
                   <persName type="name">Eleonora Magdalena Theresia, geb. Pfalz-Neuburg</persName>
-                  <idno type="GND">https://d-nb.info/gnd/101026641</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/101026641</idno>
                </person>
                <person xml:id="lb-person-3">
                   <persName type="name">Lamberg, Johann Maximilian von</persName>
@@ -54,7 +54,7 @@
                         <idno type="geonames">https://www.geonames.org/3078610/</idno>
                      </settlement>
                   </birth>
-                  <idno type="GND">https://d-nb.info/gnd/118823795</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/118823795</idno>
                </person>
                <person xml:id="lb-person-4">
                   <persName type="name">Kinsky, Franz Ulrich</persName>
@@ -65,7 +65,7 @@
                         <idno type="geonames">https://www.geonames.org/2761369/</idno>
                      </settlement>
                   </birth>
-                  <idno type="GND">https://d-nb.info/gnd/123530822</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/123530822</idno>
                </person>
             </listPerson>
          </div>
