@@ -28,19 +28,19 @@
             {% for x in objects %}
                <place xml:id="{{ x.lb_id }}">
                   <placeName>{{ x.label }}</placeName>
-                  {% if x.lat %}
+                  {% if x.latitude %}
                   <location type="coords">
-                     <geo>{{ x.lat }} {{ x.long }}</geo>
+                     <geo>{{ x.latitude }} {{ x.longitude }}</geo>
                   </location>
                   {% endif %}
-                  {% if x.geonames|length > 0 %}
-                  <idno type="GEONAMES">{{ x.geonames }}</idno>
+                  {% if x.geonames_url|length > 0 %}
+                  <idno type="geonames">{{ x.geonames_url }}</idno>
                   {% endif %}
                   {% if x.gnd_url|length > 0 %}
-                  <idno type="GND">{{ x.gnd_url }}</idno>
+                  <idno type="gnd">{{ x.gnd_url }}</idno>
                   {% endif %}
                   {% if x.wikidata|length > 0 %}
-                  <idno type="WIKIDATA">{{ x.wikidata }}</idno>
+                  <idno type="wikidata">{{ x.wikidata }}</idno>
                   {% endif %}
                </place>
             {% endfor %}

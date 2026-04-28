@@ -60,22 +60,16 @@
                   </death>
                   {% endif %}
                   {% if x.gnd_url|length > 0 %}
-                  <idno type="GND">{{ x.gnd_url }}</idno>
+                  <idno type="gnd">{{ x.gnd_url }}</idno>
                   {% endif %}
                   {% if x.ndb|length > 0 %}
-                  <idno type="NDB">{{ x.ndb }}</idno>
+                  <idno type="ndb">{{ x.ndb }}</idno>
                   {% endif %}
                   {% if x.wikidata_url|length > 0 %}
-                  <idno type="WIKIDATA">{{ x.wikidata_url }}</idno>
+                  <idno type="wikidata">{{ x.wikidata_url }}</idno>
                   {% endif %}
                   {% if x.other_url|length > 0 %}
-                  <idno type="URL">{{ x.other_url }}</idno>
-                  {% endif %}
-                  {% if x.img_source %}
-                  <figure>
-                     <graphic url="{{ x.lb_id }}.jpg"/>
-                     <caption>{{ x.img_name }}</caption>
-                  </figure>
+                  <idno type="url">{{ x.other_url }}</idno>
                   {% endif %}
                </person>
             {% endfor %}

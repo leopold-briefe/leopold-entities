@@ -28,12 +28,24 @@
             <listPlace xml:id="listplace">
                <place xml:id="lp-place-1">
                   <placeName>Wien, Stadt</placeName>
+                  <location type="coords">
+                     <geo>48.20849 16.37208</geo>
+                  </location>
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
                </place>
                <place xml:id="lp-place-2">
                   <placeName>Linz</placeName>
+                  <location type="coords">
+                     <geo>48.30639 14.28611</geo>
+                  </location>
+                  <idno type="geonames">https://www.geonames.org/2772400/</idno>
                </place>
                <place xml:id="lp-place-3">
                   <placeName>Brno</placeName>
+                  <location type="coords">
+                     <geo>49.19522 16.60796</geo>
+                  </location>
+                  <idno type="geonames">https://www.geonames.org/3078610/</idno>
                </place>
             </listPlace>
          </div>
