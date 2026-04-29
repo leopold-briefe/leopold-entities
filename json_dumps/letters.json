@@ -45,12 +45,12 @@
     "concept_for": [],
     "status_metadaten": {
       "id": 23023,
-      "value": "Metadaten angelegt",
+      "value": "angelegt",
       "color": "darker-red"
     },
     "status_transkription": {
       "id": 23029,
-      "value": "Transkription angelegt",
+      "value": "angelegt",
       "color": "darker-cyan"
     }
   },
@@ -100,12 +100,12 @@
     "concept_for": [],
     "status_metadaten": {
       "id": 23023,
-      "value": "Metadaten angelegt",
+      "value": "angelegt",
       "color": "darker-red"
     },
     "status_transkription": {
       "id": 23029,
-      "value": "Transkription angelegt",
+      "value": "angelegt",
       "color": "darker-cyan"
     }
   },
@@ -155,12 +155,12 @@
     "concept_for": [],
     "status_metadaten": {
       "id": 23024,
-      "value": "Metadaten überprüft",
+      "value": "überprüft",
       "color": "darker-yellow"
     },
     "status_transkription": {
       "id": 23031,
-      "value": "Transkription nicht vorhanden",
+      "value": "nicht vorhanden",
       "color": "darker-red"
     }
   },
@@ -210,12 +210,12 @@
     "concept_for": [],
     "status_metadaten": {
       "id": 23023,
-      "value": "Metadaten angelegt",
+      "value": "angelegt",
       "color": "darker-red"
     },
     "status_transkription": {
       "id": 23031,
-      "value": "Transkription nicht vorhanden",
+      "value": "nicht vorhanden",
       "color": "darker-red"
     }
   }
