@@ -42,7 +42,17 @@
     },
     "daily_order": "1",
     "copy_of": [],
-    "concept_for": []
+    "concept_for": [],
+    "status_metadaten": {
+      "id": 23023,
+      "value": "Metadaten angelegt",
+      "color": "darker-red"
+    },
+    "status_transkription": {
+      "id": 23029,
+      "value": "Transkription angelegt",
+      "color": "darker-cyan"
+    }
   },
   "2": {
     "id": 2,
@@ -87,7 +97,17 @@
     },
     "daily_order": "1",
     "copy_of": [],
-    "concept_for": []
+    "concept_for": [],
+    "status_metadaten": {
+      "id": 23023,
+      "value": "Metadaten angelegt",
+      "color": "darker-red"
+    },
+    "status_transkription": {
+      "id": 23029,
+      "value": "Transkription angelegt",
+      "color": "darker-cyan"
+    }
   },
   "3": {
     "id": 3,
@@ -132,7 +152,17 @@
     },
     "daily_order": "1",
     "copy_of": [],
-    "concept_for": []
+    "concept_for": [],
+    "status_metadaten": {
+      "id": 23024,
+      "value": "Metadaten überprüft",
+      "color": "darker-yellow"
+    },
+    "status_transkription": {
+      "id": 23031,
+      "value": "Transkription nicht vorhanden",
+      "color": "darker-red"
+    }
   },
   "4": {
     "id": 4,
@@ -177,6 +207,16 @@
     },
     "daily_order": "1",
     "copy_of": [],
-    "concept_for": []
+    "concept_for": [],
+    "status_metadaten": {
+      "id": 23023,
+      "value": "Metadaten angelegt",
+      "color": "darker-red"
+    },
+    "status_transkription": {
+      "id": 23031,
+      "value": "Transkription nicht vorhanden",
+      "color": "darker-red"
+    }
   }
 }
