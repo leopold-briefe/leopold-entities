@@ -218,5 +218,48 @@
       "value": "nicht vorhanden",
       "color": "darker-red"
     }
+  },
+  "37": {
+    "id": 37,
+    "order": "10.00000000000000000000",
+    "lb_id": "lb-00037",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [],
+    "not_before": "1668-01-28",
+    "not_after": "1668-01-28",
+    "written_date": "28. Jan. 1668",
+    "date_note": "",
+    "archiv": [],
+    "collection": "",
+    "signatur": "",
+    "kind": {
+      "id": 23015,
+      "value": "Original",
+      "color": "red"
+    },
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "status_metadaten": {
+      "id": 23023,
+      "value": "angelegt",
+      "color": "darker-red"
+    },
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    }
   }
 }

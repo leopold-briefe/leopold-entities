@@ -72,5 +72,16 @@
     "date_of_birth": null,
     "place_of_death": [],
     "date_of_death": null
+  },
+  "37": {
+    "id": 37,
+    "order": "5.00000000000000000000",
+    "label": "",
+    "lb_id": "lb-person-37",
+    "gnd_url": "",
+    "place_of_birth": [],
+    "date_of_birth": null,
+    "place_of_death": [],
+    "date_of_death": null
   }
 }

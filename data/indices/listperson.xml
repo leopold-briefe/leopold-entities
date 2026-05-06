@@ -67,6 +67,9 @@
                   </birth>
                   <idno type="gnd">https://d-nb.info/gnd/123530822</idno>
                </person>
+               <person xml:id="lb-person-37" n="">
+                  <persName type="name"/>
+               </person>
             </listPerson>
          </div>
       </body>
