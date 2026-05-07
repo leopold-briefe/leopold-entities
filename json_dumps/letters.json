@@ -30,11 +30,13 @@
     ],
     "collection": "HA Steyr",
     "signatur": "Sch. 1228, Fasz. 17, Nr. 269/1",
-    "kind": {
-      "id": 23015,
-      "value": "Original",
-      "color": "red"
-    },
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "red"
+      }
+    ],
     "main_language": {
       "id": 23018,
       "value": "deu",
@@ -52,7 +54,13 @@
       "id": 23029,
       "value": "angelegt",
       "color": "darker-cyan"
-    }
+    },
+    "place_of_writing": [],
+    "placename_written": null,
+    "destination": [],
+    "hand": [],
+    "mentioned_as": [],
+    "edition": []
   },
   "2": {
     "id": 2,
@@ -85,11 +93,13 @@
     ],
     "collection": "Große Korrespondenz",
     "signatur": "K. 63.2, M. '1683-1691', fol. 201r.",
-    "kind": {
-      "id": 23015,
-      "value": "Original",
-      "color": "red"
-    },
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "red"
+      }
+    ],
     "main_language": {
       "id": 23018,
       "value": "deu",
@@ -107,7 +117,13 @@
       "id": 23029,
       "value": "angelegt",
       "color": "darker-cyan"
-    }
+    },
+    "place_of_writing": [],
+    "placename_written": null,
+    "destination": [],
+    "hand": [],
+    "mentioned_as": [],
+    "edition": []
   },
   "3": {
     "id": 3,
@@ -140,11 +156,13 @@
     ],
     "collection": "Große Korrespondenz",
     "signatur": "K. 63.2, M. '1683-1691', fol. 205r.",
-    "kind": {
-      "id": 23016,
-      "value": "Abschrift",
-      "color": "darker-red"
-    },
+    "kind": [
+      {
+        "id": 23016,
+        "value": "Abschrift",
+        "color": "darker-red"
+      }
+    ],
     "main_language": {
       "id": 23018,
       "value": "deu",
@@ -162,7 +180,13 @@
       "id": 23031,
       "value": "nicht vorhanden",
       "color": "darker-red"
-    }
+    },
+    "place_of_writing": [],
+    "placename_written": null,
+    "destination": [],
+    "hand": [],
+    "mentioned_as": [],
+    "edition": []
   },
   "4": {
     "id": 4,
@@ -195,11 +219,13 @@
     ],
     "collection": "StAbt",
     "signatur": "Türkei I, K. 165, Konv. 'April 1698', fol. 66r.",
-    "kind": {
-      "id": 23015,
-      "value": "Original",
-      "color": "red"
-    },
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "red"
+      }
+    ],
     "main_language": {
       "id": 23018,
       "value": "deu",
@@ -217,12 +243,18 @@
       "id": 23031,
       "value": "nicht vorhanden",
       "color": "darker-red"
-    }
+    },
+    "place_of_writing": [],
+    "placename_written": null,
+    "destination": [],
+    "hand": [],
+    "mentioned_as": [],
+    "edition": []
   },
-  "37": {
-    "id": 37,
-    "order": "10.00000000000000000000",
-    "lb_id": "lb-00037",
+  "40": {
+    "id": 40,
+    "order": "15.00000000000000000000",
+    "lb_id": "lb-00040",
     "sender": [
       {
         "id": 1,
@@ -230,19 +262,234 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "receiver": [],
+    "receiver": [
+      {
+        "id": 38,
+        "value": "Sternberg, Adolf Wratislaw",
+        "order": "6.00000000000000000000"
+      }
+    ],
     "not_before": "1668-01-28",
     "not_after": "1668-01-28",
-    "written_date": "28. Jan. 1668",
-    "date_note": "",
-    "archiv": [],
-    "collection": "",
-    "signatur": "",
-    "kind": {
-      "id": 23015,
-      "value": "Original",
-      "color": "red"
+    "written_date": "28. Jänner 1668",
+    "date_note": "den 28. Jan. 1668",
+    "archiv": [
+      {
+        "id": 36,
+        "value": "ANM",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "collection": "Šternberk-Manderscheid",
+    "signatur": "K. 197",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "red"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
     },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "status_metadaten": {
+      "id": 23023,
+      "value": "angelegt",
+      "color": "darker-red"
+    },
+    "status_transkription": {
+      "id": 23030,
+      "value": "finalisiert",
+      "color": "darker-green"
+    },
+    "place_of_writing": [],
+    "placename_written": null,
+    "destination": [],
+    "hand": [],
+    "mentioned_as": [],
+    "edition": []
+  },
+  "41": {
+    "id": 41,
+    "order": "22.00000000000000000000",
+    "lb_id": "lb-00041",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 38,
+        "value": "Sternberg, Adolf Wratislaw",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "not_before": "1668-01-28",
+    "not_after": "1668-01-28",
+    "written_date": "28. Jänner 1668",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 36,
+        "value": "ANM",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "collection": "Šternberk-Manderscheid",
+    "signatur": "K. 197",
+    "kind": [
+      {
+        "id": 23016,
+        "value": "Abschrift",
+        "color": "darker-red"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [
+      {
+        "id": 40,
+        "value": "lb-00040",
+        "order": "15.00000000000000000000"
+      }
+    ],
+    "concept_for": [],
+    "status_metadaten": {
+      "id": 23023,
+      "value": "angelegt",
+      "color": "darker-red"
+    },
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [],
+    "placename_written": null,
+    "destination": [],
+    "hand": [],
+    "mentioned_as": [],
+    "edition": []
+  },
+  "45": {
+    "id": 45,
+    "order": "23.00000000000000000000",
+    "lb_id": "lb-00045",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 38,
+        "value": "Sternberg, Adolf Wratislaw",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "not_before": "1668-01-28",
+    "not_after": "1668-01-28",
+    "written_date": "28. Jänner 1668",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 36,
+        "value": "ANM",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "collection": "Šternberk-Manderscheid",
+    "signatur": "K. 197",
+    "kind": [
+      {
+        "id": 23016,
+        "value": "Abschrift",
+        "color": "darker-red"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [
+      {
+        "id": 40,
+        "value": "lb-00040",
+        "order": "15.00000000000000000000"
+      }
+    ],
+    "concept_for": [],
+    "status_metadaten": {
+      "id": 23023,
+      "value": "angelegt",
+      "color": "darker-red"
+    },
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [],
+    "placename_written": null,
+    "destination": [],
+    "hand": [],
+    "mentioned_as": [],
+    "edition": []
+  },
+  "46": {
+    "id": 46,
+    "order": "24.00000000000000000000",
+    "lb_id": "lb-00046",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 38,
+        "value": "Sternberg, Adolf Wratislaw",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "not_before": "1672-06-20",
+    "not_after": "1672-06-20",
+    "written_date": "20. Juni 1672",
+    "date_note": "den 20. Junij 1672",
+    "archiv": [
+      {
+        "id": 36,
+        "value": "ANM",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "collection": "Šternberk-Manderscheid",
+    "signatur": "K. 197",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "red"
+      }
+    ],
     "main_language": {
       "id": 23018,
       "value": "deu",
@@ -260,6 +507,18 @@
       "id": 23031,
       "value": "nicht vorhanden",
       "color": "darker-red"
-    }
+    },
+    "place_of_writing": [
+      {
+        "id": 1,
+        "value": "Wien, Stadt",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "placename_written": "Wienn",
+    "destination": [],
+    "hand": [],
+    "mentioned_as": [],
+    "edition": []
   }
 }

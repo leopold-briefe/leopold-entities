@@ -70,5 +70,15 @@
         "longitude": "16.37208"
       }
     ]
+  },
+  "36": {
+    "id": 36,
+    "order": "4.00000000000000000000",
+    "abbr": "ANM",
+    "label": "",
+    "lb_id": "lp-org-36",
+    "kind": null,
+    "gnd_url": "",
+    "located_in": []
   }
 }

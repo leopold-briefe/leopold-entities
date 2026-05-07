@@ -70,6 +70,9 @@
                <person xml:id="lb-person-37" n="">
                   <persName type="name"/>
                </person>
+               <person xml:id="lb-person-38" n="Sternberg, Adolf Wratislaw">
+                  <persName type="name">Sternberg, Adolf Wratislaw</persName>
+               </person>
             </listPerson>
          </div>
       </body>
