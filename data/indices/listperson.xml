@@ -67,11 +67,14 @@
                   </birth>
                   <idno type="gnd">https://d-nb.info/gnd/123530822</idno>
                </person>
-               <person xml:id="lb-person-37" n="">
-                  <persName type="name"/>
-               </person>
                <person xml:id="lb-person-38" n="Sternberg, Adolf Wratislaw">
                   <persName type="name">Sternberg, Adolf Wratislaw</persName>
+               </person>
+               <person xml:id="lb-person-39" n="Palacký, František">
+                  <persName type="name">Palacký, František</persName>
+               </person>
+               <person xml:id="lb-person-40" n="Pötting, Franz Eusebius">
+                  <persName type="name">Pötting, Franz Eusebius</persName>
                </person>
             </listPerson>
          </div>

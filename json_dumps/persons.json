@@ -73,22 +73,33 @@
     "place_of_death": [],
     "date_of_death": null
   },
-  "37": {
-    "id": 37,
-    "order": "5.00000000000000000000",
-    "label": "",
-    "lb_id": "lb-person-37",
+  "38": {
+    "id": 38,
+    "order": "6.00000000000000000000",
+    "label": "Sternberg, Adolf Wratislaw",
+    "lb_id": "lb-person-38",
     "gnd_url": "",
     "place_of_birth": [],
     "date_of_birth": null,
     "place_of_death": [],
     "date_of_death": null
   },
-  "38": {
-    "id": 38,
-    "order": "6.00000000000000000000",
-    "label": "Sternberg, Adolf Wratislaw",
-    "lb_id": "lb-person-38",
+  "39": {
+    "id": 39,
+    "order": "7.00000000000000000000",
+    "label": "Palacký, František",
+    "lb_id": "lb-person-39",
+    "gnd_url": "",
+    "place_of_birth": [],
+    "date_of_birth": null,
+    "place_of_death": [],
+    "date_of_death": null
+  },
+  "40": {
+    "id": 40,
+    "order": "8.00000000000000000000",
+    "label": "Pötting, Franz Eusebius",
+    "lb_id": "lb-person-40",
     "gnd_url": "",
     "place_of_birth": [],
     "date_of_birth": null,
