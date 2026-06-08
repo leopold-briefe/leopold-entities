@@ -47,6 +47,27 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/3078610/</idno>
                </place>
+               <place xml:id="lp-place-36">
+                  <placeName>München</placeName>
+               </place>
+               <place xml:id="lp-place-37">
+                  <placeName>Mantova</placeName>
+               </place>
+               <place xml:id="lp-place-38">
+                  <placeName>Bayern</placeName>
+               </place>
+               <place xml:id="lp-place-39">
+                  <placeName>Spanien</placeName>
+               </place>
+               <place xml:id="lp-place-40">
+                  <placeName>Polen</placeName>
+               </place>
+               <place xml:id="lp-place-41">
+                  <placeName>Frankreich</placeName>
+               </place>
+               <place xml:id="lp-place-42">
+                  <placeName/>
+               </place>
             </listPlace>
          </div>
       </body>
