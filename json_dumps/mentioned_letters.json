@@ -11,15 +11,9 @@
       }
     ],
     "addressee": [],
-    "not after": "1657-01-01",
-    "mentioned in": [
-      {
-        "id": 1,
-        "value": "1657-01-01",
-        "order": "1.00000000000000000000"
-      }
-    ],
-    "messenger": []
+    "not after": null,
+    "messenger": [],
+    "lb_id": "lb-ml-1"
   },
   "2": {
     "id": 2,
@@ -33,15 +27,9 @@
       }
     ],
     "addressee": [],
-    "not after": "1657-01-03",
-    "mentioned in": [
-      {
-        "id": 2,
-        "value": "1657-01-03",
-        "order": "2.00000000000000000000"
-      }
-    ],
-    "messenger": []
+    "not after": null,
+    "messenger": [],
+    "lb_id": "lb-ml-2"
   },
   "3": {
     "id": 3,
@@ -55,15 +43,9 @@
       }
     ],
     "addressee": [],
-    "not after": "1657-01-03",
-    "mentioned in": [
-      {
-        "id": 2,
-        "value": "1657-01-03",
-        "order": "2.00000000000000000000"
-      }
-    ],
-    "messenger": []
+    "not after": null,
+    "messenger": [],
+    "lb_id": "lb-ml-3"
   },
   "4": {
     "id": 4,
@@ -77,15 +59,9 @@
       }
     ],
     "addressee": [],
-    "not after": "1657-01-03",
-    "mentioned in": [
-      {
-        "id": 2,
-        "value": "1657-01-03",
-        "order": "2.00000000000000000000"
-      }
-    ],
-    "messenger": []
+    "not after": null,
+    "messenger": [],
+    "lb_id": "lb-ml-4"
   },
   "5": {
     "id": 5,
@@ -99,9 +75,9 @@
       }
     ],
     "addressee": [],
-    "not after": "1657-01-10",
-    "mentioned in": [],
-    "messenger": []
+    "not after": null,
+    "messenger": [],
+    "lb_id": "lb-ml-5"
   },
   "6": {
     "id": 6,
@@ -115,9 +91,9 @@
       }
     ],
     "addressee": [],
-    "not after": "1657-01-17",
-    "mentioned in": [],
-    "messenger": []
+    "not after": null,
+    "messenger": [],
+    "lb_id": "lb-ml-6"
   },
   "7": {
     "id": 7,
@@ -131,9 +107,9 @@
       }
     ],
     "addressee": [],
-    "not after": "1657-01-17",
-    "mentioned in": [],
-    "messenger": []
+    "not after": null,
+    "messenger": [],
+    "lb_id": "lb-ml-7"
   },
   "8": {
     "id": 8,
@@ -147,9 +123,9 @@
       }
     ],
     "addressee": [],
-    "not after": "1657-01-17",
-    "mentioned in": [],
-    "messenger": []
+    "not after": null,
+    "messenger": [],
+    "lb_id": "lb-ml-8"
   },
   "9": {
     "id": 9,
@@ -163,9 +139,9 @@
       }
     ],
     "addressee": [],
-    "not after": "1657-01-20",
-    "mentioned in": [],
-    "messenger": []
+    "not after": null,
+    "messenger": [],
+    "lb_id": "lb-ml-9"
   },
   "10": {
     "id": 10,
@@ -179,9 +155,9 @@
       }
     ],
     "addressee": [],
-    "not after": "1657-01-31",
-    "mentioned in": [],
-    "messenger": []
+    "not after": null,
+    "messenger": [],
+    "lb_id": "lb-ml-10"
   },
   "11": {
     "id": 11,
@@ -195,9 +171,9 @@
       }
     ],
     "addressee": [],
-    "not after": "1657-02-07",
-    "mentioned in": [],
-    "messenger": []
+    "not after": null,
+    "messenger": [],
+    "lb_id": "lb-ml-11"
   },
   "12": {
     "id": 12,
@@ -211,9 +187,9 @@
       }
     ],
     "addressee": [],
-    "not after": "1657-02-07",
-    "mentioned in": [],
-    "messenger": []
+    "not after": null,
+    "messenger": [],
+    "lb_id": "lb-ml-12"
   },
   "13": {
     "id": 13,
@@ -227,9 +203,9 @@
       }
     ],
     "addressee": [],
-    "not after": "1657-02-07",
-    "mentioned in": [],
-    "messenger": []
+    "not after": null,
+    "messenger": [],
+    "lb_id": "lb-ml-13"
   },
   "14": {
     "id": 14,
@@ -243,9 +219,9 @@
       }
     ],
     "addressee": [],
-    "not after": "1657-02-14",
-    "mentioned in": [],
-    "messenger": []
+    "not after": null,
+    "messenger": [],
+    "lb_id": "lb-ml-14"
   },
   "15": {
     "id": 15,
@@ -259,9 +235,9 @@
       }
     ],
     "addressee": [],
-    "not after": "1657-02-14",
-    "mentioned in": [],
-    "messenger": []
+    "not after": null,
+    "messenger": [],
+    "lb_id": "lb-ml-15"
   },
   "16": {
     "id": 16,
@@ -275,9 +251,9 @@
       }
     ],
     "addressee": [],
-    "not after": "1657-02-14",
-    "mentioned in": [],
-    "messenger": []
+    "not after": null,
+    "messenger": [],
+    "lb_id": "lb-ml-16"
   },
   "17": {
     "id": 17,
@@ -291,9 +267,9 @@
       }
     ],
     "addressee": [],
-    "not after": "1657-02-21",
-    "mentioned in": [],
-    "messenger": []
+    "not after": null,
+    "messenger": [],
+    "lb_id": "lb-ml-17"
   },
   "18": {
     "id": 18,
@@ -307,9 +283,9 @@
       }
     ],
     "addressee": [],
-    "not after": "1657-02-28",
-    "mentioned in": [],
-    "messenger": []
+    "not after": null,
+    "messenger": [],
+    "lb_id": "lb-ml-18"
   },
   "19": {
     "id": 19,
@@ -323,9 +299,9 @@
       }
     ],
     "addressee": [],
-    "not after": "1657-02-28",
-    "mentioned in": [],
-    "messenger": []
+    "not after": null,
+    "messenger": [],
+    "lb_id": "lb-ml-19"
   },
   "20": {
     "id": 20,
@@ -339,9 +315,9 @@
       }
     ],
     "addressee": [],
-    "not after": "1657-03-07",
-    "mentioned in": [],
-    "messenger": []
+    "not after": null,
+    "messenger": [],
+    "lb_id": "lb-ml-20"
   },
   "49": {
     "id": 49,
@@ -355,9 +331,9 @@
       }
     ],
     "addressee": [],
-    "not after": "1657-03-14",
-    "mentioned in": [],
-    "messenger": []
+    "not after": null,
+    "messenger": [],
+    "lb_id": "lb-ml-49"
   },
   "50": {
     "id": 50,
@@ -371,9 +347,9 @@
       }
     ],
     "addressee": [],
-    "not after": "1657-03-21",
-    "mentioned in": [],
-    "messenger": []
+    "not after": null,
+    "messenger": [],
+    "lb_id": "lb-ml-50"
   },
   "51": {
     "id": 51,
@@ -387,9 +363,9 @@
       }
     ],
     "addressee": [],
-    "not after": "1657-03-28",
-    "mentioned in": [],
-    "messenger": []
+    "not after": null,
+    "messenger": [],
+    "lb_id": "lb-ml-51"
   },
   "52": {
     "id": 52,
@@ -403,9 +379,9 @@
       }
     ],
     "addressee": [],
-    "not after": "1657-03-28",
-    "mentioned in": [],
-    "messenger": []
+    "not after": null,
+    "messenger": [],
+    "lb_id": "lb-ml-52"
   },
   "53": {
     "id": 53,
@@ -419,9 +395,9 @@
       }
     ],
     "addressee": [],
-    "not after": "1657-04-06",
-    "mentioned in": [],
-    "messenger": []
+    "not after": null,
+    "messenger": [],
+    "lb_id": "lb-ml-53"
   },
   "54": {
     "id": 54,
@@ -435,9 +411,9 @@
       }
     ],
     "addressee": [],
-    "not after": "1657-04-06",
-    "mentioned in": [],
-    "messenger": []
+    "not after": null,
+    "messenger": [],
+    "lb_id": "lb-ml-54"
   },
   "55": {
     "id": 55,
@@ -451,9 +427,9 @@
       }
     ],
     "addressee": [],
-    "not after": "1657-04-07",
-    "mentioned in": [],
-    "messenger": []
+    "not after": null,
+    "messenger": [],
+    "lb_id": "lb-ml-55"
   },
   "56": {
     "id": 56,
@@ -467,9 +443,9 @@
       }
     ],
     "addressee": [],
-    "not after": "1657-04-07",
-    "mentioned in": [],
-    "messenger": []
+    "not after": null,
+    "messenger": [],
+    "lb_id": "lb-ml-56"
   },
   "57": {
     "id": 57,
@@ -483,9 +459,9 @@
       }
     ],
     "addressee": [],
-    "not after": "1657-04-18",
-    "mentioned in": [],
-    "messenger": []
+    "not after": null,
+    "messenger": [],
+    "lb_id": "lb-ml-57"
   },
   "58": {
     "id": 58,
@@ -499,9 +475,9 @@
       }
     ],
     "addressee": [],
-    "not after": "1657-04-18",
-    "mentioned in": [],
-    "messenger": []
+    "not after": null,
+    "messenger": [],
+    "lb_id": "lb-ml-58"
   },
   "59": {
     "id": 59,
@@ -515,9 +491,9 @@
       }
     ],
     "addressee": [],
-    "not after": "1657-04-25",
-    "mentioned in": [],
-    "messenger": []
+    "not after": null,
+    "messenger": [],
+    "lb_id": "lb-ml-59"
   },
   "60": {
     "id": 60,
@@ -531,9 +507,9 @@
       }
     ],
     "addressee": [],
-    "not after": "1657-04-25",
-    "mentioned in": [],
-    "messenger": []
+    "not after": null,
+    "messenger": [],
+    "lb_id": "lb-ml-60"
   },
   "61": {
     "id": 61,
@@ -542,7 +518,7 @@
     "destination": [],
     "addressee": [],
     "not after": null,
-    "mentioned in": [],
-    "messenger": []
+    "messenger": [],
+    "lb_id": "lb-ml-61"
   }
 }
