@@ -69,12 +69,18 @@
                </person>
                <person xml:id="lb-person-38" n="Sternberg, Adolf Wratislaw">
                   <persName type="name">Sternberg, Adolf Wratislaw</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/136018599</idno>
                </person>
                <person xml:id="lb-person-39" n="Palacký, František">
                   <persName type="name">Palacký, František</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118789260</idno>
                </person>
                <person xml:id="lb-person-40" n="Pötting, Franz Eusebius">
                   <persName type="name">Pötting, Franz Eusebius</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/119324636</idno>
+               </person>
+               <person xml:id="lb-person-73" n="">
+                  <persName type="name"/>
                </person>
             </listPerson>
          </div>

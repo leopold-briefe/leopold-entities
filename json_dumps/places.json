@@ -7,7 +7,8 @@
     "geonames_url": "https://sws.geonames.org/2761369/",
     "latitude": "48.20849",
     "longitude": "16.37208",
-    "mentioned_letters": []
+    "mentioned_letters": [],
+    "gnd_url": ""
   },
   "2": {
     "id": 2,
@@ -17,7 +18,8 @@
     "geonames_url": "https://sws.geonames.org/2772400/",
     "latitude": "48.30639",
     "longitude": "14.28611",
-    "mentioned_letters": []
+    "mentioned_letters": [],
+    "gnd_url": ""
   },
   "3": {
     "id": 3,
@@ -27,7 +29,8 @@
     "geonames_url": "https://www.geonames.org/3078610/brno.html",
     "latitude": "49.19522",
     "longitude": "16.60796",
-    "mentioned_letters": []
+    "mentioned_letters": [],
+    "gnd_url": ""
   },
   "36": {
     "id": 36,
@@ -37,7 +40,8 @@
     "geonames_url": "",
     "latitude": null,
     "longitude": null,
-    "mentioned_letters": []
+    "mentioned_letters": [],
+    "gnd_url": ""
   },
   "37": {
     "id": 37,
@@ -63,7 +67,8 @@
         "value": "1657-04-06",
         "order": "26.00000000000000000000"
       }
-    ]
+    ],
+    "gnd_url": ""
   },
   "38": {
     "id": 38,
@@ -154,7 +159,8 @@
         "value": "1657-04-25",
         "order": "31.00000000000000000000"
       }
-    ]
+    ],
+    "gnd_url": ""
   },
   "39": {
     "id": 39,
@@ -215,7 +221,8 @@
         "value": "1657-04-25",
         "order": "32.00000000000000000000"
       }
-    ]
+    ],
+    "gnd_url": ""
   },
   "40": {
     "id": 40,
@@ -231,7 +238,8 @@
         "value": "1657-04-06",
         "order": "25.00000000000000000000"
       }
-    ]
+    ],
+    "gnd_url": ""
   },
   "41": {
     "id": 41,
@@ -252,7 +260,8 @@
         "value": "1657-04-18",
         "order": "30.00000000000000000000"
       }
-    ]
+    ],
+    "gnd_url": ""
   },
   "42": {
     "id": 42,
@@ -262,6 +271,7 @@
     "geonames_url": "",
     "latitude": null,
     "longitude": null,
-    "mentioned_letters": []
+    "mentioned_letters": [],
+    "gnd_url": ""
   }
 }

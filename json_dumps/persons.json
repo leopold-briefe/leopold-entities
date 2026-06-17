@@ -14,14 +14,16 @@
         "geonames_url": "https://sws.geonames.org/2761369/",
         "latitude": "48.20849",
         "longitude": "16.37208",
-        "mentioned_letters": []
+        "mentioned_letters": [],
+        "gnd_url": ""
       }
     ],
     "date_of_birth": "1640-06-09",
     "place_of_death": [],
     "date_of_death": "1705-05-05",
     "mentioned_letters": [],
-    "mentioned_letters - messenger": []
+    "mentioned_letters - messenger": [],
+    "wikidata_url": ""
   },
   "2": {
     "id": 2,
@@ -34,7 +36,8 @@
     "place_of_death": [],
     "date_of_death": null,
     "mentioned_letters": [],
-    "mentioned_letters - messenger": []
+    "mentioned_letters - messenger": [],
+    "wikidata_url": ""
   },
   "3": {
     "id": 3,
@@ -51,14 +54,16 @@
         "geonames_url": "https://www.geonames.org/3078610/brno.html",
         "latitude": "49.19522",
         "longitude": "16.60796",
-        "mentioned_letters": []
+        "mentioned_letters": [],
+        "gnd_url": ""
       }
     ],
     "date_of_birth": null,
     "place_of_death": [],
     "date_of_death": null,
     "mentioned_letters": [],
-    "mentioned_letters - messenger": []
+    "mentioned_letters - messenger": [],
+    "wikidata_url": ""
   },
   "4": {
     "id": 4,
@@ -75,52 +80,71 @@
         "geonames_url": "https://sws.geonames.org/2761369/",
         "latitude": "48.20849",
         "longitude": "16.37208",
-        "mentioned_letters": []
+        "mentioned_letters": [],
+        "gnd_url": ""
       }
     ],
     "date_of_birth": null,
     "place_of_death": [],
     "date_of_death": null,
     "mentioned_letters": [],
-    "mentioned_letters - messenger": []
+    "mentioned_letters - messenger": [],
+    "wikidata_url": ""
   },
   "38": {
     "id": 38,
     "order": "6.00000000000000000000",
     "label": "Sternberg, Adolf Wratislaw",
     "lb_id": "lb-person-38",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/136018599",
     "place_of_birth": [],
     "date_of_birth": null,
     "place_of_death": [],
     "date_of_death": null,
     "mentioned_letters": [],
-    "mentioned_letters - messenger": []
+    "mentioned_letters - messenger": [],
+    "wikidata_url": ""
   },
   "39": {
     "id": 39,
     "order": "7.00000000000000000000",
     "label": "Palacký, František",
     "lb_id": "lb-person-39",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/118789260",
     "place_of_birth": [],
     "date_of_birth": null,
     "place_of_death": [],
     "date_of_death": null,
     "mentioned_letters": [],
-    "mentioned_letters - messenger": []
+    "mentioned_letters - messenger": [],
+    "wikidata_url": ""
   },
   "40": {
     "id": 40,
     "order": "8.00000000000000000000",
     "label": "Pötting, Franz Eusebius",
     "lb_id": "lb-person-40",
+    "gnd_url": "https://d-nb.info/gnd/119324636",
+    "place_of_birth": [],
+    "date_of_birth": null,
+    "place_of_death": [],
+    "date_of_death": null,
+    "mentioned_letters": [],
+    "mentioned_letters - messenger": [],
+    "wikidata_url": ""
+  },
+  "73": {
+    "id": 73,
+    "order": "9.00000000000000000000",
+    "label": "",
+    "lb_id": "lb-person-73",
     "gnd_url": "",
     "place_of_birth": [],
     "date_of_birth": null,
     "place_of_death": [],
     "date_of_death": null,
     "mentioned_letters": [],
-    "mentioned_letters - messenger": []
+    "mentioned_letters - messenger": [],
+    "wikidata_url": ""
   }
 }

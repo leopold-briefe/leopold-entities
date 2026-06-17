@@ -63,7 +63,8 @@
     "edition": [],
     "volume": null,
     "number": null,
-    "page": null
+    "page": null,
+    "regest": null
   },
   "41": {
     "id": 41,
@@ -135,7 +136,8 @@
     "edition": [],
     "volume": null,
     "number": null,
-    "page": null
+    "page": null,
+    "regest": null
   },
   "45": {
     "id": 45,
@@ -207,7 +209,8 @@
     "edition": [],
     "volume": null,
     "number": null,
-    "page": null
+    "page": null,
+    "regest": null
   },
   "46": {
     "id": 46,
@@ -279,7 +282,8 @@
     "edition": [],
     "volume": null,
     "number": null,
-    "page": null
+    "page": null,
+    "regest": null
   },
   "47": {
     "id": 47,
@@ -363,7 +367,8 @@
     "edition": [],
     "volume": null,
     "number": null,
-    "page": null
+    "page": null,
+    "regest": null
   },
   "48": {
     "id": 48,
@@ -435,7 +440,8 @@
     "edition": [],
     "volume": null,
     "number": null,
-    "page": null
+    "page": null,
+    "regest": null
   },
   "49": {
     "id": 49,
@@ -513,7 +519,8 @@
     "edition": [],
     "volume": null,
     "number": null,
-    "page": null
+    "page": null,
+    "regest": null
   },
   "50": {
     "id": 50,
@@ -591,7 +598,8 @@
     "edition": [],
     "volume": null,
     "number": null,
-    "page": null
+    "page": null,
+    "regest": null
   },
   "51": {
     "id": 51,
@@ -663,7 +671,8 @@
     "edition": [],
     "volume": null,
     "number": null,
-    "page": null
+    "page": null,
+    "regest": null
   },
   "52": {
     "id": 52,
@@ -741,7 +750,8 @@
     "edition": [],
     "volume": null,
     "number": null,
-    "page": null
+    "page": null,
+    "regest": null
   },
   "53": {
     "id": 53,
@@ -819,6 +829,7 @@
     "edition": [],
     "volume": null,
     "number": null,
-    "page": null
+    "page": null,
+    "regest": null
   }
 }
