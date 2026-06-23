@@ -73,7 +73,7 @@ for key, value in seed_data.items():
         )
 
 for _, value in seed_data.items():
-    value["mentioned_letters"] = d.get(value["lb_id"], [])
+    value["related_letters"] = d.get(value["lb_id"], [])
 
 with open(source_file, "w") as f:
     json.dump(seed_data, f, ensure_ascii=False, indent=2)
