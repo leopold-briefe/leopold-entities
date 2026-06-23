@@ -61,7 +61,11 @@ with open(seed_file, "r") as f:
 for key, value in seed_data.items():
     for y in value["copy_of"]:
         d[y["value"]].append(
-            {"id": value["lb_id"], "kind": value["kind"], "relation_type": "Kopie von"}
+            {
+                "id": value["lb_id"],
+                "kind": value["kind"],
+                "relation_type": "Kopie von",
+            }
         )
     for y in value["concept_for"]:
         d[y["value"]].append(

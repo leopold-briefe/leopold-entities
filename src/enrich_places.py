@@ -16,15 +16,17 @@ for x in br_client.yield_rows(place_table_id, filters=filters):
 for x in tqdm(items):
     update_object = {}
     update_url = f"{br_client.br_base_url}database/rows/table/{place_table_id}/{x['id']}/?user_field_names=true"
-   
+
     gn_object = gn_as_object(x["geonames_url"])
     update_object["latitude"] = gn_object.get("latitude")
     update_object["longitude"] = gn_object.get("longitude")
     try:
         if not update_object["latitude"] or not update_object["longitude"]:
-            print(f"Missing coordinates for {x['id']} ({x.get('geonames_url')}), skipping.")
+            print(
+                f"Missing coordinates for {x['id']} ({x.get('geonames_url')}), skipping."
+            )
             continue
-        
+
         r = requests.patch(
             update_url,
             headers={
