@@ -30,7 +30,7 @@
                   <persName type="name">Leopold I.</persName>
                   <birth>
                      <date>1640-06-09</date>
-                     <settlement key="lp-place-1">
+                     <settlement key="lb-place-1">
                         <placeName>Wien, Stadt</placeName>
                         <geo>48.20849 16.37208</geo>
                         <idno type="geonames">https://sws.geonames.org/2761369/</idno>
@@ -48,7 +48,7 @@
                <person xml:id="lb-person-3" n="Lamberg, Johann Maximilian von">
                   <persName type="name">Lamberg, Johann Maximilian von</persName>
                   <birth>
-                     <settlement key="lp-place-3">
+                     <settlement key="lb-place-3">
                         <placeName>Brno</placeName>
                         <geo>49.19522 16.60796</geo>
                         <idno type="geonames">https://sws.geonames.org/3078610/</idno>
@@ -59,7 +59,7 @@
                <person xml:id="lb-person-4" n="Kinsky, Franz Ulrich">
                   <persName type="name">Kinsky, Franz Ulrich</persName>
                   <birth>
-                     <settlement key="lp-place-1">
+                     <settlement key="lb-place-1">
                         <placeName>Wien, Stadt</placeName>
                         <geo>48.20849 16.37208</geo>
                         <idno type="geonames">https://sws.geonames.org/2761369/</idno>

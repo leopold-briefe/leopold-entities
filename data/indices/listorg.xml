@@ -26,31 +26,31 @@
       <body>
          <div type="index_orgs">
             <listOrg xml:id="listorg">
-               <org xml:id="lp-org-1">
+               <org xml:id="lb-org-1">
                   <orgName>Oberösterreichisches Landesarchiv</orgName>
                   <location>
-                     <placeName key="lp-place-2">Linz</placeName>
+                     <placeName key="lb-place-2">Linz</placeName>
                      <geo>48.30639 14.28611</geo>
                   </location>
                   <idno type="GND">https://d-nb.info/gnd/2020619-7</idno>
                </org>
-               <org xml:id="lp-org-2">
+               <org xml:id="lb-org-2">
                   <orgName>Österreichische Nationalbibliothek</orgName>
                   <location>
-                     <placeName key="lp-place-1">Wien, Stadt</placeName>
+                     <placeName key="lb-place-1">Wien, Stadt</placeName>
                      <geo>48.20849 16.37208</geo>
                   </location>
                   <idno type="GND">https://d-nb.info/gnd/2020893-5</idno>
                </org>
-               <org xml:id="lp-org-3">
+               <org xml:id="lb-org-3">
                   <orgName>Haus-, Hof- und Staatsarchiv</orgName>
                   <location>
-                     <placeName key="lp-place-1">Wien, Stadt</placeName>
+                     <placeName key="lb-place-1">Wien, Stadt</placeName>
                      <geo>48.20849 16.37208</geo>
                   </location>
                   <idno type="GND">https://d-nb.info/gnd/1045024-5</idno>
                </org>
-               <org xml:id="lp-org-36">
+               <org xml:id="lb-org-36">
                   <orgName/>
                </org>
             </listOrg>
