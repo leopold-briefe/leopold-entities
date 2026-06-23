@@ -178,5 +178,15 @@
     "folio": "24r",
     "file_name": null,
     "lb_id": "lb-cal-47"
+  },
+  "48": {
+    "id": 48,
+    "order": "19.00000000000000000000",
+    "not before": null,
+    "text": "",
+    "not after": null,
+    "folio": "",
+    "file_name": "",
+    "lb_id": "lb-cal-48"
   }
 }

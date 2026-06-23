@@ -266,8 +266,19 @@
   "42": {
     "id": 42,
     "order": "10.00000000000000000000",
-    "label": "",
+    "label": "Paris",
     "lb_id": "lb-place-42",
+    "geonames_url": "",
+    "latitude": null,
+    "longitude": null,
+    "mentioned_letters": [],
+    "gnd_url": ""
+  },
+  "69": {
+    "id": 69,
+    "order": "11.00000000000000000000",
+    "label": "Praha",
+    "lb_id": "lb-place-69",
     "geonames_url": "",
     "latitude": null,
     "longitude": null,

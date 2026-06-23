@@ -79,8 +79,9 @@
                   <persName type="name">Pötting, Franz Eusebius</persName>
                   <idno type="gnd">https://d-nb.info/gnd/119324636</idno>
                </person>
-               <person xml:id="lb-person-73" n="">
-                  <persName type="name"/>
+               <person xml:id="lb-person-73" n="Marco d´Aviano">
+                  <persName type="name">Marco d´Aviano</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118731076</idno>
                </person>
             </listPerson>
          </div>

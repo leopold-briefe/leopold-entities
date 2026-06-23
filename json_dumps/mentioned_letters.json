@@ -13,7 +13,8 @@
     "addressee": [],
     "not after": null,
     "messenger": [],
-    "lb_id": "lb-ml-1"
+    "lb_id": "lb-ml-1",
+    "dictated_letter": false
   },
   "2": {
     "id": 2,
@@ -29,7 +30,8 @@
     "addressee": [],
     "not after": null,
     "messenger": [],
-    "lb_id": "lb-ml-2"
+    "lb_id": "lb-ml-2",
+    "dictated_letter": false
   },
   "3": {
     "id": 3,
@@ -45,7 +47,8 @@
     "addressee": [],
     "not after": null,
     "messenger": [],
-    "lb_id": "lb-ml-3"
+    "lb_id": "lb-ml-3",
+    "dictated_letter": false
   },
   "4": {
     "id": 4,
@@ -61,7 +64,8 @@
     "addressee": [],
     "not after": null,
     "messenger": [],
-    "lb_id": "lb-ml-4"
+    "lb_id": "lb-ml-4",
+    "dictated_letter": false
   },
   "5": {
     "id": 5,
@@ -77,7 +81,8 @@
     "addressee": [],
     "not after": null,
     "messenger": [],
-    "lb_id": "lb-ml-5"
+    "lb_id": "lb-ml-5",
+    "dictated_letter": false
   },
   "6": {
     "id": 6,
@@ -93,7 +98,8 @@
     "addressee": [],
     "not after": null,
     "messenger": [],
-    "lb_id": "lb-ml-6"
+    "lb_id": "lb-ml-6",
+    "dictated_letter": false
   },
   "7": {
     "id": 7,
@@ -109,7 +115,8 @@
     "addressee": [],
     "not after": null,
     "messenger": [],
-    "lb_id": "lb-ml-7"
+    "lb_id": "lb-ml-7",
+    "dictated_letter": false
   },
   "8": {
     "id": 8,
@@ -125,7 +132,8 @@
     "addressee": [],
     "not after": null,
     "messenger": [],
-    "lb_id": "lb-ml-8"
+    "lb_id": "lb-ml-8",
+    "dictated_letter": false
   },
   "9": {
     "id": 9,
@@ -141,7 +149,8 @@
     "addressee": [],
     "not after": null,
     "messenger": [],
-    "lb_id": "lb-ml-9"
+    "lb_id": "lb-ml-9",
+    "dictated_letter": false
   },
   "10": {
     "id": 10,
@@ -157,7 +166,8 @@
     "addressee": [],
     "not after": null,
     "messenger": [],
-    "lb_id": "lb-ml-10"
+    "lb_id": "lb-ml-10",
+    "dictated_letter": false
   },
   "11": {
     "id": 11,
@@ -173,7 +183,8 @@
     "addressee": [],
     "not after": null,
     "messenger": [],
-    "lb_id": "lb-ml-11"
+    "lb_id": "lb-ml-11",
+    "dictated_letter": false
   },
   "12": {
     "id": 12,
@@ -189,7 +200,8 @@
     "addressee": [],
     "not after": null,
     "messenger": [],
-    "lb_id": "lb-ml-12"
+    "lb_id": "lb-ml-12",
+    "dictated_letter": false
   },
   "13": {
     "id": 13,
@@ -205,7 +217,8 @@
     "addressee": [],
     "not after": null,
     "messenger": [],
-    "lb_id": "lb-ml-13"
+    "lb_id": "lb-ml-13",
+    "dictated_letter": false
   },
   "14": {
     "id": 14,
@@ -221,7 +234,8 @@
     "addressee": [],
     "not after": null,
     "messenger": [],
-    "lb_id": "lb-ml-14"
+    "lb_id": "lb-ml-14",
+    "dictated_letter": false
   },
   "15": {
     "id": 15,
@@ -237,7 +251,8 @@
     "addressee": [],
     "not after": null,
     "messenger": [],
-    "lb_id": "lb-ml-15"
+    "lb_id": "lb-ml-15",
+    "dictated_letter": false
   },
   "16": {
     "id": 16,
@@ -253,7 +268,8 @@
     "addressee": [],
     "not after": null,
     "messenger": [],
-    "lb_id": "lb-ml-16"
+    "lb_id": "lb-ml-16",
+    "dictated_letter": false
   },
   "17": {
     "id": 17,
@@ -269,7 +285,8 @@
     "addressee": [],
     "not after": null,
     "messenger": [],
-    "lb_id": "lb-ml-17"
+    "lb_id": "lb-ml-17",
+    "dictated_letter": false
   },
   "18": {
     "id": 18,
@@ -285,7 +302,8 @@
     "addressee": [],
     "not after": null,
     "messenger": [],
-    "lb_id": "lb-ml-18"
+    "lb_id": "lb-ml-18",
+    "dictated_letter": false
   },
   "19": {
     "id": 19,
@@ -301,7 +319,8 @@
     "addressee": [],
     "not after": null,
     "messenger": [],
-    "lb_id": "lb-ml-19"
+    "lb_id": "lb-ml-19",
+    "dictated_letter": false
   },
   "20": {
     "id": 20,
@@ -317,7 +336,8 @@
     "addressee": [],
     "not after": null,
     "messenger": [],
-    "lb_id": "lb-ml-20"
+    "lb_id": "lb-ml-20",
+    "dictated_letter": false
   },
   "49": {
     "id": 49,
@@ -333,7 +353,8 @@
     "addressee": [],
     "not after": null,
     "messenger": [],
-    "lb_id": "lb-ml-49"
+    "lb_id": "lb-ml-49",
+    "dictated_letter": false
   },
   "50": {
     "id": 50,
@@ -349,7 +370,8 @@
     "addressee": [],
     "not after": null,
     "messenger": [],
-    "lb_id": "lb-ml-50"
+    "lb_id": "lb-ml-50",
+    "dictated_letter": false
   },
   "51": {
     "id": 51,
@@ -365,7 +387,8 @@
     "addressee": [],
     "not after": null,
     "messenger": [],
-    "lb_id": "lb-ml-51"
+    "lb_id": "lb-ml-51",
+    "dictated_letter": false
   },
   "52": {
     "id": 52,
@@ -381,7 +404,8 @@
     "addressee": [],
     "not after": null,
     "messenger": [],
-    "lb_id": "lb-ml-52"
+    "lb_id": "lb-ml-52",
+    "dictated_letter": false
   },
   "53": {
     "id": 53,
@@ -397,7 +421,8 @@
     "addressee": [],
     "not after": null,
     "messenger": [],
-    "lb_id": "lb-ml-53"
+    "lb_id": "lb-ml-53",
+    "dictated_letter": false
   },
   "54": {
     "id": 54,
@@ -413,7 +438,8 @@
     "addressee": [],
     "not after": null,
     "messenger": [],
-    "lb_id": "lb-ml-54"
+    "lb_id": "lb-ml-54",
+    "dictated_letter": false
   },
   "55": {
     "id": 55,
@@ -429,7 +455,8 @@
     "addressee": [],
     "not after": null,
     "messenger": [],
-    "lb_id": "lb-ml-55"
+    "lb_id": "lb-ml-55",
+    "dictated_letter": false
   },
   "56": {
     "id": 56,
@@ -445,7 +472,8 @@
     "addressee": [],
     "not after": null,
     "messenger": [],
-    "lb_id": "lb-ml-56"
+    "lb_id": "lb-ml-56",
+    "dictated_letter": false
   },
   "57": {
     "id": 57,
@@ -461,7 +489,8 @@
     "addressee": [],
     "not after": null,
     "messenger": [],
-    "lb_id": "lb-ml-57"
+    "lb_id": "lb-ml-57",
+    "dictated_letter": false
   },
   "58": {
     "id": 58,
@@ -477,7 +506,8 @@
     "addressee": [],
     "not after": null,
     "messenger": [],
-    "lb_id": "lb-ml-58"
+    "lb_id": "lb-ml-58",
+    "dictated_letter": false
   },
   "59": {
     "id": 59,
@@ -493,7 +523,8 @@
     "addressee": [],
     "not after": null,
     "messenger": [],
-    "lb_id": "lb-ml-59"
+    "lb_id": "lb-ml-59",
+    "dictated_letter": false
   },
   "60": {
     "id": 60,
@@ -509,7 +540,8 @@
     "addressee": [],
     "not after": null,
     "messenger": [],
-    "lb_id": "lb-ml-60"
+    "lb_id": "lb-ml-60",
+    "dictated_letter": false
   },
   "61": {
     "id": 61,
@@ -519,6 +551,7 @@
     "addressee": [],
     "not after": null,
     "messenger": [],
-    "lb_id": "lb-ml-61"
+    "lb_id": "lb-ml-61",
+    "dictated_letter": false
   }
 }
