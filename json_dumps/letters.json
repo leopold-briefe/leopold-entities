@@ -64,7 +64,7 @@
     "volume": null,
     "number": null,
     "page": null,
-    "mentioned_letters": [
+    "related_letters": [
       {
         "id": "lb-00002",
         "kind": [
@@ -160,7 +160,7 @@
     "volume": null,
     "number": null,
     "page": null,
-    "mentioned_letters": []
+    "related_letters": []
   },
   "45": {
     "id": 45,
@@ -233,7 +233,7 @@
     "volume": null,
     "number": null,
     "page": null,
-    "mentioned_letters": []
+    "related_letters": []
   },
   "46": {
     "id": 46,
@@ -306,7 +306,7 @@
     "volume": null,
     "number": null,
     "page": null,
-    "mentioned_letters": [
+    "related_letters": [
       {
         "id": "lb-00005",
         "kind": [
@@ -403,7 +403,7 @@
     "volume": null,
     "number": null,
     "page": null,
-    "mentioned_letters": []
+    "related_letters": []
   },
   "48": {
     "id": 48,
@@ -476,7 +476,7 @@
     "volume": null,
     "number": null,
     "page": null,
-    "mentioned_letters": [
+    "related_letters": [
       {
         "id": "lb-00007",
         "kind": [
@@ -578,7 +578,7 @@
     "volume": null,
     "number": null,
     "page": null,
-    "mentioned_letters": []
+    "related_letters": []
   },
   "50": {
     "id": 50,
@@ -657,7 +657,7 @@
     "volume": null,
     "number": null,
     "page": null,
-    "mentioned_letters": []
+    "related_letters": []
   },
   "51": {
     "id": 51,
@@ -730,7 +730,7 @@
     "volume": null,
     "number": null,
     "page": null,
-    "mentioned_letters": [
+    "related_letters": [
       {
         "id": "lb-00010",
         "kind": [
@@ -832,7 +832,7 @@
     "volume": null,
     "number": null,
     "page": null,
-    "mentioned_letters": []
+    "related_letters": []
   },
   "53": {
     "id": 53,
@@ -911,6 +911,6 @@
     "volume": null,
     "number": null,
     "page": null,
-    "mentioned_letters": []
+    "related_letters": []
   }
 }
