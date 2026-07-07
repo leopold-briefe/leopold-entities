@@ -71,6 +71,27 @@
                <place xml:id="lb-place-69">
                   <placeName>Praha</placeName>
                </place>
+               <place xml:id="lb-place-70">
+                  <placeName>Ebersdorf</placeName>
+                  <location type="coords">
+                     <geo>48.16005 16.47343</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/12500696/</idno>
+               </place>
+               <place xml:id="lb-place-71">
+                  <placeName>Pressburg</placeName>
+                  <location type="coords">
+                     <geo>48.14816 17.10674</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3060972/</idno>
+               </place>
+               <place xml:id="lb-place-72">
+                  <placeName>Madrid</placeName>
+                  <location type="coords">
+                     <geo>40.41650 3.70256</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3117735/</idno>
+               </place>
             </listPlace>
          </div>
       </body>

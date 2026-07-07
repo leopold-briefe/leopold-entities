@@ -8,7 +8,8 @@
     "latitude": "48.20849",
     "longitude": "16.37208",
     "mentioned_letters": [],
-    "gnd_url": ""
+    "gnd_url": "",
+    "letters": []
   },
   "2": {
     "id": 2,
@@ -19,7 +20,8 @@
     "latitude": "48.30639",
     "longitude": "14.28611",
     "mentioned_letters": [],
-    "gnd_url": ""
+    "gnd_url": "",
+    "letters": []
   },
   "3": {
     "id": 3,
@@ -30,7 +32,8 @@
     "latitude": "49.19522",
     "longitude": "16.60796",
     "mentioned_letters": [],
-    "gnd_url": ""
+    "gnd_url": "",
+    "letters": []
   },
   "36": {
     "id": 36,
@@ -41,7 +44,8 @@
     "latitude": null,
     "longitude": null,
     "mentioned_letters": [],
-    "gnd_url": ""
+    "gnd_url": "",
+    "letters": []
   },
   "37": {
     "id": 37,
@@ -68,7 +72,8 @@
         "order": "26.00000000000000000000"
       }
     ],
-    "gnd_url": ""
+    "gnd_url": "",
+    "letters": []
   },
   "38": {
     "id": 38,
@@ -160,7 +165,8 @@
         "order": "31.00000000000000000000"
       }
     ],
-    "gnd_url": ""
+    "gnd_url": "",
+    "letters": []
   },
   "39": {
     "id": 39,
@@ -222,7 +228,8 @@
         "order": "32.00000000000000000000"
       }
     ],
-    "gnd_url": ""
+    "gnd_url": "",
+    "letters": []
   },
   "40": {
     "id": 40,
@@ -239,7 +246,8 @@
         "order": "25.00000000000000000000"
       }
     ],
-    "gnd_url": ""
+    "gnd_url": "",
+    "letters": []
   },
   "41": {
     "id": 41,
@@ -261,7 +269,8 @@
         "order": "30.00000000000000000000"
       }
     ],
-    "gnd_url": ""
+    "gnd_url": "",
+    "letters": []
   },
   "42": {
     "id": 42,
@@ -272,7 +281,8 @@
     "latitude": null,
     "longitude": null,
     "mentioned_letters": [],
-    "gnd_url": ""
+    "gnd_url": "",
+    "letters": []
   },
   "69": {
     "id": 69,
@@ -283,6 +293,69 @@
     "latitude": null,
     "longitude": null,
     "mentioned_letters": [],
-    "gnd_url": ""
+    "gnd_url": "",
+    "letters": []
+  },
+  "70": {
+    "id": 70,
+    "order": "12.00000000000000000000",
+    "label": "Ebersdorf",
+    "lb_id": "lb-place-70",
+    "geonames_url": "https://www.geonames.org/12500696/jagd-schloss-ebersdorf.html",
+    "latitude": "48.16005",
+    "longitude": "16.47343",
+    "mentioned_letters": [],
+    "gnd_url": "",
+    "letters": []
+  },
+  "71": {
+    "id": 71,
+    "order": "13.00000000000000000000",
+    "label": "Pressburg",
+    "lb_id": "lb-place-71",
+    "geonames_url": "https://www.geonames.org/3060972/bratislava.html",
+    "latitude": "48.14816",
+    "longitude": "17.10674",
+    "mentioned_letters": [],
+    "gnd_url": "",
+    "letters": []
+  },
+  "72": {
+    "id": 72,
+    "order": "14.00000000000000000000",
+    "label": "Madrid",
+    "lb_id": "lb-place-72",
+    "geonames_url": "https://www.geonames.org/3117735/madrid.html",
+    "latitude": "40.41650",
+    "longitude": "3.70256",
+    "mentioned_letters": [],
+    "gnd_url": "",
+    "letters": [
+      {
+        "id": 89,
+        "value": "lb-00101",
+        "order": "32.00000000000000000000"
+      },
+      {
+        "id": 100,
+        "value": "lb-00102",
+        "order": "33.00000000000000000000"
+      },
+      {
+        "id": 103,
+        "value": "lb-00103",
+        "order": "34.00000000000000000000"
+      },
+      {
+        "id": 107,
+        "value": "lb-00104",
+        "order": "35.00000000000000000000"
+      },
+      {
+        "id": 108,
+        "value": "lb-00105",
+        "order": "36.00000000000000000000"
+      }
+    ]
   }
 }

@@ -21,7 +21,8 @@
         "latitude": "48.30639",
         "longitude": "14.28611",
         "mentioned_letters": [],
-        "gnd_url": ""
+        "gnd_url": "",
+        "letters": []
       }
     ]
   },
@@ -47,7 +48,8 @@
         "latitude": "48.20849",
         "longitude": "16.37208",
         "mentioned_letters": [],
-        "gnd_url": ""
+        "gnd_url": "",
+        "letters": []
       }
     ]
   },
@@ -73,7 +75,8 @@
         "latitude": "48.20849",
         "longitude": "16.37208",
         "mentioned_letters": [],
-        "gnd_url": ""
+        "gnd_url": "",
+        "letters": []
       }
     ]
   },
@@ -83,6 +86,16 @@
     "abbr": "ANM",
     "label": "",
     "lb_id": "lb-org-36",
+    "kind": null,
+    "gnd_url": "",
+    "located_in": []
+  },
+  "69": {
+    "id": 69,
+    "order": "5.00000000000000000000",
+    "abbr": "^",
+    "label": "",
+    "lb_id": "lb-org-69",
     "kind": null,
     "gnd_url": "",
     "located_in": []

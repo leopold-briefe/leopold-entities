@@ -64,6 +64,8 @@
     "volume": null,
     "number": null,
     "page": null,
+    "received_plave": [],
+    "received_date": null,
     "related_letters": [
       {
         "id": "lb-00002",
@@ -160,6 +162,8 @@
     "volume": null,
     "number": null,
     "page": null,
+    "received_plave": [],
+    "received_date": null,
     "related_letters": []
   },
   "45": {
@@ -233,6 +237,8 @@
     "volume": null,
     "number": null,
     "page": null,
+    "received_plave": [],
+    "received_date": null,
     "related_letters": []
   },
   "46": {
@@ -306,6 +312,8 @@
     "volume": null,
     "number": null,
     "page": null,
+    "received_plave": [],
+    "received_date": null,
     "related_letters": [
       {
         "id": "lb-00005",
@@ -403,6 +411,8 @@
     "volume": null,
     "number": null,
     "page": null,
+    "received_plave": [],
+    "received_date": null,
     "related_letters": []
   },
   "48": {
@@ -476,6 +486,8 @@
     "volume": null,
     "number": null,
     "page": null,
+    "received_plave": [],
+    "received_date": null,
     "related_letters": [
       {
         "id": "lb-00007",
@@ -578,6 +590,8 @@
     "volume": null,
     "number": null,
     "page": null,
+    "received_plave": [],
+    "received_date": null,
     "related_letters": []
   },
   "50": {
@@ -657,6 +671,8 @@
     "volume": null,
     "number": null,
     "page": null,
+    "received_plave": [],
+    "received_date": null,
     "related_letters": []
   },
   "51": {
@@ -730,6 +746,8 @@
     "volume": null,
     "number": null,
     "page": null,
+    "received_plave": [],
+    "received_date": null,
     "related_letters": [
       {
         "id": "lb-00010",
@@ -832,6 +850,8 @@
     "volume": null,
     "number": null,
     "page": null,
+    "received_plave": [],
+    "received_date": null,
     "related_letters": []
   },
   "53": {
@@ -911,6 +931,454 @@
     "volume": null,
     "number": null,
     "page": null,
+    "received_plave": [],
+    "received_date": null,
+    "related_letters": []
+  },
+  "89": {
+    "id": 89,
+    "order": "32.00000000000000000000",
+    "lb_id": "lb-00101",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 3,
+        "value": "Lamberg, Johann Maximilian von",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "not_before": "1653-11-19",
+    "not_after": "1653-11-19",
+    "written_date": "19. November 1653",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 1,
+        "value": "OÖLA",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "collection": "HA Steyr",
+    "signatur": "K. 1228",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "status_metadaten": {
+      "id": 23023,
+      "value": "angelegt",
+      "color": "darker-red"
+    },
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 1,
+        "value": "Wien, Stadt",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "placename_written": "Wienn",
+    "destination": [],
+    "hand": [],
+    "mentioned_as": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_plave": [
+      {
+        "id": 72,
+        "value": "Madrid",
+        "order": "14.00000000000000000000"
+      }
+    ],
+    "received_date": "1654-02-09",
+    "related_letters": []
+  },
+  "100": {
+    "id": 100,
+    "order": "33.00000000000000000000",
+    "lb_id": "lb-00102",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 3,
+        "value": "Lamberg, Johann Maximilian von",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "not_before": "1654-10-03",
+    "not_after": "1654-10-03",
+    "written_date": "3. Oktober 1654",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 1,
+        "value": "OÖLA",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "collection": "HA Steyr",
+    "signatur": "K. 1228",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "status_metadaten": {
+      "id": 23023,
+      "value": "angelegt",
+      "color": "darker-red"
+    },
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 70,
+        "value": "Ebersdorf",
+        "order": "12.00000000000000000000"
+      }
+    ],
+    "placename_written": "Eberstorf",
+    "destination": [],
+    "hand": [],
+    "mentioned_as": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_plave": [
+      {
+        "id": 72,
+        "value": "Madrid",
+        "order": "14.00000000000000000000"
+      }
+    ],
+    "received_date": "1654-11-15",
+    "related_letters": []
+  },
+  "103": {
+    "id": 103,
+    "order": "34.00000000000000000000",
+    "lb_id": "lb-00103",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 3,
+        "value": "Lamberg, Johann Maximilian von",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "not_before": "1654-05-06",
+    "not_after": "1654-05-06",
+    "written_date": "6. Mai 1654",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 1,
+        "value": "OÖLA",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "collection": "HA Steyr",
+    "signatur": "K. 1228",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "status_metadaten": {
+      "id": 23023,
+      "value": "angelegt",
+      "color": "darker-red"
+    },
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 1,
+        "value": "Wien, Stadt",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "placename_written": "Wienn",
+    "destination": [],
+    "hand": [],
+    "mentioned_as": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_plave": [
+      {
+        "id": 72,
+        "value": "Madrid",
+        "order": "14.00000000000000000000"
+      }
+    ],
+    "received_date": "1654-07-12",
+    "related_letters": []
+  },
+  "107": {
+    "id": 107,
+    "order": "35.00000000000000000000",
+    "lb_id": "lb-00104",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 3,
+        "value": "Lamberg, Johann Maximilian von",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "not_before": "1655-01-27",
+    "not_after": "1655-01-27",
+    "written_date": "27. Jänner 1655",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 1,
+        "value": "OÖLA",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "collection": "HA Steyr",
+    "signatur": "K. 1228",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "status_metadaten": {
+      "id": 23023,
+      "value": "angelegt",
+      "color": "darker-red"
+    },
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 1,
+        "value": "Wien, Stadt",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "placename_written": "Wienn",
+    "destination": [],
+    "hand": [],
+    "mentioned_as": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_plave": [
+      {
+        "id": 72,
+        "value": "Madrid",
+        "order": "14.00000000000000000000"
+      }
+    ],
+    "received_date": "1655-04-01",
+    "related_letters": []
+  },
+  "108": {
+    "id": 108,
+    "order": "36.00000000000000000000",
+    "lb_id": "lb-00105",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 3,
+        "value": "Lamberg, Johann Maximilian von",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "not_before": "1655-05-31",
+    "not_after": "1655-05-31",
+    "written_date": "31. Mai 1655",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 1,
+        "value": "OÖLA",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "collection": "HA Steyr",
+    "signatur": "K. 1228",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "status_metadaten": {
+      "id": 23023,
+      "value": "angelegt",
+      "color": "darker-red"
+    },
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 71,
+        "value": "Pressburg",
+        "order": "13.00000000000000000000"
+      }
+    ],
+    "placename_written": "Preßburg",
+    "destination": [],
+    "hand": [],
+    "mentioned_as": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_plave": [
+      {
+        "id": 72,
+        "value": "Madrid",
+        "order": "14.00000000000000000000"
+      }
+    ],
+    "received_date": "1655-08-07",
+    "related_letters": []
+  },
+  "109": {
+    "id": 109,
+    "order": "37.00000000000000000000",
+    "lb_id": "",
+    "sender": [],
+    "receiver": [],
+    "not_before": null,
+    "not_after": null,
+    "written_date": "",
+    "date_note": "",
+    "archiv": [],
+    "collection": "",
+    "signatur": "",
+    "kind": [],
+    "main_language": null,
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "status_metadaten": {
+      "id": 23023,
+      "value": "angelegt",
+      "color": "darker-red"
+    },
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [],
+    "placename_written": "",
+    "destination": [],
+    "hand": [],
+    "mentioned_as": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_plave": [],
+    "received_date": null,
     "related_letters": []
   }
 }

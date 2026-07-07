@@ -15,7 +15,8 @@
         "latitude": "48.20849",
         "longitude": "16.37208",
         "mentioned_letters": [],
-        "gnd_url": ""
+        "gnd_url": "",
+        "letters": []
       }
     ],
     "date_of_birth": "1640-06-09",
@@ -55,7 +56,8 @@
         "latitude": "49.19522",
         "longitude": "16.60796",
         "mentioned_letters": [],
-        "gnd_url": ""
+        "gnd_url": "",
+        "letters": []
       }
     ],
     "date_of_birth": null,
@@ -81,7 +83,8 @@
         "latitude": "48.20849",
         "longitude": "16.37208",
         "mentioned_letters": [],
-        "gnd_url": ""
+        "gnd_url": "",
+        "letters": []
       }
     ],
     "date_of_birth": null,
