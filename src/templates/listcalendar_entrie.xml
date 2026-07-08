@@ -1,0 +1,45 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Briefkalender</title>
+            <title type="sub">Korrespondenz von Kaiser Leopold I</title>
+            <editor key="https://d-nb.info/gnd/132150654">
+                <forename>Petr</forename>
+                <surname>Maťa</surname>
+            </editor>
+        </titleStmt>
+        <publicationStmt>
+            <publisher key="https://d-nb.info/gnd/1001454-8">Österreichische Akademie der Wissenschaften</publisher>
+            <date when="2028"/>
+            <availability status="free">
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">Lizenziert unter CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/deed.de)</licence>
+            </availability>
+        </publicationStmt>
+         <sourceDesc>
+            <p>Briefkalender</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="index_orgs">
+            <listEvent xml:id="letters">
+                <head>Briefkalender</head>
+            {% for x in objects %}
+               <event xml:id="{{ x.lb_id }}">
+                  <label>{{ x.not_before }}</label>
+                  <desc>{{ x.text }}</desc>{% if x.places %}
+                  <listPlace>{% for p in x.places %}
+                     <place key="{{ p.lb_id }}">
+                        <placeName>{{ p.label }}</placeName>{% if p.latitude %}
+                     <geo>{{ p.latitude }} {{ p.longitude }}</geo>{% endif %}
+                     </place>{% endfor %}
+                  </listPlace>{% endif %}
+                </event>
+            {% endfor %}
+            </listEvent>
+         </div>
+      </body>
+   </text>
+</TEI>

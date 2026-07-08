@@ -1,13 +1,11 @@
 import glob
-import os
 import json
+import os
+
 import jinja2
 import lxml.etree as ET
-
 from acdh_tei_pyutils.tei import TeiReader
-
 from AcdhArcheAssets.uri_norm_rules import get_normalized_uri
-
 
 templateLoader = jinja2.FileSystemLoader(searchpath="src/templates")
 templateEnv = jinja2.Environment(
@@ -42,3 +40,5 @@ for x in files:
         idno.text = new_uri
     ET.indent(doc.any_xpath(".")[0], space="   ")
     doc.tree_to_file(xml_name)
+
+os.rename("data/indices/listcalendar_entrie.xml", "data/indices/listevent.xml")

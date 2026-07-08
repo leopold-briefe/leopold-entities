@@ -7,9 +7,7 @@
     "geonames_url": "https://sws.geonames.org/2761369/",
     "latitude": "48.20849",
     "longitude": "16.37208",
-    "mentioned_letters": [],
-    "gnd_url": "",
-    "letters": []
+    "gnd_url": ""
   },
   "2": {
     "id": 2,
@@ -19,9 +17,7 @@
     "geonames_url": "https://sws.geonames.org/2772400/",
     "latitude": "48.30639",
     "longitude": "14.28611",
-    "mentioned_letters": [],
-    "gnd_url": "",
-    "letters": []
+    "gnd_url": ""
   },
   "3": {
     "id": 3,
@@ -31,9 +27,7 @@
     "geonames_url": "https://www.geonames.org/3078610/brno.html",
     "latitude": "49.19522",
     "longitude": "16.60796",
-    "mentioned_letters": [],
-    "gnd_url": "",
-    "letters": []
+    "gnd_url": ""
   },
   "36": {
     "id": 36,
@@ -43,9 +37,7 @@
     "geonames_url": "https://www.geonames.org/2867714/munich.html",
     "latitude": "48.13743",
     "longitude": "11.57549",
-    "mentioned_letters": [],
-    "gnd_url": "",
-    "letters": []
+    "gnd_url": ""
   },
   "37": {
     "id": 37,
@@ -55,25 +47,7 @@
     "geonames_url": "https://www.geonames.org/3174051/mantua.html",
     "latitude": "45.16031",
     "longitude": "10.79784",
-    "mentioned_letters": [
-      {
-        "id": 1,
-        "value": "1657-01-01",
-        "order": "1.00000000000000000000"
-      },
-      {
-        "id": 9,
-        "value": "1657-01-20",
-        "order": "9.00000000000000000000"
-      },
-      {
-        "id": 54,
-        "value": "1657-04-06",
-        "order": "26.00000000000000000000"
-      }
-    ],
-    "gnd_url": "",
-    "letters": []
+    "gnd_url": ""
   },
   "38": {
     "id": 38,
@@ -83,90 +57,7 @@
     "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
     "latitude": "49.00000",
     "longitude": "11.50000",
-    "mentioned_letters": [
-      {
-        "id": 2,
-        "value": "1657-01-03",
-        "order": "2.00000000000000000000"
-      },
-      {
-        "id": 3,
-        "value": "1657-01-03",
-        "order": "3.00000000000000000000"
-      },
-      {
-        "id": 4,
-        "value": "1657-01-03",
-        "order": "4.00000000000000000000"
-      },
-      {
-        "id": 5,
-        "value": "1657-01-10",
-        "order": "5.00000000000000000000"
-      },
-      {
-        "id": 7,
-        "value": "1657-01-17",
-        "order": "7.00000000000000000000"
-      },
-      {
-        "id": 8,
-        "value": "1657-01-17",
-        "order": "8.00000000000000000000"
-      },
-      {
-        "id": 10,
-        "value": "1657-01-31",
-        "order": "10.00000000000000000000"
-      },
-      {
-        "id": 11,
-        "value": "1657-02-07",
-        "order": "11.00000000000000000000"
-      },
-      {
-        "id": 14,
-        "value": "1657-02-14",
-        "order": "14.00000000000000000000"
-      },
-      {
-        "id": 15,
-        "value": "1657-02-14",
-        "order": "15.00000000000000000000"
-      },
-      {
-        "id": 17,
-        "value": "1657-02-21",
-        "order": "17.00000000000000000000"
-      },
-      {
-        "id": 18,
-        "value": "1657-02-28",
-        "order": "18.00000000000000000000"
-      },
-      {
-        "id": 20,
-        "value": "1657-03-07",
-        "order": "20.00000000000000000000"
-      },
-      {
-        "id": 50,
-        "value": "1657-03-21",
-        "order": "22.00000000000000000000"
-      },
-      {
-        "id": 51,
-        "value": "1657-03-28",
-        "order": "23.00000000000000000000"
-      },
-      {
-        "id": 59,
-        "value": "1657-04-25",
-        "order": "31.00000000000000000000"
-      }
-    ],
-    "gnd_url": "",
-    "letters": []
+    "gnd_url": ""
   },
   "39": {
     "id": 39,
@@ -176,60 +67,7 @@
     "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
     "latitude": "40.00000",
     "longitude": "-4.00000",
-    "mentioned_letters": [
-      {
-        "id": 6,
-        "value": "1657-01-17",
-        "order": "6.00000000000000000000"
-      },
-      {
-        "id": 12,
-        "value": "1657-02-07",
-        "order": "12.00000000000000000000"
-      },
-      {
-        "id": 13,
-        "value": "1657-02-07",
-        "order": "13.00000000000000000000"
-      },
-      {
-        "id": 16,
-        "value": "1657-02-14",
-        "order": "16.00000000000000000000"
-      },
-      {
-        "id": 19,
-        "value": "1657-02-28",
-        "order": "19.00000000000000000000"
-      },
-      {
-        "id": 49,
-        "value": "1657-03-14",
-        "order": "21.00000000000000000000"
-      },
-      {
-        "id": 52,
-        "value": "1657-03-28",
-        "order": "24.00000000000000000000"
-      },
-      {
-        "id": 55,
-        "value": "1657-04-07",
-        "order": "27.00000000000000000000"
-      },
-      {
-        "id": 56,
-        "value": "1657-04-07",
-        "order": "28.00000000000000000000"
-      },
-      {
-        "id": 60,
-        "value": "1657-04-25",
-        "order": "32.00000000000000000000"
-      }
-    ],
-    "gnd_url": "",
-    "letters": []
+    "gnd_url": ""
   },
   "40": {
     "id": 40,
@@ -239,15 +77,7 @@
     "geonames_url": "https://www.geonames.org/798544/republic-of-poland.html",
     "latitude": "52.00000",
     "longitude": "20.00000",
-    "mentioned_letters": [
-      {
-        "id": 53,
-        "value": "1657-04-06",
-        "order": "25.00000000000000000000"
-      }
-    ],
-    "gnd_url": "",
-    "letters": []
+    "gnd_url": ""
   },
   "41": {
     "id": 41,
@@ -257,20 +87,7 @@
     "geonames_url": "https://www.geonames.org/3017382/republic-of-france.html",
     "latitude": "46.00000",
     "longitude": "2.00000",
-    "mentioned_letters": [
-      {
-        "id": 57,
-        "value": "1657-04-18",
-        "order": "29.00000000000000000000"
-      },
-      {
-        "id": 58,
-        "value": "1657-04-18",
-        "order": "30.00000000000000000000"
-      }
-    ],
-    "gnd_url": "",
-    "letters": []
+    "gnd_url": ""
   },
   "42": {
     "id": 42,
@@ -280,9 +97,7 @@
     "geonames_url": "https://www.geonames.org/2988507/paris.html",
     "latitude": "48.85341",
     "longitude": "2.34880",
-    "mentioned_letters": [],
-    "gnd_url": "",
-    "letters": []
+    "gnd_url": ""
   },
   "69": {
     "id": 69,
@@ -292,9 +107,7 @@
     "geonames_url": "https://www.geonames.org/3067696/prague.html",
     "latitude": "50.08804",
     "longitude": "14.42076",
-    "mentioned_letters": [],
-    "gnd_url": "",
-    "letters": []
+    "gnd_url": ""
   },
   "70": {
     "id": 70,
@@ -304,9 +117,7 @@
     "geonames_url": "https://www.geonames.org/12500696/jagd-schloss-ebersdorf.html",
     "latitude": "48.16005",
     "longitude": "16.47343",
-    "mentioned_letters": [],
-    "gnd_url": "",
-    "letters": []
+    "gnd_url": ""
   },
   "71": {
     "id": 71,
@@ -316,9 +127,7 @@
     "geonames_url": "https://www.geonames.org/3060972/bratislava.html",
     "latitude": "48.14816",
     "longitude": "17.10674",
-    "mentioned_letters": [],
-    "gnd_url": "",
-    "letters": []
+    "gnd_url": ""
   },
   "72": {
     "id": 72,
@@ -328,135 +137,7 @@
     "geonames_url": "https://www.geonames.org/3117735/madrid.html",
     "latitude": "40.41650",
     "longitude": "3.70256",
-    "mentioned_letters": [],
-    "gnd_url": "",
-    "letters": [
-      {
-        "id": 89,
-        "value": "lb-00101",
-        "order": "32.00000000000000000000"
-      },
-      {
-        "id": 100,
-        "value": "lb-00102",
-        "order": "33.00000000000000000000"
-      },
-      {
-        "id": 103,
-        "value": "lb-00103",
-        "order": "34.00000000000000000000"
-      },
-      {
-        "id": 107,
-        "value": "lb-00104",
-        "order": "35.00000000000000000000"
-      },
-      {
-        "id": 108,
-        "value": "lb-00105",
-        "order": "36.00000000000000000000"
-      },
-      {
-        "id": 114,
-        "value": "lb-00106",
-        "order": "36.50000000000000000000"
-      },
-      {
-        "id": 116,
-        "value": "lb-00107",
-        "order": "36.66666666666666429819"
-      },
-      {
-        "id": 117,
-        "value": "lb-00108",
-        "order": "36.75000000000000000000"
-      },
-      {
-        "id": 118,
-        "value": "lb-00109",
-        "order": "36.79999999999999715783"
-      },
-      {
-        "id": 119,
-        "value": "lb-00110",
-        "order": "36.83333333333333570181"
-      },
-      {
-        "id": 120,
-        "value": "lb-00111",
-        "order": "36.85714285714285409767"
-      },
-      {
-        "id": 121,
-        "value": "lb-00112",
-        "order": "36.87500000000000000000"
-      },
-      {
-        "id": 122,
-        "value": "lb-00113",
-        "order": "36.88888888888888573092"
-      },
-      {
-        "id": 123,
-        "value": "lb-00114",
-        "order": "36.89999999999999857891"
-      },
-      {
-        "id": 124,
-        "value": "lb-00115",
-        "order": "36.90909090909090650712"
-      },
-      {
-        "id": 125,
-        "value": "lb-00116",
-        "order": "36.91666666666666429819"
-      },
-      {
-        "id": 126,
-        "value": "lb-00117",
-        "order": "36.92307692307691979750"
-      },
-      {
-        "id": 127,
-        "value": "lb-00118",
-        "order": "36.92857142857143060155"
-      },
-      {
-        "id": 131,
-        "value": "lb-00120",
-        "order": "36.93548387096774376914"
-      },
-      {
-        "id": 130,
-        "value": "lb-00121",
-        "order": "36.93750000000000000000"
-      },
-      {
-        "id": 132,
-        "value": "lb-00122",
-        "order": "36.94117647058823195039"
-      },
-      {
-        "id": 134,
-        "value": "lb-00124",
-        "order": "36.94736842105263008307"
-      },
-      {
-        "id": 136,
-        "value": "lb-00125",
-        "order": "36.94871794871794890014"
-      },
-      {
-        "id": 137,
-        "value": "",
-        "order": "36.94915254237287882688"
-      },
-      {
-        "id": 135,
-        "value": "",
-        "order": "36.95000000000000284217"
-      }
-    ]
+    "gnd_url": ""
   },
   "73": {
     "id": 73,
@@ -466,8 +147,6 @@
     "geonames_url": "https://www.geonames.org/2782067/baden.html",
     "latitude": "48.00543",
     "longitude": "16.23264",
-    "mentioned_letters": [],
-    "gnd_url": "",
-    "letters": []
+    "gnd_url": ""
   }
 }
