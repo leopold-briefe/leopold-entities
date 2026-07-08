@@ -148,5 +148,25 @@
     "latitude": "48.00543",
     "longitude": "16.23264",
     "gnd_url": ""
+  },
+  "74": {
+    "id": 74,
+    "order": "16.00000000000000000000",
+    "label": "Aschaffenburg",
+    "lb_id": "lb-place-74",
+    "geonames_url": "https://www.geonames.org/2955272/aschaffenburg.html",
+    "latitude": "49.97704",
+    "longitude": "9.15214",
+    "gnd_url": ""
+  },
+  "75": {
+    "id": 75,
+    "order": "17.00000000000000000000",
+    "label": "Frankfurt am Main",
+    "lb_id": "lb-place-75",
+    "geonames_url": "https://www.geonames.org/2925533/frankfurt-am-main.html",
+    "latitude": "50.11552",
+    "longitude": "8.68417",
+    "gnd_url": ""
   }
 }

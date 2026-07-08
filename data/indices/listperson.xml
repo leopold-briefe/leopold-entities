@@ -33,7 +33,7 @@
                      <settlement key="lb-place-1">
                         <placeName>Wien</placeName>
                         <geo>48.20849 16.37208</geo>
-                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                        <idno type="geonames">https://sws.geonames.org/2761369/</idno>
                      </settlement>
                   </birth>
                   <death>
@@ -51,7 +51,7 @@
                      <settlement key="lb-place-3">
                         <placeName>Brno</placeName>
                         <geo>49.19522 16.60796</geo>
-                        <idno type="geonames">https://www.geonames.org/3078610/</idno>
+                        <idno type="geonames">https://sws.geonames.org/3078610/</idno>
                      </settlement>
                   </birth>
                   <idno type="gnd">https://d-nb.info/gnd/118823795</idno>
@@ -62,7 +62,7 @@
                      <settlement key="lb-place-1">
                         <placeName>Wien</placeName>
                         <geo>48.20849 16.37208</geo>
-                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                        <idno type="geonames">https://sws.geonames.org/2761369/</idno>
                      </settlement>
                   </birth>
                   <idno type="gnd">https://d-nb.info/gnd/123530822</idno>
