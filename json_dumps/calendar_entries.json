@@ -1,0 +1,469 @@
+{
+  "1": {
+    "id": 1,
+    "order": "1.00000000000000000000",
+    "not_before": "1657-01-01",
+    "text": "Den ersten Januarij 1657 ein brief ~~in~~ nach Mantova gschriben.",
+    "not_after": null,
+    "folio": "9r",
+    "file_name": null,
+    "lb_id": "lb-cal-1",
+    "places": [
+      {
+        "id": 37,
+        "order": "5.00000000000000000000",
+        "label": "Mantova",
+        "lb_id": "lb-place-37",
+        "geonames_url": "https://www.geonames.org/3174051/mantua.html",
+        "latitude": "45.16031",
+        "longitude": "10.79784",
+        "gnd_url": ""
+      }
+    ]
+  },
+  "2": {
+    "id": 2,
+    "order": "2.00000000000000000000",
+    "not_before": "1657-01-03",
+    "text": "Den 3. dito 3 schreiben in Bayrn geschriben.",
+    "not_after": null,
+    "folio": "9r",
+    "file_name": null,
+    "lb_id": "lb-cal-2",
+    "places": [
+      {
+        "id": 38,
+        "order": "6.00000000000000000000",
+        "label": "Bayern",
+        "lb_id": "lb-place-38",
+        "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
+        "latitude": "49.00000",
+        "longitude": "11.50000",
+        "gnd_url": ""
+      }
+    ]
+  },
+  "3": {
+    "id": 3,
+    "order": "3.00000000000000000000",
+    "not_before": "1657-01-10",
+    "text": "Den 10. dito ein in Bayrn geschriben.",
+    "not_after": null,
+    "folio": "9r",
+    "file_name": null,
+    "lb_id": "lb-cal-3",
+    "places": [
+      {
+        "id": 38,
+        "order": "6.00000000000000000000",
+        "label": "Bayern",
+        "lb_id": "lb-place-38",
+        "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
+        "latitude": "49.00000",
+        "longitude": "11.50000",
+        "gnd_url": ""
+      }
+    ]
+  },
+  "4": {
+    "id": 4,
+    "order": "4.00000000000000000000",
+    "not_before": "1657-01-17",
+    "text": "Den 17. dito ein brief in Spanien vnd 2 in Bayrn geschriben.",
+    "not_after": null,
+    "folio": "9r",
+    "file_name": null,
+    "lb_id": "lb-cal-4",
+    "places": [
+      {
+        "id": 38,
+        "order": "6.00000000000000000000",
+        "label": "Bayern",
+        "lb_id": "lb-place-38",
+        "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
+        "latitude": "49.00000",
+        "longitude": "11.50000",
+        "gnd_url": ""
+      },
+      {
+        "id": 39,
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": ""
+      }
+    ]
+  },
+  "5": {
+    "id": 5,
+    "order": "5.00000000000000000000",
+    "not_before": "1657-01-20",
+    "text": "Den 20. ein brief auf Mantova geschriben.",
+    "not_after": null,
+    "folio": "9r",
+    "file_name": null,
+    "lb_id": "lb-cal-5",
+    "places": [
+      {
+        "id": 37,
+        "order": "5.00000000000000000000",
+        "label": "Mantova",
+        "lb_id": "lb-place-37",
+        "geonames_url": "https://www.geonames.org/3174051/mantua.html",
+        "latitude": "45.16031",
+        "longitude": "10.79784",
+        "gnd_url": ""
+      }
+    ]
+  },
+  "6": {
+    "id": 6,
+    "order": "6.00000000000000000000",
+    "not_before": "1657-01-31",
+    "text": "Den 31. ein in Beyrn geschriben.",
+    "not_after": null,
+    "folio": "9r",
+    "file_name": null,
+    "lb_id": "lb-cal-6",
+    "places": [
+      {
+        "id": 38,
+        "order": "6.00000000000000000000",
+        "label": "Bayern",
+        "lb_id": "lb-place-38",
+        "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
+        "latitude": "49.00000",
+        "longitude": "11.50000",
+        "gnd_url": ""
+      }
+    ]
+  },
+  "7": {
+    "id": 7,
+    "order": "7.00000000000000000000",
+    "not_before": "1657-02-07",
+    "text": "Den 7. Februarij a[nn]i 1657 hab ich ein brief in Bayrn vnd e 2 in Spanien geschriben.",
+    "not_after": null,
+    "folio": "14r",
+    "file_name": null,
+    "lb_id": "lb-cal-7",
+    "places": [
+      {
+        "id": 38,
+        "order": "6.00000000000000000000",
+        "label": "Bayern",
+        "lb_id": "lb-place-38",
+        "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
+        "latitude": "49.00000",
+        "longitude": "11.50000",
+        "gnd_url": ""
+      },
+      {
+        "id": 39,
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": ""
+      }
+    ]
+  },
+  "8": {
+    "id": 8,
+    "order": "8.00000000000000000000",
+    "not_before": "1657-02-14",
+    "text": "Den 14. dito […]. Nachmittag 2 brief in Bayrn vnd ein in Spanien gschriben.",
+    "not_after": null,
+    "folio": "14r",
+    "file_name": null,
+    "lb_id": "lb-cal-8",
+    "places": [
+      {
+        "id": 38,
+        "order": "6.00000000000000000000",
+        "label": "Bayern",
+        "lb_id": "lb-place-38",
+        "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
+        "latitude": "49.00000",
+        "longitude": "11.50000",
+        "gnd_url": ""
+      },
+      {
+        "id": 39,
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": ""
+      }
+    ]
+  },
+  "9": {
+    "id": 9,
+    "order": "9.00000000000000000000",
+    "not_before": "1657-02-21",
+    "text": "Den 21. dito ein brief in Bayrn geschriben.",
+    "not_after": null,
+    "folio": "14r",
+    "file_name": null,
+    "lb_id": "lb-cal-9",
+    "places": [
+      {
+        "id": 38,
+        "order": "6.00000000000000000000",
+        "label": "Bayern",
+        "lb_id": "lb-place-38",
+        "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
+        "latitude": "49.00000",
+        "longitude": "11.50000",
+        "gnd_url": ""
+      }
+    ]
+  },
+  "10": {
+    "id": 10,
+    "order": "10.00000000000000000000",
+    "not_before": "1657-02-28",
+    "text": "Den lezten ein brief in Bayrn vnd 1 in Spanien gschriben.",
+    "not_after": null,
+    "folio": "14r",
+    "file_name": null,
+    "lb_id": "lb-cal-10",
+    "places": [
+      {
+        "id": 38,
+        "order": "6.00000000000000000000",
+        "label": "Bayern",
+        "lb_id": "lb-place-38",
+        "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
+        "latitude": "49.00000",
+        "longitude": "11.50000",
+        "gnd_url": ""
+      },
+      {
+        "id": 39,
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": ""
+      }
+    ]
+  },
+  "11": {
+    "id": 11,
+    "order": "11.00000000000000000000",
+    "not_before": "1657-03-07",
+    "text": "Den 7. dito ein brief in Bayrn gschriben.",
+    "not_after": null,
+    "folio": "19r",
+    "file_name": null,
+    "lb_id": "lb-cal-11",
+    "places": [
+      {
+        "id": 38,
+        "order": "6.00000000000000000000",
+        "label": "Bayern",
+        "lb_id": "lb-place-38",
+        "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
+        "latitude": "49.00000",
+        "longitude": "11.50000",
+        "gnd_url": ""
+      }
+    ]
+  },
+  "41": {
+    "id": 41,
+    "order": "12.00000000000000000000",
+    "not_before": "1657-03-14",
+    "text": "Den 14. dito ein brief in Spanien gschriben.",
+    "not_after": null,
+    "folio": "19v",
+    "file_name": null,
+    "lb_id": "lb-cal-41",
+    "places": [
+      {
+        "id": 39,
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": ""
+      }
+    ]
+  },
+  "42": {
+    "id": 42,
+    "order": "13.00000000000000000000",
+    "not_before": "1657-03-21",
+    "text": "Den 21. dito ein brief in Bayrn gschriben.",
+    "not_after": null,
+    "folio": "19v",
+    "file_name": null,
+    "lb_id": "lb-cal-42",
+    "places": [
+      {
+        "id": 38,
+        "order": "6.00000000000000000000",
+        "label": "Bayern",
+        "lb_id": "lb-place-38",
+        "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
+        "latitude": "49.00000",
+        "longitude": "11.50000",
+        "gnd_url": ""
+      }
+    ]
+  },
+  "43": {
+    "id": 43,
+    "order": "14.00000000000000000000",
+    "not_before": "1657-03-28",
+    "text": "Den 28. dito ein brief in Bayrn vn[d] 1 in Spanien gschriben.",
+    "not_after": null,
+    "folio": "19v",
+    "file_name": null,
+    "lb_id": "lb-cal-43",
+    "places": [
+      {
+        "id": 38,
+        "order": "6.00000000000000000000",
+        "label": "Bayern",
+        "lb_id": "lb-place-38",
+        "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
+        "latitude": "49.00000",
+        "longitude": "11.50000",
+        "gnd_url": ""
+      },
+      {
+        "id": 39,
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": ""
+      }
+    ]
+  },
+  "44": {
+    "id": 44,
+    "order": "15.00000000000000000000",
+    "not_before": "1657-04-06",
+    "text": "Den 6. ein brief in Polhen vnd ein nach Mantova geschriben.",
+    "not_after": null,
+    "folio": "24r",
+    "file_name": null,
+    "lb_id": "lb-cal-44",
+    "places": [
+      {
+        "id": 37,
+        "order": "5.00000000000000000000",
+        "label": "Mantova",
+        "lb_id": "lb-place-37",
+        "geonames_url": "https://www.geonames.org/3174051/mantua.html",
+        "latitude": "45.16031",
+        "longitude": "10.79784",
+        "gnd_url": ""
+      }
+    ]
+  },
+  "45": {
+    "id": 45,
+    "order": "16.00000000000000000000",
+    "not_before": "1657-04-07",
+    "text": "Den 7. dito ~~e~~ 2 brief in Spanien gschriben.",
+    "not_after": null,
+    "folio": "24r",
+    "file_name": null,
+    "lb_id": "lb-cal-45",
+    "places": [
+      {
+        "id": 39,
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": ""
+      }
+    ]
+  },
+  "46": {
+    "id": 46,
+    "order": "17.00000000000000000000",
+    "not_before": "1657-04-18",
+    "text": "Den 18. dito ~~e~~ 2 brief in Frankreich gschriben.",
+    "not_after": null,
+    "folio": "24r",
+    "file_name": null,
+    "lb_id": "lb-cal-46",
+    "places": [
+      {
+        "id": 41,
+        "order": "9.00000000000000000000",
+        "label": "Frankreich",
+        "lb_id": "lb-place-41",
+        "geonames_url": "https://www.geonames.org/3017382/republic-of-france.html",
+        "latitude": "46.00000",
+        "longitude": "2.00000",
+        "gnd_url": ""
+      }
+    ]
+  },
+  "47": {
+    "id": 47,
+    "order": "18.00000000000000000000",
+    "not_before": "1657-04-25",
+    "text": "Den 25. dito ein brief in Bayrn vnd ein in Spanien gschriben.",
+    "not_after": null,
+    "folio": "24r",
+    "file_name": null,
+    "lb_id": "lb-cal-47",
+    "places": [
+      {
+        "id": 38,
+        "order": "6.00000000000000000000",
+        "label": "Bayern",
+        "lb_id": "lb-place-38",
+        "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
+        "latitude": "49.00000",
+        "longitude": "11.50000",
+        "gnd_url": ""
+      },
+      {
+        "id": 39,
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": ""
+      }
+    ]
+  },
+  "48": {
+    "id": 48,
+    "order": "19.00000000000000000000",
+    "not_before": null,
+    "text": "",
+    "not_after": null,
+    "folio": "",
+    "file_name": "",
+    "lb_id": "lb-cal-48",
+    "places": []
+  }
+}

@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Briefkalender</title>
+            <title type="sub">Korrespondenz von Kaiser Leopold I</title>
+            <editor key="https://d-nb.info/gnd/132150654">
+               <forename>Petr</forename>
+               <surname>Maťa</surname>
+            </editor>
+         </titleStmt>
+         <publicationStmt>
+            <publisher key="https://d-nb.info/gnd/1001454-8">Österreichische Akademie der Wissenschaften</publisher>
+            <date when="2028"/>
+            <availability status="free">
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">Lizenziert unter CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/deed.de)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Briefkalender</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="index_orgs">
+            <listEvent xml:id="letters">
+               <head>Briefkalender</head>
+               <event xml:id="lb-cal-1">
+                  <label>1657-01-01</label>
+                  <desc>Den ersten Januarij 1657 ein brief ~~in~~ nach Mantova gschriben.</desc>
+               </event>
+               <event xml:id="lb-cal-2">
+                  <label>1657-01-03</label>
+                  <desc>Den 3. dito 3 schreiben in Bayrn geschriben.</desc>
+               </event>
+               <event xml:id="lb-cal-3">
+                  <label>1657-01-10</label>
+                  <desc>Den 10. dito ein in Bayrn geschriben.</desc>
+               </event>
+               <event xml:id="lb-cal-4">
+                  <label>1657-01-17</label>
+                  <desc>Den 17. dito ein brief in Spanien vnd 2 in Bayrn geschriben.</desc>
+               </event>
+               <event xml:id="lb-cal-5">
+                  <label>1657-01-20</label>
+                  <desc>Den 20. ein brief auf Mantova geschriben.</desc>
+               </event>
+               <event xml:id="lb-cal-6">
+                  <label>1657-01-31</label>
+                  <desc>Den 31. ein in Beyrn geschriben.</desc>
+               </event>
+               <event xml:id="lb-cal-7">
+                  <label>1657-02-07</label>
+                  <desc>Den 7. Februarij a[nn]i 1657 hab ich ein brief in Bayrn vnd e 2 in Spanien geschriben.</desc>
+               </event>
+               <event xml:id="lb-cal-8">
+                  <label>1657-02-14</label>
+                  <desc>Den 14. dito […]. Nachmittag 2 brief in Bayrn vnd ein in Spanien gschriben.</desc>
+               </event>
+               <event xml:id="lb-cal-9">
+                  <label>1657-02-21</label>
+                  <desc>Den 21. dito ein brief in Bayrn geschriben.</desc>
+               </event>
+               <event xml:id="lb-cal-10">
+                  <label>1657-02-28</label>
+                  <desc>Den lezten ein brief in Bayrn vnd 1 in Spanien gschriben.</desc>
+               </event>
+               <event xml:id="lb-cal-11">
+                  <label>1657-03-07</label>
+                  <desc>Den 7. dito ein brief in Bayrn gschriben.</desc>
+               </event>
+               <event xml:id="lb-cal-41">
+                  <label>1657-03-14</label>
+                  <desc>Den 14. dito ein brief in Spanien gschriben.</desc>
+               </event>
+               <event xml:id="lb-cal-42">
+                  <label>1657-03-21</label>
+                  <desc>Den 21. dito ein brief in Bayrn gschriben.</desc>
+               </event>
+               <event xml:id="lb-cal-43">
+                  <label>1657-03-28</label>
+                  <desc>Den 28. dito ein brief in Bayrn vn[d] 1 in Spanien gschriben.</desc>
+               </event>
+               <event xml:id="lb-cal-44">
+                  <label>1657-04-06</label>
+                  <desc>Den 6. ein brief in Polhen vnd ein nach Mantova geschriben.</desc>
+               </event>
+               <event xml:id="lb-cal-45">
+                  <label>1657-04-07</label>
+                  <desc>Den 7. dito ~~e~~ 2 brief in Spanien gschriben.</desc>
+               </event>
+               <event xml:id="lb-cal-46">
+                  <label>1657-04-18</label>
+                  <desc>Den 18. dito ~~e~~ 2 brief in Frankreich gschriben.</desc>
+               </event>
+               <event xml:id="lb-cal-47">
+                  <label>1657-04-25</label>
+                  <desc>Den 25. dito ein brief in Bayrn vnd ein in Spanien gschriben.</desc>
+               </event>
+               <event xml:id="lb-cal-48">
+                  <label>None</label>
+                  <desc/>
+               </event>
+            </listEvent>
+         </div>
+      </body>
+   </text>
+</TEI>

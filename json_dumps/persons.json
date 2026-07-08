@@ -14,16 +14,12 @@
         "geonames_url": "https://sws.geonames.org/2761369/",
         "latitude": "48.20849",
         "longitude": "16.37208",
-        "mentioned_letters": [],
-        "gnd_url": "",
-        "letters": []
+        "gnd_url": ""
       }
     ],
     "date_of_birth": "1640-06-09",
     "place_of_death": [],
     "date_of_death": "1705-05-05",
-    "mentioned_letters": [],
-    "mentioned_letters - messenger": [],
     "wikidata_url": ""
   },
   "2": {
@@ -36,8 +32,6 @@
     "date_of_birth": null,
     "place_of_death": [],
     "date_of_death": null,
-    "mentioned_letters": [],
-    "mentioned_letters - messenger": [],
     "wikidata_url": ""
   },
   "3": {
@@ -55,16 +49,12 @@
         "geonames_url": "https://www.geonames.org/3078610/brno.html",
         "latitude": "49.19522",
         "longitude": "16.60796",
-        "mentioned_letters": [],
-        "gnd_url": "",
-        "letters": []
+        "gnd_url": ""
       }
     ],
     "date_of_birth": null,
     "place_of_death": [],
     "date_of_death": null,
-    "mentioned_letters": [],
-    "mentioned_letters - messenger": [],
     "wikidata_url": ""
   },
   "4": {
@@ -82,16 +72,12 @@
         "geonames_url": "https://sws.geonames.org/2761369/",
         "latitude": "48.20849",
         "longitude": "16.37208",
-        "mentioned_letters": [],
-        "gnd_url": "",
-        "letters": []
+        "gnd_url": ""
       }
     ],
     "date_of_birth": null,
     "place_of_death": [],
     "date_of_death": null,
-    "mentioned_letters": [],
-    "mentioned_letters - messenger": [],
     "wikidata_url": ""
   },
   "38": {
@@ -104,8 +90,6 @@
     "date_of_birth": null,
     "place_of_death": [],
     "date_of_death": null,
-    "mentioned_letters": [],
-    "mentioned_letters - messenger": [],
     "wikidata_url": ""
   },
   "39": {
@@ -118,8 +102,6 @@
     "date_of_birth": null,
     "place_of_death": [],
     "date_of_death": null,
-    "mentioned_letters": [],
-    "mentioned_letters - messenger": [],
     "wikidata_url": ""
   },
   "40": {
@@ -132,8 +114,6 @@
     "date_of_birth": null,
     "place_of_death": [],
     "date_of_death": null,
-    "mentioned_letters": [],
-    "mentioned_letters - messenger": [],
     "wikidata_url": ""
   },
   "73": {
@@ -146,8 +126,6 @@
     "date_of_birth": null,
     "place_of_death": [],
     "date_of_death": null,
-    "mentioned_letters": [],
-    "mentioned_letters - messenger": [],
     "wikidata_url": ""
   },
   "74": {
@@ -160,8 +138,6 @@
     "date_of_birth": null,
     "place_of_death": [],
     "date_of_death": null,
-    "mentioned_letters": [],
-    "mentioned_letters - messenger": [],
     "wikidata_url": ""
   }
 }
