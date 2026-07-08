@@ -31,7 +31,7 @@
                   <birth>
                      <date>1640-06-09</date>
                      <settlement key="lb-place-1">
-                        <placeName>Wien, Stadt</placeName>
+                        <placeName>Wien</placeName>
                         <geo>48.20849 16.37208</geo>
                         <idno type="geonames">https://sws.geonames.org/2761369/</idno>
                      </settlement>
@@ -60,7 +60,7 @@
                   <persName type="name">Kinsky, Franz Ulrich</persName>
                   <birth>
                      <settlement key="lb-place-1">
-                        <placeName>Wien, Stadt</placeName>
+                        <placeName>Wien</placeName>
                         <geo>48.20849 16.37208</geo>
                         <idno type="geonames">https://sws.geonames.org/2761369/</idno>
                      </settlement>
@@ -82,6 +82,10 @@
                <person xml:id="lb-person-73" n="Marco d´Aviano">
                   <persName type="name">Marco d´Aviano</persName>
                   <idno type="gnd">https://d-nb.info/gnd/118731076</idno>
+               </person>
+               <person xml:id="lb-person-74" n="Starhemberg, Konrad Balthasar">
+                  <persName type="name">Starhemberg, Konrad Balthasar</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/117216089</idno>
                </person>
             </listPerson>
          </div>

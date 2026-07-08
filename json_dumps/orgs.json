@@ -42,7 +42,7 @@
       {
         "id": 1,
         "order": "1.00000000000000000000",
-        "label": "Wien, Stadt",
+        "label": "Wien",
         "lb_id": "lb-place-1",
         "geonames_url": "https://sws.geonames.org/2761369/",
         "latitude": "48.20849",
@@ -69,7 +69,7 @@
       {
         "id": 1,
         "order": "1.00000000000000000000",
-        "label": "Wien, Stadt",
+        "label": "Wien",
         "lb_id": "lb-place-1",
         "geonames_url": "https://sws.geonames.org/2761369/",
         "latitude": "48.20849",

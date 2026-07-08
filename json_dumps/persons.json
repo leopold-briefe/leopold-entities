@@ -9,7 +9,7 @@
       {
         "id": 1,
         "order": "1.00000000000000000000",
-        "label": "Wien, Stadt",
+        "label": "Wien",
         "lb_id": "lb-place-1",
         "geonames_url": "https://sws.geonames.org/2761369/",
         "latitude": "48.20849",
@@ -77,7 +77,7 @@
       {
         "id": 1,
         "order": "1.00000000000000000000",
-        "label": "Wien, Stadt",
+        "label": "Wien",
         "lb_id": "lb-place-1",
         "geonames_url": "https://sws.geonames.org/2761369/",
         "latitude": "48.20849",
@@ -142,6 +142,20 @@
     "label": "Marco d´Aviano",
     "lb_id": "lb-person-73",
     "gnd_url": "https://d-nb.info/gnd/118731076",
+    "place_of_birth": [],
+    "date_of_birth": null,
+    "place_of_death": [],
+    "date_of_death": null,
+    "mentioned_letters": [],
+    "mentioned_letters - messenger": [],
+    "wikidata_url": ""
+  },
+  "74": {
+    "id": 74,
+    "order": "10.00000000000000000000",
+    "label": "Starhemberg, Konrad Balthasar",
+    "lb_id": "lb-person-74",
+    "gnd_url": "https://d-nb.info/gnd/117216089",
     "place_of_birth": [],
     "date_of_birth": null,
     "place_of_death": [],

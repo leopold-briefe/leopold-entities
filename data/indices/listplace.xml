@@ -27,7 +27,7 @@
          <div type="index_places">
             <listPlace xml:id="listplace">
                <place xml:id="lb-place-1">
-                  <placeName>Wien, Stadt</placeName>
+                  <placeName>Wien</placeName>
                   <location type="coords">
                      <geo>48.20849 16.37208</geo>
                   </location>
@@ -49,27 +49,59 @@
                </place>
                <place xml:id="lb-place-36">
                   <placeName>München</placeName>
+                  <location type="coords">
+                     <geo>48.13743 11.57549</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2867714/</idno>
                </place>
                <place xml:id="lb-place-37">
                   <placeName>Mantova</placeName>
+                  <location type="coords">
+                     <geo>45.16031 10.79784</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3174051/</idno>
                </place>
                <place xml:id="lb-place-38">
                   <placeName>Bayern</placeName>
+                  <location type="coords">
+                     <geo>49.00000 11.50000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2951839/</idno>
                </place>
                <place xml:id="lb-place-39">
                   <placeName>Spanien</placeName>
+                  <location type="coords">
+                     <geo>40.00000 -4.00000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2510769/</idno>
                </place>
                <place xml:id="lb-place-40">
                   <placeName>Polen</placeName>
+                  <location type="coords">
+                     <geo>52.00000 20.00000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/798544/</idno>
                </place>
                <place xml:id="lb-place-41">
                   <placeName>Frankreich</placeName>
+                  <location type="coords">
+                     <geo>46.00000 2.00000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3017382/</idno>
                </place>
                <place xml:id="lb-place-42">
                   <placeName>Paris</placeName>
+                  <location type="coords">
+                     <geo>48.85341 2.34880</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2988507/</idno>
                </place>
                <place xml:id="lb-place-69">
                   <placeName>Praha</placeName>
+                  <location type="coords">
+                     <geo>50.08804 14.42076</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3067696/</idno>
                </place>
                <place xml:id="lb-place-70">
                   <placeName>Ebersdorf</placeName>
@@ -91,6 +123,13 @@
                      <geo>40.41650 3.70256</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/3117735/</idno>
+               </place>
+               <place xml:id="lb-place-73">
+                  <placeName>Baden</placeName>
+                  <location type="coords">
+                     <geo>48.00543 16.23264</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2782067/</idno>
                </place>
             </listPlace>
          </div>

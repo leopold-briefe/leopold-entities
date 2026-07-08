@@ -300,7 +300,7 @@
     "place_of_writing": [
       {
         "id": 1,
-        "value": "Wien, Stadt",
+        "value": "Wien",
         "order": "1.00000000000000000000"
       }
     ],
@@ -393,7 +393,7 @@
     "place_of_writing": [
       {
         "id": 1,
-        "value": "Wien, Stadt",
+        "value": "Wien",
         "order": "1.00000000000000000000"
       }
     ],
@@ -474,7 +474,7 @@
     "place_of_writing": [
       {
         "id": 1,
-        "value": "Wien, Stadt",
+        "value": "Wien",
         "order": "1.00000000000000000000"
       }
     ],
@@ -578,7 +578,7 @@
     "place_of_writing": [
       {
         "id": 1,
-        "value": "Wien, Stadt",
+        "value": "Wien",
         "order": "1.00000000000000000000"
       }
     ],
@@ -659,7 +659,7 @@
     "place_of_writing": [
       {
         "id": 1,
-        "value": "Wien, Stadt",
+        "value": "Wien",
         "order": "1.00000000000000000000"
       }
     ],
@@ -734,7 +734,7 @@
     "place_of_writing": [
       {
         "id": 1,
-        "value": "Wien, Stadt",
+        "value": "Wien",
         "order": "1.00000000000000000000"
       }
     ],
@@ -838,7 +838,7 @@
     "place_of_writing": [
       {
         "id": 1,
-        "value": "Wien, Stadt",
+        "value": "Wien",
         "order": "1.00000000000000000000"
       }
     ],
@@ -919,7 +919,7 @@
     "place_of_writing": [
       {
         "id": 1,
-        "value": "Wien, Stadt",
+        "value": "Wien",
         "order": "1.00000000000000000000"
       }
     ],
@@ -965,7 +965,7 @@
       }
     ],
     "collection": "HA Steyr",
-    "signatur": "K. 1228",
+    "signatur": "K. 1228 , Fasz. 17, Nr. 269/1",
     "kind": [
       {
         "id": 23015,
@@ -994,7 +994,7 @@
     "place_of_writing": [
       {
         "id": 1,
-        "value": "Wien, Stadt",
+        "value": "Wien",
         "order": "1.00000000000000000000"
       }
     ],
@@ -1046,7 +1046,7 @@
       }
     ],
     "collection": "HA Steyr",
-    "signatur": "K. 1228",
+    "signatur": "K. 1228 , Fasz. 17, Nr. 269/2",
     "kind": [
       {
         "id": 23015,
@@ -1127,7 +1127,7 @@
       }
     ],
     "collection": "HA Steyr",
-    "signatur": "K. 1228",
+    "signatur": "K. 1228 , Fasz. 17, Nr. 269/3",
     "kind": [
       {
         "id": 23015,
@@ -1156,7 +1156,7 @@
     "place_of_writing": [
       {
         "id": 1,
-        "value": "Wien, Stadt",
+        "value": "Wien",
         "order": "1.00000000000000000000"
       }
     ],
@@ -1208,7 +1208,7 @@
       }
     ],
     "collection": "HA Steyr",
-    "signatur": "K. 1228",
+    "signatur": "K. 1228 , Fasz. 17, Nr. 269/7",
     "kind": [
       {
         "id": 23015,
@@ -1237,7 +1237,7 @@
     "place_of_writing": [
       {
         "id": 1,
-        "value": "Wien, Stadt",
+        "value": "Wien",
         "order": "1.00000000000000000000"
       }
     ],
@@ -1289,7 +1289,7 @@
       }
     ],
     "collection": "HA Steyr",
-    "signatur": "K. 1228",
+    "signatur": "K. 1228 , Fasz. 17, Nr. 269/9",
     "kind": [
       {
         "id": 23015,
@@ -1340,9 +1340,1820 @@
     "received_date": "1655-08-07",
     "related_letters": []
   },
+  "114": {
+    "id": 114,
+    "order": "36.50000000000000000000",
+    "lb_id": "lb-00106",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 3,
+        "value": "Lamberg, Johann Maximilian von",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "not_before": "1655-06-29",
+    "not_after": "1655-06-29",
+    "written_date": "29. Juni 1655",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 1,
+        "value": "OÖLA",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "collection": "HA Steyr",
+    "signatur": "K. 1232 , Fasz. 21, Nr. 325/1",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "status_metadaten": {
+      "id": 23023,
+      "value": "angelegt",
+      "color": "darker-red"
+    },
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 71,
+        "value": "Pressburg",
+        "order": "13.00000000000000000000"
+      }
+    ],
+    "placename_written": "Preßburg",
+    "destination": [],
+    "hand": [],
+    "mentioned_as": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_plave": [
+      {
+        "id": 72,
+        "value": "Madrid",
+        "order": "14.00000000000000000000"
+      }
+    ],
+    "received_date": null,
+    "related_letters": []
+  },
+  "116": {
+    "id": 116,
+    "order": "36.66666666666666429819",
+    "lb_id": "lb-00107",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 3,
+        "value": "Lamberg, Johann Maximilian von",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "not_before": "1655-10-27",
+    "not_after": "1655-10-27",
+    "written_date": "27. Oktober 1655",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 1,
+        "value": "OÖLA",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "collection": "HA Steyr",
+    "signatur": "K. 1232 , Fasz. 21, Nr. 325/2",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "status_metadaten": {
+      "id": 23023,
+      "value": "angelegt",
+      "color": "darker-red"
+    },
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 70,
+        "value": "Ebersdorf",
+        "order": "12.00000000000000000000"
+      }
+    ],
+    "placename_written": "Eberstorf",
+    "destination": [],
+    "hand": [],
+    "mentioned_as": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_plave": [
+      {
+        "id": 72,
+        "value": "Madrid",
+        "order": "14.00000000000000000000"
+      }
+    ],
+    "received_date": "1655-12-05",
+    "related_letters": []
+  },
+  "117": {
+    "id": 117,
+    "order": "36.75000000000000000000",
+    "lb_id": "lb-00108",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 3,
+        "value": "Lamberg, Johann Maximilian von",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "not_before": "1656-01-12",
+    "not_after": "1656-01-12",
+    "written_date": "12. Jänner 1656",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 1,
+        "value": "OÖLA",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "collection": "HA Steyr",
+    "signatur": "K. 1232 , Fasz. 21, Nr. 325/3",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "status_metadaten": {
+      "id": 23023,
+      "value": "angelegt",
+      "color": "darker-red"
+    },
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 1,
+        "value": "Wien",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "placename_written": "Wienn",
+    "destination": [],
+    "hand": [],
+    "mentioned_as": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_plave": [
+      {
+        "id": 72,
+        "value": "Madrid",
+        "order": "14.00000000000000000000"
+      }
+    ],
+    "received_date": "1656-02-20",
+    "related_letters": []
+  },
+  "118": {
+    "id": 118,
+    "order": "36.79999999999999715783",
+    "lb_id": "lb-00109",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 3,
+        "value": "Lamberg, Johann Maximilian von",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "not_before": "1656-01-26",
+    "not_after": "1656-01-26",
+    "written_date": "26. Jänner 1656",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 1,
+        "value": "OÖLA",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "collection": "HA Steyr",
+    "signatur": "K. 1232 , Fasz. 21, Nr. 325/4",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "status_metadaten": {
+      "id": 23023,
+      "value": "angelegt",
+      "color": "darker-red"
+    },
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 1,
+        "value": "Wien",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "placename_written": "Wienn",
+    "destination": [],
+    "hand": [],
+    "mentioned_as": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_plave": [
+      {
+        "id": 72,
+        "value": "Madrid",
+        "order": "14.00000000000000000000"
+      }
+    ],
+    "received_date": "1656-03-11",
+    "related_letters": []
+  },
+  "119": {
+    "id": 119,
+    "order": "36.83333333333333570181",
+    "lb_id": "lb-00110",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 3,
+        "value": "Lamberg, Johann Maximilian von",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "not_before": "1656-07-19",
+    "not_after": "1656-07-19",
+    "written_date": "19. Juli 1656",
+    "date_note": "Die Dateierung eindeutig trotz beeinträchtigter Monatangabe",
+    "archiv": [
+      {
+        "id": 1,
+        "value": "OÖLA",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "collection": "HA Steyr",
+    "signatur": "K. 1232 , Fasz. 21, Nr. 325/5",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "status_metadaten": {
+      "id": 23023,
+      "value": "angelegt",
+      "color": "darker-red"
+    },
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 1,
+        "value": "Wien",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "placename_written": "Wienn",
+    "destination": [],
+    "hand": [],
+    "mentioned_as": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_plave": [
+      {
+        "id": 72,
+        "value": "Madrid",
+        "order": "14.00000000000000000000"
+      }
+    ],
+    "received_date": "1656-08-26",
+    "related_letters": []
+  },
+  "120": {
+    "id": 120,
+    "order": "36.85714285714285409767",
+    "lb_id": "lb-00111",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 3,
+        "value": "Lamberg, Johann Maximilian von",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "not_before": "1656-05-10",
+    "not_after": "1656-05-10",
+    "written_date": "10. Mai 1656",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 1,
+        "value": "OÖLA",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "collection": "HA Steyr",
+    "signatur": "K. 1232 , Fasz. 21, Nr. 325/6",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "status_metadaten": {
+      "id": 23023,
+      "value": "angelegt",
+      "color": "darker-red"
+    },
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 73,
+        "value": "Baden",
+        "order": "15.00000000000000000000"
+      }
+    ],
+    "placename_written": "Baden",
+    "destination": [],
+    "hand": [],
+    "mentioned_as": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_plave": [
+      {
+        "id": 72,
+        "value": "Madrid",
+        "order": "14.00000000000000000000"
+      }
+    ],
+    "received_date": "1656-06-27",
+    "related_letters": []
+  },
+  "121": {
+    "id": 121,
+    "order": "36.87500000000000000000",
+    "lb_id": "lb-00112",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 3,
+        "value": "Lamberg, Johann Maximilian von",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "not_before": "1656-10-17",
+    "not_after": "1656-10-17",
+    "written_date": "17. Oktober 1656",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 1,
+        "value": "OÖLA",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "collection": "HA Steyr",
+    "signatur": "K. 1232 , Fasz. 21, Nr. 325/7",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "status_metadaten": {
+      "id": 23023,
+      "value": "angelegt",
+      "color": "darker-red"
+    },
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 1,
+        "value": "Wien",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "placename_written": "Wienn",
+    "destination": [],
+    "hand": [],
+    "mentioned_as": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_plave": [
+      {
+        "id": 72,
+        "value": "Madrid",
+        "order": "14.00000000000000000000"
+      }
+    ],
+    "received_date": "1656-12-09",
+    "related_letters": []
+  },
+  "122": {
+    "id": 122,
+    "order": "36.88888888888888573092",
+    "lb_id": "lb-00113",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 3,
+        "value": "Lamberg, Johann Maximilian von",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "not_before": "1657-07-11",
+    "not_after": "1657-07-11",
+    "written_date": "11. Juli 1657",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 1,
+        "value": "OÖLA",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "collection": "HA Steyr",
+    "signatur": "K. 1232 , Fasz. 21, Nr. 325/14",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "status_metadaten": {
+      "id": 23023,
+      "value": "angelegt",
+      "color": "darker-red"
+    },
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 1,
+        "value": "Wien",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "placename_written": "Wienn",
+    "destination": [],
+    "hand": [],
+    "mentioned_as": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_plave": [
+      {
+        "id": 72,
+        "value": "Madrid",
+        "order": "14.00000000000000000000"
+      }
+    ],
+    "received_date": "1657-08-18",
+    "related_letters": []
+  },
+  "123": {
+    "id": 123,
+    "order": "36.89999999999999857891",
+    "lb_id": "lb-00114",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 3,
+        "value": "Lamberg, Johann Maximilian von",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "not_before": "1657-08-04",
+    "not_after": "1657-08-04",
+    "written_date": "4. August 1657",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 1,
+        "value": "OÖLA",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "collection": "HA Steyr",
+    "signatur": "K. 1232 , Fasz. 21, Nr. 325/15",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "status_metadaten": {
+      "id": 23023,
+      "value": "angelegt",
+      "color": "darker-red"
+    },
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 69,
+        "value": "Praha",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "placename_written": "Praag",
+    "destination": [],
+    "hand": [],
+    "mentioned_as": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_plave": [
+      {
+        "id": 72,
+        "value": "Madrid",
+        "order": "14.00000000000000000000"
+      }
+    ],
+    "received_date": "1657-09-08",
+    "related_letters": []
+  },
+  "124": {
+    "id": 124,
+    "order": "36.90909090909090650712",
+    "lb_id": "lb-00115",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 3,
+        "value": "Lamberg, Johann Maximilian von",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "not_before": "1657-08-10",
+    "not_after": "1657-08-10",
+    "written_date": "10. August 1657",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 1,
+        "value": "OÖLA",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "collection": "HA Steyr",
+    "signatur": "K. 1232 , Fasz. 21, Nr. 325/17",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "status_metadaten": {
+      "id": 23023,
+      "value": "angelegt",
+      "color": "darker-red"
+    },
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 69,
+        "value": "Praha",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "placename_written": "Praag",
+    "destination": [],
+    "hand": [],
+    "mentioned_as": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_plave": [
+      {
+        "id": 72,
+        "value": "Madrid",
+        "order": "14.00000000000000000000"
+      }
+    ],
+    "received_date": "1657-09-15",
+    "related_letters": []
+  },
+  "125": {
+    "id": 125,
+    "order": "36.91666666666666429819",
+    "lb_id": "lb-00116",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 3,
+        "value": "Lamberg, Johann Maximilian von",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "not_before": "1657-08-23",
+    "not_after": "1657-08-23",
+    "written_date": "23. August 1657",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 1,
+        "value": "OÖLA",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "collection": "HA Steyr",
+    "signatur": "K. 1232 , Fasz. 21, Nr. 325/18",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "status_metadaten": {
+      "id": 23023,
+      "value": "angelegt",
+      "color": "darker-red"
+    },
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 69,
+        "value": "Praha",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "placename_written": "Praag",
+    "destination": [],
+    "hand": [],
+    "mentioned_as": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_plave": [
+      {
+        "id": 72,
+        "value": "Madrid",
+        "order": "14.00000000000000000000"
+      }
+    ],
+    "received_date": "1657-09-28",
+    "related_letters": []
+  },
+  "126": {
+    "id": 126,
+    "order": "36.92307692307691979750",
+    "lb_id": "lb-00117",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 3,
+        "value": "Lamberg, Johann Maximilian von",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "not_before": "1657-09-05",
+    "not_after": "1657-09-05",
+    "written_date": "5. September 1657",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 1,
+        "value": "OÖLA",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "collection": "HA Steyr",
+    "signatur": "K. 1232 , Fasz. 21, Nr. 325/19",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "status_metadaten": {
+      "id": 23023,
+      "value": "angelegt",
+      "color": "darker-red"
+    },
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 69,
+        "value": "Praha",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "placename_written": "Praag",
+    "destination": [],
+    "hand": [],
+    "mentioned_as": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_plave": [
+      {
+        "id": 72,
+        "value": "Madrid",
+        "order": "14.00000000000000000000"
+      }
+    ],
+    "received_date": "1657-10-17",
+    "related_letters": []
+  },
+  "127": {
+    "id": 127,
+    "order": "36.92857142857143060155",
+    "lb_id": "lb-00118",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 3,
+        "value": "Lamberg, Johann Maximilian von",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "not_before": "1657-09-12",
+    "not_after": "1657-09-12",
+    "written_date": "12. September 1657",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 1,
+        "value": "OÖLA",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "collection": "HA Steyr",
+    "signatur": "K. 1232 , Fasz. 21, Nr. 325/20",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "status_metadaten": {
+      "id": 23023,
+      "value": "angelegt",
+      "color": "darker-red"
+    },
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 69,
+        "value": "Praha",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "placename_written": "Praag",
+    "destination": [],
+    "hand": [],
+    "mentioned_as": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_plave": [
+      {
+        "id": 72,
+        "value": "Madrid",
+        "order": "14.00000000000000000000"
+      }
+    ],
+    "received_date": "1657-10-29",
+    "related_letters": []
+  },
+  "129": {
+    "id": 129,
+    "order": "36.93333333333333001747",
+    "lb_id": "lb-00119",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 3,
+        "value": "Lamberg, Johann Maximilian von",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "not_before": "1657-10-24",
+    "not_after": "1657-10-24",
+    "written_date": "24. Oktober 1657",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 1,
+        "value": "OÖLA",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "collection": "HA Steyr",
+    "signatur": "K. 1232 , Fasz. 21, Nr. 325/21",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "status_metadaten": {
+      "id": 23023,
+      "value": "angelegt",
+      "color": "darker-red"
+    },
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 69,
+        "value": "Praha",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "placename_written": "Praag",
+    "destination": [],
+    "hand": [],
+    "mentioned_as": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_plave": [],
+    "received_date": null,
+    "related_letters": []
+  },
+  "131": {
+    "id": 131,
+    "order": "36.93548387096774376914",
+    "lb_id": "lb-00120",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 3,
+        "value": "Lamberg, Johann Maximilian von",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "not_before": "1657-11-14",
+    "not_after": "1657-11-14",
+    "written_date": "14. November 1657",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 1,
+        "value": "OÖLA",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "collection": "HA Steyr",
+    "signatur": "K. 1232 , Fasz. 21, Nr. 325/22",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "status_metadaten": {
+      "id": 23023,
+      "value": "angelegt",
+      "color": "darker-red"
+    },
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 69,
+        "value": "Praha",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "placename_written": "Praag",
+    "destination": [],
+    "hand": [],
+    "mentioned_as": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_plave": [
+      {
+        "id": 72,
+        "value": "Madrid",
+        "order": "14.00000000000000000000"
+      }
+    ],
+    "received_date": "1657-12-25",
+    "related_letters": []
+  },
+  "130": {
+    "id": 130,
+    "order": "36.93750000000000000000",
+    "lb_id": "lb-00121",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 3,
+        "value": "Lamberg, Johann Maximilian von",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "not_before": "1657-11-07",
+    "not_after": "1657-11-07",
+    "written_date": "7. November 1657",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 1,
+        "value": "OÖLA",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "collection": "HA Steyr",
+    "signatur": "K. 1232 , Fasz. 21, Nr. 325/47",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "status_metadaten": {
+      "id": 23023,
+      "value": "angelegt",
+      "color": "darker-red"
+    },
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 69,
+        "value": "Praha",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "placename_written": "Praag",
+    "destination": [],
+    "hand": [],
+    "mentioned_as": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_plave": [
+      {
+        "id": 72,
+        "value": "Madrid",
+        "order": "14.00000000000000000000"
+      }
+    ],
+    "received_date": "1657-12-28",
+    "related_letters": []
+  },
+  "132": {
+    "id": 132,
+    "order": "36.94117647058823195039",
+    "lb_id": "lb-00122",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 3,
+        "value": "Lamberg, Johann Maximilian von",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "not_before": "1657-12-26",
+    "not_after": "1657-12-26",
+    "written_date": "26. Dezember 1657",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 1,
+        "value": "OÖLA",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "collection": "HA Steyr",
+    "signatur": "K. 1232 , Fasz. 21, Nr. 325/49",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "status_metadaten": {
+      "id": 23023,
+      "value": "angelegt",
+      "color": "darker-red"
+    },
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 69,
+        "value": "Praha",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "placename_written": "Praag",
+    "destination": [],
+    "hand": [],
+    "mentioned_as": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_plave": [
+      {
+        "id": 72,
+        "value": "Madrid",
+        "order": "14.00000000000000000000"
+      }
+    ],
+    "received_date": "1658-02-06",
+    "related_letters": []
+  },
+  "133": {
+    "id": 133,
+    "order": "36.94444444444444286546",
+    "lb_id": "lb-00123",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 3,
+        "value": "Lamberg, Johann Maximilian von",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "not_before": "1657-12-19",
+    "not_after": "1657-12-19",
+    "written_date": "19. Dezember 1657",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 1,
+        "value": "OÖLA",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "collection": "HA Steyr",
+    "signatur": "K. 1232 , Fasz. 21, Nr. 325/50",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "2",
+    "copy_of": [],
+    "concept_for": [],
+    "status_metadaten": {
+      "id": 23023,
+      "value": "angelegt",
+      "color": "darker-red"
+    },
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 69,
+        "value": "Praha",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "placename_written": "Praag",
+    "destination": [],
+    "hand": [],
+    "mentioned_as": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_plave": [],
+    "received_date": null,
+    "related_letters": []
+  },
+  "134": {
+    "id": 134,
+    "order": "36.94736842105263008307",
+    "lb_id": "lb-00124",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 3,
+        "value": "Lamberg, Johann Maximilian von",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "not_before": "1657-12-19",
+    "not_after": "1657-12-19",
+    "written_date": "19. Dezember 1657",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 1,
+        "value": "OÖLA",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "collection": "HA Steyr",
+    "signatur": "K. 1232 , Fasz. 21, Nr. 325/71",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "status_metadaten": {
+      "id": 23023,
+      "value": "angelegt",
+      "color": "darker-red"
+    },
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 69,
+        "value": "Praha",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "placename_written": "Praag",
+    "destination": [],
+    "hand": [],
+    "mentioned_as": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_plave": [
+      {
+        "id": 72,
+        "value": "Madrid",
+        "order": "14.00000000000000000000"
+      }
+    ],
+    "received_date": "1658-01-30",
+    "related_letters": []
+  },
+  "136": {
+    "id": 136,
+    "order": "36.94871794871794890014",
+    "lb_id": "lb-00125",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 3,
+        "value": "Lamberg, Johann Maximilian von",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "not_before": "1658-01-16",
+    "not_after": "1658-01-16",
+    "written_date": "16. Jänner 1658",
+    "date_note": "Irrtümlich: 16. Jan. 1657",
+    "archiv": [
+      {
+        "id": 1,
+        "value": "OÖLA",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "collection": "HA Steyr",
+    "signatur": "K. 1232 , Fasz. 21, Nr. 325/",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "status_metadaten": {
+      "id": 23023,
+      "value": "angelegt",
+      "color": "darker-red"
+    },
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 69,
+        "value": "Praha",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "placename_written": "Prag",
+    "destination": [],
+    "hand": [],
+    "mentioned_as": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_plave": [
+      {
+        "id": 72,
+        "value": "Madrid",
+        "order": "14.00000000000000000000"
+      }
+    ],
+    "received_date": "1658-03-12",
+    "related_letters": []
+  },
+  "137": {
+    "id": 137,
+    "order": "36.94915254237287882688",
+    "lb_id": "",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 3,
+        "value": "Lamberg, Johann Maximilian von",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "not_before": null,
+    "not_after": null,
+    "written_date": "",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 1,
+        "value": "OÖLA",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "collection": "HA Steyr",
+    "signatur": "K. 1232 , Fasz. 21, Nr. 325/",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "status_metadaten": {
+      "id": 23023,
+      "value": "angelegt",
+      "color": "darker-red"
+    },
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 69,
+        "value": "Praha",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "placename_written": "Praag",
+    "destination": [],
+    "hand": [],
+    "mentioned_as": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_plave": [
+      {
+        "id": 72,
+        "value": "Madrid",
+        "order": "14.00000000000000000000"
+      }
+    ],
+    "received_date": null,
+    "related_letters": []
+  },
+  "135": {
+    "id": 135,
+    "order": "36.95000000000000284217",
+    "lb_id": "",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 3,
+        "value": "Lamberg, Johann Maximilian von",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "not_before": null,
+    "not_after": null,
+    "written_date": "",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 1,
+        "value": "OÖLA",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "collection": "HA Steyr",
+    "signatur": "K. 1232 , Fasz. 21, Nr. 325/",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "status_metadaten": {
+      "id": 23023,
+      "value": "angelegt",
+      "color": "darker-red"
+    },
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 69,
+        "value": "Praha",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "placename_written": "Praag",
+    "destination": [],
+    "hand": [],
+    "mentioned_as": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_plave": [
+      {
+        "id": 72,
+        "value": "Madrid",
+        "order": "14.00000000000000000000"
+      }
+    ],
+    "received_date": null,
+    "related_letters": []
+  },
   "109": {
     "id": 109,
     "order": "37.00000000000000000000",
+    "lb_id": "",
+    "sender": [],
+    "receiver": [],
+    "not_before": null,
+    "not_after": null,
+    "written_date": "",
+    "date_note": "",
+    "archiv": [],
+    "collection": "",
+    "signatur": "",
+    "kind": [],
+    "main_language": null,
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "status_metadaten": {
+      "id": 23023,
+      "value": "angelegt",
+      "color": "darker-red"
+    },
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [],
+    "placename_written": "",
+    "destination": [],
+    "hand": [],
+    "mentioned_as": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_plave": [],
+    "received_date": null,
+    "related_letters": []
+  },
+  "115": {
+    "id": 115,
+    "order": "38.00000000000000000000",
     "lb_id": "",
     "sender": [],
     "receiver": [],
