@@ -1,6 +1,7 @@
 import glob
 import json
 import os
+import re
 
 import jinja2
 import lxml.etree as ET
@@ -12,6 +13,14 @@ templateEnv = jinja2.Environment(
     loader=templateLoader, trim_blocks=True, lstrip_blocks=True
 )
 out_dir = os.path.join("data/indices")
+
+
+def convert_event_markup(text):
+    if not isinstance(text, str):
+        return text
+    text = re.sub(r"~~(.*?)~~", r'<hi rend="del">\1</hi>', text)
+    return re.sub(r"\[([^\]]+)\]", r'<hi rend="unclear">\1</hi>', text)
+
 
 os.makedirs(out_dir, exist_ok=True)
 files = glob.glob("./json_dumps/*.json")
@@ -29,6 +38,9 @@ for x in files:
     except jinja2.exceptions.TemplateNotFound:
         continue
     xml_name = os.path.join(out_dir, template_name)
+    if template_name == "listcalendar_entrie.xml":
+        for item in context["objects"]:
+            item["text"] = convert_event_markup(item.get("text"))
     xml_data = template.render(context).replace("&", "&amp;")
     doc = TeiReader(xml_data)
     for idno in doc.any_xpath(".//tei:body//tei:idno"):

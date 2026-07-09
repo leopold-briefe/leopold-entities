@@ -1,5 +1,6 @@
 import os
-from config import br_client, BASEROW_DB_ID, JSON_FOLDER
+
+from config import BASEROW_DB_ID, JSON_FOLDER, br_client
 
 os.makedirs(JSON_FOLDER, exist_ok=True)
 
