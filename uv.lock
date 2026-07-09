@@ -12,14 +12,14 @@ resolution-markers = [
 
 [[package]]
 name = "acdh-arche-assets"
-version = "3.28.1"
+version = "3.31.3"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "importlib-resources" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/c2/c4/d033ce5326979bbaedf99a740fcd7668e2e23c2d7e5b317db1a19c480501/acdh_arche_assets-3.28.1.tar.gz", hash = "sha256:2b50f15754e17b7321aec360fb7cc8110ad58f8696e2fc3267aa3e8236d10f64", size = 11109, upload-time = "2026-04-14T10:07:25.868Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/93/c1/671e2334866d66f637f7ab66e5d45ddc898da9764693d99f3323cc86545e/acdh_arche_assets-3.31.3.tar.gz", hash = "sha256:f277d39e12c0bc191e046c241d747de10a7ff8257f49787843e989202b648dcf", size = 11380, upload-time = "2026-06-16T09:10:51.741Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/50/dc/9e38f784892f8418fdb9d84a621b28c78214ebe588d8eb12ed22d4d80cd3/acdh_arche_assets-3.28.1-py3-none-any.whl", hash = "sha256:49a16a59aaac50c0ac9e8e0796cc78ba20fa5d6ef61d3869101e2e8f077889a8", size = 12621, upload-time = "2026-04-14T10:07:24.999Z" },
+    { url = "https://files.pythonhosted.org/packages/68/22/7c94f51f00c4376cced72b18a355a061a47147c03430a25e56a288050f03/acdh_arche_assets-3.31.3-py3-none-any.whl", hash = "sha256:9258cc2e880f20e6ad1a56dbf6c436d92f51679a054fe7c8120619652f546e66", size = 12849, upload-time = "2026-06-16T09:10:50.596Z" },
 ]
 
 [[package]]
@@ -213,7 +213,7 @@ dev = [
 
 [package.metadata]
 requires-dist = [
-    { name = "acdh-arche-assets", specifier = ">=3.28.1" },
+    { name = "acdh-arche-assets", specifier = ">=3.31.3" },
     { name = "acdh-baserow-pyutils", specifier = ">=0.11.0" },
     { name = "acdh-geonames-utils", specifier = ">=0.5.0" },
     { name = "acdh-tei-pyutils", specifier = ">=1.6" },

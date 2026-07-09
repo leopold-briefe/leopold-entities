@@ -41,4 +41,18 @@ for x in files:
     ET.indent(doc.any_xpath(".")[0], space="   ")
     doc.tree_to_file(xml_name)
 
+
+search = """<?xml version='1.0' encoding='UTF-8'?>"""
+replace = """<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>"""
+
+for x in glob.glob(f"{out_dir}/*.xml"):
+    with open(x, "r", encoding="utf-8") as f:
+        xml_text = f.read()
+    if search in xml_text and "<?xml-model" not in xml_text:
+        xml_text = xml_text.replace(search, replace, 1)
+        with open(x, "w", encoding="utf-8") as f:
+            f.write(xml_text)
+
 os.rename("data/indices/listcalendar_entrie.xml", "data/indices/listevent.xml")

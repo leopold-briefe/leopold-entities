@@ -1,4 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -31,9 +33,11 @@
                   <label>1657-01-01</label>
                   <desc>Den ersten Januarij 1657 ein brief ~~in~~ nach Mantova gschriben.</desc>
                   <listPlace>
-                     <place key="lb-place-37">
-                        <placeName>Mantova</placeName>
-                        <geo>45.16031 10.79784</geo>
+                     <place>
+                        <placeName key="lb-place-37">Mantova</placeName>
+                        <location>
+                           <geo>45.16031 10.79784</geo>
+                        </location>
                      </place>
                   </listPlace>
                </event>
@@ -41,9 +45,11 @@
                   <label>1657-01-03</label>
                   <desc>Den 3. dito 3 schreiben in Bayrn geschriben.</desc>
                   <listPlace>
-                     <place key="lb-place-38">
-                        <placeName>Bayern</placeName>
-                        <geo>49.00000 11.50000</geo>
+                     <place>
+                        <placeName key="lb-place-38">Bayern</placeName>
+                        <location>
+                           <geo>49.00000 11.50000</geo>
+                        </location>
                      </place>
                   </listPlace>
                </event>
@@ -51,9 +57,11 @@
                   <label>1657-01-10</label>
                   <desc>Den 10. dito ein in Bayrn geschriben.</desc>
                   <listPlace>
-                     <place key="lb-place-38">
-                        <placeName>Bayern</placeName>
-                        <geo>49.00000 11.50000</geo>
+                     <place>
+                        <placeName key="lb-place-38">Bayern</placeName>
+                        <location>
+                           <geo>49.00000 11.50000</geo>
+                        </location>
                      </place>
                   </listPlace>
                </event>
@@ -61,13 +69,17 @@
                   <label>1657-01-17</label>
                   <desc>Den 17. dito ein brief in Spanien vnd 2 in Bayrn geschriben.</desc>
                   <listPlace>
-                     <place key="lb-place-38">
-                        <placeName>Bayern</placeName>
-                        <geo>49.00000 11.50000</geo>
+                     <place>
+                        <placeName key="lb-place-38">Bayern</placeName>
+                        <location>
+                           <geo>49.00000 11.50000</geo>
+                        </location>
                      </place>
-                     <place key="lb-place-39">
-                        <placeName>Spanien</placeName>
-                        <geo>40.00000 -4.00000</geo>
+                     <place>
+                        <placeName key="lb-place-39">Spanien</placeName>
+                        <location>
+                           <geo>40.00000 -4.00000</geo>
+                        </location>
                      </place>
                   </listPlace>
                </event>
@@ -75,9 +87,11 @@
                   <label>1657-01-20</label>
                   <desc>Den 20. ein brief auf Mantova geschriben.</desc>
                   <listPlace>
-                     <place key="lb-place-37">
-                        <placeName>Mantova</placeName>
-                        <geo>45.16031 10.79784</geo>
+                     <place>
+                        <placeName key="lb-place-37">Mantova</placeName>
+                        <location>
+                           <geo>45.16031 10.79784</geo>
+                        </location>
                      </place>
                   </listPlace>
                </event>
@@ -85,9 +99,11 @@
                   <label>1657-01-31</label>
                   <desc>Den 31. ein in Beyrn geschriben.</desc>
                   <listPlace>
-                     <place key="lb-place-38">
-                        <placeName>Bayern</placeName>
-                        <geo>49.00000 11.50000</geo>
+                     <place>
+                        <placeName key="lb-place-38">Bayern</placeName>
+                        <location>
+                           <geo>49.00000 11.50000</geo>
+                        </location>
                      </place>
                   </listPlace>
                </event>
@@ -95,13 +111,17 @@
                   <label>1657-02-07</label>
                   <desc>Den 7. Februarij a[nn]i 1657 hab ich ein brief in Bayrn vnd e 2 in Spanien geschriben.</desc>
                   <listPlace>
-                     <place key="lb-place-38">
-                        <placeName>Bayern</placeName>
-                        <geo>49.00000 11.50000</geo>
+                     <place>
+                        <placeName key="lb-place-38">Bayern</placeName>
+                        <location>
+                           <geo>49.00000 11.50000</geo>
+                        </location>
                      </place>
-                     <place key="lb-place-39">
-                        <placeName>Spanien</placeName>
-                        <geo>40.00000 -4.00000</geo>
+                     <place>
+                        <placeName key="lb-place-39">Spanien</placeName>
+                        <location>
+                           <geo>40.00000 -4.00000</geo>
+                        </location>
                      </place>
                   </listPlace>
                </event>
@@ -109,13 +129,17 @@
                   <label>1657-02-14</label>
                   <desc>Den 14. dito […]. Nachmittag 2 brief in Bayrn vnd ein in Spanien gschriben.</desc>
                   <listPlace>
-                     <place key="lb-place-38">
-                        <placeName>Bayern</placeName>
-                        <geo>49.00000 11.50000</geo>
+                     <place>
+                        <placeName key="lb-place-38">Bayern</placeName>
+                        <location>
+                           <geo>49.00000 11.50000</geo>
+                        </location>
                      </place>
-                     <place key="lb-place-39">
-                        <placeName>Spanien</placeName>
-                        <geo>40.00000 -4.00000</geo>
+                     <place>
+                        <placeName key="lb-place-39">Spanien</placeName>
+                        <location>
+                           <geo>40.00000 -4.00000</geo>
+                        </location>
                      </place>
                   </listPlace>
                </event>
@@ -123,9 +147,11 @@
                   <label>1657-02-21</label>
                   <desc>Den 21. dito ein brief in Bayrn geschriben.</desc>
                   <listPlace>
-                     <place key="lb-place-38">
-                        <placeName>Bayern</placeName>
-                        <geo>49.00000 11.50000</geo>
+                     <place>
+                        <placeName key="lb-place-38">Bayern</placeName>
+                        <location>
+                           <geo>49.00000 11.50000</geo>
+                        </location>
                      </place>
                   </listPlace>
                </event>
@@ -133,13 +159,17 @@
                   <label>1657-02-28</label>
                   <desc>Den lezten ein brief in Bayrn vnd 1 in Spanien gschriben.</desc>
                   <listPlace>
-                     <place key="lb-place-38">
-                        <placeName>Bayern</placeName>
-                        <geo>49.00000 11.50000</geo>
+                     <place>
+                        <placeName key="lb-place-38">Bayern</placeName>
+                        <location>
+                           <geo>49.00000 11.50000</geo>
+                        </location>
                      </place>
-                     <place key="lb-place-39">
-                        <placeName>Spanien</placeName>
-                        <geo>40.00000 -4.00000</geo>
+                     <place>
+                        <placeName key="lb-place-39">Spanien</placeName>
+                        <location>
+                           <geo>40.00000 -4.00000</geo>
+                        </location>
                      </place>
                   </listPlace>
                </event>
@@ -147,9 +177,11 @@
                   <label>1657-03-07</label>
                   <desc>Den 7. dito ein brief in Bayrn gschriben.</desc>
                   <listPlace>
-                     <place key="lb-place-38">
-                        <placeName>Bayern</placeName>
-                        <geo>49.00000 11.50000</geo>
+                     <place>
+                        <placeName key="lb-place-38">Bayern</placeName>
+                        <location>
+                           <geo>49.00000 11.50000</geo>
+                        </location>
                      </place>
                   </listPlace>
                </event>
@@ -157,9 +189,11 @@
                   <label>1657-03-14</label>
                   <desc>Den 14. dito ein brief in Spanien gschriben.</desc>
                   <listPlace>
-                     <place key="lb-place-39">
-                        <placeName>Spanien</placeName>
-                        <geo>40.00000 -4.00000</geo>
+                     <place>
+                        <placeName key="lb-place-39">Spanien</placeName>
+                        <location>
+                           <geo>40.00000 -4.00000</geo>
+                        </location>
                      </place>
                   </listPlace>
                </event>
@@ -167,9 +201,11 @@
                   <label>1657-03-21</label>
                   <desc>Den 21. dito ein brief in Bayrn gschriben.</desc>
                   <listPlace>
-                     <place key="lb-place-38">
-                        <placeName>Bayern</placeName>
-                        <geo>49.00000 11.50000</geo>
+                     <place>
+                        <placeName key="lb-place-38">Bayern</placeName>
+                        <location>
+                           <geo>49.00000 11.50000</geo>
+                        </location>
                      </place>
                   </listPlace>
                </event>
@@ -177,13 +213,17 @@
                   <label>1657-03-28</label>
                   <desc>Den 28. dito ein brief in Bayrn vn[d] 1 in Spanien gschriben.</desc>
                   <listPlace>
-                     <place key="lb-place-38">
-                        <placeName>Bayern</placeName>
-                        <geo>49.00000 11.50000</geo>
+                     <place>
+                        <placeName key="lb-place-38">Bayern</placeName>
+                        <location>
+                           <geo>49.00000 11.50000</geo>
+                        </location>
                      </place>
-                     <place key="lb-place-39">
-                        <placeName>Spanien</placeName>
-                        <geo>40.00000 -4.00000</geo>
+                     <place>
+                        <placeName key="lb-place-39">Spanien</placeName>
+                        <location>
+                           <geo>40.00000 -4.00000</geo>
+                        </location>
                      </place>
                   </listPlace>
                </event>
@@ -191,9 +231,11 @@
                   <label>1657-04-06</label>
                   <desc>Den 6. ein brief in Polhen vnd ein nach Mantova geschriben.</desc>
                   <listPlace>
-                     <place key="lb-place-37">
-                        <placeName>Mantova</placeName>
-                        <geo>45.16031 10.79784</geo>
+                     <place>
+                        <placeName key="lb-place-37">Mantova</placeName>
+                        <location>
+                           <geo>45.16031 10.79784</geo>
+                        </location>
                      </place>
                   </listPlace>
                </event>
@@ -201,9 +243,11 @@
                   <label>1657-04-07</label>
                   <desc>Den 7. dito ~~e~~ 2 brief in Spanien gschriben.</desc>
                   <listPlace>
-                     <place key="lb-place-39">
-                        <placeName>Spanien</placeName>
-                        <geo>40.00000 -4.00000</geo>
+                     <place>
+                        <placeName key="lb-place-39">Spanien</placeName>
+                        <location>
+                           <geo>40.00000 -4.00000</geo>
+                        </location>
                      </place>
                   </listPlace>
                </event>
@@ -211,9 +255,11 @@
                   <label>1657-04-18</label>
                   <desc>Den 18. dito ~~e~~ 2 brief in Frankreich gschriben.</desc>
                   <listPlace>
-                     <place key="lb-place-41">
-                        <placeName>Frankreich</placeName>
-                        <geo>46.00000 2.00000</geo>
+                     <place>
+                        <placeName key="lb-place-41">Frankreich</placeName>
+                        <location>
+                           <geo>46.00000 2.00000</geo>
+                        </location>
                      </place>
                   </listPlace>
                </event>
@@ -221,13 +267,17 @@
                   <label>1657-04-25</label>
                   <desc>Den 25. dito ein brief in Bayrn vnd ein in Spanien gschriben.</desc>
                   <listPlace>
-                     <place key="lb-place-38">
-                        <placeName>Bayern</placeName>
-                        <geo>49.00000 11.50000</geo>
+                     <place>
+                        <placeName key="lb-place-38">Bayern</placeName>
+                        <location>
+                           <geo>49.00000 11.50000</geo>
+                        </location>
                      </place>
-                     <place key="lb-place-39">
-                        <placeName>Spanien</placeName>
-                        <geo>40.00000 -4.00000</geo>
+                     <place>
+                        <placeName key="lb-place-39">Spanien</placeName>
+                        <location>
+                           <geo>40.00000 -4.00000</geo>
+                        </location>
                      </place>
                   </listPlace>
                </event>

@@ -1,3 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -31,9 +34,11 @@
                   <label>{{ x.not_before }}</label>
                   <desc>{{ x.text }}</desc>{% if x.places %}
                   <listPlace>{% for p in x.places %}
-                     <place key="{{ p.lb_id }}">
-                        <placeName>{{ p.label }}</placeName>{% if p.latitude %}
-                     <geo>{{ p.latitude }} {{ p.longitude }}</geo>{% endif %}
+                     <place>
+                        <placeName key="{{ p.lb_id }}">{{ p.label }}</placeName>{% if p.latitude %}
+                        <location><geo>{{ p.latitude }} {{ p.longitude }}</geo></location>{% endif %}{% if x.gnd_url|length > 0 %}
+                        <idno type="gnd">{{ p.gnd_url }}</idno>{% endif %}{% if p.wikidata|length > 0 %}
+                        <idno type="wikidata">{{ p.wikidata }}</idno>{% endif %}
                      </place>{% endfor %}
                   </listPlace>{% endif %}
                 </event>
