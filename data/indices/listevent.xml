@@ -31,7 +31,7 @@
                <head>Briefkalender</head>
                <event xml:id="lb-cal-1">
                   <label>1657-01-01</label>
-                  <desc>Den ersten Januarij 1657 ein brief ~~in~~ nach Mantova gschriben.</desc>
+                  <desc>Den ersten Januarij 1657 ein brief <hi rend="del">in</hi> nach Mantova gschriben.</desc>
                   <listPlace>
                      <place>
                         <placeName key="lb-place-37">Mantova</placeName>
@@ -109,7 +109,7 @@
                </event>
                <event xml:id="lb-cal-7">
                   <label>1657-02-07</label>
-                  <desc>Den 7. Februarij a[nn]i 1657 hab ich ein brief in Bayrn vnd e 2 in Spanien geschriben.</desc>
+                  <desc>Den 7. Februarij a<hi rend="unclear">nn</hi>i 1657 hab ich ein brief in Bayrn vnd e 2 in Spanien geschriben.</desc>
                   <listPlace>
                      <place>
                         <placeName key="lb-place-38">Bayern</placeName>
@@ -127,7 +127,7 @@
                </event>
                <event xml:id="lb-cal-8">
                   <label>1657-02-14</label>
-                  <desc>Den 14. dito […]. Nachmittag 2 brief in Bayrn vnd ein in Spanien gschriben.</desc>
+                  <desc>Den 14. dito <hi rend="unclear">…</hi>. Nachmittag 2 brief in Bayrn vnd ein in Spanien gschriben.</desc>
                   <listPlace>
                      <place>
                         <placeName key="lb-place-38">Bayern</placeName>
@@ -211,7 +211,7 @@
                </event>
                <event xml:id="lb-cal-43">
                   <label>1657-03-28</label>
-                  <desc>Den 28. dito ein brief in Bayrn vn[d] 1 in Spanien gschriben.</desc>
+                  <desc>Den 28. dito ein brief in Bayrn vn<hi rend="unclear">d</hi> 1 in Spanien gschriben.</desc>
                   <listPlace>
                      <place>
                         <placeName key="lb-place-38">Bayern</placeName>
@@ -241,7 +241,7 @@
                </event>
                <event xml:id="lb-cal-45">
                   <label>1657-04-07</label>
-                  <desc>Den 7. dito ~~e~~ 2 brief in Spanien gschriben.</desc>
+                  <desc>Den 7. dito <hi rend="del">e</hi> 2 brief in Spanien gschriben.</desc>
                   <listPlace>
                      <place>
                         <placeName key="lb-place-39">Spanien</placeName>
@@ -253,7 +253,7 @@
                </event>
                <event xml:id="lb-cal-46">
                   <label>1657-04-18</label>
-                  <desc>Den 18. dito ~~e~~ 2 brief in Frankreich gschriben.</desc>
+                  <desc>Den 18. dito <hi rend="del">e</hi> 2 brief in Frankreich gschriben.</desc>
                   <listPlace>
                      <place>
                         <placeName key="lb-place-41">Frankreich</placeName>
