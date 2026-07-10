@@ -147,6 +147,20 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2925533/</idno>
                </place>
+               <place xml:id="lb-place-108">
+                  <placeName>Laxenburg</placeName>
+                  <location type="coords">
+                     <geo>48.06667 16.36667</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2772809/</idno>
+               </place>
+               <place xml:id="lb-place-109">
+                  <placeName>Graz</placeName>
+                  <location type="coords">
+                     <geo>47.06733 15.44197</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2778067/</idno>
+               </place>
             </listPlace>
          </div>
       </body>

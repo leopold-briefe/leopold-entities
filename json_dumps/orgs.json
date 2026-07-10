@@ -22,7 +22,8 @@
         "longitude": "14.28611",
         "gnd_url": ""
       }
-    ]
+    ],
+    "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
   },
   "2": {
     "id": 2,
@@ -47,7 +48,8 @@
         "longitude": "16.37208",
         "gnd_url": ""
       }
-    ]
+    ],
+    "has_license": ""
   },
   "3": {
     "id": 3,
@@ -72,7 +74,8 @@
         "longitude": "16.37208",
         "gnd_url": ""
       }
-    ]
+    ],
+    "has_license": ""
   },
   "36": {
     "id": 36,
@@ -82,7 +85,8 @@
     "lb_id": "lb-org-36",
     "kind": null,
     "gnd_url": "",
-    "located_in": []
+    "located_in": [],
+    "has_license": ""
   },
   "69": {
     "id": 69,
@@ -92,6 +96,7 @@
     "lb_id": "lb-org-69",
     "kind": null,
     "gnd_url": "",
-    "located_in": []
+    "located_in": [],
+    "has_license": ""
   }
 }

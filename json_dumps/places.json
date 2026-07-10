@@ -168,5 +168,25 @@
     "latitude": "50.11552",
     "longitude": "8.68417",
     "gnd_url": ""
+  },
+  "108": {
+    "id": 108,
+    "order": "18.00000000000000000000",
+    "label": "Laxenburg",
+    "lb_id": "lb-place-108",
+    "geonames_url": "https://www.geonames.org/2772809/schloss-laxenburg.html",
+    "latitude": "48.06667",
+    "longitude": "16.36667",
+    "gnd_url": ""
+  },
+  "109": {
+    "id": 109,
+    "order": "19.00000000000000000000",
+    "label": "Graz",
+    "lb_id": "lb-place-109",
+    "geonames_url": "https://www.geonames.org/2778067/graz.html",
+    "latitude": "47.06733",
+    "longitude": "15.44197",
+    "gnd_url": ""
   }
 }
