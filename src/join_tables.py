@@ -100,3 +100,62 @@ for _, value in seed_data.items():
 
 with open(source_file, "w") as f:
     json.dump(seed_data, f, ensure_ascii=False, indent=2)
+
+
+seed_file = os.path.join(JSON_FOLDER, "places.json")
+source_file = os.path.join(JSON_FOLDER, "letters.json")
+
+with open(seed_file, "r") as f:
+    seed_data = json.load(f)
+
+with open(source_file, "r") as f:
+    source_data = json.load(f)
+
+for key, value in source_data.items():
+    old_values = value["place_of_writing"]
+    new_values = []
+    for x in old_values:
+        new_values.append(seed_data[f"{x['id']}"])
+    value["place_of_writing"] = new_values
+    old_values = value["received_plave"]
+    new_values = []
+    for x in old_values:
+        new_values.append(seed_data[f"{x['id']}"])
+    value["received_plave"] = new_values
+
+seed_file = os.path.join(JSON_FOLDER, "persons.json")
+with open(seed_file, "r") as f:
+    seed_data = json.load(f)
+
+# don't denormalize the sender as it should always be the same person
+# for key, value in source_data.items():
+#     old_values = value["sender"]
+#     new_values = []
+#     for x in old_values:
+#         new_values.append(seed_data[f"{x['id']}"])
+#     value["sender"] = new_values
+
+for key, value in source_data.items():
+    old_values = value["receiver"]
+    new_values = []
+    for x in old_values:
+        new_values.append(seed_data[f"{x['id']}"])
+    value["receiver"] = new_values
+    old_values = value["hand"]
+    new_values = []
+    for x in old_values:
+        new_values.append(seed_data[f"{x['id']}"])
+    value["hand"] = new_values
+
+seed_file = os.path.join(JSON_FOLDER, "orgs.json")
+with open(seed_file, "r") as f:
+    seed_data = json.load(f)
+for key, value in source_data.items():
+    old_values = value["archiv"]
+    new_values = []
+    for x in old_values:
+        new_values.append(seed_data[f"{x['id']}"])
+    value["archiv"] = new_values
+
+with open(source_file, "w") as f:
+    json.dump(source_data, f, ensure_ascii=False, indent=2)
