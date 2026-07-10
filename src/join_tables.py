@@ -117,11 +117,11 @@ for key, value in source_data.items():
     for x in old_values:
         new_values.append(seed_data[f"{x['id']}"])
     value["place_of_writing"] = new_values
-    old_values = value["received_plave"]
+    old_values = value["received_place"]
     new_values = []
     for x in old_values:
         new_values.append(seed_data[f"{x['id']}"])
-    value["received_plave"] = new_values
+    value["received_place"] = new_values
 
 seed_file = os.path.join(JSON_FOLDER, "persons.json")
 with open(seed_file, "r") as f:
