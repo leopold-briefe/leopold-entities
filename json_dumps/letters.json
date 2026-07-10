@@ -76,7 +76,7 @@
     "volume": null,
     "number": null,
     "page": null,
-    "received_plave": [],
+    "received_place": [],
     "received_date": null,
     "related_letters": [
       {
@@ -186,7 +186,7 @@
     "volume": null,
     "number": null,
     "page": null,
-    "received_plave": [],
+    "received_place": [],
     "received_date": null,
     "related_letters": []
   },
@@ -273,7 +273,7 @@
     "volume": null,
     "number": null,
     "page": null,
-    "received_plave": [],
+    "received_place": [],
     "received_date": null,
     "related_letters": []
   },
@@ -365,7 +365,7 @@
     "volume": null,
     "number": null,
     "page": null,
-    "received_plave": [],
+    "received_place": [],
     "received_date": null,
     "related_letters": [
       {
@@ -488,7 +488,7 @@
     "volume": null,
     "number": null,
     "page": null,
-    "received_plave": [],
+    "received_place": [],
     "received_date": null,
     "related_letters": []
   },
@@ -580,7 +580,7 @@
     "volume": null,
     "number": null,
     "page": null,
-    "received_plave": [],
+    "received_place": [],
     "received_date": null,
     "related_letters": [
       {
@@ -701,7 +701,7 @@
     "volume": null,
     "number": null,
     "page": null,
-    "received_plave": [],
+    "received_place": [],
     "received_date": null,
     "related_letters": []
   },
@@ -799,7 +799,7 @@
     "volume": null,
     "number": null,
     "page": null,
-    "received_plave": [],
+    "received_place": [],
     "received_date": null,
     "related_letters": []
   },
@@ -891,7 +891,7 @@
     "volume": null,
     "number": null,
     "page": null,
-    "received_plave": [],
+    "received_place": [],
     "received_date": null,
     "related_letters": [
       {
@@ -1012,7 +1012,7 @@
     "volume": null,
     "number": null,
     "page": null,
-    "received_plave": [],
+    "received_place": [],
     "received_date": null,
     "related_letters": []
   },
@@ -1110,7 +1110,7 @@
     "volume": null,
     "number": null,
     "page": null,
-    "received_plave": [],
+    "received_place": [],
     "received_date": null,
     "related_letters": []
   },
@@ -1228,7 +1228,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [
+    "received_place": [
       {
         "id": 72,
         "order": "14.00000000000000000000",
@@ -1357,7 +1357,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [
+    "received_place": [
       {
         "id": 72,
         "order": "14.00000000000000000000",
@@ -1486,7 +1486,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [
+    "received_place": [
       {
         "id": 72,
         "order": "14.00000000000000000000",
@@ -1615,7 +1615,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [
+    "received_place": [
       {
         "id": 72,
         "order": "14.00000000000000000000",
@@ -1744,7 +1744,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [
+    "received_place": [
       {
         "id": 72,
         "order": "14.00000000000000000000",
@@ -1873,7 +1873,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [
+    "received_place": [
       {
         "id": 72,
         "order": "14.00000000000000000000",
@@ -2002,7 +2002,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [
+    "received_place": [
       {
         "id": 72,
         "order": "14.00000000000000000000",
@@ -2131,7 +2131,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [
+    "received_place": [
       {
         "id": 72,
         "order": "14.00000000000000000000",
@@ -2260,7 +2260,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [
+    "received_place": [
       {
         "id": 72,
         "order": "14.00000000000000000000",
@@ -2389,7 +2389,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [
+    "received_place": [
       {
         "id": 72,
         "order": "14.00000000000000000000",
@@ -2518,7 +2518,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [
+    "received_place": [
       {
         "id": 72,
         "order": "14.00000000000000000000",
@@ -2647,7 +2647,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [
+    "received_place": [
       {
         "id": 72,
         "order": "14.00000000000000000000",
@@ -2776,7 +2776,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [
+    "received_place": [
       {
         "id": 72,
         "order": "14.00000000000000000000",
@@ -2905,7 +2905,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [
+    "received_place": [
       {
         "id": 72,
         "order": "14.00000000000000000000",
@@ -3034,7 +3034,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [
+    "received_place": [
       {
         "id": 72,
         "order": "14.00000000000000000000",
@@ -3163,7 +3163,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [
+    "received_place": [
       {
         "id": 72,
         "order": "14.00000000000000000000",
@@ -3292,7 +3292,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [
+    "received_place": [
       {
         "id": 72,
         "order": "14.00000000000000000000",
@@ -3421,7 +3421,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [
+    "received_place": [
       {
         "id": 72,
         "order": "14.00000000000000000000",
@@ -3550,7 +3550,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [],
+    "received_place": [],
     "received_date": null,
     "related_letters": []
   },
@@ -3668,7 +3668,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [
+    "received_place": [
       {
         "id": 72,
         "order": "14.00000000000000000000",
@@ -3797,7 +3797,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [
+    "received_place": [
       {
         "id": 72,
         "order": "14.00000000000000000000",
@@ -3926,7 +3926,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [
+    "received_place": [
       {
         "id": 72,
         "order": "14.00000000000000000000",
@@ -4055,7 +4055,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [],
+    "received_place": [],
     "received_date": null,
     "related_letters": []
   },
@@ -4173,7 +4173,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [
+    "received_place": [
       {
         "id": 72,
         "order": "14.00000000000000000000",
@@ -4302,7 +4302,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [
+    "received_place": [
       {
         "id": 72,
         "order": "14.00000000000000000000",
@@ -4431,7 +4431,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [
+    "received_place": [
       {
         "id": 72,
         "order": "14.00000000000000000000",
@@ -4560,7 +4560,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [
+    "received_place": [
       {
         "id": 72,
         "order": "14.00000000000000000000",
@@ -4689,7 +4689,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [
+    "received_place": [
       {
         "id": 72,
         "order": "14.00000000000000000000",
@@ -4818,7 +4818,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [],
+    "received_place": [],
     "received_date": null,
     "related_letters": []
   },
@@ -4936,7 +4936,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [
+    "received_place": [
       {
         "id": 72,
         "order": "14.00000000000000000000",
@@ -5065,7 +5065,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [
+    "received_place": [
       {
         "id": 72,
         "order": "14.00000000000000000000",
@@ -5194,7 +5194,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [
+    "received_place": [
       {
         "id": 72,
         "order": "14.00000000000000000000",
@@ -5323,7 +5323,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [
+    "received_place": [
       {
         "id": 72,
         "order": "14.00000000000000000000",
@@ -5452,7 +5452,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [
+    "received_place": [
       {
         "id": 72,
         "order": "14.00000000000000000000",
@@ -5581,7 +5581,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [
+    "received_place": [
       {
         "id": 72,
         "order": "14.00000000000000000000",
@@ -5710,7 +5710,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [
+    "received_place": [
       {
         "id": 72,
         "order": "14.00000000000000000000",
@@ -5839,7 +5839,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [
+    "received_place": [
       {
         "id": 72,
         "order": "14.00000000000000000000",
@@ -5968,7 +5968,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [
+    "received_place": [
       {
         "id": 72,
         "order": "14.00000000000000000000",
@@ -6097,7 +6097,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [
+    "received_place": [
       {
         "id": 72,
         "order": "14.00000000000000000000",
@@ -6226,7 +6226,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [
+    "received_place": [
       {
         "id": 72,
         "order": "14.00000000000000000000",
@@ -6355,7 +6355,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [
+    "received_place": [
       {
         "id": 72,
         "order": "14.00000000000000000000",
@@ -6484,7 +6484,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [
+    "received_place": [
       {
         "id": 72,
         "order": "14.00000000000000000000",
@@ -6613,7 +6613,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [
+    "received_place": [
       {
         "id": 72,
         "order": "14.00000000000000000000",
@@ -6742,7 +6742,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [
+    "received_place": [
       {
         "id": 72,
         "order": "14.00000000000000000000",
@@ -6871,7 +6871,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [
+    "received_place": [
       {
         "id": 72,
         "order": "14.00000000000000000000",
@@ -7000,7 +7000,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [],
+    "received_place": [],
     "received_date": null,
     "related_letters": []
   },
@@ -7118,7 +7118,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [
+    "received_place": [
       {
         "id": 72,
         "order": "14.00000000000000000000",
@@ -7247,7 +7247,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [
+    "received_place": [
       {
         "id": 72,
         "order": "14.00000000000000000000",
@@ -7376,7 +7376,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [
+    "received_place": [
       {
         "id": 72,
         "order": "14.00000000000000000000",
@@ -7505,7 +7505,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [
+    "received_place": [
       {
         "id": 72,
         "order": "14.00000000000000000000",
@@ -7634,7 +7634,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [
+    "received_place": [
       {
         "id": 72,
         "order": "14.00000000000000000000",
@@ -7763,7 +7763,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [
+    "received_place": [
       {
         "id": 72,
         "order": "14.00000000000000000000",
@@ -7892,7 +7892,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [
+    "received_place": [
       {
         "id": 72,
         "order": "14.00000000000000000000",
@@ -8021,7 +8021,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [
+    "received_place": [
       {
         "id": 72,
         "order": "14.00000000000000000000",
@@ -8150,7 +8150,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [
+    "received_place": [
       {
         "id": 72,
         "order": "14.00000000000000000000",
@@ -8279,7 +8279,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [
+    "received_place": [
       {
         "id": 72,
         "order": "14.00000000000000000000",
@@ -8408,7 +8408,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [
+    "received_place": [
       {
         "id": 72,
         "order": "14.00000000000000000000",
@@ -8537,7 +8537,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [
+    "received_place": [
       {
         "id": 72,
         "order": "14.00000000000000000000",
@@ -8666,7 +8666,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [
+    "received_place": [
       {
         "id": 72,
         "order": "14.00000000000000000000",
@@ -8795,7 +8795,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [
+    "received_place": [
       {
         "id": 72,
         "order": "14.00000000000000000000",
@@ -8924,7 +8924,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [
+    "received_place": [
       {
         "id": 72,
         "order": "14.00000000000000000000",
@@ -9053,7 +9053,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [
+    "received_place": [
       {
         "id": 72,
         "order": "14.00000000000000000000",
@@ -9182,7 +9182,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [],
+    "received_place": [],
     "received_date": null,
     "related_letters": []
   },
@@ -9300,7 +9300,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [
+    "received_place": [
       {
         "id": 72,
         "order": "14.00000000000000000000",
@@ -9429,7 +9429,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [
+    "received_place": [
       {
         "id": 72,
         "order": "14.00000000000000000000",
@@ -9558,7 +9558,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [
+    "received_place": [
       {
         "id": 72,
         "order": "14.00000000000000000000",
@@ -9676,7 +9676,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [],
+    "received_place": [],
     "received_date": null,
     "related_letters": []
   },
@@ -9794,7 +9794,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [
+    "received_place": [
       {
         "id": 72,
         "order": "14.00000000000000000000",
@@ -9923,7 +9923,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [
+    "received_place": [
       {
         "id": 72,
         "order": "14.00000000000000000000",
@@ -10052,7 +10052,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [
+    "received_place": [
       {
         "id": 72,
         "order": "14.00000000000000000000",
@@ -10170,7 +10170,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [],
+    "received_place": [],
     "received_date": null,
     "related_letters": []
   },
@@ -10288,7 +10288,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [
+    "received_place": [
       {
         "id": 72,
         "order": "14.00000000000000000000",
@@ -10406,7 +10406,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [],
+    "received_place": [],
     "received_date": null,
     "related_letters": []
   },
@@ -10524,7 +10524,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [
+    "received_place": [
       {
         "id": 72,
         "order": "14.00000000000000000000",
@@ -10653,7 +10653,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [
+    "received_place": [
       {
         "id": 72,
         "order": "14.00000000000000000000",
@@ -10782,7 +10782,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [
+    "received_place": [
       {
         "id": 72,
         "order": "14.00000000000000000000",
@@ -10911,7 +10911,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [
+    "received_place": [
       {
         "id": 72,
         "order": "14.00000000000000000000",
@@ -11040,7 +11040,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [
+    "received_place": [
       {
         "id": 72,
         "order": "14.00000000000000000000",
@@ -11158,7 +11158,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [],
+    "received_place": [],
     "received_date": null,
     "related_letters": []
   },
@@ -11276,7 +11276,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [
+    "received_place": [
       {
         "id": 72,
         "order": "14.00000000000000000000",
@@ -11394,7 +11394,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [],
+    "received_place": [],
     "received_date": null,
     "related_letters": []
   },
@@ -11512,7 +11512,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [
+    "received_place": [
       {
         "id": 72,
         "order": "14.00000000000000000000",
@@ -11641,7 +11641,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [
+    "received_place": [
       {
         "id": 1,
         "order": "1.00000000000000000000",
@@ -11770,7 +11770,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [
+    "received_place": [
       {
         "id": 72,
         "order": "14.00000000000000000000",
@@ -11899,7 +11899,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [
+    "received_place": [
       {
         "id": 72,
         "order": "14.00000000000000000000",
@@ -12028,7 +12028,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [
+    "received_place": [
       {
         "id": 72,
         "order": "14.00000000000000000000",
@@ -12157,7 +12157,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [
+    "received_place": [
       {
         "id": 72,
         "order": "14.00000000000000000000",
@@ -12286,7 +12286,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [
+    "received_place": [
       {
         "id": 72,
         "order": "14.00000000000000000000",
@@ -12415,7 +12415,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [
+    "received_place": [
       {
         "id": 72,
         "order": "14.00000000000000000000",
@@ -12544,7 +12544,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [
+    "received_place": [
       {
         "id": 72,
         "order": "14.00000000000000000000",
@@ -12673,7 +12673,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [
+    "received_place": [
       {
         "id": 72,
         "order": "14.00000000000000000000",
@@ -12802,7 +12802,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [
+    "received_place": [
       {
         "id": 72,
         "order": "14.00000000000000000000",
@@ -12931,7 +12931,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [
+    "received_place": [
       {
         "id": 72,
         "order": "14.00000000000000000000",
@@ -13060,7 +13060,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [
+    "received_place": [
       {
         "id": 72,
         "order": "14.00000000000000000000",
@@ -13189,7 +13189,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [
+    "received_place": [
       {
         "id": 72,
         "order": "14.00000000000000000000",
@@ -13318,7 +13318,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [
+    "received_place": [
       {
         "id": 72,
         "order": "14.00000000000000000000",
@@ -13447,7 +13447,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [
+    "received_place": [
       {
         "id": 72,
         "order": "14.00000000000000000000",
@@ -13576,7 +13576,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [
+    "received_place": [
       {
         "id": 72,
         "order": "14.00000000000000000000",
@@ -13705,7 +13705,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [
+    "received_place": [
       {
         "id": 72,
         "order": "14.00000000000000000000",
@@ -13834,7 +13834,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [
+    "received_place": [
       {
         "id": 1,
         "order": "1.00000000000000000000",
@@ -13963,7 +13963,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [
+    "received_place": [
       {
         "id": 72,
         "order": "14.00000000000000000000",
@@ -14014,7 +14014,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [],
+    "received_place": [],
     "received_date": null,
     "related_letters": []
   },
@@ -14054,7 +14054,7 @@
     "volume": "",
     "number": "",
     "page": "",
-    "received_plave": [],
+    "received_place": [],
     "received_date": null,
     "related_letters": []
   }
