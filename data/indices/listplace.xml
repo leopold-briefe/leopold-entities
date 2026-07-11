@@ -122,7 +122,7 @@
                <place xml:id="lb-place-72">
                   <placeName>Madrid</placeName>
                   <location type="coords">
-                     <geo>40.41650 3.70256</geo>
+                     <geo>40.41650 -3.70256</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/3117735/</idno>
                </place>
