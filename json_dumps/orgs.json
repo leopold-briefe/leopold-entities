@@ -20,7 +20,8 @@
         "geonames_url": "https://sws.geonames.org/2772400/",
         "latitude": "48.30639",
         "longitude": "14.28611",
-        "gnd_url": ""
+        "gnd_url": "",
+        "mentioned_letters": []
       }
     ],
     "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
@@ -46,7 +47,8 @@
         "geonames_url": "https://sws.geonames.org/2761369/",
         "latitude": "48.20849",
         "longitude": "16.37208",
-        "gnd_url": ""
+        "gnd_url": "",
+        "mentioned_letters": []
       }
     ],
     "has_license": ""
@@ -72,7 +74,8 @@
         "geonames_url": "https://sws.geonames.org/2761369/",
         "latitude": "48.20849",
         "longitude": "16.37208",
-        "gnd_url": ""
+        "gnd_url": "",
+        "mentioned_letters": []
       }
     ],
     "has_license": ""

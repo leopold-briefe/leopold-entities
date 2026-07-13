@@ -1,0 +1,138 @@
+{
+  "1": {
+    "id": 1,
+    "order": "1.00000000000000000000",
+    "not before": "1657-01-01",
+    "not after": null,
+    "addressee": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 37,
+        "value": "Mantova",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "relation_to_original_letter": null,
+    "dictated letter": false
+  },
+  "2": {
+    "id": 2,
+    "order": "2.00000000000000000000",
+    "not before": "1657-01-03",
+    "not after": null,
+    "addressee": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 38,
+        "value": "Bayern",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "relation_to_original_letter": null,
+    "dictated letter": false
+  },
+  "4": {
+    "id": 4,
+    "order": "2.50000000000000000000",
+    "not before": "1657-01-03",
+    "not after": null,
+    "addressee": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 38,
+        "value": "Bayern",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "relation_to_original_letter": "",
+    "dictated letter": false
+  },
+  "3": {
+    "id": 3,
+    "order": "3.00000000000000000000",
+    "not before": "1657-01-03",
+    "not after": null,
+    "addressee": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 38,
+        "value": "Bayern",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "relation_to_original_letter": "",
+    "dictated letter": false
+  },
+  "5": {
+    "id": 5,
+    "order": "4.00000000000000000000",
+    "not before": "1657-01-10",
+    "not after": null,
+    "addressee": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 38,
+        "value": "Bayern",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "relation_to_original_letter": "",
+    "dictated letter": false
+  },
+  "6": {
+    "id": 6,
+    "order": "5.00000000000000000000",
+    "not before": "1657-01-17",
+    "not after": null,
+    "addressee": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 39,
+        "value": "Spanien",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "relation_to_original_letter": "",
+    "dictated letter": false
+  },
+  "7": {
+    "id": 7,
+    "order": "6.00000000000000000000",
+    "not before": "1657-01-17",
+    "not after": null,
+    "addressee": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 38,
+        "value": "Bayern",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "relation_to_original_letter": "",
+    "dictated letter": false
+  },
+  "8": {
+    "id": 8,
+    "order": "7.00000000000000000000",
+    "not before": "1657-01-17",
+    "not after": null,
+    "addressee": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 38,
+        "value": "Bayern",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "relation_to_original_letter": "",
+    "dictated letter": false
+  }
+}
