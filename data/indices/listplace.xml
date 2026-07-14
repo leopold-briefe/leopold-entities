@@ -161,6 +161,12 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2778067/</idno>
                </place>
+               <place xml:id="lb-place-142">
+                  <placeName>Sachsen</placeName>
+               </place>
+               <place xml:id="lb-place-143">
+                  <placeName>Mainz</placeName>
+               </place>
             </listPlace>
          </div>
       </body>
