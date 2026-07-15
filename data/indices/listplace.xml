@@ -167,6 +167,12 @@
                <place xml:id="lb-place-143">
                   <placeName>Mainz</placeName>
                </place>
+               <place xml:id="lb-place-144">
+                  <placeName>Wiener Neustadt</placeName>
+               </place>
+               <place xml:id="lb-place-145">
+                  <placeName>Valladolid</placeName>
+               </place>
             </listPlace>
          </div>
       </body>

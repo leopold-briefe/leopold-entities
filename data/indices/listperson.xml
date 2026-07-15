@@ -89,6 +89,43 @@
                   <persName type="name">Starhemberg, Konrad Balthasar</persName>
                   <idno type="gnd">https://d-nb.info/gnd/117216089</idno>
                </person>
+               <person xml:id="lb-person-75" n="Maria Anna (Mariana) von Österreuch">
+                  <persName type="name">Maria Anna (Mariana) von Österreuch</persName>
+                  <birth>
+                     <date>1634-12-22</date>
+                     <settlement key="lb-place-144">
+                        <placeName>Wiener Neustadt</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1696-05-16</date>
+                     <settlement key="lb-place-72">
+                        <placeName>Madrid</placeName>
+                        <geo>40.41650 -3.70256</geo>
+                        <idno type="geonames">https://sws.geonames.org/3117735/</idno>
+                     </settlement>
+                  </death>
+               </person>
+               <person xml:id="lb-person-76" n="Philipp IV.">
+                  <persName type="name">Philipp IV.</persName>
+                  <birth>
+                     <date>1605-04-08</date>
+                     <settlement key="lb-place-145">
+                        <placeName>Valladolid</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1665-09-17</date>
+                     <settlement key="lb-place-72">
+                        <placeName>Madrid</placeName>
+                        <geo>40.41650 -3.70256</geo>
+                        <idno type="geonames">https://sws.geonames.org/3117735/</idno>
+                     </settlement>
+                  </death>
+               </person>
+               <person xml:id="lb-person-77" n="">
+                  <persName type="name"/>
+               </person>
             </listPerson>
          </div>
       </body>

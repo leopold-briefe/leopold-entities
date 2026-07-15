@@ -336,7 +336,7 @@
       },
       {
         "id": 168,
-        "value": "1657-12-26",
+        "value": "1657-12-29",
         "order": "150.00000000000000000000"
       }
     ]
@@ -893,11 +893,6 @@
         "id": 162,
         "value": "1657-12-26",
         "order": "144.00000000000000000000"
-      },
-      {
-        "id": 163,
-        "value": "1657-12-26",
-        "order": "145.00000000000000000000"
       }
     ]
   },
@@ -1079,9 +1074,31 @@
     "mentioned_letters": [
       {
         "id": 169,
-        "value": "1657-12-26",
+        "value": "1657-12-29",
         "order": "151.00000000000000000000"
       }
     ]
+  },
+  "144": {
+    "id": 144,
+    "order": "22.00000000000000000000",
+    "label": "Wiener Neustadt",
+    "lb_id": "lb-place-144",
+    "geonames_url": "",
+    "latitude": null,
+    "longitude": null,
+    "gnd_url": "",
+    "mentioned_letters": []
+  },
+  "145": {
+    "id": 145,
+    "order": "23.00000000000000000000",
+    "label": "Valladolid",
+    "lb_id": "lb-place-145",
+    "geonames_url": "",
+    "latitude": null,
+    "longitude": null,
+    "gnd_url": "",
+    "mentioned_letters": []
   }
 }

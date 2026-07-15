@@ -4,7 +4,7 @@
     "order": "1.00000000000000000000",
     "not before": "1657-01-01",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -14,14 +14,16 @@
       }
     ],
     "relation_to_original_letter": null,
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "2": {
     "id": 2,
     "order": "2.00000000000000000000",
     "not before": "1657-01-03",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -31,14 +33,16 @@
       }
     ],
     "relation_to_original_letter": null,
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "3": {
     "id": 3,
     "order": "2.33333333333333348136",
     "not before": "1657-01-03",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -48,14 +52,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "4": {
     "id": 4,
     "order": "2.50000000000000000000",
     "not before": "1657-01-03",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -65,14 +71,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "5": {
     "id": 5,
     "order": "4.00000000000000000000",
     "not before": "1657-01-10",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -82,14 +90,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "6": {
     "id": 6,
     "order": "5.00000000000000000000",
     "not before": "1657-01-17",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -99,14 +109,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "7": {
     "id": 7,
     "order": "6.00000000000000000000",
     "not before": "1657-01-17",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -116,14 +128,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "8": {
     "id": 8,
     "order": "7.00000000000000000000",
     "not before": "1657-01-17",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -133,14 +147,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "9": {
     "id": 9,
     "order": "8.00000000000000000000",
     "not before": "1657-01-20",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -150,14 +166,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "10": {
     "id": 10,
     "order": "9.00000000000000000000",
     "not before": "1657-01-31",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -167,14 +185,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "11": {
     "id": 11,
     "order": "10.00000000000000000000",
     "not before": "1657-02-07",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -184,14 +204,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "12": {
     "id": 12,
     "order": "11.00000000000000000000",
     "not before": "1657-02-07",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -201,14 +223,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "13": {
     "id": 13,
     "order": "12.00000000000000000000",
     "not before": "1657-02-07",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -218,14 +242,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "14": {
     "id": 14,
     "order": "13.00000000000000000000",
     "not before": "1657-02-14",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -235,14 +261,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "15": {
     "id": 15,
     "order": "14.00000000000000000000",
     "not before": "1657-02-14",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -252,14 +280,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "16": {
     "id": 16,
     "order": "15.00000000000000000000",
     "not before": "1657-02-14",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -269,14 +299,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "17": {
     "id": 17,
     "order": "16.00000000000000000000",
     "not before": "1657-02-21",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -286,14 +318,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "18": {
     "id": 18,
     "order": "16.33333333333333214910",
     "not before": "1657-02-28",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -303,14 +337,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "19": {
     "id": 19,
     "order": "16.50000000000000000000",
     "not before": "1657-02-28",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -320,14 +356,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "20": {
     "id": 20,
     "order": "16.66666666666666785090",
     "not before": "1657-03-07",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -337,14 +375,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "21": {
     "id": 21,
     "order": "18.00000000000000000000",
     "not before": "1657-03-14",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -354,14 +394,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "22": {
     "id": 22,
     "order": "19.00000000000000000000",
     "not before": "1657-03-21",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -371,14 +413,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "23": {
     "id": 23,
     "order": "19.33333333333333214910",
     "not before": "1657-03-28",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -388,14 +432,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "24": {
     "id": 24,
     "order": "19.50000000000000000000",
     "not before": "1657-03-28",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -405,14 +451,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "25": {
     "id": 25,
     "order": "19.66666666666666785090",
     "not before": "1657-04-06",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -422,14 +470,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "26": {
     "id": 26,
     "order": "21.00000000000000000000",
     "not before": "1657-04-06",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -439,14 +489,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "27": {
     "id": 27,
     "order": "22.00000000000000000000",
     "not before": "1657-04-07",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -456,14 +508,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "28": {
     "id": 28,
     "order": "23.00000000000000000000",
     "not before": "1657-04-07",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -473,14 +527,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "29": {
     "id": 29,
     "order": "24.00000000000000000000",
     "not before": "1657-04-18",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -490,14 +546,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "30": {
     "id": 30,
     "order": "25.00000000000000000000",
     "not before": "1657-04-18",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -507,14 +565,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "31": {
     "id": 31,
     "order": "26.00000000000000000000",
     "not before": "1657-04-25",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -524,14 +584,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "32": {
     "id": 32,
     "order": "27.00000000000000000000",
     "not before": "1657-04-25",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -541,14 +603,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "33": {
     "id": 33,
     "order": "28.00000000000000000000",
     "not before": "1657-05-09",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -558,14 +622,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "34": {
     "id": 34,
     "order": "28.33333333333333214910",
     "not before": "1657-05-16",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -575,14 +641,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "35": {
     "id": 35,
     "order": "28.50000000000000000000",
     "not before": "1657-05-16",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -592,14 +660,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "36": {
     "id": 36,
     "order": "28.66666666666666785090",
     "not before": "1657-05-23",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -609,14 +679,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "37": {
     "id": 37,
     "order": "30.00000000000000000000",
     "not before": "1657-05-30",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -626,14 +698,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "38": {
     "id": 38,
     "order": "31.00000000000000000000",
     "not before": "1657-05-30",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -643,14 +717,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "39": {
     "id": 39,
     "order": "32.00000000000000000000",
     "not before": "1657-05-30",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -660,14 +736,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "40": {
     "id": 40,
     "order": "33.00000000000000000000",
     "not before": "1657-06-06",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -677,14 +755,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "41": {
     "id": 41,
     "order": "34.00000000000000000000",
     "not before": "1657-06-06",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -694,14 +774,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "42": {
     "id": 42,
     "order": "35.00000000000000000000",
     "not before": "1657-06-13",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -711,14 +793,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "43": {
     "id": 43,
     "order": "35.33333333333333570181",
     "not before": "1657-06-20",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -728,14 +812,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "44": {
     "id": 44,
     "order": "35.50000000000000000000",
     "not before": "1657-06-20",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -745,14 +831,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "45": {
     "id": 45,
     "order": "35.66666666666666429819",
     "not before": "1657-06-27",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -762,14 +850,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "46": {
     "id": 46,
     "order": "37.00000000000000000000",
     "not before": "1657-07-04",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -779,14 +869,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "47": {
     "id": 47,
     "order": "38.00000000000000000000",
     "not before": "1657-07-11",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -796,14 +888,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "48": {
     "id": 48,
     "order": "39.00000000000000000000",
     "not before": "1657-07-11",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -813,14 +907,16 @@
       }
     ],
     "relation_to_original_letter": "lb-00113",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "49": {
     "id": 49,
     "order": "40.00000000000000000000",
     "not before": "1657-07-11",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -830,14 +926,22 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": "Adressatin erwähnt in lb-00113",
+    "addressee_worked out": [
+      {
+        "id": 75,
+        "value": "Maria Anna (Mariana) von Österreuch",
+        "order": "11.00000000000000000000"
+      }
+    ]
   },
   "50": {
     "id": 50,
     "order": "41.00000000000000000000",
     "not before": "1657-07-17",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -847,14 +951,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "51": {
     "id": 51,
     "order": "42.00000000000000000000",
     "not before": "1657-07-17",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -864,14 +970,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "52": {
     "id": 52,
     "order": "43.00000000000000000000",
     "not before": "1657-07-20",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -881,14 +989,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "53": {
     "id": 53,
     "order": "44.00000000000000000000",
     "not before": "1657-07-25",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -898,14 +1008,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "54": {
     "id": 54,
     "order": "45.00000000000000000000",
     "not before": "1657-07-25",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -915,14 +1027,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "55": {
     "id": 55,
     "order": "46.00000000000000000000",
     "not before": "1657-07-28",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -932,14 +1046,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "56": {
     "id": 56,
     "order": "46.33333333333333570181",
     "not before": "1657-08-01",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -949,14 +1065,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "57": {
     "id": 57,
     "order": "46.50000000000000000000",
     "not before": "1657-08-01",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -966,14 +1084,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "58": {
     "id": 58,
     "order": "46.57142857142856939845",
     "not before": "1657-08-01",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -983,14 +1103,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "59": {
     "id": 59,
     "order": "46.60000000000000142109",
     "not before": "1657-08-01",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -1000,14 +1122,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "60": {
     "id": 60,
     "order": "48.00000000000000000000",
     "not before": "1657-08-04",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -1017,14 +1141,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "61": {
     "id": 61,
     "order": "49.00000000000000000000",
     "not before": "1657-08-04",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -1034,14 +1160,16 @@
       }
     ],
     "relation_to_original_letter": "lb-00114",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "62": {
     "id": 62,
     "order": "50.00000000000000000000",
     "not before": "1657-08-04",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -1051,14 +1179,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "63": {
     "id": 63,
     "order": "51.00000000000000000000",
     "not before": "1657-08-04",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -1068,14 +1198,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "64": {
     "id": 64,
     "order": "52.00000000000000000000",
     "not before": "1657-08-08",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -1085,14 +1217,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "65": {
     "id": 65,
     "order": "53.00000000000000000000",
     "not before": "1657-08-11",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -1102,14 +1236,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "66": {
     "id": 66,
     "order": "54.00000000000000000000",
     "not before": "1657-08-11",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -1119,14 +1255,16 @@
       }
     ],
     "relation_to_original_letter": "lb-00115",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": "Das Schreiben datiert vom 10. August",
+    "addressee_worked out": []
   },
   "67": {
     "id": 67,
     "order": "55.00000000000000000000",
     "not before": "1657-08-11",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -1136,14 +1274,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "68": {
     "id": 68,
     "order": "56.00000000000000000000",
     "not before": "1657-08-15",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -1153,14 +1293,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "69": {
     "id": 69,
     "order": "57.00000000000000000000",
     "not before": "1657-08-15",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -1170,14 +1312,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "70": {
     "id": 70,
     "order": "58.00000000000000000000",
     "not before": "1657-08-15",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -1187,14 +1331,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "71": {
     "id": 71,
     "order": "59.00000000000000000000",
     "not before": "1657-08-18",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -1204,14 +1350,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "72": {
     "id": 72,
     "order": "59.33333333333333570181",
     "not before": "1657-08-22",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -1221,14 +1369,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "73": {
     "id": 73,
     "order": "59.50000000000000000000",
     "not before": "1657-08-22",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -1238,14 +1388,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "74": {
     "id": 74,
     "order": "59.66666666666666429819",
     "not before": "1657-08-22",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -1255,14 +1407,16 @@
       }
     ],
     "relation_to_original_letter": "lb-00116",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": "Das Schreiben datiert vom 23. August.",
+    "addressee_worked out": []
   },
   "75": {
     "id": 75,
     "order": "59.75000000000000000000",
     "not before": "1657-08-22",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -1272,14 +1426,22 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": "Adressatin erwähnt in lb-00116",
+    "addressee_worked out": [
+      {
+        "id": 75,
+        "value": "Maria Anna (Mariana) von Österreuch",
+        "order": "11.00000000000000000000"
+      }
+    ]
   },
   "76": {
     "id": 76,
     "order": "59.79999999999999715783",
     "not before": "1657-08-25",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -1289,14 +1451,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "77": {
     "id": 77,
     "order": "61.00000000000000000000",
     "not before": "1657-08-29",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -1306,14 +1470,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "78": {
     "id": 78,
     "order": "62.00000000000000000000",
     "not before": "1657-08-29",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -1323,14 +1489,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "79": {
     "id": 79,
     "order": "63.00000000000000000000",
     "not before": "1657-08-29",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -1340,14 +1508,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "80": {
     "id": 80,
     "order": "64.00000000000000000000",
     "not before": "1657-08-29",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -1357,14 +1527,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "81": {
     "id": 81,
     "order": "65.00000000000000000000",
     "not before": "1657-08-29",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -1374,14 +1546,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "82": {
     "id": 82,
     "order": "66.00000000000000000000",
     "not before": "1657-08-29",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -1391,14 +1565,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "83": {
     "id": 83,
     "order": "67.00000000000000000000",
     "not before": "1657-08-29",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -1408,14 +1584,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "84": {
     "id": 84,
     "order": "68.00000000000000000000",
     "not before": "1657-08-29",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -1425,14 +1603,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "85": {
     "id": 85,
     "order": "69.00000000000000000000",
     "not before": "1657-09-01",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -1442,14 +1622,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "86": {
     "id": 86,
     "order": "70.00000000000000000000",
     "not before": "1657-09-05",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -1459,14 +1641,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "87": {
     "id": 87,
     "order": "71.00000000000000000000",
     "not before": "1657-09-05",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -1476,14 +1660,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "88": {
     "id": 88,
     "order": "72.00000000000000000000",
     "not before": "1657-09-05",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -1493,14 +1679,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "89": {
     "id": 89,
     "order": "73.00000000000000000000",
     "not before": "1657-09-12",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -1510,14 +1698,16 @@
       }
     ],
     "relation_to_original_letter": "lb-00118",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "90": {
     "id": 90,
     "order": "74.00000000000000000000",
     "not before": "1657-09-12",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -1527,14 +1717,22 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": "Adressatin erwähnt in lb-0018",
+    "addressee_worked out": [
+      {
+        "id": 75,
+        "value": "Maria Anna (Mariana) von Österreuch",
+        "order": "11.00000000000000000000"
+      }
+    ]
   },
   "91": {
     "id": 91,
     "order": "75.00000000000000000000",
     "not before": "1657-09-12",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -1544,14 +1742,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "92": {
     "id": 92,
     "order": "76.00000000000000000000",
     "not before": "1657-09-12",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -1561,14 +1761,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "93": {
     "id": 93,
     "order": "77.00000000000000000000",
     "not before": "1657-09-12",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -1578,14 +1780,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "94": {
     "id": 94,
     "order": "78.00000000000000000000",
     "not before": "1657-09-15",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -1595,14 +1799,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "95": {
     "id": 95,
     "order": "79.00000000000000000000",
     "not before": "1657-09-19",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -1612,14 +1818,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "96": {
     "id": 96,
     "order": "80.00000000000000000000",
     "not before": "1657-09-19",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -1629,14 +1837,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "97": {
     "id": 97,
     "order": "81.00000000000000000000",
     "not before": "1657-09-22",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -1646,14 +1856,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "98": {
     "id": 98,
     "order": "82.00000000000000000000",
     "not before": "1657-09-27",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -1663,14 +1875,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "99": {
     "id": 99,
     "order": "83.00000000000000000000",
     "not before": "1657-09-27",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -1680,14 +1894,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "100": {
     "id": 100,
     "order": "84.00000000000000000000",
     "not before": "1657-09-29",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -1697,14 +1913,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "101": {
     "id": 101,
     "order": "85.00000000000000000000",
     "not before": "1657-10-01",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -1714,14 +1932,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "102": {
     "id": 102,
     "order": "86.00000000000000000000",
     "not before": "1657-10-01",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -1731,14 +1951,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "103": {
     "id": 103,
     "order": "87.00000000000000000000",
     "not before": "1657-10-10",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -1748,14 +1970,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "104": {
     "id": 104,
     "order": "88.00000000000000000000",
     "not before": "1657-10-10",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -1765,14 +1989,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "105": {
     "id": 105,
     "order": "89.00000000000000000000",
     "not before": "1657-10-13",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -1782,14 +2008,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "106": {
     "id": 106,
     "order": "90.00000000000000000000",
     "not before": "1657-10-17",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -1799,14 +2027,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "107": {
     "id": 107,
     "order": "91.00000000000000000000",
     "not before": "1657-10-17",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -1816,14 +2046,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "108": {
     "id": 108,
     "order": "91.33333333333332859638",
     "not before": "1657-10-17",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -1833,14 +2065,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "109": {
     "id": 109,
     "order": "91.50000000000000000000",
     "not before": "1657-10-17",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -1850,14 +2084,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "110": {
     "id": 110,
     "order": "93.00000000000000000000",
     "not before": "1657-10-20",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -1867,14 +2103,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "111": {
     "id": 111,
     "order": "94.00000000000000000000",
     "not before": "1657-10-24",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -1884,14 +2122,16 @@
       }
     ],
     "relation_to_original_letter": "lb-00119",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "112": {
     "id": 112,
     "order": "95.00000000000000000000",
     "not before": "1657-10-24",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -1901,14 +2141,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "113": {
     "id": 113,
     "order": "96.00000000000000000000",
     "not before": "1657-10-24",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -1918,14 +2160,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "114": {
     "id": 114,
     "order": "97.00000000000000000000",
     "not before": "1657-10-24",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -1935,14 +2179,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "115": {
     "id": 115,
     "order": "98.00000000000000000000",
     "not before": "1657-10-27",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -1952,14 +2198,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "116": {
     "id": 116,
     "order": "99.00000000000000000000",
     "not before": "1657-10-27",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -1969,14 +2217,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "117": {
     "id": 117,
     "order": "100.00000000000000000000",
     "not before": "1657-10-27",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -1986,14 +2236,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "118": {
     "id": 118,
     "order": "101.00000000000000000000",
     "not before": "1657-10-27",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -2003,14 +2255,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "119": {
     "id": 119,
     "order": "102.00000000000000000000",
     "not before": "1657-10-27",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -2020,14 +2274,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "120": {
     "id": 120,
     "order": "103.00000000000000000000",
     "not before": "1657-10-31",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -2037,14 +2293,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "121": {
     "id": 121,
     "order": "104.00000000000000000000",
     "not before": "1657-10-31",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -2054,14 +2312,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "122": {
     "id": 122,
     "order": "105.00000000000000000000",
     "not before": "1657-10-31",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -2071,14 +2331,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "123": {
     "id": 123,
     "order": "106.00000000000000000000",
     "not before": "1657-10-31",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -2088,14 +2350,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "124": {
     "id": 124,
     "order": "107.00000000000000000000",
     "not before": "1657-11-03",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -2105,14 +2369,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "125": {
     "id": 125,
     "order": "108.00000000000000000000",
     "not before": "1657-11-03",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -2122,14 +2388,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "126": {
     "id": 126,
     "order": "109.00000000000000000000",
     "not before": "1657-11-07",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -2139,14 +2407,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "127": {
     "id": 127,
     "order": "110.00000000000000000000",
     "not before": "1657-11-07",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -2156,14 +2426,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "128": {
     "id": 128,
     "order": "111.00000000000000000000",
     "not before": "1657-11-07",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -2173,14 +2445,16 @@
       }
     ],
     "relation_to_original_letter": "lb-00121",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "129": {
     "id": 129,
     "order": "112.00000000000000000000",
     "not before": "1657-11-07",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -2190,14 +2464,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "130": {
     "id": 130,
     "order": "113.00000000000000000000",
     "not before": "1657-11-07",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -2207,14 +2483,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "131": {
     "id": 131,
     "order": "114.00000000000000000000",
     "not before": "1657-11-10",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -2224,14 +2502,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "132": {
     "id": 132,
     "order": "115.00000000000000000000",
     "not before": "1657-11-14",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -2241,14 +2521,16 @@
       }
     ],
     "relation_to_original_letter": "lb-00120",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "133": {
     "id": 133,
     "order": "116.00000000000000000000",
     "not before": "1657-11-14",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -2258,14 +2540,22 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": "Adressatin erwähnt in lb-00120",
+    "addressee_worked out": [
+      {
+        "id": 75,
+        "value": "Maria Anna (Mariana) von Österreuch",
+        "order": "11.00000000000000000000"
+      }
+    ]
   },
   "134": {
     "id": 134,
     "order": "117.00000000000000000000",
     "not before": "1657-11-14",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -2275,14 +2565,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "135": {
     "id": 135,
     "order": "118.00000000000000000000",
     "not before": "1657-11-14",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -2292,14 +2584,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "136": {
     "id": 136,
     "order": "119.00000000000000000000",
     "not before": "1657-11-14",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -2309,14 +2603,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "137": {
     "id": 137,
     "order": "120.00000000000000000000",
     "not before": "1657-11-18",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -2326,14 +2622,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "138": {
     "id": 138,
     "order": "121.00000000000000000000",
     "not before": "1657-11-21",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -2343,14 +2641,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "139": {
     "id": 139,
     "order": "122.00000000000000000000",
     "not before": "1657-11-21",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -2360,14 +2660,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "140": {
     "id": 140,
     "order": "123.00000000000000000000",
     "not before": "1657-11-28",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -2377,14 +2679,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "141": {
     "id": 141,
     "order": "124.00000000000000000000",
     "not before": "1657-11-28",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -2394,14 +2698,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "142": {
     "id": 142,
     "order": "124.33333333333332859638",
     "not before": "1657-12-01",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -2411,14 +2717,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "143": {
     "id": 143,
     "order": "124.50000000000000000000",
     "not before": "1657-12-05",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -2428,14 +2736,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "144": {
     "id": 144,
     "order": "126.00000000000000000000",
     "not before": "1657-12-05",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -2445,14 +2755,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "145": {
     "id": 145,
     "order": "127.00000000000000000000",
     "not before": "1657-12-05",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -2462,14 +2774,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "146": {
     "id": 146,
     "order": "128.00000000000000000000",
     "not before": "1657-12-08",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -2479,14 +2793,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "147": {
     "id": 147,
     "order": "129.00000000000000000000",
     "not before": "1657-12-12",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -2496,14 +2812,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "148": {
     "id": 148,
     "order": "130.00000000000000000000",
     "not before": "1657-12-12",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -2513,14 +2831,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "149": {
     "id": 149,
     "order": "131.00000000000000000000",
     "not before": "1657-12-12",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -2530,14 +2850,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "150": {
     "id": 150,
     "order": "132.00000000000000000000",
     "not before": "1657-12-15",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -2547,14 +2869,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "151": {
     "id": 151,
     "order": "133.00000000000000000000",
     "not before": "1657-12-18",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -2564,14 +2888,16 @@
       }
     ],
     "relation_to_original_letter": "lb-00123",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": "Das Schreiben datiert vom 19. Dezember.",
+    "addressee_worked out": []
   },
   "152": {
     "id": 152,
     "order": "134.00000000000000000000",
     "not before": "1657-12-18",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -2581,14 +2907,16 @@
       }
     ],
     "relation_to_original_letter": "lb-00124",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": "Das Schreiben datiert vom 19. Dezember.",
+    "addressee_worked out": []
   },
   "153": {
     "id": 153,
     "order": "135.00000000000000000000",
     "not before": "1657-12-18",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -2598,14 +2926,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "154": {
     "id": 154,
     "order": "136.00000000000000000000",
     "not before": "1657-12-18",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -2615,14 +2945,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "155": {
     "id": 155,
     "order": "137.00000000000000000000",
     "not before": "1657-12-18",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -2632,14 +2964,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "156": {
     "id": 156,
     "order": "138.00000000000000000000",
     "not before": "1657-12-18",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -2649,14 +2983,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "157": {
     "id": 157,
     "order": "139.00000000000000000000",
     "not before": "1657-12-18",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -2666,14 +3002,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "158": {
     "id": 158,
     "order": "140.00000000000000000000",
     "not before": "1657-12-22",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -2683,14 +3021,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "159": {
     "id": 159,
     "order": "141.00000000000000000000",
     "not before": "1657-12-26",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -2700,14 +3040,16 @@
       }
     ],
     "relation_to_original_letter": "lb-00122",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "160": {
     "id": 160,
     "order": "142.00000000000000000000",
     "not before": "1657-12-26",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -2717,14 +3059,22 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": "Adressat erwähnt in lb-00122",
+    "addressee_worked out": [
+      {
+        "id": 76,
+        "value": "Philipp IV.",
+        "order": "12.00000000000000000000"
+      }
+    ]
   },
   "161": {
     "id": 161,
     "order": "143.00000000000000000000",
     "not before": "1657-12-26",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -2734,14 +3084,22 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": "Adressatin erwähnt in lb-00122",
+    "addressee_worked out": [
+      {
+        "id": 75,
+        "value": "Maria Anna (Mariana) von Österreuch",
+        "order": "11.00000000000000000000"
+      }
+    ]
   },
   "162": {
     "id": 162,
     "order": "144.00000000000000000000",
     "not before": "1657-12-26",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -2751,31 +3109,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
-  },
-  "163": {
-    "id": 163,
-    "order": "145.00000000000000000000",
-    "not before": "1657-12-26",
-    "not after": null,
-    "addressee": [],
-    "courier": [],
-    "destination": [
-      {
-        "id": 39,
-        "value": "Spanien",
-        "order": "7.00000000000000000000"
-      }
-    ],
-    "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "164": {
     "id": 164,
     "order": "146.00000000000000000000",
     "not before": "1657-12-26",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -2785,14 +3128,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "165": {
     "id": 165,
     "order": "147.00000000000000000000",
     "not before": "1657-12-26",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -2802,14 +3147,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "166": {
     "id": 166,
     "order": "148.00000000000000000000",
     "not before": "1657-12-26",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -2819,14 +3166,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "167": {
     "id": 167,
     "order": "149.00000000000000000000",
     "not before": "1657-12-26",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -2836,14 +3185,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "168": {
     "id": 168,
     "order": "150.00000000000000000000",
-    "not before": "1657-12-26",
+    "not before": "1657-12-29",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -2853,14 +3204,16 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   },
   "169": {
     "id": 169,
     "order": "151.00000000000000000000",
-    "not before": "1657-12-26",
+    "not before": "1657-12-29",
     "not after": null,
-    "addressee": [],
+    "addressee_stated": [],
     "courier": [],
     "destination": [
       {
@@ -2870,6 +3223,8 @@
       }
     ],
     "relation_to_original_letter": "",
-    "dictated letter": false
+    "dictated letter": false,
+    "note": null,
+    "addressee_worked out": []
   }
 }
