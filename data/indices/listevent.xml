@@ -127,7 +127,7 @@
                </event>
                <event xml:id="lb-cal-8">
                   <label>1657-02-14</label>
-                  <desc>Den 14. dito \<hi rend="unclear">…\</hi>. Nachmittag 2 brief in Bayrn vnd ein in Spanien gschriben.</desc>
+                  <desc>Den 14. dito <hi rend="unclear">…</hi>. Nachmittag 2 brief in Bayrn vnd ein in Spanien gschriben.</desc>
                   <listPlace>
                      <place>
                         <placeName key="lb-place-38">Bayern</placeName>
@@ -291,15 +291,15 @@
                </event>
                <event xml:id="lb-cal-50">
                   <label>1657-05-23</label>
-                  <desc>Den 23. May 1657 \<hi rend="unclear">…\</hi>. Ein brief in Bayrn geschriben \<hi rend="unclear">…\</hi>.</desc>
+                  <desc>Den 23. May 1657 <hi rend="unclear">…</hi>. Ein brief in Bayrn geschriben <hi rend="unclear">…</hi>.</desc>
                </event>
                <event xml:id="lb-cal-51">
                   <label>1657-05-30</label>
-                  <desc>Den 30. dito 1 brief in Spanien vnd 2 in Bayrn geschriben \<hi rend="unclear">…\</hi>.</desc>
+                  <desc>Den 30. dito 1 brief in Spanien vnd 2 in Bayrn geschriben <hi rend="unclear">…</hi>.</desc>
                </event>
                <event xml:id="lb-cal-52">
                   <label>1657-06-06</label>
-                  <desc>Den 6. Junij ein brief in Bayrn vnd 1 in Spanien gsch\<hi rend="unclear">riben\</hi>. \<hi rend="unclear">…\</hi> Den 6. Junij ein brief in Spanien vnd 1 in <hi rend="del">Spanien</hi> Bayrn.</desc>
+                  <desc>Den 6. Junij ein brief in Bayrn vnd 1 in Spanien gsch<hi rend="unclear">riben</hi>. <hi rend="unclear">…</hi> Den 6. Junij ein brief in Spanien vnd 1 in <hi rend="del">Spanien</hi> Bayrn.</desc>
                </event>
                <event xml:id="lb-cal-53">
                   <label>1657-06-13</label>
@@ -323,11 +323,11 @@
                </event>
                <event xml:id="lb-cal-58">
                   <label>1657-07-17</label>
-                  <desc>Den 17. dito \<hi rend="unclear">…\</hi>. Nachmittag ein brief <hi rend="del">in</hi> auf Wien vnd ein auf Mantova geschriben.</desc>
+                  <desc>Den 17. dito <hi rend="unclear">…</hi>. Nachmittag ein brief <hi rend="del">in</hi> auf Wien vnd ein auf Mantova geschriben.</desc>
                </event>
                <event xml:id="lb-cal-59">
                   <label>1657-07-20</label>
-                  <desc>Den 20 diß \<hi rend="unclear">…\</hi> Vber nacht gebliben Purniz \<hi rend="unclear">…\</hi> vnd ein brief in Saxen m\<hi rend="unclear">anu pro\</hi>pria geschriben.</desc>
+                  <desc>Den 20 diß <hi rend="unclear">…</hi> Vber nacht gebliben Purniz <hi rend="unclear">…</hi> vnd ein brief in Saxen m<hi rend="unclear">anu pro</hi>pria geschriben.</desc>
                </event>
                <event xml:id="lb-cal-60">
                   <label>1657-07-25</label>
@@ -376,7 +376,8 @@
                <event xml:id="lb-cal-72">
                   <label>1657-09-01</label>
                   <desc>
-                     <hi rend="del">Den lezten dito \<hi rend="unclear">…\</hi> vnd ich ein brief in Wienn geschriben.</hi> \<hi rend="unclear">…\</hi> Den 1. Septembris a\<hi rend="unclear">nn\</hi>i 1657 \<hi rend="unclear">…\</hi> vnd ich ein schreiben nach Wienn gschriben.</desc>
+                     <hi rend="del">Den lezten dito <hi rend="unclear">…</hi> vnd ich ein brief in Wienn geschriben.</hi>
+                     <hi rend="unclear">…</hi> Den 1. Septembris a<hi rend="unclear">nn</hi>i 1657 <hi rend="unclear">…</hi> vnd ich ein schreiben nach Wienn gschriben.</desc>
                </event>
                <event xml:id="lb-cal-73">
                   <label>1657-09-05</label>
@@ -396,7 +397,7 @@
                </event>
                <event xml:id="lb-cal-77">
                   <label>1657-09-22</label>
-                  <desc>Den 22. \<hi rend="unclear">…\</hi>. Nachmittag ein brief auf Wienn gschriben.</desc>
+                  <desc>Den 22. <hi rend="unclear">…</hi>. Nachmittag ein brief auf Wienn gschriben.</desc>
                </event>
                <event xml:id="lb-cal-78">
                   <label>1657-09-27</label>
@@ -500,7 +501,7 @@
                </event>
                <event xml:id="lb-cal-103">
                   <label>1657-12-29</label>
-                  <desc>Den 29. dito ein brief nach Wien vnd ein <hi rend="italics">khurmei\<hi rend="unclear">n\</hi>cz, bedankhung wegen se\<hi rend="unclear">i\</hi>nes voti</hi>, geschriben.</desc>
+                  <desc>Den 29. dito ein brief nach Wien vnd ein <hi rend="italics">khurmei<hi rend="unclear">n</hi>cz, bedankhung wegen se<hi rend="unclear">i</hi>nes voti</hi>, geschriben.</desc>
                </event>
                <event xml:id="lb-cal-104">
                   <label>None</label>

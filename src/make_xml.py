@@ -21,7 +21,9 @@ def convert_event_markup(text):
     text = re.sub(r"~~(.*?)~~", r'<hi rend="del">\1</hi>', text)
     text = re.sub(r"\*\*(.*?)\*\*", r'<hi rend="bold">\1</hi>', text)
     text = re.sub(r"\*(.*?)\*", r'<hi rend="italics">\1</hi>', text)
-    return re.sub(r"\[([^\]]+)\]", r'<hi rend="unclear">\1</hi>', text)
+    text = re.sub(r"\[([^\]]+)\]", r'<hi rend="unclear">\1</hi>', text)
+    text = re.sub(r"\\", r"", text)
+    return text
 
 
 os.makedirs(out_dir, exist_ok=True)
