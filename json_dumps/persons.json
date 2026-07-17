@@ -353,9 +353,7 @@
     "place_of_death": [],
     "date_of_death": "1705-05-05",
     "wikidata_url": "",
-    "mentioned_letters": [],
-    "mentioned_letters - courier": [],
-    "mentioned_letters - addressee_worked out": []
+    "mentioned_letters - courier": []
   },
   "2": {
     "id": 2,
@@ -368,9 +366,7 @@
     "place_of_death": [],
     "date_of_death": null,
     "wikidata_url": "",
-    "mentioned_letters": [],
-    "mentioned_letters - courier": [],
-    "mentioned_letters - addressee_worked out": []
+    "mentioned_letters - courier": []
   },
   "3": {
     "id": 3,
@@ -395,9 +391,7 @@
     "place_of_death": [],
     "date_of_death": null,
     "wikidata_url": "",
-    "mentioned_letters": [],
-    "mentioned_letters - courier": [],
-    "mentioned_letters - addressee_worked out": []
+    "mentioned_letters - courier": []
   },
   "4": {
     "id": 4,
@@ -753,9 +747,7 @@
     "place_of_death": [],
     "date_of_death": null,
     "wikidata_url": "",
-    "mentioned_letters": [],
-    "mentioned_letters - courier": [],
-    "mentioned_letters - addressee_worked out": []
+    "mentioned_letters - courier": []
   },
   "38": {
     "id": 38,
@@ -768,9 +760,7 @@
     "place_of_death": [],
     "date_of_death": null,
     "wikidata_url": "",
-    "mentioned_letters": [],
-    "mentioned_letters - courier": [],
-    "mentioned_letters - addressee_worked out": []
+    "mentioned_letters - courier": []
   },
   "39": {
     "id": 39,
@@ -783,9 +773,7 @@
     "place_of_death": [],
     "date_of_death": null,
     "wikidata_url": "",
-    "mentioned_letters": [],
-    "mentioned_letters - courier": [],
-    "mentioned_letters - addressee_worked out": []
+    "mentioned_letters - courier": []
   },
   "40": {
     "id": 40,
@@ -798,9 +786,7 @@
     "place_of_death": [],
     "date_of_death": null,
     "wikidata_url": "",
-    "mentioned_letters": [],
-    "mentioned_letters - courier": [],
-    "mentioned_letters - addressee_worked out": []
+    "mentioned_letters - courier": []
   },
   "73": {
     "id": 73,
@@ -813,9 +799,7 @@
     "place_of_death": [],
     "date_of_death": null,
     "wikidata_url": "",
-    "mentioned_letters": [],
-    "mentioned_letters - courier": [],
-    "mentioned_letters - addressee_worked out": []
+    "mentioned_letters - courier": []
   },
   "74": {
     "id": 74,
@@ -828,9 +812,7 @@
     "place_of_death": [],
     "date_of_death": null,
     "wikidata_url": "",
-    "mentioned_letters": [],
-    "mentioned_letters - courier": [],
-    "mentioned_letters - addressee_worked out": []
+    "mentioned_letters - courier": []
   },
   "75": {
     "id": 75,
@@ -867,35 +849,7 @@
     ],
     "date_of_death": "1696-05-16",
     "wikidata_url": "",
-    "mentioned_letters": [],
-    "mentioned_letters - courier": [],
-    "mentioned_letters - addressee_worked out": [
-      {
-        "id": 49,
-        "value": "1657-07-11",
-        "order": "40.00000000000000000000"
-      },
-      {
-        "id": 75,
-        "value": "1657-08-22",
-        "order": "59.75000000000000000000"
-      },
-      {
-        "id": 90,
-        "value": "1657-09-12",
-        "order": "74.00000000000000000000"
-      },
-      {
-        "id": 133,
-        "value": "1657-11-14",
-        "order": "116.00000000000000000000"
-      },
-      {
-        "id": 161,
-        "value": "1657-12-26",
-        "order": "143.00000000000000000000"
-      }
-    ]
+    "mentioned_letters - courier": []
   },
   "76": {
     "id": 76,
@@ -932,15 +886,7 @@
     ],
     "date_of_death": "1665-09-17",
     "wikidata_url": "",
-    "mentioned_letters": [],
-    "mentioned_letters - courier": [],
-    "mentioned_letters - addressee_worked out": [
-      {
-        "id": 160,
-        "value": "1657-12-26",
-        "order": "142.00000000000000000000"
-      }
-    ]
+    "mentioned_letters - courier": []
   },
   "77": {
     "id": 77,
@@ -953,8 +899,6 @@
     "place_of_death": [],
     "date_of_death": null,
     "wikidata_url": "",
-    "mentioned_letters": [],
-    "mentioned_letters - courier": [],
-    "mentioned_letters - addressee_worked out": []
+    "mentioned_letters - courier": []
   }
 }
