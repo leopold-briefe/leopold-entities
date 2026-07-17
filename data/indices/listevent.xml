@@ -32,476 +32,1291 @@
                <event xml:id="lb-cal-1">
                   <label>1657-01-01</label>
                   <desc>Den ersten Januarij 1657 ein brief <hi rend="del">in</hi> nach Mantova gschriben.</desc>
-                  <listPlace>
-                     <place>
-                        <placeName key="lb-place-37">Mantova</placeName>
-                        <location>
-                           <geo>45.16031 10.79784</geo>
-                        </location>
-                     </place>
-                  </listPlace>
+                  <listBibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-37">Mantova</rs> [diktiert]</title>
+                        <date>1657-01-01</date>
+                     </bibl>
+                  </listBibl>
                </event>
                <event xml:id="lb-cal-2">
                   <label>1657-01-03</label>
                   <desc>Den 3. dito 3 schreiben in Bayrn geschriben.</desc>
-                  <listPlace>
-                     <place>
-                        <placeName key="lb-place-38">Bayern</placeName>
-                        <location>
-                           <geo>49.00000 11.50000</geo>
-                        </location>
-                     </place>
-                  </listPlace>
+                  <listBibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-38">Bayern</rs>
+                        </title>
+                        <date>1657-01-03</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-38">Bayern</rs>
+                        </title>
+                        <date>1657-01-03</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-38">Bayern</rs>
+                        </title>
+                        <date>1657-01-03</date>
+                     </bibl>
+                  </listBibl>
                </event>
                <event xml:id="lb-cal-3">
                   <label>1657-01-10</label>
                   <desc>Den 10. dito ein in Bayrn geschriben.</desc>
-                  <listPlace>
-                     <place>
-                        <placeName key="lb-place-38">Bayern</placeName>
-                        <location>
-                           <geo>49.00000 11.50000</geo>
-                        </location>
-                     </place>
-                  </listPlace>
+                  <listBibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-38">Bayern</rs>
+                        </title>
+                        <date>1657-01-10</date>
+                     </bibl>
+                  </listBibl>
                </event>
                <event xml:id="lb-cal-4">
                   <label>1657-01-17</label>
                   <desc>Den 17. dito ein brief in Spanien vnd 2 in Bayrn geschriben.</desc>
-                  <listPlace>
-                     <place>
-                        <placeName key="lb-place-38">Bayern</placeName>
-                        <location>
-                           <geo>49.00000 11.50000</geo>
-                        </location>
-                     </place>
-                     <place>
-                        <placeName key="lb-place-39">Spanien</placeName>
-                        <location>
-                           <geo>40.00000 -4.00000</geo>
-                        </location>
-                     </place>
-                  </listPlace>
+                  <listBibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
+                        </title>
+                        <date>1657-01-17</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-38">Bayern</rs>
+                        </title>
+                        <date>1657-01-17</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-38">Bayern</rs>
+                        </title>
+                        <date>1657-01-17</date>
+                     </bibl>
+                  </listBibl>
                </event>
                <event xml:id="lb-cal-5">
                   <label>1657-01-20</label>
                   <desc>Den 20. ein brief auf Mantova geschriben.</desc>
-                  <listPlace>
-                     <place>
-                        <placeName key="lb-place-37">Mantova</placeName>
-                        <location>
-                           <geo>45.16031 10.79784</geo>
-                        </location>
-                     </place>
-                  </listPlace>
+                  <listBibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-37">Mantova</rs>
+                        </title>
+                        <date>1657-01-20</date>
+                     </bibl>
+                  </listBibl>
                </event>
                <event xml:id="lb-cal-6">
                   <label>1657-01-31</label>
                   <desc>Den 31. ein in Beyrn geschriben.</desc>
-                  <listPlace>
-                     <place>
-                        <placeName key="lb-place-38">Bayern</placeName>
-                        <location>
-                           <geo>49.00000 11.50000</geo>
-                        </location>
-                     </place>
-                  </listPlace>
+                  <listBibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-38">Bayern</rs>
+                        </title>
+                        <date>1657-01-31</date>
+                     </bibl>
+                  </listBibl>
                </event>
                <event xml:id="lb-cal-7">
                   <label>1657-02-07</label>
                   <desc>Den 7. Februarij a<hi rend="unclear">nn</hi>i 1657 hab ich ein brief in Bayrn vnd e 2 in Spanien geschriben.</desc>
-                  <listPlace>
-                     <place>
-                        <placeName key="lb-place-38">Bayern</placeName>
-                        <location>
-                           <geo>49.00000 11.50000</geo>
-                        </location>
-                     </place>
-                     <place>
-                        <placeName key="lb-place-39">Spanien</placeName>
-                        <location>
-                           <geo>40.00000 -4.00000</geo>
-                        </location>
-                     </place>
-                  </listPlace>
+                  <listBibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-38">Bayern</rs>
+                        </title>
+                        <date>1657-02-07</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
+                        </title>
+                        <date>1657-02-07</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
+                        </title>
+                        <date>1657-02-07</date>
+                     </bibl>
+                  </listBibl>
                </event>
                <event xml:id="lb-cal-8">
                   <label>1657-02-14</label>
                   <desc>Den 14. dito <hi rend="unclear">…</hi>. Nachmittag 2 brief in Bayrn vnd ein in Spanien gschriben.</desc>
-                  <listPlace>
-                     <place>
-                        <placeName key="lb-place-38">Bayern</placeName>
-                        <location>
-                           <geo>49.00000 11.50000</geo>
-                        </location>
-                     </place>
-                     <place>
-                        <placeName key="lb-place-39">Spanien</placeName>
-                        <location>
-                           <geo>40.00000 -4.00000</geo>
-                        </location>
-                     </place>
-                  </listPlace>
+                  <listBibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-38">Bayern</rs>
+                        </title>
+                        <date>1657-02-14</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-38">Bayern</rs>
+                        </title>
+                        <date>1657-02-14</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
+                        </title>
+                        <date>1657-02-14</date>
+                     </bibl>
+                  </listBibl>
                </event>
                <event xml:id="lb-cal-9">
                   <label>1657-02-21</label>
                   <desc>Den 21. dito ein brief in Bayrn geschriben.</desc>
-                  <listPlace>
-                     <place>
-                        <placeName key="lb-place-38">Bayern</placeName>
-                        <location>
-                           <geo>49.00000 11.50000</geo>
-                        </location>
-                     </place>
-                  </listPlace>
+                  <listBibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-38">Bayern</rs>
+                        </title>
+                        <date>1657-02-21</date>
+                     </bibl>
+                  </listBibl>
                </event>
                <event xml:id="lb-cal-10">
                   <label>1657-02-28</label>
                   <desc>Den lezten ein brief in Bayrn vnd 1 in Spanien gschriben.</desc>
-                  <listPlace>
-                     <place>
-                        <placeName key="lb-place-38">Bayern</placeName>
-                        <location>
-                           <geo>49.00000 11.50000</geo>
-                        </location>
-                     </place>
-                     <place>
-                        <placeName key="lb-place-39">Spanien</placeName>
-                        <location>
-                           <geo>40.00000 -4.00000</geo>
-                        </location>
-                     </place>
-                  </listPlace>
+                  <listBibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-38">Bayern</rs>
+                        </title>
+                        <date>1657-02-28</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
+                        </title>
+                        <date>1657-02-28</date>
+                     </bibl>
+                  </listBibl>
                </event>
                <event xml:id="lb-cal-11">
                   <label>1657-03-07</label>
                   <desc>Den 7. dito ein brief in Bayrn gschriben.</desc>
-                  <listPlace>
-                     <place>
-                        <placeName key="lb-place-38">Bayern</placeName>
-                        <location>
-                           <geo>49.00000 11.50000</geo>
-                        </location>
-                     </place>
-                  </listPlace>
+                  <listBibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-38">Bayern</rs>
+                        </title>
+                        <date>1657-03-07</date>
+                     </bibl>
+                  </listBibl>
                </event>
                <event xml:id="lb-cal-41">
                   <label>1657-03-14</label>
                   <desc>Den 14. dito ein brief in Spanien gschriben.</desc>
-                  <listPlace>
-                     <place>
-                        <placeName key="lb-place-39">Spanien</placeName>
-                        <location>
-                           <geo>40.00000 -4.00000</geo>
-                        </location>
-                     </place>
-                  </listPlace>
+                  <listBibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
+                        </title>
+                        <date>1657-03-14</date>
+                     </bibl>
+                  </listBibl>
                </event>
                <event xml:id="lb-cal-42">
                   <label>1657-03-21</label>
                   <desc>Den 21. dito ein brief in Bayrn gschriben.</desc>
-                  <listPlace>
-                     <place>
-                        <placeName key="lb-place-38">Bayern</placeName>
-                        <location>
-                           <geo>49.00000 11.50000</geo>
-                        </location>
-                     </place>
-                  </listPlace>
+                  <listBibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-38">Bayern</rs>
+                        </title>
+                        <date>1657-03-21</date>
+                     </bibl>
+                  </listBibl>
                </event>
                <event xml:id="lb-cal-43">
                   <label>1657-03-28</label>
                   <desc>Den 28. dito ein brief in Bayrn vn<hi rend="unclear">d</hi> 1 in Spanien gschriben.</desc>
-                  <listPlace>
-                     <place>
-                        <placeName key="lb-place-38">Bayern</placeName>
-                        <location>
-                           <geo>49.00000 11.50000</geo>
-                        </location>
-                     </place>
-                     <place>
-                        <placeName key="lb-place-39">Spanien</placeName>
-                        <location>
-                           <geo>40.00000 -4.00000</geo>
-                        </location>
-                     </place>
-                  </listPlace>
+                  <listBibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-38">Bayern</rs>
+                        </title>
+                        <date>1657-03-28</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
+                        </title>
+                        <date>1657-03-28</date>
+                     </bibl>
+                  </listBibl>
                </event>
                <event xml:id="lb-cal-44">
                   <label>1657-04-06</label>
                   <desc>Den 6. ein brief in Polhen vnd ein nach Mantova geschriben.</desc>
-                  <listPlace>
-                     <place>
-                        <placeName key="lb-place-37">Mantova</placeName>
-                        <location>
-                           <geo>45.16031 10.79784</geo>
-                        </location>
-                     </place>
-                  </listPlace>
+                  <listBibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-40">Polen</rs>
+                        </title>
+                        <date>1657-04-06</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-37">Mantova</rs>
+                        </title>
+                        <date>1657-04-06</date>
+                     </bibl>
+                  </listBibl>
                </event>
                <event xml:id="lb-cal-45">
                   <label>1657-04-07</label>
                   <desc>Den 7. dito <hi rend="del">e</hi> 2 brief in Spanien gschriben.</desc>
-                  <listPlace>
-                     <place>
-                        <placeName key="lb-place-39">Spanien</placeName>
-                        <location>
-                           <geo>40.00000 -4.00000</geo>
-                        </location>
-                     </place>
-                  </listPlace>
+                  <listBibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
+                        </title>
+                        <date>1657-04-07</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
+                        </title>
+                        <date>1657-04-07</date>
+                     </bibl>
+                  </listBibl>
                </event>
                <event xml:id="lb-cal-46">
                   <label>1657-04-18</label>
                   <desc>Den 18. dito <hi rend="del">e</hi> 2 brief in Frankreich gschriben.</desc>
-                  <listPlace>
-                     <place>
-                        <placeName key="lb-place-41">Frankreich</placeName>
-                        <location>
-                           <geo>46.00000 2.00000</geo>
-                        </location>
-                     </place>
-                  </listPlace>
+                  <listBibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-41">Frankreich</rs>
+                        </title>
+                        <date>1657-04-18</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-41">Frankreich</rs>
+                        </title>
+                        <date>1657-04-18</date>
+                     </bibl>
+                  </listBibl>
                </event>
                <event xml:id="lb-cal-47">
                   <label>1657-04-25</label>
                   <desc>Den 25. dito ein brief in Bayrn vnd ein in Spanien gschriben.</desc>
-                  <listPlace>
-                     <place>
-                        <placeName key="lb-place-38">Bayern</placeName>
-                        <location>
-                           <geo>49.00000 11.50000</geo>
-                        </location>
-                     </place>
-                     <place>
-                        <placeName key="lb-place-39">Spanien</placeName>
-                        <location>
-                           <geo>40.00000 -4.00000</geo>
-                        </location>
-                     </place>
-                  </listPlace>
+                  <listBibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-38">Bayern</rs>
+                        </title>
+                        <date>1657-04-25</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
+                        </title>
+                        <date>1657-04-25</date>
+                     </bibl>
+                  </listBibl>
                </event>
                <event xml:id="lb-cal-48">
                   <label>1657-05-09</label>
                   <desc>Den 9. dito ein brief in Bayrn geschriben.</desc>
+                  <listBibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-38">Bayern</rs>
+                        </title>
+                        <date>1657-05-09</date>
+                     </bibl>
+                  </listBibl>
                </event>
                <event xml:id="lb-cal-49">
                   <label>1657-05-16</label>
                   <desc>Den 16. dito ein brief in Bayrn vnd ein in Spanien gschriben.</desc>
+                  <listBibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-38">Bayern</rs>
+                        </title>
+                        <date>1657-05-16</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
+                        </title>
+                        <date>1657-05-16</date>
+                     </bibl>
+                  </listBibl>
                </event>
                <event xml:id="lb-cal-50">
                   <label>1657-05-23</label>
                   <desc>Den 23. May 1657 <hi rend="unclear">…</hi>. Ein brief in Bayrn geschriben <hi rend="unclear">…</hi>.</desc>
+                  <listBibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-38">Bayern</rs>
+                        </title>
+                        <date>1657-05-23</date>
+                     </bibl>
+                  </listBibl>
                </event>
                <event xml:id="lb-cal-51">
                   <label>1657-05-30</label>
                   <desc>Den 30. dito 1 brief in Spanien vnd 2 in Bayrn geschriben <hi rend="unclear">…</hi>.</desc>
+                  <listBibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
+                        </title>
+                        <date>1657-05-30</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-38">Bayern</rs>
+                        </title>
+                        <date>1657-05-30</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-38">Bayern</rs>
+                        </title>
+                        <date>1657-05-30</date>
+                     </bibl>
+                  </listBibl>
                </event>
                <event xml:id="lb-cal-52">
                   <label>1657-06-06</label>
                   <desc>Den 6. Junij ein brief in Bayrn vnd 1 in Spanien gsch<hi rend="unclear">riben</hi>. <hi rend="unclear">…</hi> Den 6. Junij ein brief in Spanien vnd 1 in <hi rend="del">Spanien</hi> Bayrn.</desc>
+                  <listBibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
+                        </title>
+                        <date>1657-06-06</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-38">Bayern</rs>
+                        </title>
+                        <date>1657-06-06</date>
+                     </bibl>
+                  </listBibl>
                </event>
                <event xml:id="lb-cal-53">
                   <label>1657-06-13</label>
                   <desc>Den 13. ein brief in Bayrn geschriben.</desc>
+                  <listBibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-38">Bayern</rs>
+                        </title>
+                        <date>1657-06-13</date>
+                     </bibl>
+                  </listBibl>
                </event>
                <event xml:id="lb-cal-54">
                   <label>1657-06-20</label>
                   <desc>Den 20. diß ein brief in Bayrn vnd ein <hi rend="unclear">in</hi> Spanien geschriben.</desc>
+                  <listBibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-38">Bayern</rs>
+                        </title>
+                        <date>1657-06-20</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
+                        </title>
+                        <date>1657-06-20</date>
+                     </bibl>
+                  </listBibl>
                </event>
                <event xml:id="lb-cal-55">
                   <label>1657-06-27</label>
                   <desc>Den 27. dito ein brief in Bayrn gschriben.</desc>
+                  <listBibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-38">Bayern</rs>
+                        </title>
+                        <date>1657-06-27</date>
+                     </bibl>
+                  </listBibl>
                </event>
                <event xml:id="lb-cal-56">
                   <label>1657-07-04</label>
                   <desc>Den 4. dito ein brief in Bayrn gschriben.</desc>
+                  <listBibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-38">Bayern</rs>
+                        </title>
+                        <date>1657-07-04</date>
+                     </bibl>
+                  </listBibl>
                </event>
                <event xml:id="lb-cal-57">
                   <label>1657-07-11</label>
                   <desc>Den 11. dito ein brief in Bayrn vnd 2 in Spanien gschriben.</desc>
+                  <listBibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-38">Bayern</rs>
+                        </title>
+                        <date>1657-07-11</date>
+                     </bibl>
+                     <bibl key="lb-00113">
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
+                        </title>
+                        <date>1657-07-11</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an <rs type="person" ref="#lb-person-75">Maria Anna (Mariana) von Österreuch</rs>[ermittelt] nach <rs type="place" ref="lb-place-39">Spanien</rs>
+                        </title>
+                        <date>1657-07-11</date>
+                        <note>Adressatin erwähnt in lb-00113</note>
+                     </bibl>
+                  </listBibl>
                </event>
                <event xml:id="lb-cal-58">
                   <label>1657-07-17</label>
                   <desc>Den 17. dito <hi rend="unclear">…</hi>. Nachmittag ein brief <hi rend="del">in</hi> auf Wien vnd ein auf Mantova geschriben.</desc>
+                  <listBibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-1">Wien</rs>
+                        </title>
+                        <date>1657-07-17</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-37">Mantova</rs>
+                        </title>
+                        <date>1657-07-17</date>
+                     </bibl>
+                  </listBibl>
                </event>
                <event xml:id="lb-cal-59">
                   <label>1657-07-20</label>
                   <desc>Den 20 diß <hi rend="unclear">…</hi> Vber nacht gebliben Purniz <hi rend="unclear">…</hi> vnd ein brief in Saxen m<hi rend="unclear">anu pro</hi>pria geschriben.</desc>
+                  <listBibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-142">Sachsen</rs>
+                        </title>
+                        <date>1657-07-20</date>
+                     </bibl>
+                  </listBibl>
                </event>
                <event xml:id="lb-cal-60">
                   <label>1657-07-25</label>
                   <desc>Den 25. diß <hi rend="unclear">…</hi>. Nachmittag ein brief nacher München vnd ein auf Wien geschriben.</desc>
+                  <listBibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-36">München</rs>
+                        </title>
+                        <date>1657-07-25</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-1">Wien</rs>
+                        </title>
+                        <date>1657-07-25</date>
+                     </bibl>
+                  </listBibl>
                </event>
                <event xml:id="lb-cal-61">
                   <label>1657-07-28</label>
                   <desc>Den 28. diß ein brief nach Wienn gschriben.</desc>
+                  <listBibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-1">Wien</rs>
+                        </title>
+                        <date>1657-07-28</date>
+                     </bibl>
+                  </listBibl>
                </event>
                <event xml:id="lb-cal-62">
                   <label>1657-08-01</label>
                   <desc>Den 1. Augusti 1657 <hi rend="del">2</hi> 3 brief auf Wienn vnd 1 in Bayrn gschriben.</desc>
+                  <listBibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-1">Wien</rs>
+                        </title>
+                        <date>1657-08-01</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-1">Wien</rs>
+                        </title>
+                        <date>1657-08-01</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-1">Wien</rs>
+                        </title>
+                        <date>1657-08-01</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-38">Bayern</rs>
+                        </title>
+                        <date>1657-08-01</date>
+                     </bibl>
+                  </listBibl>
                </event>
                <event xml:id="lb-cal-63">
                   <label>1657-08-04</label>
                   <desc>Den 4. dito ein nach Wien vnd 3 nach Spanien geschriben, dem Lamberg 1 neue ziffra geschikht.</desc>
+                  <listBibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-1">Wien</rs>
+                        </title>
+                        <date>1657-08-04</date>
+                     </bibl>
+                     <bibl key="lb-00114">
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
+                        </title>
+                        <date>1657-08-04</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
+                        </title>
+                        <date>1657-08-04</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
+                        </title>
+                        <date>1657-08-04</date>
+                     </bibl>
+                  </listBibl>
                </event>
                <event xml:id="lb-cal-64">
                   <label>1657-08-08</label>
                   <desc>Den 8. dito ein brief auf Wienn geschriben.</desc>
+                  <listBibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-1">Wien</rs>
+                        </title>
+                        <date>1657-08-08</date>
+                     </bibl>
+                  </listBibl>
                </event>
                <event xml:id="lb-cal-65">
                   <label>1657-08-11</label>
                   <desc>Den 11. dito ein brief nach Wienn vnd 2 nach Spanien geschriben.</desc>
+                  <listBibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-1">Wien</rs>
+                        </title>
+                        <date>1657-08-11</date>
+                     </bibl>
+                     <bibl key="lb-00115">
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
+                        </title>
+                        <date>1657-08-11</date>
+                        <note>Das Schreiben datiert vom 10. August</note>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
+                        </title>
+                        <date>1657-08-11</date>
+                     </bibl>
+                  </listBibl>
                </event>
                <event xml:id="lb-cal-66">
                   <label>1657-08-15</label>
                   <desc>Den 15. 2 schreiben auf Wienn vnd 1 in Bayrn gschriben.</desc>
+                  <listBibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-1">Wien</rs>
+                        </title>
+                        <date>1657-08-15</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-1">Wien</rs>
+                        </title>
+                        <date>1657-08-15</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-38">Bayern</rs>
+                        </title>
+                        <date>1657-08-15</date>
+                     </bibl>
+                  </listBibl>
                </event>
                <event xml:id="lb-cal-67">
                   <label>1657-08-18</label>
                   <desc>Den 18. ein brief auf Wienn geschriben.</desc>
+                  <listBibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-1">Wien</rs>
+                        </title>
+                        <date>1657-08-18</date>
+                     </bibl>
+                  </listBibl>
                </event>
                <event xml:id="lb-cal-68">
                   <label>1657-08-22</label>
                   <desc>Den <hi rend="del">24</hi> 22. ein brief auf Wienn, 1 in Bayrn vnd 2 in Spanien geschriben.</desc>
+                  <listBibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-1">Wien</rs>
+                        </title>
+                        <date>1657-08-22</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-38">Bayern</rs>
+                        </title>
+                        <date>1657-08-22</date>
+                     </bibl>
+                     <bibl key="lb-00116">
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
+                        </title>
+                        <date>1657-08-22</date>
+                        <note>Das Schreiben datiert vom 23. August.</note>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an <rs type="person" ref="#lb-person-75">Maria Anna (Mariana) von Österreuch</rs>[ermittelt] nach <rs type="place" ref="lb-place-39">Spanien</rs>
+                        </title>
+                        <date>1657-08-22</date>
+                        <note>Adressatin erwähnt in lb-00116</note>
+                     </bibl>
+                  </listBibl>
                </event>
                <event xml:id="lb-cal-69">
                   <label>1657-08-25</label>
                   <desc>Den 25. dito ein brief auf Wienn geschriben.</desc>
+                  <listBibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-1">Wien</rs>
+                        </title>
+                        <date>1657-08-25</date>
+                     </bibl>
+                  </listBibl>
                </event>
                <event xml:id="lb-cal-70">
                   <label>1657-08-29</label>
                   <desc>Den 29. dito 3 schreiben in Spanien, 3 auf Wienn vnd 2 in Bayrn geschriben.</desc>
+                  <listBibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
+                        </title>
+                        <date>1657-08-29</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
+                        </title>
+                        <date>1657-08-29</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
+                        </title>
+                        <date>1657-08-29</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-1">Wien</rs>
+                        </title>
+                        <date>1657-08-29</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-1">Wien</rs>
+                        </title>
+                        <date>1657-08-29</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-1">Wien</rs>
+                        </title>
+                        <date>1657-08-29</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-38">Bayern</rs>
+                        </title>
+                        <date>1657-08-29</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-38">Bayern</rs>
+                        </title>
+                        <date>1657-08-29</date>
+                     </bibl>
+                  </listBibl>
                </event>
                <event xml:id="lb-cal-72">
                   <label>1657-09-01</label>
                   <desc>
                      <hi rend="del">Den lezten dito <hi rend="unclear">…</hi> vnd ich ein brief in Wienn geschriben.</hi>
                      <hi rend="unclear">…</hi> Den 1. Septembris a<hi rend="unclear">nn</hi>i 1657 <hi rend="unclear">…</hi> vnd ich ein schreiben nach Wienn gschriben.</desc>
+                  <listBibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-1">Wien</rs>
+                        </title>
+                        <date>1657-09-01</date>
+                     </bibl>
+                  </listBibl>
                </event>
                <event xml:id="lb-cal-73">
                   <label>1657-09-05</label>
                   <desc>Den 5. 2 brief in Beyrn vnd 1 in Wienn gschriben.</desc>
+                  <listBibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-38">Bayern</rs>
+                        </title>
+                        <date>1657-09-05</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-38">Bayern</rs>
+                        </title>
+                        <date>1657-09-05</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-1">Wien</rs>
+                        </title>
+                        <date>1657-09-05</date>
+                     </bibl>
+                  </listBibl>
                </event>
                <event xml:id="lb-cal-74">
                   <label>1657-09-12</label>
                   <desc>Den 12. 2 brief in Spanien, 2 auf Wienn vnd 1 nach München geschriben.</desc>
+                  <listBibl>
+                     <bibl key="lb-00118">
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
+                        </title>
+                        <date>1657-09-12</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an <rs type="person" ref="#lb-person-75">Maria Anna (Mariana) von Österreuch</rs>[ermittelt] nach <rs type="place" ref="lb-place-39">Spanien</rs>
+                        </title>
+                        <date>1657-09-12</date>
+                        <note>Adressatin erwähnt in lb-0018</note>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-1">Wien</rs>
+                        </title>
+                        <date>1657-09-12</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-1">Wien</rs>
+                        </title>
+                        <date>1657-09-12</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-36">München</rs>
+                        </title>
+                        <date>1657-09-12</date>
+                     </bibl>
+                  </listBibl>
                </event>
                <event xml:id="lb-cal-75">
                   <label>1657-09-15</label>
                   <desc>Den 15. ein brief auf Wienn geschriben.</desc>
+                  <listBibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-1">Wien</rs>
+                        </title>
+                        <date>1657-09-15</date>
+                     </bibl>
+                  </listBibl>
                </event>
                <event xml:id="lb-cal-76">
                   <label>1657-09-19</label>
                   <desc>Den 19. ein brief auf Wienn vnd 1 in Bayrn gschriben.</desc>
+                  <listBibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-1">Wien</rs>
+                        </title>
+                        <date>1657-09-19</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-38">Bayern</rs>
+                        </title>
+                        <date>1657-09-19</date>
+                     </bibl>
+                  </listBibl>
                </event>
                <event xml:id="lb-cal-77">
                   <label>1657-09-22</label>
                   <desc>Den 22. <hi rend="unclear">…</hi>. Nachmittag ein brief auf Wienn gschriben.</desc>
+                  <listBibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-1">Wien</rs>
+                        </title>
+                        <date>1657-09-22</date>
+                     </bibl>
+                  </listBibl>
                </event>
                <event xml:id="lb-cal-78">
                   <label>1657-09-27</label>
                   <desc>Den <hi rend="del">26</hi> 27. ein brief auf Wienn vnd 1 in Bayrn geschriben.</desc>
+                  <listBibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-1">Wien</rs>
+                        </title>
+                        <date>1657-09-27</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-38">Bayern</rs>
+                        </title>
+                        <date>1657-09-27</date>
+                     </bibl>
+                  </listBibl>
                </event>
                <event xml:id="lb-cal-79">
                   <label>1657-09-29</label>
                   <desc>Den 29. ein schreiben auf Wienn gsch<hi rend="unclear">riben</hi>.</desc>
+                  <listBibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-1">Wien</rs>
+                        </title>
+                        <date>1657-09-29</date>
+                     </bibl>
+                  </listBibl>
                </event>
                <event xml:id="lb-cal-80">
                   <label>1657-10-01</label>
                   <desc>Den 1. 8bris 1657 hab ich ein brief nach Wienn geschriben vnd 1 auf Mantova.</desc>
+                  <listBibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-1">Wien</rs>
+                        </title>
+                        <date>1657-10-01</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-37">Mantova</rs>
+                        </title>
+                        <date>1657-10-01</date>
+                     </bibl>
+                  </listBibl>
                </event>
                <event xml:id="lb-cal-81">
                   <label>1657-10-10</label>
                   <desc>Den 10. dito ein brief auf Wien vnd 1 nach Bayrn.</desc>
+                  <listBibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-1">Wien</rs>
+                        </title>
+                        <date>1657-10-10</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-38">Bayern</rs>
+                        </title>
+                        <date>1657-10-10</date>
+                     </bibl>
+                  </listBibl>
                </event>
                <event xml:id="lb-cal-82">
                   <label>1657-10-13</label>
                   <desc>Den 13. ein brief auf Wienn geschriben.</desc>
+                  <listBibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-1">Wien</rs>
+                        </title>
+                        <date>1657-10-13</date>
+                     </bibl>
+                  </listBibl>
                </event>
                <event xml:id="lb-cal-83">
                   <label>1657-10-17</label>
                   <desc>Den 17. ein in Bayrn vnd 3 auf Wienn gschriben.</desc>
+                  <listBibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-38">Bayern</rs>
+                        </title>
+                        <date>1657-10-17</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-1">Wien</rs>
+                        </title>
+                        <date>1657-10-17</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-1">Wien</rs>
+                        </title>
+                        <date>1657-10-17</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-1">Wien</rs>
+                        </title>
+                        <date>1657-10-17</date>
+                     </bibl>
+                  </listBibl>
                </event>
                <event xml:id="lb-cal-84">
                   <label>1657-10-20</label>
                   <desc>Den 20. <hi rend="unclear">…</hi>. Vnd 1 brief nach Wienn geschriben.</desc>
+                  <listBibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-1">Wien</rs>
+                        </title>
+                        <date>1657-10-20</date>
+                     </bibl>
+                  </listBibl>
                </event>
                <event xml:id="lb-cal-85">
                   <label>1657-10-24</label>
                   <desc>Den <hi rend="del">21. dito</hi> 24. dito 2 in Spanien, 1 in Bayrn vnd 1 auf Wien gschriben.</desc>
+                  <listBibl>
+                     <bibl key="lb-00119">
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
+                        </title>
+                        <date>1657-10-24</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
+                        </title>
+                        <date>1657-10-24</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-38">Bayern</rs>
+                        </title>
+                        <date>1657-10-24</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-1">Wien</rs>
+                        </title>
+                        <date>1657-10-24</date>
+                     </bibl>
+                  </listBibl>
                </event>
                <event xml:id="lb-cal-86">
                   <label>1657-10-27</label>
                   <desc>Den 27. dito 5 auf Wienn gschriben.</desc>
+                  <listBibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-1">Wien</rs>
+                        </title>
+                        <date>1657-10-27</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-1">Wien</rs>
+                        </title>
+                        <date>1657-10-27</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-1">Wien</rs>
+                        </title>
+                        <date>1657-10-27</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-1">Wien</rs>
+                        </title>
+                        <date>1657-10-27</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-1">Wien</rs>
+                        </title>
+                        <date>1657-10-27</date>
+                     </bibl>
+                  </listBibl>
                </event>
                <event xml:id="lb-cal-87">
                   <label>1657-10-31</label>
                   <desc>Den 31. dito <hi rend="unclear">…</hi>. Vnd 2 brief auf Wien vnd 1 nach Peyrn gschriben.</desc>
+                  <listBibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-1">Wien</rs>
+                        </title>
+                        <date>1657-10-31</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-1">Wien</rs>
+                        </title>
+                        <date>1657-10-31</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-1">Wien</rs>
+                        </title>
+                        <date>1657-10-31</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-38">Bayern</rs>
+                        </title>
+                        <date>1657-10-31</date>
+                     </bibl>
+                  </listBibl>
                </event>
                <event xml:id="lb-cal-88">
                   <label>1657-11-03</label>
                   <desc>Den 3. dito 2 brief auf Wienn.</desc>
+                  <listBibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-1">Wien</rs>
+                        </title>
+                        <date>1657-11-03</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-1">Wien</rs>
+                        </title>
+                        <date>1657-11-03</date>
+                     </bibl>
+                  </listBibl>
                </event>
                <event xml:id="lb-cal-89">
                   <label>1657-11-07</label>
                   <desc>Den 7. dito 2 auf Wienn, 2 in Spanien vnd 1 in Bayrn.</desc>
+                  <listBibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-1">Wien</rs>
+                        </title>
+                        <date>1657-11-07</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-1">Wien</rs>
+                        </title>
+                        <date>1657-11-07</date>
+                     </bibl>
+                     <bibl key="lb-00121">
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
+                        </title>
+                        <date>1657-11-07</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
+                        </title>
+                        <date>1657-11-07</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-38">Bayern</rs>
+                        </title>
+                        <date>1657-11-07</date>
+                     </bibl>
+                  </listBibl>
                </event>
                <event xml:id="lb-cal-90">
                   <label>1657-11-10</label>
                   <desc>Den 10. dito <hi rend="unclear">…</hi>. 1 brief in Wienn gschriben.</desc>
+                  <listBibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-1">Wien</rs>
+                        </title>
+                        <date>1657-11-10</date>
+                     </bibl>
+                  </listBibl>
                </event>
                <event xml:id="lb-cal-91">
                   <label>1657-11-14</label>
                   <desc>Den 14. 2 prief in Spanien vnd 2 auf Wienn vnd 1 in Beyrn geschriben.</desc>
+                  <listBibl>
+                     <bibl key="lb-00120">
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
+                        </title>
+                        <date>1657-11-14</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an <rs type="person" ref="#lb-person-75">Maria Anna (Mariana) von Österreuch</rs>[ermittelt] nach <rs type="place" ref="lb-place-39">Spanien</rs>
+                        </title>
+                        <date>1657-11-14</date>
+                        <note>Adressatin erwähnt in lb-00120</note>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-1">Wien</rs>
+                        </title>
+                        <date>1657-11-14</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-1">Wien</rs>
+                        </title>
+                        <date>1657-11-14</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-38">Bayern</rs>
+                        </title>
+                        <date>1657-11-14</date>
+                     </bibl>
+                  </listBibl>
                </event>
                <event xml:id="lb-cal-92">
                   <label>1657-11-18</label>
                   <desc>Den 18. ein auf Wienn gschriben.</desc>
+                  <listBibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-1">Wien</rs>
+                        </title>
+                        <date>1657-11-18</date>
+                     </bibl>
+                  </listBibl>
                </event>
                <event xml:id="lb-cal-93">
                   <label>1657-11-21</label>
                   <desc>Den 21. ein in Bayrn vnd 1 auf Wienn.</desc>
+                  <listBibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-38">Bayern</rs>
+                        </title>
+                        <date>1657-11-21</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-1">Wien</rs>
+                        </title>
+                        <date>1657-11-21</date>
+                     </bibl>
+                  </listBibl>
                </event>
                <event xml:id="lb-cal-94">
                   <label>1657-11-28</label>
                   <desc>Den 28. ein in Bayrn vnd 1 auf Wien gschr<hi rend="unclear">iben</hi>.</desc>
+                  <listBibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-38">Bayern</rs>
+                        </title>
+                        <date>1657-11-28</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-1">Wien</rs>
+                        </title>
+                        <date>1657-11-28</date>
+                     </bibl>
+                  </listBibl>
                </event>
                <event xml:id="lb-cal-95">
                   <label>1657-12-01</label>
                   <desc>Den 1. Decembris a<hi rend="unclear">nn</hi>o 1657 <hi rend="unclear">…</hi>. Hernach ein brief auf Wienn gschriben.</desc>
+                  <listBibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-1">Wien</rs>
+                        </title>
+                        <date>1657-12-01</date>
+                     </bibl>
+                  </listBibl>
                </event>
                <event xml:id="lb-cal-96">
                   <label>1657-12-05</label>
                   <desc>Den 5. ein brief in Bayrn vnd 2 auf Wienn.</desc>
+                  <listBibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-38">Bayern</rs>
+                        </title>
+                        <date>1657-12-05</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-1">Wien</rs>
+                        </title>
+                        <date>1657-12-05</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-1">Wien</rs>
+                        </title>
+                        <date>1657-12-05</date>
+                     </bibl>
+                  </listBibl>
                </event>
                <event xml:id="lb-cal-97">
                   <label>1657-12-08</label>
                   <desc>Den 8. ein brief auf Wienn.</desc>
+                  <listBibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-1">Wien</rs>
+                        </title>
+                        <date>1657-12-08</date>
+                     </bibl>
+                  </listBibl>
                </event>
                <event xml:id="lb-cal-98">
                   <label>1657-12-12</label>
                   <desc>Den 12. 2 auf Wienn vnd 1 auf München.</desc>
+                  <listBibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-1">Wien</rs>
+                        </title>
+                        <date>1657-12-12</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-1">Wien</rs>
+                        </title>
+                        <date>1657-12-12</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-36">München</rs>
+                        </title>
+                        <date>1657-12-12</date>
+                     </bibl>
+                  </listBibl>
                </event>
                <event xml:id="lb-cal-99">
                   <label>1657-12-15</label>
                   <desc>Den 15. dito <hi rend="unclear">…</hi>. Vnd 1 brief auf Wienn gschriben.</desc>
+                  <listBibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-1">Wien</rs>
+                        </title>
+                        <date>1657-12-15</date>
+                     </bibl>
+                  </listBibl>
                </event>
                <event xml:id="lb-cal-100">
                   <label>1657-12-18</label>
                   <desc>Den 18. dito 3 brief in Spanien, 3 auf Wien vnd 1 auf München.</desc>
+                  <listBibl>
+                     <bibl key="lb-00123">
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
+                        </title>
+                        <date>1657-12-18</date>
+                        <note>Das Schreiben datiert vom 19. Dezember.</note>
+                     </bibl>
+                     <bibl key="lb-00124">
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
+                        </title>
+                        <date>1657-12-18</date>
+                        <note>Das Schreiben datiert vom 19. Dezember.</note>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
+                        </title>
+                        <date>1657-12-18</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-1">Wien</rs>
+                        </title>
+                        <date>1657-12-18</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-1">Wien</rs>
+                        </title>
+                        <date>1657-12-18</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-1">Wien</rs>
+                        </title>
+                        <date>1657-12-18</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-36">München</rs>
+                        </title>
+                        <date>1657-12-18</date>
+                     </bibl>
+                  </listBibl>
                </event>
                <event xml:id="lb-cal-101">
                   <label>1657-12-22</label>
                   <desc>Den 22. ein auf Wien gschr<hi rend="unclear">iben</hi>.</desc>
+                  <listBibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-1">Wien</rs>
+                        </title>
+                        <date>1657-12-22</date>
+                     </bibl>
+                  </listBibl>
                </event>
                <event xml:id="lb-cal-102">
                   <label>1657-12-26</label>
                   <desc>Den 26. hab ich 4 brief in Spanien, <hi rend="del">1</hi> 2 in Bayrn vnd 2 auf Wienn geschriben.</desc>
+                  <listBibl>
+                     <bibl key="lb-00122">
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
+                        </title>
+                        <date>1657-12-26</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an <rs type="person" ref="#lb-person-76">Philipp IV.</rs>[ermittelt] nach <rs type="place" ref="lb-place-39">Spanien</rs>
+                        </title>
+                        <date>1657-12-26</date>
+                        <note>Adressat erwähnt in lb-00122</note>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an <rs type="person" ref="#lb-person-75">Maria Anna (Mariana) von Österreuch</rs>[ermittelt] nach <rs type="place" ref="lb-place-39">Spanien</rs>
+                        </title>
+                        <date>1657-12-26</date>
+                        <note>Adressatin erwähnt in lb-00122</note>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
+                        </title>
+                        <date>1657-12-26</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-38">Bayern</rs>
+                        </title>
+                        <date>1657-12-26</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-38">Bayern</rs>
+                        </title>
+                        <date>1657-12-26</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-1">Wien</rs>
+                        </title>
+                        <date>1657-12-26</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-1">Wien</rs>
+                        </title>
+                        <date>1657-12-26</date>
+                     </bibl>
+                  </listBibl>
                </event>
                <event xml:id="lb-cal-103">
                   <label>1657-12-29</label>
                   <desc>Den 29. dito ein brief nach Wien vnd ein <hi rend="italics">khurmei<hi rend="unclear">n</hi>cz, bedankhung wegen se<hi rend="unclear">i</hi>nes voti</hi>, geschriben.</desc>
+                  <listBibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-1">Wien</rs>
+                        </title>
+                        <date>1657-12-29</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-143">Mainz</rs>
+                        </title>
+                        <date>1657-12-29</date>
+                     </bibl>
+                  </listBibl>
                </event>
                <event xml:id="lb-cal-104">
                   <label>None</label>

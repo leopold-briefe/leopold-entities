@@ -32,15 +32,16 @@
             {% for x in objects %}
                <event xml:id="{{ x.lb_id }}">
                   <label>{{ x.not_before }}</label>
-                  <desc>{{ x.text }}</desc>{% if x.places %}
-                  <listPlace>{% for p in x.places %}
-                     <place>
-                        <placeName key="{{ p.lb_id }}">{{ p.label }}</placeName>{% if p.latitude %}
-                        <location><geo>{{ p.latitude }} {{ p.longitude }}</geo></location>{% endif %}{% if x.gnd_url|length > 0 %}
-                        <idno type="gnd">{{ p.gnd_url }}</idno>{% endif %}{% if p.wikidata|length > 0 %}
-                        <idno type="wikidata">{{ p.wikidata }}</idno>{% endif %}
-                     </place>{% endfor %}
-                  </listPlace>{% endif %}
+                  <desc>{{ x.text }}</desc>{% if x.mentioned_letters %}
+                  <listBibl>{% for y in x.mentioned_letters %}
+                     <bibl{% if y.relation_to_original_letter %} key="{{ y.relation_to_original_letter }}"{% endif %}>
+                        <title>Leopold an {% if y.addressee_worked_out or y.addressee_stated %}{% for z in y.addressee_worked_out %}<rs type="person" ref="#lb-person-{{z.id}}">{{z.value}}</rs>[ermittelt]{% endfor %}{% for z in y.addressee_stated %}<rs type="person" ref="#lb-person-{{z.id}}">{{z.value}}</rs>{% endfor %}{% else %}Unbekannt{% endif %}
+                           {% if y.destination %} nach {% for p in y.destination %}<rs type="place" ref="lb-place-{{p.id}}">{{ p.value }}</rs>{% endfor %}{% endif %}{% if y.dictated_letter%} [diktiert]{% endif %}</title>
+                        <date>{{ x.not_before }}</date>{% if y.note %}
+                        <note>{{ y.note }}</note>{% endif %}
+                     </bibl>{% endfor %}
+                  </listBibl>{% endif %}
+                  
                 </event>
             {% endfor %}
             </listEvent>

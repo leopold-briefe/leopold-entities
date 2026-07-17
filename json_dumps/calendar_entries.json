@@ -31,7 +31,7 @@
           }
         ],
         "relation_to_original_letter": null,
-        "dictated_letter": false,
+        "dictated_letter": true,
         "note": null,
         "addressee_worked_out": []
       }
