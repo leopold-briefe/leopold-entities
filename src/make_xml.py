@@ -19,6 +19,8 @@ def convert_event_markup(text):
     if not isinstance(text, str):
         return text
     text = re.sub(r"~~(.*?)~~", r'<hi rend="del">\1</hi>', text)
+    text = re.sub(r"\*\*(.*?)\*\*", r'<hi rend="bold">\1</hi>', text)
+    text = re.sub(r"\*(.*?)\*", r'<hi rend="italics">\1</hi>', text)
     return re.sub(r"\[([^\]]+)\]", r'<hi rend="unclear">\1</hi>', text)
 
 
