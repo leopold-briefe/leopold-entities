@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">CMIF</title>
+            <title type="sub">Korrespondenz von Kaiser Leopold I</title>
+            <editor key="https://d-nb.info/gnd/132150654">
+                <forename>Petr</forename>
+                <surname>Maťa</surname>
+            </editor>
+        </titleStmt>
+        <publicationStmt>
+            <publisher key="https://d-nb.info/gnd/1001454-8">Österreichische Akademie der Wissenschaften</publisher>
+            <date when="2028"/>
+            <availability status="free">
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">Lizenziert unter CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/deed.de)</licence>
+            </availability>
+        </publicationStmt>
+         <sourceDesc>
+            <p>Register der im Projekt erwähnten Briefe</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>{% for x in objects %}{% if x.lb_id %}
+         <correspDesc xml:id="{{ x.lb_id }}">
+            <correspAction type="sent">
+            {% for sender in x.sender %}
+               <persName{% if sender.id %} key="lb-person-{{ sender.id }}"{% endif %}>{{ sender.value }}</persName>
+           {% if x.place_of_writing or x.placename_written %}
+               {% for place in x.place_of_writing %}
+               <placeName key="{{ place.lb_id }}"{% if place.geonames_url %} ref="{{ place.geonames_url }}"{% endif %}>{{ place.label }}</placeName>
+               {% endfor %}
+               {% if x.placename_written %}
+               <placeName type="written">{{ x.placename_written }}</placeName>
+               {% endif %}
+            {% endif %}
+            {% endfor %}
+            {% if x.written_date or x.not_before or x.not_after %}
+               <date{% if x.not_before and x.not_after and x.not_before == x.not_after %} when="{{ x.not_before }}"{% else %}{% if x.not_before %} notBefore="{{ x.not_before }}"{% endif %}{% if x.not_after %} notAfter="{{ x.not_after }}"{% endif %}{% endif %}>{% if x.written_date %}{{ x.written_date }}{% else %}{{ x.not_before or x.not_after }}{% endif %}</date>{% if x.date_note %}
+               <note type="date">{{ x.date_note }}</note>{% endif %}
+            {% endif %}
+            </correspAction>
+            <correspAction type="received">
+            {% for receiver in x.receiver %}
+            
+               <persName key="{{ receiver.lb_id }}"{% if receiver.gnd_url %} ref="{{ receiver.gnd_url }}"{% endif %}>{{ receiver.label }}</persName>
+            
+            {% endfor %}
+            {% if x.destination %}
+            
+               {% for place in x.destination %}
+               <placeName type="destination">{{ place.value }}</placeName>
+               {% endfor %}
+            
+            {% endif %}
+            {% if x.received_place %}
+            
+               {% for place in x.received_place %}
+               <placeName key="{{ place.lb_id }}"{% if place.geonames_url %} ref="{{ place.geonames_url }}"{% endif %}>{{ place.label }}</placeName>
+               {% endfor %}
+            {% endif %}
+            {% if x.received_date %}
+            
+               <date when="{{ x.received_date }}">{{ x.received_date }}</date>
+            
+            {% endif %}
+            </correspAction>
+            <!-- {% if x.related_letters %}
+            <correspContext>
+               {% for rel in x.related_letters %}
+               <ref target="#{{ rel.id }}"{% if rel.relation_type %} type="{{ rel.relation_type }}"{% endif %}>{% if rel.kind %}{{ rel.kind | map(attribute='value') | join(', ') }}{% else %}related correspondence{% endif %}</ref>
+               {% endfor %}
+            </correspContext>
+            {% endif %} -->
+         </correspDesc>{% endif %}{% endfor %}
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab></ab>
+      </body>
+   </text>
+</TEI>
