@@ -25,9 +25,16 @@
       </fileDesc>
       <profileDesc>{% for x in objects %}{% if x.lb_id %}
          <correspDesc xml:id="{{ x.lb_id }}">
+            {% if x.metadata_notes %}
+            <noteGrp type="metadata">
+               {% for meta in x.metadata_notes %}
+               <note type="{{ meta.type }}">{{ meta.text }}</note>
+               {% endfor %}
+            </noteGrp>
+            {% endif %}
             <correspAction type="sent">
             {% for sender in x.sender %}
-               <persName{% if sender.id %} key="lb-person-{{ sender.id }}"{% endif %}>{{ sender.value }}</persName>
+               <persName{% if sender.id %} key="lb-person-{{ sender.id }}"{% endif %} ref="https://d-nb.info/gnd/118571869">{{ sender.value }}</persName>
            {% if x.place_of_writing or x.placename_written %}
                {% for place in x.place_of_writing %}
                <placeName key="{{ place.lb_id }}"{% if place.geonames_url %} ref="{{ place.geonames_url }}"{% endif %}>{{ place.label }}</placeName>
@@ -56,15 +63,12 @@
             
             {% endif %}
             {% if x.received_place %}
-            
                {% for place in x.received_place %}
                <placeName key="{{ place.lb_id }}"{% if place.geonames_url %} ref="{{ place.geonames_url }}"{% endif %}>{{ place.label }}</placeName>
                {% endfor %}
             {% endif %}
             {% if x.received_date %}
-            
                <date when="{{ x.received_date }}">{{ x.received_date }}</date>
-            
             {% endif %}
             </correspAction>
             <!-- {% if x.related_letters %}

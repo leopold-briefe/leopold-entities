@@ -15,6 +15,56 @@ templateEnv = jinja2.Environment(
 out_dir = os.path.join("data/indices")
 
 
+LETTER_CORE_FIELDS = {
+    "id",
+    "order",
+    "lb_id",
+    "sender",
+    "receiver",
+    "place_of_writing",
+    "placename_written",
+    "written_date",
+    "not_before",
+    "not_after",
+    "date_note",
+    "destination",
+    "received_place",
+    "received_date",
+    "related_letters",
+}
+
+
+def _format_metadata_value(value):
+    if value is None:
+        return ""
+    if isinstance(value, str):
+        return value.strip()
+    if isinstance(value, (int, float, bool)):
+        return str(value)
+    if isinstance(value, dict):
+        for key in ["value", "label", "abbr", "lb_id", "id"]:
+            picked = value.get(key)
+            if picked not in (None, ""):
+                return str(picked).strip()
+        return ""
+    if isinstance(value, list):
+        parts = [_format_metadata_value(item) for item in value]
+        parts = [item for item in parts if item]
+        return ", ".join(parts)
+    return ""
+
+
+def _build_letter_metadata_notes(letter):
+    notes = []
+    for key, value in letter.items():
+        if key in LETTER_CORE_FIELDS:
+            continue
+        text = _format_metadata_value(value)
+        if text:
+            notes.append({"type": key, "text": text})
+    return notes
+
+
 def convert_event_markup(text):
     if not isinstance(text, str):
         return text
@@ -37,6 +87,9 @@ for x in files:
     context["objects"] = [value for key, value in data.items()]
     ent_type = tail.replace("s.json", "")
     template_name = f"list{ent_type}.xml"
+    if template_name == "listletter.xml":
+        for item in context["objects"]:
+            item["metadata_notes"] = _build_letter_metadata_notes(item)
     try:
         template = templateEnv.get_template(template_name)
     except jinja2.exceptions.TemplateNotFound:
