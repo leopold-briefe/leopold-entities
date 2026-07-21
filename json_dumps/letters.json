@@ -79,7 +79,7 @@
     "page": null,
     "received_place": [],
     "received_date": null,
-    "images_on_share": true,
+    "images_on_share": false,
     "related_letters": [
       {
         "id": "lb-00002",
@@ -4256,7 +4256,7 @@
       }
     ],
     "received_date": "1654-02-09",
-    "images_on_share": false,
+    "images_on_share": true,
     "related_letters": []
   },
   "100": {

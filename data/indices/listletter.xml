@@ -35,7 +35,7 @@
                <note type="daily_order">1</note>
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">finalisiert</note>
-               <note type="images_on_share">True</note>
+               <note type="images_on_share">False</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -312,7 +312,7 @@
                <note type="daily_order">1</note>
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">nicht vorhanden</note>
-               <note type="images_on_share">False</note>
+               <note type="images_on_share">True</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
