@@ -311,7 +311,7 @@
                <note type="main_language">deu</note>
                <note type="daily_order">1</note>
                <note type="status_metadaten">angelegt</note>
-               <note type="status_transkription">nicht vorhanden</note>
+               <note type="status_transkription">angelegt</note>
                <note type="images_on_share">True</note>
             </noteGrp>
             <correspAction type="sent">
@@ -337,7 +337,7 @@
                <note type="main_language">deu</note>
                <note type="daily_order">1</note>
                <note type="status_metadaten">angelegt</note>
-               <note type="status_transkription">nicht vorhanden</note>
+               <note type="status_transkription">angelegt</note>
                <note type="images_on_share">False</note>
             </noteGrp>
             <correspAction type="sent">
@@ -363,7 +363,7 @@
                <note type="main_language">deu</note>
                <note type="daily_order">1</note>
                <note type="status_metadaten">angelegt</note>
-               <note type="status_transkription">nicht vorhanden</note>
+               <note type="status_transkription">angelegt</note>
                <note type="images_on_share">False</note>
             </noteGrp>
             <correspAction type="sent">
@@ -389,7 +389,7 @@
                <note type="main_language">deu</note>
                <note type="daily_order">1</note>
                <note type="status_metadaten">angelegt</note>
-               <note type="status_transkription">nicht vorhanden</note>
+               <note type="status_transkription">angelegt</note>
                <note type="images_on_share">False</note>
             </noteGrp>
             <correspAction type="sent">
@@ -415,7 +415,7 @@
                <note type="main_language">deu</note>
                <note type="daily_order">1</note>
                <note type="status_metadaten">angelegt</note>
-               <note type="status_transkription">nicht vorhanden</note>
+               <note type="status_transkription">angelegt</note>
                <note type="images_on_share">False</note>
             </noteGrp>
             <correspAction type="sent">
