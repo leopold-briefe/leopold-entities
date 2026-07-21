@@ -24,7 +24,6 @@ LETTER_CORE_FIELDS = {
     "place_of_writing",
     "placename_written",
     "written_date",
-    "not_before",
     "not_after",
     "date_note",
     "destination",
