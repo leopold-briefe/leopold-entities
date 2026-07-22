@@ -22,7 +22,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Adolf Wratislaw",
+        "last_name": "Sternberg"
       }
     ],
     "not_before": "1668-01-28",
@@ -34,12 +36,29 @@
         "id": 36,
         "order": "4.00000000000000000000",
         "abbr": "ANM",
-        "label": "",
+        "label": "Archiv Národního muzea",
         "lb_id": "lb-org-36",
-        "kind": null,
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
         "gnd_url": "",
-        "located_in": [],
-        "has_license": ""
+        "located_in": [
+          {
+            "id": 69,
+            "order": "11.00000000000000000000",
+            "label": "Praha",
+            "lb_id": "lb-place-69",
+            "geonames_url": "https://www.geonames.org/3067696/prague.html",
+            "latitude": "50.08804",
+            "longitude": "14.42076",
+            "gnd_url": "",
+            "mentioned_letters": []
+          }
+        ],
+        "has_license": "",
+        "translation": "Archiv des Nationalmuseums"
       }
     ],
     "collection": "Šternberk-Manderscheid",
@@ -59,11 +78,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "status_metadaten": null,
     "status_transkription": {
       "id": 23030,
       "value": "finalisiert",
@@ -128,7 +143,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Adolf Wratislaw",
+        "last_name": "Sternberg"
       }
     ],
     "not_before": "1668-01-28",
@@ -140,12 +157,29 @@
         "id": 36,
         "order": "4.00000000000000000000",
         "abbr": "ANM",
-        "label": "",
+        "label": "Archiv Národního muzea",
         "lb_id": "lb-org-36",
-        "kind": null,
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
         "gnd_url": "",
-        "located_in": [],
-        "has_license": ""
+        "located_in": [
+          {
+            "id": 69,
+            "order": "11.00000000000000000000",
+            "label": "Praha",
+            "lb_id": "lb-place-69",
+            "geonames_url": "https://www.geonames.org/3067696/prague.html",
+            "latitude": "50.08804",
+            "longitude": "14.42076",
+            "gnd_url": "",
+            "mentioned_letters": []
+          }
+        ],
+        "has_license": "",
+        "translation": "Archiv des Nationalmuseums"
       }
     ],
     "collection": "Šternberk-Manderscheid",
@@ -217,7 +251,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Adolf Wratislaw",
+        "last_name": "Sternberg"
       }
     ],
     "not_before": "1668-01-28",
@@ -229,12 +265,29 @@
         "id": 36,
         "order": "4.00000000000000000000",
         "abbr": "ANM",
-        "label": "",
+        "label": "Archiv Národního muzea",
         "lb_id": "lb-org-36",
-        "kind": null,
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
         "gnd_url": "",
-        "located_in": [],
-        "has_license": ""
+        "located_in": [
+          {
+            "id": 69,
+            "order": "11.00000000000000000000",
+            "label": "Praha",
+            "lb_id": "lb-place-69",
+            "geonames_url": "https://www.geonames.org/3067696/prague.html",
+            "latitude": "50.08804",
+            "longitude": "14.42076",
+            "gnd_url": "",
+            "mentioned_letters": []
+          }
+        ],
+        "has_license": "",
+        "translation": "Archiv des Nationalmuseums"
       }
     ],
     "collection": "Šternberk-Manderscheid",
@@ -306,7 +359,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Adolf Wratislaw",
+        "last_name": "Sternberg"
       }
     ],
     "not_before": "1672-06-20",
@@ -318,12 +373,29 @@
         "id": 36,
         "order": "4.00000000000000000000",
         "abbr": "ANM",
-        "label": "",
+        "label": "Archiv Národního muzea",
         "lb_id": "lb-org-36",
-        "kind": null,
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
         "gnd_url": "",
-        "located_in": [],
-        "has_license": ""
+        "located_in": [
+          {
+            "id": 69,
+            "order": "11.00000000000000000000",
+            "label": "Praha",
+            "lb_id": "lb-place-69",
+            "geonames_url": "https://www.geonames.org/3067696/prague.html",
+            "latitude": "50.08804",
+            "longitude": "14.42076",
+            "gnd_url": "",
+            "mentioned_letters": []
+          }
+        ],
+        "has_license": "",
+        "translation": "Archiv des Nationalmuseums"
       }
     ],
     "collection": "Šternberk-Manderscheid",
@@ -744,7 +816,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Adolf Wratislaw",
+        "last_name": "Sternberg"
       }
     ],
     "not_before": "1672-06-20",
@@ -756,12 +830,29 @@
         "id": 36,
         "order": "4.00000000000000000000",
         "abbr": "ANM",
-        "label": "",
+        "label": "Archiv Národního muzea",
         "lb_id": "lb-org-36",
-        "kind": null,
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
         "gnd_url": "",
-        "located_in": [],
-        "has_license": ""
+        "located_in": [
+          {
+            "id": 69,
+            "order": "11.00000000000000000000",
+            "label": "Praha",
+            "lb_id": "lb-place-69",
+            "geonames_url": "https://www.geonames.org/3067696/prague.html",
+            "latitude": "50.08804",
+            "longitude": "14.42076",
+            "gnd_url": "",
+            "mentioned_letters": []
+          }
+        ],
+        "has_license": "",
+        "translation": "Archiv des Nationalmuseums"
       }
     ],
     "collection": "Šternberk-Manderscheid",
@@ -1155,7 +1246,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "František",
+        "last_name": "Palacký"
       }
     ],
     "edition": [],
@@ -1190,7 +1283,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Adolf Wratislaw",
+        "last_name": "Sternberg"
       }
     ],
     "not_before": "1677-04-09",
@@ -1202,12 +1297,29 @@
         "id": 36,
         "order": "4.00000000000000000000",
         "abbr": "ANM",
-        "label": "",
+        "label": "Archiv Národního muzea",
         "lb_id": "lb-org-36",
-        "kind": null,
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
         "gnd_url": "",
-        "located_in": [],
-        "has_license": ""
+        "located_in": [
+          {
+            "id": 69,
+            "order": "11.00000000000000000000",
+            "label": "Praha",
+            "lb_id": "lb-place-69",
+            "geonames_url": "https://www.geonames.org/3067696/prague.html",
+            "latitude": "50.08804",
+            "longitude": "14.42076",
+            "gnd_url": "",
+            "mentioned_letters": []
+          }
+        ],
+        "has_license": "",
+        "translation": "Archiv des Nationalmuseums"
       }
     ],
     "collection": "Šternberk-Manderscheid",
@@ -1639,7 +1751,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Adolf Wratislaw",
+        "last_name": "Sternberg"
       }
     ],
     "not_before": "1677-04-09",
@@ -1651,12 +1765,29 @@
         "id": 36,
         "order": "4.00000000000000000000",
         "abbr": "ANM",
-        "label": "",
+        "label": "Archiv Národního muzea",
         "lb_id": "lb-org-36",
-        "kind": null,
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
         "gnd_url": "",
-        "located_in": [],
-        "has_license": ""
+        "located_in": [
+          {
+            "id": 69,
+            "order": "11.00000000000000000000",
+            "label": "Praha",
+            "lb_id": "lb-place-69",
+            "geonames_url": "https://www.geonames.org/3067696/prague.html",
+            "latitude": "50.08804",
+            "longitude": "14.42076",
+            "gnd_url": "",
+            "mentioned_letters": []
+          }
+        ],
+        "has_license": "",
+        "translation": "Archiv des Nationalmuseums"
       }
     ],
     "collection": "Šternberk-Manderscheid",
@@ -2071,7 +2202,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Adolf Wratislaw",
+        "last_name": "Sternberg"
       }
     ],
     "not_before": "1677-04-09",
@@ -2083,12 +2216,29 @@
         "id": 36,
         "order": "4.00000000000000000000",
         "abbr": "ANM",
-        "label": "",
+        "label": "Archiv Národního muzea",
         "lb_id": "lb-org-36",
-        "kind": null,
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
         "gnd_url": "",
-        "located_in": [],
-        "has_license": ""
+        "located_in": [
+          {
+            "id": 69,
+            "order": "11.00000000000000000000",
+            "label": "Praha",
+            "lb_id": "lb-place-69",
+            "geonames_url": "https://www.geonames.org/3067696/prague.html",
+            "latitude": "50.08804",
+            "longitude": "14.42076",
+            "gnd_url": "",
+            "mentioned_letters": []
+          }
+        ],
+        "has_license": "",
+        "translation": "Archiv des Nationalmuseums"
       }
     ],
     "collection": "Šternberk-Manderscheid",
@@ -2503,7 +2653,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Adolf Wratislaw",
+        "last_name": "Sternberg"
       }
     ],
     "not_before": "1678-08-14",
@@ -2515,12 +2667,29 @@
         "id": 36,
         "order": "4.00000000000000000000",
         "abbr": "ANM",
-        "label": "",
+        "label": "Archiv Národního muzea",
         "lb_id": "lb-org-36",
-        "kind": null,
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
         "gnd_url": "",
-        "located_in": [],
-        "has_license": ""
+        "located_in": [
+          {
+            "id": 69,
+            "order": "11.00000000000000000000",
+            "label": "Praha",
+            "lb_id": "lb-place-69",
+            "geonames_url": "https://www.geonames.org/3067696/prague.html",
+            "latitude": "50.08804",
+            "longitude": "14.42076",
+            "gnd_url": "",
+            "mentioned_letters": []
+          }
+        ],
+        "has_license": "",
+        "translation": "Archiv des Nationalmuseums"
       }
     ],
     "collection": "Šternberk-Manderscheid",
@@ -2952,7 +3121,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Adolf Wratislaw",
+        "last_name": "Sternberg"
       }
     ],
     "not_before": "1678-08-14",
@@ -2964,12 +3135,29 @@
         "id": 36,
         "order": "4.00000000000000000000",
         "abbr": "ANM",
-        "label": "",
+        "label": "Archiv Národního muzea",
         "lb_id": "lb-org-36",
-        "kind": null,
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
         "gnd_url": "",
-        "located_in": [],
-        "has_license": ""
+        "located_in": [
+          {
+            "id": 69,
+            "order": "11.00000000000000000000",
+            "label": "Praha",
+            "lb_id": "lb-place-69",
+            "geonames_url": "https://www.geonames.org/3067696/prague.html",
+            "latitude": "50.08804",
+            "longitude": "14.42076",
+            "gnd_url": "",
+            "mentioned_letters": []
+          }
+        ],
+        "has_license": "",
+        "translation": "Archiv des Nationalmuseums"
       }
     ],
     "collection": "Šternberk-Manderscheid",
@@ -3384,7 +3572,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Adolf Wratislaw",
+        "last_name": "Sternberg"
       }
     ],
     "not_before": "1678-08-14",
@@ -3396,12 +3586,29 @@
         "id": 36,
         "order": "4.00000000000000000000",
         "abbr": "ANM",
-        "label": "",
+        "label": "Archiv Národního muzea",
         "lb_id": "lb-org-36",
-        "kind": null,
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
         "gnd_url": "",
-        "located_in": [],
-        "has_license": ""
+        "located_in": [
+          {
+            "id": 69,
+            "order": "11.00000000000000000000",
+            "label": "Praha",
+            "lb_id": "lb-place-69",
+            "geonames_url": "https://www.geonames.org/3067696/prague.html",
+            "latitude": "50.08804",
+            "longitude": "14.42076",
+            "gnd_url": "",
+            "mentioned_letters": []
+          }
+        ],
+        "has_license": "",
+        "translation": "Archiv des Nationalmuseums"
       }
     ],
     "collection": "Šternberk-Manderscheid",
@@ -3828,7 +4035,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1653-11-19",
@@ -3861,7 +4070,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -3887,9 +4097,9 @@
       "color": "darker-red"
     },
     "status_transkription": {
-      "id": 23029,
-      "value": "angelegt",
-      "color": "darker-cyan"
+      "id": 23030,
+      "value": "finalisiert",
+      "color": "darker-green"
     },
     "place_of_writing": [
       {
@@ -4294,7 +4504,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1654-10-03",
@@ -4327,7 +4539,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -4353,9 +4566,9 @@
       "color": "darker-red"
     },
     "status_transkription": {
-      "id": 23029,
-      "value": "angelegt",
-      "color": "darker-cyan"
+      "id": 23030,
+      "value": "finalisiert",
+      "color": "darker-green"
     },
     "place_of_writing": [
       {
@@ -4429,7 +4642,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1654-05-06",
@@ -4462,7 +4677,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -4488,9 +4704,9 @@
       "color": "darker-red"
     },
     "status_transkription": {
-      "id": 23029,
-      "value": "angelegt",
-      "color": "darker-cyan"
+      "id": 23030,
+      "value": "finalisiert",
+      "color": "darker-green"
     },
     "place_of_writing": [
       {
@@ -4895,7 +5111,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1655-01-27",
@@ -4928,7 +5146,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -4954,9 +5173,9 @@
       "color": "darker-red"
     },
     "status_transkription": {
-      "id": 23029,
-      "value": "angelegt",
-      "color": "darker-cyan"
+      "id": 23030,
+      "value": "finalisiert",
+      "color": "darker-green"
     },
     "place_of_writing": [
       {
@@ -5361,7 +5580,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1655-05-31",
@@ -5394,7 +5615,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -5420,9 +5642,9 @@
       "color": "darker-red"
     },
     "status_transkription": {
-      "id": 23029,
-      "value": "angelegt",
-      "color": "darker-cyan"
+      "id": 23030,
+      "value": "finalisiert",
+      "color": "darker-green"
     },
     "place_of_writing": [
       {
@@ -5496,7 +5718,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1655-06-29",
@@ -5529,7 +5753,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -5631,7 +5856,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1655-10-27",
@@ -5664,7 +5891,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -5766,7 +5994,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1656-01-12",
@@ -5799,7 +6029,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -6232,7 +6463,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1656-01-26",
@@ -6265,7 +6498,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -6698,7 +6932,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1656-07-19",
@@ -6731,7 +6967,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -7164,7 +7401,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1656-05-10",
@@ -7197,7 +7436,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -7299,7 +7539,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1656-10-17",
@@ -7332,7 +7574,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -7765,7 +8008,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1657-07-11",
@@ -7798,7 +8043,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -8231,7 +8477,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1657-08-04",
@@ -8264,7 +8512,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -8366,7 +8615,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1657-08-10",
@@ -8399,7 +8650,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -8501,7 +8753,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1657-08-23",
@@ -8534,7 +8788,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -8636,7 +8891,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1657-09-05",
@@ -8669,7 +8926,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -8771,7 +9029,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1657-09-12",
@@ -8804,7 +9064,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -8906,7 +9167,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1657-10-24",
@@ -8939,7 +9202,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -9029,7 +9293,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1657-11-14",
@@ -9062,7 +9328,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -9164,7 +9431,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1657-11-07",
@@ -9197,7 +9466,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -9299,7 +9569,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1657-12-26",
@@ -9332,7 +9604,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -9434,7 +9707,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1657-12-19",
@@ -9467,7 +9742,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -9557,7 +9833,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1657-12-19",
@@ -9590,7 +9868,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -9692,7 +9971,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1658-01-16",
@@ -9725,7 +10006,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -9827,7 +10109,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1658-01-23",
@@ -9860,7 +10144,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -9962,7 +10247,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1658-03-13",
@@ -9995,7 +10282,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -10097,7 +10385,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1658-03-22",
@@ -10130,7 +10420,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -10232,7 +10523,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1658-04-22",
@@ -10265,7 +10558,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -10355,7 +10649,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1658-03-29",
@@ -10388,7 +10684,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -10490,7 +10787,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1658-04-05",
@@ -10523,7 +10822,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -10625,7 +10925,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1658-05-10",
@@ -10658,7 +10960,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -10760,7 +11063,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1658-05-25",
@@ -10793,7 +11098,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -10895,7 +11201,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1658-04-26",
@@ -10928,7 +11236,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -11030,7 +11339,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1658-07-11",
@@ -11063,7 +11374,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -11165,7 +11477,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1658-08-08",
@@ -11198,7 +11512,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -11300,7 +11615,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1658-07-06",
@@ -11333,7 +11650,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -11435,7 +11753,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1658-05-22",
@@ -11468,7 +11788,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -11570,7 +11891,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1658-07-18",
@@ -11603,7 +11926,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -11705,7 +12029,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1658-10-02",
@@ -11738,7 +12064,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -12171,7 +12498,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1658-10-23",
@@ -12204,7 +12533,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -12637,7 +12967,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1658-11-06",
@@ -12670,7 +13002,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -13103,7 +13436,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1658-09-16",
@@ -13136,7 +13471,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -13244,7 +13580,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1658-11-20",
@@ -13277,7 +13615,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -13710,7 +14049,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1658-12-11",
@@ -13743,7 +14084,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -14176,7 +14518,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1658-12-11",
@@ -14209,7 +14553,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -14630,7 +14975,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1658-12-24",
@@ -14663,7 +15010,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -15096,7 +15444,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1658-07-27",
@@ -15129,7 +15479,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -15231,7 +15582,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1658-08-09",
@@ -15264,7 +15617,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -15372,7 +15726,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1658-08-28",
@@ -15405,7 +15761,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -15528,7 +15885,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1659-11-18",
@@ -15561,7 +15920,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -15663,7 +16023,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1659-12-24",
@@ -15696,7 +16058,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -16129,7 +16492,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1659-12-10",
@@ -16162,7 +16527,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -16595,7 +16961,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1659-12-02",
@@ -16628,7 +16996,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -16730,7 +17099,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1659-11-04",
@@ -16763,7 +17134,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -16865,7 +17237,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1659-10-21",
@@ -16898,7 +17272,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -17000,7 +17375,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1659-10-07",
@@ -17033,7 +17410,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -17135,7 +17513,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1659-09-22",
@@ -17168,7 +17548,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -17270,7 +17651,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1659-09-09",
@@ -17303,7 +17686,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -17405,7 +17789,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1659-08-16",
@@ -17438,7 +17824,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -17540,7 +17927,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1659-08-12",
@@ -17573,7 +17962,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -18006,7 +18396,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1659-04-16",
@@ -18039,7 +18431,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -18472,7 +18865,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1659-04-16",
@@ -18505,7 +18900,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -18926,7 +19322,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1659-04-23",
@@ -18959,7 +19357,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -19392,7 +19791,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1659-05-14",
@@ -19425,7 +19826,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -19527,7 +19929,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1659-05-28",
@@ -19560,7 +19964,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -19662,7 +20067,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1659-05-28",
@@ -19695,7 +20102,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -19773,7 +20181,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1659-06-11",
@@ -19806,7 +20216,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -20239,7 +20650,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1659-06-25",
@@ -20272,7 +20685,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -20705,7 +21119,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1659-07-09",
@@ -20738,7 +21154,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -21171,7 +21588,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1659-07-09",
@@ -21204,7 +21623,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -21282,7 +21702,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1659-07-30",
@@ -21315,7 +21737,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -21748,7 +22171,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1659-07-30",
@@ -21781,7 +22206,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -21859,7 +22285,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1659-01-08",
@@ -21892,7 +22320,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -22325,7 +22754,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1659-01-29",
@@ -22358,7 +22789,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -22791,7 +23223,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1659-02-12",
@@ -22824,7 +23258,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -23257,7 +23692,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1659-02-26",
@@ -23290,7 +23727,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -23723,7 +24161,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1659-03-12",
@@ -23756,7 +24196,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -24189,7 +24630,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1659-03-12",
@@ -24222,7 +24665,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -24300,7 +24744,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1659-04-02",
@@ -24333,7 +24779,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -24766,7 +25213,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1659-04-02",
@@ -24799,7 +25248,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -24877,7 +25327,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1659-08-06",
@@ -24910,7 +25362,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -25343,7 +25796,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1660-08-17",
@@ -25376,7 +25831,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -25809,7 +26265,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1660-01-07",
@@ -25842,7 +26300,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -26275,7 +26734,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1660-01-21",
@@ -26308,7 +26769,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -26741,7 +27203,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1660-02-11",
@@ -26774,7 +27238,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -27207,7 +27672,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1660-02-25",
@@ -27240,7 +27707,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -27673,7 +28141,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1660-02-18",
@@ -27706,7 +28176,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -28139,7 +28610,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1660-03-10",
@@ -28172,7 +28645,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -28605,7 +29079,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1660-04-12",
@@ -28638,7 +29114,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -29071,7 +29548,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1660-03-24",
@@ -29104,7 +29583,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -29537,7 +30017,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1660-04-07",
@@ -29570,7 +30052,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -30003,7 +30486,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1660-04-21",
@@ -30036,7 +30521,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -30469,7 +30955,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1660-06-09",
@@ -30502,7 +30990,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -30935,7 +31424,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1660-05-04",
@@ -30968,7 +31459,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -31070,7 +31562,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1660-05-19",
@@ -31103,7 +31597,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -31205,7 +31700,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1660-06-28",
@@ -31238,7 +31735,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -31340,7 +31838,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1660-07-13",
@@ -31373,7 +31873,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -31475,7 +31976,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1660-06-16",
@@ -31508,7 +32011,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -31941,7 +32445,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": "1660-07-27",
@@ -31974,7 +32480,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",
@@ -32407,7 +32914,9 @@
         "place_of_death": [],
         "date_of_death": null,
         "wikidata_url": "",
-        "mentioned_letters - courier": []
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg"
       }
     ],
     "not_before": null,
@@ -32440,7 +32949,8 @@
             "mentioned_letters": []
           }
         ],
-        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
       }
     ],
     "collection": "HA Steyr",

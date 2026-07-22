@@ -30,10 +30,11 @@
             "order": "5.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": null,
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       }
     ]
   },
@@ -68,10 +69,11 @@
             "order": "6.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": null,
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       },
       {
         "id": 3,
@@ -87,10 +89,11 @@
             "order": "6.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       },
       {
         "id": 4,
@@ -106,10 +109,11 @@
             "order": "6.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       }
     ]
   },
@@ -144,10 +148,11 @@
             "order": "6.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       }
     ]
   },
@@ -187,10 +192,11 @@
             "order": "7.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       },
       {
         "id": 7,
@@ -206,10 +212,11 @@
             "order": "6.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       },
       {
         "id": 8,
@@ -225,10 +232,11 @@
             "order": "6.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       }
     ]
   },
@@ -263,10 +271,11 @@
             "order": "5.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       }
     ]
   },
@@ -301,10 +310,11 @@
             "order": "6.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       }
     ]
   },
@@ -344,10 +354,11 @@
             "order": "6.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       },
       {
         "id": 12,
@@ -363,10 +374,11 @@
             "order": "7.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       },
       {
         "id": 13,
@@ -382,10 +394,11 @@
             "order": "7.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       }
     ]
   },
@@ -425,10 +438,11 @@
             "order": "6.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       },
       {
         "id": 15,
@@ -444,10 +458,11 @@
             "order": "6.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       },
       {
         "id": 16,
@@ -463,10 +478,11 @@
             "order": "7.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       }
     ]
   },
@@ -501,10 +517,11 @@
             "order": "6.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       }
     ]
   },
@@ -544,10 +561,11 @@
             "order": "6.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       },
       {
         "id": 19,
@@ -563,10 +581,11 @@
             "order": "7.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       }
     ]
   },
@@ -601,10 +620,11 @@
             "order": "6.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       }
     ]
   },
@@ -639,10 +659,11 @@
             "order": "7.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       }
     ]
   },
@@ -677,10 +698,11 @@
             "order": "6.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       }
     ]
   },
@@ -720,10 +742,11 @@
             "order": "6.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       },
       {
         "id": 24,
@@ -739,10 +762,11 @@
             "order": "7.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       }
     ]
   },
@@ -777,10 +801,11 @@
             "order": "8.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       },
       {
         "id": 26,
@@ -796,10 +821,11 @@
             "order": "5.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       }
     ]
   },
@@ -834,10 +860,11 @@
             "order": "7.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       },
       {
         "id": 28,
@@ -853,10 +880,11 @@
             "order": "7.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       }
     ]
   },
@@ -891,10 +919,11 @@
             "order": "9.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       },
       {
         "id": 30,
@@ -910,10 +939,11 @@
             "order": "9.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       }
     ]
   },
@@ -953,10 +983,11 @@
             "order": "6.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       },
       {
         "id": 32,
@@ -972,10 +1003,11 @@
             "order": "7.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       }
     ]
   },
@@ -1004,10 +1036,11 @@
             "order": "6.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       }
     ]
   },
@@ -1036,10 +1069,11 @@
             "order": "6.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       },
       {
         "id": 35,
@@ -1055,10 +1089,11 @@
             "order": "7.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       }
     ]
   },
@@ -1087,10 +1122,11 @@
             "order": "6.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       }
     ]
   },
@@ -1119,10 +1155,11 @@
             "order": "7.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       },
       {
         "id": 38,
@@ -1138,10 +1175,11 @@
             "order": "6.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       },
       {
         "id": 39,
@@ -1157,10 +1195,11 @@
             "order": "6.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       }
     ]
   },
@@ -1189,10 +1228,11 @@
             "order": "7.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       },
       {
         "id": 41,
@@ -1208,10 +1248,11 @@
             "order": "6.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       }
     ]
   },
@@ -1240,10 +1281,11 @@
             "order": "6.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       }
     ]
   },
@@ -1272,10 +1314,11 @@
             "order": "6.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       },
       {
         "id": 44,
@@ -1291,10 +1334,11 @@
             "order": "7.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       }
     ]
   },
@@ -1323,10 +1367,11 @@
             "order": "6.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       }
     ]
   },
@@ -1355,10 +1400,11 @@
             "order": "6.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       }
     ]
   },
@@ -1387,10 +1433,11 @@
             "order": "6.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       },
       {
         "id": 48,
@@ -1406,10 +1453,17 @@
             "order": "7.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "lb-00113",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [
+          {
+            "id": 122,
+            "value": "lb-00113",
+            "order": "36.88888888888888573092"
+          }
+        ],
+        "correct_date": null
       },
       {
         "id": 49,
@@ -1425,7 +1479,6 @@
             "order": "7.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": "Adressatin erwähnt in lb-00113",
         "addressee_worked_out": [
@@ -1434,7 +1487,9 @@
             "value": "Maria Anna (Mariana) von Österreuch",
             "order": "11.00000000000000000000"
           }
-        ]
+        ],
+        "original_letter": [],
+        "correct_date": null
       }
     ]
   },
@@ -1463,10 +1518,11 @@
             "order": "1.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       },
       {
         "id": 51,
@@ -1482,10 +1538,11 @@
             "order": "5.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       }
     ]
   },
@@ -1514,10 +1571,11 @@
             "order": "20.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       }
     ]
   },
@@ -1546,10 +1604,11 @@
             "order": "4.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       },
       {
         "id": 54,
@@ -1565,10 +1624,11 @@
             "order": "1.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       }
     ]
   },
@@ -1597,10 +1657,11 @@
             "order": "1.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       }
     ]
   },
@@ -1629,10 +1690,11 @@
             "order": "1.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       },
       {
         "id": 57,
@@ -1648,10 +1710,11 @@
             "order": "1.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       },
       {
         "id": 58,
@@ -1667,10 +1730,11 @@
             "order": "1.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       },
       {
         "id": 59,
@@ -1686,10 +1750,11 @@
             "order": "6.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       }
     ]
   },
@@ -1718,10 +1783,11 @@
             "order": "1.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       },
       {
         "id": 61,
@@ -1737,10 +1803,17 @@
             "order": "7.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "lb-00114",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [
+          {
+            "id": 123,
+            "value": "lb-00114",
+            "order": "36.89999999999999857891"
+          }
+        ],
+        "correct_date": null
       },
       {
         "id": 62,
@@ -1756,10 +1829,11 @@
             "order": "7.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       },
       {
         "id": 63,
@@ -1775,10 +1849,11 @@
             "order": "7.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       }
     ]
   },
@@ -1807,10 +1882,11 @@
             "order": "1.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       }
     ]
   },
@@ -1839,10 +1915,11 @@
             "order": "1.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       },
       {
         "id": 66,
@@ -1858,10 +1935,17 @@
             "order": "7.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "lb-00115",
         "dictated_letter": false,
         "note": "Das Schreiben datiert vom 10. August",
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [
+          {
+            "id": 124,
+            "value": "lb-00115",
+            "order": "36.90909090909090650712"
+          }
+        ],
+        "correct_date": "1657-08-10"
       },
       {
         "id": 67,
@@ -1877,10 +1961,11 @@
             "order": "7.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       }
     ]
   },
@@ -1909,10 +1994,11 @@
             "order": "1.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       },
       {
         "id": 69,
@@ -1928,10 +2014,11 @@
             "order": "1.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       },
       {
         "id": 70,
@@ -1947,10 +2034,11 @@
             "order": "6.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       }
     ]
   },
@@ -1979,10 +2067,11 @@
             "order": "1.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       }
     ]
   },
@@ -2011,10 +2100,11 @@
             "order": "1.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       },
       {
         "id": 73,
@@ -2030,10 +2120,11 @@
             "order": "6.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       },
       {
         "id": 74,
@@ -2049,10 +2140,17 @@
             "order": "7.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "lb-00116",
         "dictated_letter": false,
         "note": "Das Schreiben datiert vom 23. August.",
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [
+          {
+            "id": 125,
+            "value": "lb-00116",
+            "order": "36.91666666666666429819"
+          }
+        ],
+        "correct_date": "1657-08-23"
       },
       {
         "id": 75,
@@ -2068,7 +2166,6 @@
             "order": "7.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": "Adressatin erwähnt in lb-00116",
         "addressee_worked_out": [
@@ -2077,7 +2174,9 @@
             "value": "Maria Anna (Mariana) von Österreuch",
             "order": "11.00000000000000000000"
           }
-        ]
+        ],
+        "original_letter": [],
+        "correct_date": null
       }
     ]
   },
@@ -2106,10 +2205,11 @@
             "order": "1.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       }
     ]
   },
@@ -2138,10 +2238,11 @@
             "order": "7.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       },
       {
         "id": 78,
@@ -2157,10 +2258,11 @@
             "order": "7.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       },
       {
         "id": 79,
@@ -2176,10 +2278,11 @@
             "order": "7.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       },
       {
         "id": 80,
@@ -2195,10 +2298,11 @@
             "order": "1.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       },
       {
         "id": 81,
@@ -2214,10 +2318,11 @@
             "order": "1.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       },
       {
         "id": 82,
@@ -2233,10 +2338,11 @@
             "order": "1.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       },
       {
         "id": 83,
@@ -2252,10 +2358,11 @@
             "order": "6.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       },
       {
         "id": 84,
@@ -2271,10 +2378,11 @@
             "order": "6.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       }
     ]
   },
@@ -2303,10 +2411,11 @@
             "order": "1.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       }
     ]
   },
@@ -2335,10 +2444,11 @@
             "order": "6.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       },
       {
         "id": 87,
@@ -2354,10 +2464,11 @@
             "order": "6.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       },
       {
         "id": 88,
@@ -2373,10 +2484,11 @@
             "order": "1.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       }
     ]
   },
@@ -2405,10 +2517,17 @@
             "order": "7.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "lb-00118",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [
+          {
+            "id": 127,
+            "value": "lb-00118",
+            "order": "36.92857142857143060155"
+          }
+        ],
+        "correct_date": null
       },
       {
         "id": 90,
@@ -2424,7 +2543,6 @@
             "order": "7.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": "Adressatin erwähnt in lb-0018",
         "addressee_worked_out": [
@@ -2433,7 +2551,9 @@
             "value": "Maria Anna (Mariana) von Österreuch",
             "order": "11.00000000000000000000"
           }
-        ]
+        ],
+        "original_letter": [],
+        "correct_date": null
       },
       {
         "id": 91,
@@ -2449,10 +2569,11 @@
             "order": "1.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       },
       {
         "id": 92,
@@ -2468,10 +2589,11 @@
             "order": "1.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       },
       {
         "id": 93,
@@ -2487,10 +2609,11 @@
             "order": "4.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       }
     ]
   },
@@ -2519,10 +2642,11 @@
             "order": "1.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       }
     ]
   },
@@ -2551,10 +2675,11 @@
             "order": "1.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       },
       {
         "id": 96,
@@ -2570,10 +2695,11 @@
             "order": "6.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       }
     ]
   },
@@ -2602,10 +2728,11 @@
             "order": "1.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       }
     ]
   },
@@ -2634,10 +2761,11 @@
             "order": "1.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       },
       {
         "id": 99,
@@ -2653,10 +2781,11 @@
             "order": "6.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       }
     ]
   },
@@ -2685,10 +2814,11 @@
             "order": "1.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       }
     ]
   },
@@ -2717,10 +2847,11 @@
             "order": "1.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       },
       {
         "id": 102,
@@ -2736,10 +2867,11 @@
             "order": "5.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       }
     ]
   },
@@ -2768,10 +2900,11 @@
             "order": "1.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       },
       {
         "id": 104,
@@ -2787,10 +2920,11 @@
             "order": "6.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       }
     ]
   },
@@ -2819,10 +2953,11 @@
             "order": "1.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       }
     ]
   },
@@ -2851,10 +2986,11 @@
             "order": "6.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       },
       {
         "id": 107,
@@ -2870,10 +3006,11 @@
             "order": "1.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       },
       {
         "id": 108,
@@ -2889,10 +3026,11 @@
             "order": "1.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       },
       {
         "id": 109,
@@ -2908,10 +3046,11 @@
             "order": "1.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       }
     ]
   },
@@ -2940,10 +3079,11 @@
             "order": "1.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       }
     ]
   },
@@ -2972,10 +3112,11 @@
             "order": "7.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "lb-00119",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       },
       {
         "id": 112,
@@ -2991,10 +3132,11 @@
             "order": "7.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       },
       {
         "id": 113,
@@ -3010,10 +3152,11 @@
             "order": "6.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       },
       {
         "id": 114,
@@ -3029,10 +3172,11 @@
             "order": "1.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       }
     ]
   },
@@ -3061,10 +3205,11 @@
             "order": "1.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       },
       {
         "id": 116,
@@ -3080,10 +3225,11 @@
             "order": "1.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       },
       {
         "id": 117,
@@ -3099,10 +3245,11 @@
             "order": "1.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       },
       {
         "id": 118,
@@ -3118,10 +3265,11 @@
             "order": "1.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       },
       {
         "id": 119,
@@ -3137,10 +3285,11 @@
             "order": "1.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       }
     ]
   },
@@ -3169,10 +3318,11 @@
             "order": "1.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       },
       {
         "id": 121,
@@ -3188,10 +3338,11 @@
             "order": "1.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       },
       {
         "id": 122,
@@ -3207,10 +3358,11 @@
             "order": "1.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       },
       {
         "id": 123,
@@ -3226,10 +3378,11 @@
             "order": "6.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       }
     ]
   },
@@ -3258,10 +3411,11 @@
             "order": "1.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       },
       {
         "id": 125,
@@ -3277,10 +3431,11 @@
             "order": "1.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       }
     ]
   },
@@ -3309,10 +3464,11 @@
             "order": "1.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       },
       {
         "id": 127,
@@ -3328,10 +3484,11 @@
             "order": "1.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       },
       {
         "id": 128,
@@ -3347,10 +3504,11 @@
             "order": "7.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "lb-00121",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       },
       {
         "id": 129,
@@ -3366,10 +3524,11 @@
             "order": "7.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       },
       {
         "id": 130,
@@ -3385,10 +3544,11 @@
             "order": "6.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       }
     ]
   },
@@ -3417,10 +3577,11 @@
             "order": "1.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       }
     ]
   },
@@ -3449,10 +3610,11 @@
             "order": "7.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "lb-00120",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       },
       {
         "id": 133,
@@ -3468,7 +3630,6 @@
             "order": "7.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": "Adressatin erwähnt in lb-00120",
         "addressee_worked_out": [
@@ -3477,7 +3638,9 @@
             "value": "Maria Anna (Mariana) von Österreuch",
             "order": "11.00000000000000000000"
           }
-        ]
+        ],
+        "original_letter": [],
+        "correct_date": null
       },
       {
         "id": 134,
@@ -3493,10 +3656,11 @@
             "order": "1.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       },
       {
         "id": 135,
@@ -3512,10 +3676,11 @@
             "order": "1.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       },
       {
         "id": 136,
@@ -3531,10 +3696,11 @@
             "order": "6.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       }
     ]
   },
@@ -3563,10 +3729,11 @@
             "order": "1.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       }
     ]
   },
@@ -3595,10 +3762,11 @@
             "order": "6.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       },
       {
         "id": 139,
@@ -3614,10 +3782,11 @@
             "order": "1.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       }
     ]
   },
@@ -3646,10 +3815,11 @@
             "order": "6.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       },
       {
         "id": 141,
@@ -3665,10 +3835,11 @@
             "order": "1.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       }
     ]
   },
@@ -3697,10 +3868,11 @@
             "order": "1.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       }
     ]
   },
@@ -3729,10 +3901,11 @@
             "order": "6.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       },
       {
         "id": 144,
@@ -3748,10 +3921,11 @@
             "order": "1.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       },
       {
         "id": 145,
@@ -3767,10 +3941,11 @@
             "order": "1.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       }
     ]
   },
@@ -3799,10 +3974,11 @@
             "order": "1.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       }
     ]
   },
@@ -3831,10 +4007,11 @@
             "order": "1.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       },
       {
         "id": 148,
@@ -3850,10 +4027,11 @@
             "order": "1.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       },
       {
         "id": 149,
@@ -3869,10 +4047,11 @@
             "order": "4.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       }
     ]
   },
@@ -3901,10 +4080,11 @@
             "order": "1.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       }
     ]
   },
@@ -3933,10 +4113,11 @@
             "order": "7.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "lb-00123",
         "dictated_letter": false,
         "note": "Das Schreiben datiert vom 19. Dezember.",
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": "1657-12-19"
       },
       {
         "id": 152,
@@ -3952,10 +4133,11 @@
             "order": "7.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "lb-00124",
         "dictated_letter": false,
         "note": "Das Schreiben datiert vom 19. Dezember.",
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": "1657-12-19"
       },
       {
         "id": 153,
@@ -3971,10 +4153,11 @@
             "order": "7.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       },
       {
         "id": 154,
@@ -3990,10 +4173,11 @@
             "order": "1.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       },
       {
         "id": 155,
@@ -4009,10 +4193,11 @@
             "order": "1.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       },
       {
         "id": 156,
@@ -4028,10 +4213,11 @@
             "order": "1.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       },
       {
         "id": 157,
@@ -4047,10 +4233,11 @@
             "order": "4.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       }
     ]
   },
@@ -4079,10 +4266,11 @@
             "order": "1.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       }
     ]
   },
@@ -4111,10 +4299,11 @@
             "order": "7.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "lb-00122",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       },
       {
         "id": 160,
@@ -4130,7 +4319,6 @@
             "order": "7.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": "Adressat erwähnt in lb-00122",
         "addressee_worked_out": [
@@ -4139,7 +4327,9 @@
             "value": "Philipp IV.",
             "order": "12.00000000000000000000"
           }
-        ]
+        ],
+        "original_letter": [],
+        "correct_date": null
       },
       {
         "id": 161,
@@ -4155,7 +4345,6 @@
             "order": "7.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": "Adressatin erwähnt in lb-00122",
         "addressee_worked_out": [
@@ -4164,7 +4353,9 @@
             "value": "Maria Anna (Mariana) von Österreuch",
             "order": "11.00000000000000000000"
           }
-        ]
+        ],
+        "original_letter": [],
+        "correct_date": null
       },
       {
         "id": 162,
@@ -4180,10 +4371,11 @@
             "order": "7.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       },
       {
         "id": 164,
@@ -4199,10 +4391,11 @@
             "order": "6.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       },
       {
         "id": 165,
@@ -4218,10 +4411,11 @@
             "order": "6.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       },
       {
         "id": 166,
@@ -4237,10 +4431,11 @@
             "order": "1.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       },
       {
         "id": 167,
@@ -4256,10 +4451,11 @@
             "order": "1.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       }
     ]
   },
@@ -4288,10 +4484,11 @@
             "order": "1.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       },
       {
         "id": 169,
@@ -4307,10 +4504,11 @@
             "order": "21.00000000000000000000"
           }
         ],
-        "relation_to_original_letter": "",
         "dictated_letter": false,
         "note": null,
-        "addressee_worked_out": []
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null
       }
     ]
   },

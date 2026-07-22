@@ -105,6 +105,7 @@
                         <idno type="geonames">https://sws.geonames.org/3117735/</idno>
                      </settlement>
                   </death>
+                  <idno type="gnd">https://d-nb.info/gnd/118781863</idno>
                </person>
                <person xml:id="lb-person-76" n="Philipp IV.">
                   <persName type="name">Philipp IV.</persName>
@@ -122,6 +123,7 @@
                         <idno type="geonames">https://sws.geonames.org/3117735/</idno>
                      </settlement>
                   </death>
+                  <idno type="gnd">https://d-nb.info/gnd/118593870</idno>
                </person>
                <person xml:id="lb-person-77" n="">
                   <persName type="name"/>

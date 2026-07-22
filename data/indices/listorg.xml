@@ -45,7 +45,7 @@
                   <idno type="GND">https://d-nb.info/gnd/2020893-5</idno>
                </org>
                <org xml:id="lb-org-3">
-                  <orgName>Haus-, Hof- und Staatsarchiv</orgName>
+                  <orgName>Österreichisches Staatsarchiv, Haus-, Hof- und Staatsarchiv</orgName>
                   <location>
                      <placeName key="lb-place-1">Wien</placeName>
                      <geo>48.20849 16.37208</geo>
@@ -53,7 +53,11 @@
                   <idno type="GND">https://d-nb.info/gnd/1045024-5</idno>
                </org>
                <org xml:id="lb-org-36">
-                  <orgName/>
+                  <orgName>Archiv Národního muzea</orgName>
+                  <location>
+                     <placeName key="lb-place-69">Praha</placeName>
+                     <geo>50.08804 14.42076</geo>
+                  </location>
                </org>
             </listOrg>
          </div>

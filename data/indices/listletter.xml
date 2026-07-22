@@ -27,13 +27,12 @@
          <correspDesc xml:id="lb-00001">
             <noteGrp type="metadata">
                <note type="not_before">1668-01-28</note>
-               <note type="archiv">ANM</note>
+               <note type="archiv">Archiv Národního muzea</note>
                <note type="collection">Šternberk-Manderscheid</note>
                <note type="signatur">K. 197</note>
                <note type="kind">Original</note>
                <note type="main_language">deu</note>
                <note type="daily_order">1</note>
-               <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">finalisiert</note>
                <note type="images_on_share">False</note>
             </noteGrp>
@@ -53,7 +52,7 @@
          <correspDesc xml:id="lb-00002">
             <noteGrp type="metadata">
                <note type="not_before">1668-01-28</note>
-               <note type="archiv">ANM</note>
+               <note type="archiv">Archiv Národního muzea</note>
                <note type="collection">Šternberk-Manderscheid</note>
                <note type="signatur">K. 197</note>
                <note type="kind">spätere Abschrift</note>
@@ -76,7 +75,7 @@
          <correspDesc xml:id="lb-00003">
             <noteGrp type="metadata">
                <note type="not_before">1668-01-28</note>
-               <note type="archiv">ANM</note>
+               <note type="archiv">Archiv Národního muzea</note>
                <note type="collection">Šternberk-Manderscheid</note>
                <note type="signatur">K. 197</note>
                <note type="kind">spätere Abschrift</note>
@@ -99,7 +98,7 @@
          <correspDesc xml:id="lb-00004">
             <noteGrp type="metadata">
                <note type="not_before">1672-06-20</note>
-               <note type="archiv">ANM</note>
+               <note type="archiv">Archiv Národního muzea</note>
                <note type="collection">Šternberk-Manderscheid</note>
                <note type="signatur">K. 197</note>
                <note type="kind">Original</note>
@@ -126,7 +125,7 @@
          <correspDesc xml:id="lb-00005">
             <noteGrp type="metadata">
                <note type="not_before">1672-06-20</note>
-               <note type="archiv">ANM</note>
+               <note type="archiv">Archiv Národního muzea</note>
                <note type="collection">Šternberk-Manderscheid</note>
                <note type="signatur">K. 197</note>
                <note type="kind">spätere Abschrift</note>
@@ -151,7 +150,7 @@
          <correspDesc xml:id="lb-00006">
             <noteGrp type="metadata">
                <note type="not_before">1677-04-09</note>
-               <note type="archiv">ANM</note>
+               <note type="archiv">Archiv Národního muzea</note>
                <note type="collection">Šternberk-Manderscheid</note>
                <note type="signatur">K. 197</note>
                <note type="kind">Original</note>
@@ -179,7 +178,7 @@
          <correspDesc xml:id="lb-00007">
             <noteGrp type="metadata">
                <note type="not_before">1677-04-09</note>
-               <note type="archiv">ANM</note>
+               <note type="archiv">Archiv Národního muzea</note>
                <note type="collection">Šternberk-Manderscheid</note>
                <note type="signatur">K. 197</note>
                <note type="kind">zeitgenössische Abschrift</note>
@@ -203,7 +202,7 @@
          <correspDesc xml:id="lb-00008">
             <noteGrp type="metadata">
                <note type="not_before">1677-04-09</note>
-               <note type="archiv">ANM</note>
+               <note type="archiv">Archiv Národního muzea</note>
                <note type="collection">Šternberk-Manderscheid</note>
                <note type="signatur">K. 197</note>
                <note type="kind">spätere Abschrift</note>
@@ -227,7 +226,7 @@
          <correspDesc xml:id="lb-00009">
             <noteGrp type="metadata">
                <note type="not_before">1678-08-14</note>
-               <note type="archiv">ANM</note>
+               <note type="archiv">Archiv Národního muzea</note>
                <note type="collection">Šternberk-Manderscheid</note>
                <note type="signatur">K. 197</note>
                <note type="kind">Original</note>
@@ -255,7 +254,7 @@
          <correspDesc xml:id="lb-00010">
             <noteGrp type="metadata">
                <note type="not_before">1678-08-14</note>
-               <note type="archiv">ANM</note>
+               <note type="archiv">Archiv Národního muzea</note>
                <note type="collection">Šternberk-Manderscheid</note>
                <note type="signatur">K. 197</note>
                <note type="kind">zeitgenössische Abschrift</note>
@@ -280,7 +279,7 @@
          <correspDesc xml:id="lb-00011">
             <noteGrp type="metadata">
                <note type="not_before">1678-08-14</note>
-               <note type="archiv">ANM</note>
+               <note type="archiv">Archiv Národního muzea</note>
                <note type="collection">Šternberk-Manderscheid</note>
                <note type="signatur">K. 197</note>
                <note type="kind">spätere Abschrift</note>
@@ -311,7 +310,7 @@
                <note type="main_language">deu</note>
                <note type="daily_order">1</note>
                <note type="status_metadaten">angelegt</note>
-               <note type="status_transkription">angelegt</note>
+               <note type="status_transkription">finalisiert</note>
                <note type="images_on_share">True</note>
             </noteGrp>
             <correspAction type="sent">
@@ -337,7 +336,7 @@
                <note type="main_language">deu</note>
                <note type="daily_order">1</note>
                <note type="status_metadaten">angelegt</note>
-               <note type="status_transkription">angelegt</note>
+               <note type="status_transkription">finalisiert</note>
                <note type="images_on_share">True</note>
             </noteGrp>
             <correspAction type="sent">
@@ -363,7 +362,7 @@
                <note type="main_language">deu</note>
                <note type="daily_order">1</note>
                <note type="status_metadaten">angelegt</note>
-               <note type="status_transkription">angelegt</note>
+               <note type="status_transkription">finalisiert</note>
                <note type="images_on_share">True</note>
             </noteGrp>
             <correspAction type="sent">
@@ -389,7 +388,7 @@
                <note type="main_language">deu</note>
                <note type="daily_order">1</note>
                <note type="status_metadaten">angelegt</note>
-               <note type="status_transkription">angelegt</note>
+               <note type="status_transkription">finalisiert</note>
                <note type="images_on_share">True</note>
             </noteGrp>
             <correspAction type="sent">
@@ -415,7 +414,7 @@
                <note type="main_language">deu</note>
                <note type="daily_order">1</note>
                <note type="status_metadaten">angelegt</note>
-               <note type="status_transkription">angelegt</note>
+               <note type="status_transkription">finalisiert</note>
                <note type="images_on_share">True</note>
             </noteGrp>
             <correspAction type="sent">

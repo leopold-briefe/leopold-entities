@@ -24,7 +24,8 @@
         "mentioned_letters": []
       }
     ],
-    "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0"
+    "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+    "translation": null
   },
   "2": {
     "id": 2,
@@ -382,13 +383,14 @@
         ]
       }
     ],
-    "has_license": ""
+    "has_license": "",
+    "translation": null
   },
   "3": {
     "id": 3,
     "order": "3.00000000000000000000",
-    "abbr": "HHStA",
-    "label": "Haus-, Hof- und Staatsarchiv",
+    "abbr": "ÖStA, HHStA",
+    "label": "Österreichisches Staatsarchiv, Haus-, Hof- und Staatsarchiv",
     "lb_id": "lb-org-3",
     "kind": {
       "id": 23014,
@@ -740,17 +742,35 @@
         ]
       }
     ],
-    "has_license": ""
+    "has_license": "",
+    "translation": null
   },
   "36": {
     "id": 36,
     "order": "4.00000000000000000000",
     "abbr": "ANM",
-    "label": "",
+    "label": "Archiv Národního muzea",
     "lb_id": "lb-org-36",
-    "kind": null,
+    "kind": {
+      "id": 23014,
+      "value": "archiv/library",
+      "color": "dark-cyan"
+    },
     "gnd_url": "",
-    "located_in": [],
-    "has_license": ""
+    "located_in": [
+      {
+        "id": 69,
+        "order": "11.00000000000000000000",
+        "label": "Praha",
+        "lb_id": "lb-place-69",
+        "geonames_url": "https://www.geonames.org/3067696/prague.html",
+        "latitude": "50.08804",
+        "longitude": "14.42076",
+        "gnd_url": "",
+        "mentioned_letters": []
+      }
+    ],
+    "has_license": "",
+    "translation": "Archiv des Nationalmuseums"
   }
 }
