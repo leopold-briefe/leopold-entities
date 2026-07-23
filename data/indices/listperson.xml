@@ -30,6 +30,10 @@
             <listPerson xml:id="listperson">
                <person xml:id="lb-person-1" n="Leopold I.">
                   <persName type="preferred">Leopold I.</persName>
+                  <persName type="parts">
+                     <forename>None</forename>
+                     <surname>Leopold I.</surname>
+                  </persName>
                   <birth>
                      <date>1640-06-09</date>
                      <settlement key="lb-place-1">
@@ -141,6 +145,10 @@
                </person>
                <person xml:id="lb-person-76" n="Philipp IV.">
                   <persName type="preferred">Philipp IV.</persName>
+                  <persName type="parts">
+                     <forename>None</forename>
+                     <surname>Philipp IV.</surname>
+                  </persName>
                   <birth>
                      <date>1605-04-08</date>
                      <settlement key="lb-place-145">

@@ -1,0 +1,56 @@
+{
+  "1": {
+    "id": 1,
+    "order": "1.00000000000000000000",
+    "label": "Petr Maťa",
+    "last_name": "Maťa",
+    "first_name": "Petr",
+    "uri": "https://d-nb.info/gnd/132150654",
+    "lb-id": "lb-contributor_1"
+  },
+  "2": {
+    "id": 2,
+    "order": "2.00000000000000000000",
+    "label": "Peter Andorfer",
+    "last_name": "Andorfer",
+    "first_name": "Peter",
+    "uri": "https://d-nb.info/gnd/1043833846",
+    "lb-id": "lb-contributor_2"
+  },
+  "3": {
+    "id": 3,
+    "order": "3.00000000000000000000",
+    "label": "Stefan Sienell",
+    "last_name": "Sienell",
+    "first_name": "Stefan",
+    "uri": "https://d-nb.info/gnd/122613589",
+    "lb-id": "lb-contributor_3"
+  },
+  "4": {
+    "id": 4,
+    "order": "4.00000000000000000000",
+    "label": "Zdeněk Kalista",
+    "last_name": "Kalista",
+    "first_name": "Zdeněk",
+    "uri": "https://d-nb.info/gnd/119487888",
+    "lb-id": "lb-contributor_4"
+  },
+  "5": {
+    "id": 5,
+    "order": "5.00000000000000000000",
+    "label": "Jitka Močičková",
+    "last_name": "Močičková",
+    "first_name": "Jitka",
+    "uri": "https://d-nb.info/gnd/1353070174",
+    "lb-id": "lb-contributor_5"
+  },
+  "6": {
+    "id": 6,
+    "order": "6.00000000000000000000",
+    "label": "Jiří Hrbek",
+    "last_name": "Hrbek",
+    "first_name": "Jiří",
+    "uri": "",
+    "lb-id": "lb-contributor_6"
+  }
+}

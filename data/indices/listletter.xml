@@ -35,6 +35,8 @@
                <note type="daily_order">1</note>
                <note type="status_transkription">finalisiert</note>
                <note type="images_on_share">False</note>
+               <note type="contributors">Jitka Močičková, Jiří Hrbek</note>
+               <note type="credits">bearb. v. Petr Maťa und Jitka Močičková (unter Mitwirkung von Jiří Hrbek)</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -62,6 +64,8 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">nicht vorhanden</note>
                <note type="images_on_share">False</note>
+               <note type="contributors">Stefan Sienell</note>
+               <note type="credits">bearb. v. Petr Maťa und Stefan Sienell</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -85,6 +89,8 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">nicht vorhanden</note>
                <note type="images_on_share">False</note>
+               <note type="contributors">Zdeněk Kalista</note>
+               <note type="credits">auf Grundlage der Edition v. Zdeněk Kalista bearb. v. Petr Maťa</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -1215,13 +1221,13 @@
                <note type="main_language">deu</note>
                <note type="daily_order">1</note>
                <note type="status_metadaten">angelegt</note>
-               <note type="status_transkription">nicht vorhanden</note>
+               <note type="status_transkription">finalisiert</note>
                <note type="images_on_share">False</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
                <placeName key="lb-place-75" ref="https://www.geonames.org/2925533/frankfurt-am-main.html">Frankfurt am Main</placeName>
-               <placeName type="written">Frankhfurdt</placeName>
+               <placeName type="written">Frankhfordt</placeName>
                <date notBefore="1658-08-08" notAfter="1658-06-08">8. Juni 1658</date>
             </correspAction>
             <correspAction type="received">
@@ -1267,7 +1273,7 @@
                <note type="main_language">deu</note>
                <note type="daily_order">1</note>
                <note type="status_metadaten">angelegt</note>
-               <note type="status_transkription">nicht vorhanden</note>
+               <note type="status_transkription">finalisiert</note>
                <note type="images_on_share">False</note>
             </noteGrp>
             <correspAction type="sent">
