@@ -30,7 +30,11 @@
             <listPerson xml:id="listperson">
             {% for x in objects %}
                <person xml:id="{{ x.lb_id }}" n="{{ x.label }}">
-                  <persName type="name">{{ x.label }}</persName>
+                  <persName type="preferred">{{ x.label }}</persName>{% if x.first_name or x.last_name %}
+                  <persName type="parts">
+                     <forename>{{ x.first_name }}</forename>
+                     <surname>{{ x.last_name }}</surname>
+                  </persName>{% endif %}
                   {% for y in x.titel %}
                   <persName type="title">
                      <roleName>{{ y.value }}</roleName>

@@ -29,7 +29,7 @@
          <div type="index_persons">
             <listPerson xml:id="listperson">
                <person xml:id="lb-person-1" n="Leopold I.">
-                  <persName type="name">Leopold I.</persName>
+                  <persName type="preferred">Leopold I.</persName>
                   <birth>
                      <date>1640-06-09</date>
                      <settlement key="lb-place-1">
@@ -44,11 +44,15 @@
                   <idno type="gnd">https://d-nb.info/gnd/118571869</idno>
                </person>
                <person xml:id="lb-person-2" n="Eleonora Magdalena Theresia, geb. Pfalz-Neuburg">
-                  <persName type="name">Eleonora Magdalena Theresia, geb. Pfalz-Neuburg</persName>
+                  <persName type="preferred">Eleonora Magdalena Theresia, geb. Pfalz-Neuburg</persName>
                   <idno type="gnd">https://d-nb.info/gnd/101026641</idno>
                </person>
                <person xml:id="lb-person-3" n="Lamberg, Johann Maximilian von">
-                  <persName type="name">Lamberg, Johann Maximilian von</persName>
+                  <persName type="preferred">Lamberg, Johann Maximilian von</persName>
+                  <persName type="parts">
+                     <forename>Johann Maximilian von</forename>
+                     <surname>Lamberg</surname>
+                  </persName>
                   <birth>
                      <settlement key="lb-place-3">
                         <placeName>Brno</placeName>
@@ -59,7 +63,11 @@
                   <idno type="gnd">https://d-nb.info/gnd/118823795</idno>
                </person>
                <person xml:id="lb-person-4" n="Kinsky, Franz Ulrich">
-                  <persName type="name">Kinsky, Franz Ulrich</persName>
+                  <persName type="preferred">Kinsky, Franz Ulrich</persName>
+                  <persName type="parts">
+                     <forename>Franz Ulrich</forename>
+                     <surname>Kinsky</surname>
+                  </persName>
                   <birth>
                      <settlement key="lb-place-1">
                         <placeName>Wien</placeName>
@@ -70,27 +78,51 @@
                   <idno type="gnd">https://d-nb.info/gnd/123530822</idno>
                </person>
                <person xml:id="lb-person-38" n="Sternberg, Adolf Wratislaw">
-                  <persName type="name">Sternberg, Adolf Wratislaw</persName>
+                  <persName type="preferred">Sternberg, Adolf Wratislaw</persName>
+                  <persName type="parts">
+                     <forename>Adolf Wratislaw</forename>
+                     <surname>Sternberg</surname>
+                  </persName>
                   <idno type="gnd">https://d-nb.info/gnd/136018599</idno>
                </person>
                <person xml:id="lb-person-39" n="Palacký, František">
-                  <persName type="name">Palacký, František</persName>
+                  <persName type="preferred">Palacký, František</persName>
+                  <persName type="parts">
+                     <forename>František</forename>
+                     <surname>Palacký</surname>
+                  </persName>
                   <idno type="gnd">https://d-nb.info/gnd/118789260</idno>
                </person>
                <person xml:id="lb-person-40" n="Pötting, Franz Eusebius">
-                  <persName type="name">Pötting, Franz Eusebius</persName>
+                  <persName type="preferred">Pötting, Franz Eusebius</persName>
+                  <persName type="parts">
+                     <forename>Franz Eusebius</forename>
+                     <surname>Pötting</surname>
+                  </persName>
                   <idno type="gnd">https://d-nb.info/gnd/119324636</idno>
                </person>
                <person xml:id="lb-person-73" n="Marco d´Aviano">
-                  <persName type="name">Marco d´Aviano</persName>
+                  <persName type="preferred">Marco d´Aviano</persName>
+                  <persName type="parts">
+                     <forename>Marco</forename>
+                     <surname>d´Aviano</surname>
+                  </persName>
                   <idno type="gnd">https://d-nb.info/gnd/118731076</idno>
                </person>
                <person xml:id="lb-person-74" n="Starhemberg, Konrad Balthasar">
-                  <persName type="name">Starhemberg, Konrad Balthasar</persName>
+                  <persName type="preferred">Starhemberg, Konrad Balthasar</persName>
+                  <persName type="parts">
+                     <forename>Konrad Balthasar</forename>
+                     <surname>Starhemberg</surname>
+                  </persName>
                   <idno type="gnd">https://d-nb.info/gnd/117216089</idno>
                </person>
                <person xml:id="lb-person-75" n="Maria Anna (Mariana) von Österreuch">
-                  <persName type="name">Maria Anna (Mariana) von Österreuch</persName>
+                  <persName type="preferred">Maria Anna (Mariana) von Österreuch</persName>
+                  <persName type="parts">
+                     <forename>None</forename>
+                     <surname>Maria Anna</surname>
+                  </persName>
                   <birth>
                      <date>1634-12-22</date>
                      <settlement key="lb-place-144">
@@ -108,7 +140,7 @@
                   <idno type="gnd">https://d-nb.info/gnd/118781863</idno>
                </person>
                <person xml:id="lb-person-76" n="Philipp IV.">
-                  <persName type="name">Philipp IV.</persName>
+                  <persName type="preferred">Philipp IV.</persName>
                   <birth>
                      <date>1605-04-08</date>
                      <settlement key="lb-place-145">
@@ -126,7 +158,7 @@
                   <idno type="gnd">https://d-nb.info/gnd/118593870</idno>
                </person>
                <person xml:id="lb-person-77" n="">
-                  <persName type="name"/>
+                  <persName type="preferred"/>
                </person>
             </listPerson>
          </div>
