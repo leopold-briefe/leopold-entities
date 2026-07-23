@@ -430,7 +430,7 @@
                         </title>
                         <date>1657-07-11</date>
                      </bibl>
-                     <bibl>
+                     <bibl key="lb-00113">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
                         <date>1657-07-11</date>
@@ -532,7 +532,7 @@
                         </title>
                         <date>1657-08-04</date>
                      </bibl>
-                     <bibl>
+                     <bibl key="lb-00114">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
                         <date>1657-08-04</date>
@@ -569,10 +569,11 @@
                         </title>
                         <date>1657-08-11</date>
                      </bibl>
-                     <bibl>
+                     <bibl key="lb-00115">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
                         <date>1657-08-11</date>
+                        <date type="correct_date">1657-08-10</date>
                         <note>Das Schreiben datiert vom 10. August</note>
                      </bibl>
                      <bibl>
@@ -628,10 +629,11 @@
                         </title>
                         <date>1657-08-22</date>
                      </bibl>
-                     <bibl>
+                     <bibl key="lb-00116">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
                         <date>1657-08-22</date>
+                        <date type="correct_date">1657-08-23</date>
                         <note>Das Schreiben datiert vom 23. August.</note>
                      </bibl>
                      <bibl>
@@ -737,7 +739,7 @@
                   <label>1657-09-12</label>
                   <desc>Den 12. 2 brief in Spanien, 2 auf Wienn vnd 1 nach München geschriben.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-00118">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
                         <date>1657-09-12</date>
@@ -1209,12 +1211,14 @@
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
                         <date>1657-12-18</date>
+                        <date type="correct_date">1657-12-19</date>
                         <note>Das Schreiben datiert vom 19. Dezember.</note>
                      </bibl>
                      <bibl>
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
                         <date>1657-12-18</date>
+                        <date type="correct_date">1657-12-19</date>
                         <note>Das Schreiben datiert vom 19. Dezember.</note>
                      </bibl>
                      <bibl>
