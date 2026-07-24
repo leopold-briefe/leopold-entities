@@ -99,13 +99,21 @@
     "contributors": [
       {
         "id": 5,
-        "value": "Jitka Močičková",
-        "order": "5.00000000000000000000"
+        "order": "5.00000000000000000000",
+        "label": "Jitka Močičková",
+        "last_name": "Močičková",
+        "first_name": "Jitka",
+        "uri": "https://d-nb.info/gnd/1353070174",
+        "lb-id": "lb-contributor_5"
       },
       {
         "id": 6,
-        "value": "Jiří Hrbek",
-        "order": "6.00000000000000000000"
+        "order": "6.00000000000000000000",
+        "label": "Jiří Hrbek",
+        "last_name": "Hrbek",
+        "first_name": "Jiří",
+        "uri": "",
+        "lb-id": "lb-contributor_6"
       }
     ],
     "credits": "bearb. v. Petr Maťa und Jitka Močičková (unter Mitwirkung von Jiří Hrbek)",
@@ -244,8 +252,12 @@
     "contributors": [
       {
         "id": 3,
-        "value": "Stefan Sienell",
-        "order": "3.00000000000000000000"
+        "order": "3.00000000000000000000",
+        "label": "Stefan Sienell",
+        "last_name": "Sienell",
+        "first_name": "Stefan",
+        "uri": "https://d-nb.info/gnd/122613589",
+        "lb-id": "lb-contributor_3"
       }
     ],
     "credits": "bearb. v. Petr Maťa und Stefan Sienell",
@@ -361,8 +373,12 @@
     "contributors": [
       {
         "id": 4,
-        "value": "Zdeněk Kalista",
-        "order": "4.00000000000000000000"
+        "order": "4.00000000000000000000",
+        "label": "Zdeněk Kalista",
+        "last_name": "Kalista",
+        "first_name": "Zdeněk",
+        "uri": "https://d-nb.info/gnd/119487888",
+        "lb-id": "lb-contributor_4"
       }
     ],
     "credits": "auf Grundlage der Edition v. Zdeněk Kalista bearb. v. Petr Maťa",
