@@ -37,6 +37,7 @@
                <note type="images_on_share">False</note>
                <note type="contributors">Jitka Močičková, Jiří Hrbek</note>
                <note type="credits">bearb. v. Petr Maťa und Jitka Močičková (unter Mitwirkung von Jiří Hrbek)</note>
+               <note type="archiv_abbr">ANM</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -66,6 +67,7 @@
                <note type="images_on_share">False</note>
                <note type="contributors">Stefan Sienell</note>
                <note type="credits">bearb. v. Petr Maťa und Stefan Sienell</note>
+               <note type="archiv_abbr">ANM</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -91,6 +93,7 @@
                <note type="images_on_share">False</note>
                <note type="contributors">Zdeněk Kalista</note>
                <note type="credits">auf Grundlage der Edition v. Zdeněk Kalista bearb. v. Petr Maťa</note>
+               <note type="archiv_abbr">ANM</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -113,6 +116,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">finalisiert</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">ANM</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -142,6 +146,7 @@
                <note type="status_transkription">nicht vorhanden</note>
                <note type="hand">Palacký, František</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">ANM</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -165,6 +170,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">finalisiert</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">ANM</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -194,6 +200,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">nicht vorhanden</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">ANM</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -218,6 +225,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">nicht vorhanden</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">ANM</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -241,6 +249,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">finalisiert</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">ANM</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -270,6 +279,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">nicht vorhanden</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">ANM</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -295,6 +305,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">nicht vorhanden</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">ANM</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -318,6 +329,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">finalisiert</note>
                <note type="images_on_share">True</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -344,6 +356,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">finalisiert</note>
                <note type="images_on_share">True</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -370,6 +383,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">finalisiert</note>
                <note type="images_on_share">True</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -396,6 +410,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">finalisiert</note>
                <note type="images_on_share">True</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -422,6 +437,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">finalisiert</note>
                <note type="images_on_share">True</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -448,6 +464,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">nicht vorhanden</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -473,6 +490,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">nicht vorhanden</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -499,6 +517,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">nicht vorhanden</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -525,6 +544,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">nicht vorhanden</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -551,6 +571,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">nicht vorhanden</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -578,6 +599,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">nicht vorhanden</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -604,6 +626,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">nicht vorhanden</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -630,6 +653,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">nicht vorhanden</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -656,6 +680,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">nicht vorhanden</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -682,6 +707,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">nicht vorhanden</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -708,6 +734,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">nicht vorhanden</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -734,6 +761,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">nicht vorhanden</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -760,6 +788,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">nicht vorhanden</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -786,6 +815,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">nicht vorhanden</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -810,6 +840,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">nicht vorhanden</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -836,6 +867,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">nicht vorhanden</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -862,6 +894,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">nicht vorhanden</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -888,6 +921,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">nicht vorhanden</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -912,6 +946,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">nicht vorhanden</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -938,6 +973,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">nicht vorhanden</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -965,6 +1001,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">nicht vorhanden</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -991,6 +1028,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">nicht vorhanden</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -1017,6 +1055,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">nicht vorhanden</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -1043,6 +1082,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">nicht vorhanden</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -1067,6 +1107,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">nicht vorhanden</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -1093,6 +1134,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">finalisiert</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -1119,6 +1161,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">finalisiert</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -1145,6 +1188,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">finalisiert</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -1171,6 +1215,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">nicht vorhanden</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -1197,6 +1242,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">nicht vorhanden</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -1223,6 +1269,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">finalisiert</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -1249,6 +1296,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">nicht vorhanden</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -1275,6 +1323,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">finalisiert</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -1301,6 +1350,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">nicht vorhanden</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -1327,6 +1377,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">nicht vorhanden</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -1353,6 +1404,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">nicht vorhanden</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -1379,6 +1431,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">nicht vorhanden</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -1405,6 +1458,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">nicht vorhanden</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -1432,6 +1486,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">nicht vorhanden</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -1458,6 +1513,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">nicht vorhanden</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -1484,6 +1540,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">nicht vorhanden</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -1507,6 +1564,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">nicht vorhanden</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -1533,6 +1591,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">nicht vorhanden</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -1559,6 +1618,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">nicht vorhanden</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -1586,6 +1646,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">nicht vorhanden</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -1612,6 +1673,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">nicht vorhanden</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -1638,6 +1700,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">nicht vorhanden</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -1664,6 +1727,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">nicht vorhanden</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -1690,6 +1754,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">nicht vorhanden</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -1716,6 +1781,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">nicht vorhanden</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -1742,6 +1808,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">nicht vorhanden</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -1768,6 +1835,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">nicht vorhanden</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -1794,6 +1862,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">nicht vorhanden</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -1820,6 +1889,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">nicht vorhanden</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -1846,6 +1916,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">nicht vorhanden</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -1872,6 +1943,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">nicht vorhanden</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -1898,6 +1970,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">nicht vorhanden</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -1924,6 +1997,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">nicht vorhanden</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -1948,6 +2022,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">nicht vorhanden</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -1974,6 +2049,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">nicht vorhanden</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -2000,6 +2076,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">nicht vorhanden</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -2026,6 +2103,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">nicht vorhanden</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -2048,6 +2126,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">nicht vorhanden</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -2074,6 +2153,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">nicht vorhanden</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -2100,6 +2180,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">nicht vorhanden</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -2125,6 +2206,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">nicht vorhanden</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -2147,6 +2229,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">nicht vorhanden</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -2173,6 +2256,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">nicht vorhanden</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -2195,6 +2279,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">nicht vorhanden</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -2221,6 +2306,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">nicht vorhanden</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -2247,6 +2333,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">nicht vorhanden</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -2273,6 +2360,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">nicht vorhanden</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -2299,6 +2387,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">nicht vorhanden</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -2325,6 +2414,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">nicht vorhanden</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -2347,6 +2437,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">nicht vorhanden</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -2373,6 +2464,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">nicht vorhanden</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -2395,6 +2487,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">nicht vorhanden</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -2421,6 +2514,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">nicht vorhanden</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -2447,6 +2541,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">nicht vorhanden</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -2473,6 +2568,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">nicht vorhanden</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -2499,6 +2595,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">nicht vorhanden</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -2525,6 +2622,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">nicht vorhanden</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -2551,6 +2649,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">nicht vorhanden</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -2577,6 +2676,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">nicht vorhanden</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -2603,6 +2703,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">nicht vorhanden</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -2629,6 +2730,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">nicht vorhanden</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -2655,6 +2757,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">nicht vorhanden</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -2681,6 +2784,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">nicht vorhanden</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -2707,6 +2811,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">nicht vorhanden</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -2733,6 +2838,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">nicht vorhanden</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -2759,6 +2865,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">nicht vorhanden</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -2785,6 +2892,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">nicht vorhanden</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -2810,6 +2918,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">nicht vorhanden</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -2836,6 +2945,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">nicht vorhanden</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -2862,6 +2972,7 @@
                <note type="status_metadaten">angelegt</note>
                <note type="status_transkription">nicht vorhanden</note>
                <note type="images_on_share">False</note>
+               <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>

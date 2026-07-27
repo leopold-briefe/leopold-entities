@@ -29,7 +29,8 @@
             <noteGrp type="metadata">
                {% for meta in x.metadata_notes %}
                <note type="{{ meta.type }}">{{ meta.text }}</note>
-               {% endfor %}
+               {% endfor %}{% for y in x.archiv %}
+               <note type="archiv_abbr">{{ y.abbr }}</note>{% endfor %}
             </noteGrp>
             {% endif %}
             <correspAction type="sent">
