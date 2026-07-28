@@ -52,23 +52,16 @@
             </correspAction>
             <correspAction type="received">
             {% for receiver in x.receiver %}
-            
                <persName key="{{ receiver.lb_id }}"{% if receiver.gnd_url %} ref="{{ receiver.gnd_url }}"{% endif %}>{{ receiver.label }}</persName>
-            
             {% endfor %}
             {% if x.destination %}
-            
-               {% for place in x.destination %}
-               <placeName type="destination">{{ place.value }}</placeName>
+            {% for place in x.destination %}
+               <placeName type="destination" key="{{ place.lb_id }}"{% if place.geonames_url %} ref="{{ place.geonames_url }}"{% endif %}>{{ place.label }}</placeName>
                {% endfor %}
-            
             {% endif %}
             {% if x.received_place %}
                {% for place in x.received_place %}
                <placeName type="received_place" key="{{ place.lb_id }}"{% if place.geonames_url %} ref="{{ place.geonames_url }}"{% endif %}>{{ place.label }}</placeName>
-               {% endfor %}
-               {% for place in x.destination %}
-               <placeName type="destination" key="{{ place.lb_id }}"{% if place.geonames_url %} ref="{{ place.geonames_url }}"{% endif %}>{{ place.label }}</placeName>
                {% endfor %}
             {% endif %}
             {% if x.received_date %}
