@@ -79,7 +79,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": null,
+    "regest": true,
     "status_transkription": {
       "id": 23030,
       "value": "finalisiert",
@@ -117,6 +117,7 @@
       }
     ],
     "credits": "bearb. v. Petr Maťa und Jitka Močičková (unter Mitwirkung von Jiří Hrbek)",
+    "entities": true,
     "related_letters": [
       {
         "id": "lb-00002",
@@ -228,11 +229,7 @@
       }
     ],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -261,6 +258,7 @@
       }
     ],
     "credits": "bearb. v. Petr Maťa und Stefan Sienell",
+    "entities": false,
     "related_letters": []
   },
   "45": {
@@ -349,11 +347,7 @@
       }
     ],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -382,6 +376,7 @@
       }
     ],
     "credits": "auf Grundlage der Edition v. Zdeněk Kalista bearb. v. Petr Maťa",
+    "entities": false,
     "related_letters": []
   },
   "46": {
@@ -464,11 +459,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23030,
       "value": "finalisiert",
@@ -830,6 +821,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": [
       {
         "id": "lb-00005",
@@ -930,11 +922,7 @@
       }
     ],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -1313,6 +1301,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "48": {
@@ -1395,11 +1384,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23030,
       "value": "finalisiert",
@@ -1761,6 +1746,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": [
       {
         "id": "lb-00007",
@@ -1872,11 +1858,7 @@
       }
     ],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -2238,6 +2220,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "50": {
@@ -2326,11 +2309,7 @@
       }
     ],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -2692,6 +2671,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "51": {
@@ -2774,11 +2754,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23030,
       "value": "finalisiert",
@@ -3140,6 +3116,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": [
       {
         "id": "lb-00010",
@@ -3251,11 +3228,7 @@
       }
     ],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -3617,6 +3590,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "53": {
@@ -3705,11 +3679,7 @@
       }
     ],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -4071,6 +4041,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "89": {
@@ -4165,11 +4136,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23030,
       "value": "finalisiert",
@@ -4543,6 +4510,7 @@
     "images_on_share": true,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "100": {
@@ -4637,11 +4605,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23030,
       "value": "finalisiert",
@@ -4684,6 +4648,7 @@
     "images_on_share": true,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "103": {
@@ -4778,11 +4743,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23030,
       "value": "finalisiert",
@@ -5156,6 +5117,7 @@
     "images_on_share": true,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "107": {
@@ -5250,11 +5212,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23030,
       "value": "finalisiert",
@@ -5628,6 +5586,7 @@
     "images_on_share": true,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "108": {
@@ -5722,11 +5681,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23030,
       "value": "finalisiert",
@@ -5769,6 +5724,7 @@
     "images_on_share": true,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "114": {
@@ -5863,11 +5819,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -5910,6 +5862,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "116": {
@@ -6004,11 +5957,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -6051,6 +6000,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "117": {
@@ -6145,11 +6095,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -6523,6 +6469,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "118": {
@@ -6617,11 +6564,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -6995,6 +6938,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "119": {
@@ -7089,11 +7033,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -7467,6 +7407,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "120": {
@@ -7561,11 +7502,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -7608,6 +7545,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "121": {
@@ -7702,11 +7640,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -8080,6 +8014,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "122": {
@@ -8174,11 +8109,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -8552,6 +8483,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "123": {
@@ -8646,11 +8578,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -8693,6 +8621,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "124": {
@@ -8787,11 +8716,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -8834,6 +8759,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "125": {
@@ -8928,11 +8854,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -8975,6 +8897,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "126": {
@@ -9069,11 +8992,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -9116,6 +9035,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "127": {
@@ -9210,11 +9130,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -9257,6 +9173,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "129": {
@@ -9351,11 +9268,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -9386,6 +9299,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "131": {
@@ -9480,11 +9394,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -9527,6 +9437,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "130": {
@@ -9621,11 +9532,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -9668,6 +9575,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "132": {
@@ -9762,11 +9670,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -9809,6 +9713,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "133": {
@@ -9903,11 +9808,7 @@
     "daily_order": "2",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -9938,6 +9839,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "134": {
@@ -10032,11 +9934,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -10079,6 +9977,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "136": {
@@ -10173,11 +10072,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -10220,6 +10115,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "137": {
@@ -10314,11 +10210,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -10361,6 +10253,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "138": {
@@ -10455,11 +10348,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -10502,6 +10391,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "135": {
@@ -10596,11 +10486,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -10643,6 +10529,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "140": {
@@ -10737,11 +10624,7 @@
     "daily_order": "2",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -10772,6 +10655,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "141": {
@@ -10866,11 +10750,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -10913,6 +10793,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "142": {
@@ -11007,11 +10888,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23030,
       "value": "finalisiert",
@@ -11054,6 +10931,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "143": {
@@ -11148,11 +11026,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23030,
       "value": "finalisiert",
@@ -11195,6 +11069,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "144": {
@@ -11289,11 +11164,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23030,
       "value": "finalisiert",
@@ -11336,6 +11207,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "145": {
@@ -11430,11 +11302,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -11477,6 +11345,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "146": {
@@ -11571,11 +11440,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -11618,6 +11483,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "147": {
@@ -11712,11 +11578,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23030,
       "value": "finalisiert",
@@ -11759,6 +11621,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "149": {
@@ -11853,11 +11716,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -11900,6 +11759,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "148": {
@@ -11994,11 +11854,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23030,
       "value": "finalisiert",
@@ -12041,6 +11897,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "150": {
@@ -12135,11 +11992,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -12182,6 +12035,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "183": {
@@ -12276,11 +12130,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -12654,6 +12504,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "184": {
@@ -12748,11 +12599,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -13126,6 +12973,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "139": {
@@ -13220,11 +13068,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -13598,6 +13442,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "186": {
@@ -13692,11 +13537,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -13745,6 +13586,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "185": {
@@ -13839,11 +13681,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -14217,6 +14055,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "187": {
@@ -14311,11 +14150,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -14689,6 +14524,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "191": {
@@ -14783,11 +14619,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -15149,6 +14981,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "190": {
@@ -15243,11 +15076,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -15621,6 +15450,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "189": {
@@ -15715,11 +15545,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -15762,6 +15588,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "192": {
@@ -15856,11 +15683,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -15909,6 +15732,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "188": {
@@ -16003,11 +15827,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -16071,6 +15891,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "193": {
@@ -16165,11 +15986,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -16212,6 +16029,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "195": {
@@ -16306,11 +16124,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -16684,6 +16498,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "194": {
@@ -16778,11 +16593,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -17156,6 +16967,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "196": {
@@ -17250,11 +17062,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -17297,6 +17105,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "199": {
@@ -17391,11 +17200,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -17438,6 +17243,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "198": {
@@ -17532,11 +17338,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -17579,6 +17381,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "197": {
@@ -17673,11 +17476,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -17720,6 +17519,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "201": {
@@ -17814,11 +17614,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -17861,6 +17657,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "200": {
@@ -17955,11 +17752,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -18002,6 +17795,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "203": {
@@ -18096,11 +17890,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -18143,6 +17933,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "204": {
@@ -18237,11 +18028,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -18615,6 +18402,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "202": {
@@ -18709,11 +18497,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -19087,6 +18871,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "206": {
@@ -19181,11 +18966,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -19547,6 +19328,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "205": {
@@ -19641,11 +19423,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -20019,6 +19797,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "207": {
@@ -20113,11 +19892,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -20160,6 +19935,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "209": {
@@ -20254,11 +20030,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -20301,6 +20073,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "208": {
@@ -20395,11 +20168,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -20418,6 +20187,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "211": {
@@ -20512,11 +20282,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -20890,6 +20656,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "210": {
@@ -20984,11 +20751,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -21362,6 +21125,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "213": {
@@ -21456,11 +21220,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -21834,6 +21594,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "212": {
@@ -21928,11 +21689,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -21951,6 +21708,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "215": {
@@ -22045,11 +21803,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -22423,6 +22177,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "214": {
@@ -22517,11 +22272,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -22540,6 +22291,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "218": {
@@ -22634,11 +22386,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -23012,6 +22760,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "217": {
@@ -23106,11 +22855,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -23484,6 +23229,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "221": {
@@ -23578,11 +23324,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -23956,6 +23698,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "220": {
@@ -24050,11 +23793,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -24428,6 +24167,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "222": {
@@ -24522,11 +24262,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -24900,6 +24636,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "219": {
@@ -24994,11 +24731,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -25017,6 +24750,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "224": {
@@ -25111,11 +24845,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -25489,6 +25219,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "225": {
@@ -25583,11 +25314,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -25606,6 +25333,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "223": {
@@ -25700,11 +25428,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -26078,6 +25802,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "231": {
@@ -26172,11 +25897,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -26550,6 +26271,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "228": {
@@ -26644,11 +26366,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -27022,6 +26740,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "229": {
@@ -27116,11 +26835,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -27494,6 +27209,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "230": {
@@ -27588,11 +27304,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -27966,6 +27678,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "227": {
@@ -28060,11 +27773,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -28438,6 +28147,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "233": {
@@ -28532,11 +28242,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -28910,6 +28616,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "232": {
@@ -29004,11 +28711,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -29382,6 +29085,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "235": {
@@ -29476,11 +29180,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -29854,6 +29554,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "234": {
@@ -29948,11 +29649,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -30326,6 +30023,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "236": {
@@ -30420,11 +30118,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -30798,6 +30492,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "240": {
@@ -30892,11 +30587,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -31270,6 +30961,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "239": {
@@ -31364,11 +31056,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -31742,6 +31430,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "238": {
@@ -31836,11 +31525,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -31883,6 +31568,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "237": {
@@ -31977,11 +31663,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -32024,6 +31706,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "241": {
@@ -32118,11 +31801,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -32165,6 +31844,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "243": {
@@ -32259,11 +31939,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -32306,6 +31982,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "242": {
@@ -32400,11 +32077,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -32778,6 +32451,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "226": {
@@ -32872,11 +32546,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -33250,6 +32920,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "244": {
@@ -33344,11 +33015,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -33722,6 +33389,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "109": {
@@ -33742,11 +33410,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -33765,6 +33429,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   },
   "115": {
@@ -33785,11 +33450,7 @@
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
-    "status_metadaten": {
-      "id": 23023,
-      "value": "angelegt",
-      "color": "darker-red"
-    },
+    "regest": false,
     "status_transkription": {
       "id": 23031,
       "value": "nicht vorhanden",
@@ -33808,6 +33469,7 @@
     "images_on_share": false,
     "contributors": [],
     "credits": null,
+    "entities": false,
     "related_letters": []
   }
 }
