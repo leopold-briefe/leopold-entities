@@ -377,7 +377,7 @@
   "3": {
     "id": 3,
     "order": "3.00000000000000000000",
-    "label": "Lamberg, Johann Maximilian von",
+    "label": "Johann Maximilian von Lamberg",
     "lb_id": "lb-person-3",
     "gnd_url": "https://d-nb.info/gnd/118823795",
     "place_of_birth": [
@@ -405,7 +405,7 @@
   "4": {
     "id": 4,
     "order": "4.00000000000000000000",
-    "label": "Kinsky, Franz Ulrich",
+    "label": "Franz Ulrich Kinsky",
     "lb_id": "lb-person-4",
     "gnd_url": "https://d-nb.info/gnd/123530822",
     "place_of_birth": [
@@ -764,7 +764,7 @@
   "38": {
     "id": 38,
     "order": "6.00000000000000000000",
-    "label": "Sternberg, Adolf Wratislaw von",
+    "label": "Adolf Wratislaw von Sternberg",
     "lb_id": "lb-person-38",
     "gnd_url": "https://d-nb.info/gnd/136018599",
     "place_of_birth": [],
@@ -780,7 +780,7 @@
   "39": {
     "id": 39,
     "order": "7.00000000000000000000",
-    "label": "Palacký, František",
+    "label": "František Palacký",
     "lb_id": "lb-person-39",
     "gnd_url": "https://d-nb.info/gnd/118789260",
     "place_of_birth": [],
@@ -796,7 +796,7 @@
   "40": {
     "id": 40,
     "order": "8.00000000000000000000",
-    "label": "Pötting, Franz Eusebius von",
+    "label": "Franz Eusebius von Pötting",
     "lb_id": "lb-person-40",
     "gnd_url": "https://d-nb.info/gnd/119324636",
     "place_of_birth": [],
@@ -828,7 +828,7 @@
   "74": {
     "id": 74,
     "order": "10.00000000000000000000",
-    "label": "Starhemberg, Konrad Balthasar von",
+    "label": "Konrad Balthasar von Starhemberg",
     "lb_id": "lb-person-74",
     "gnd_url": "https://d-nb.info/gnd/117216089",
     "place_of_birth": [],

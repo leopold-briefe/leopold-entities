@@ -51,8 +51,8 @@
                   <persName type="preferred">Eleonora Magdalena Theresia, geb. Pfalz-Neuburg</persName>
                   <idno type="gnd">https://d-nb.info/gnd/101026641</idno>
                </person>
-               <person xml:id="lb-person-3" n="Lamberg, Johann Maximilian von">
-                  <persName type="preferred">Lamberg, Johann Maximilian von</persName>
+               <person xml:id="lb-person-3" n="Johann Maximilian von Lamberg">
+                  <persName type="preferred">Johann Maximilian von Lamberg</persName>
                   <persName type="parts">
                      <forename>Johann Maximilian von</forename>
                      <surname>Lamberg</surname>
@@ -66,8 +66,8 @@
                   </birth>
                   <idno type="gnd">https://d-nb.info/gnd/118823795</idno>
                </person>
-               <person xml:id="lb-person-4" n="Kinsky, Franz Ulrich">
-                  <persName type="preferred">Kinsky, Franz Ulrich</persName>
+               <person xml:id="lb-person-4" n="Franz Ulrich Kinsky">
+                  <persName type="preferred">Franz Ulrich Kinsky</persName>
                   <persName type="parts">
                      <forename>Franz Ulrich</forename>
                      <surname>Kinsky</surname>
@@ -81,24 +81,24 @@
                   </birth>
                   <idno type="gnd">https://d-nb.info/gnd/123530822</idno>
                </person>
-               <person xml:id="lb-person-38" n="Sternberg, Adolf Wratislaw von">
-                  <persName type="preferred">Sternberg, Adolf Wratislaw von</persName>
+               <person xml:id="lb-person-38" n="Adolf Wratislaw von Sternberg">
+                  <persName type="preferred">Adolf Wratislaw von Sternberg</persName>
                   <persName type="parts">
                      <forename>Adolf Wratislaw von</forename>
                      <surname>Sternberg</surname>
                   </persName>
                   <idno type="gnd">https://d-nb.info/gnd/136018599</idno>
                </person>
-               <person xml:id="lb-person-39" n="Palacký, František">
-                  <persName type="preferred">Palacký, František</persName>
+               <person xml:id="lb-person-39" n="František Palacký">
+                  <persName type="preferred">František Palacký</persName>
                   <persName type="parts">
                      <forename>František</forename>
                      <surname>Palacký</surname>
                   </persName>
                   <idno type="gnd">https://d-nb.info/gnd/118789260</idno>
                </person>
-               <person xml:id="lb-person-40" n="Pötting, Franz Eusebius von">
-                  <persName type="preferred">Pötting, Franz Eusebius von</persName>
+               <person xml:id="lb-person-40" n="Franz Eusebius von Pötting">
+                  <persName type="preferred">Franz Eusebius von Pötting</persName>
                   <persName type="parts">
                      <forename>Franz Eusebius von</forename>
                      <surname>Pötting</surname>
@@ -113,8 +113,8 @@
                   </persName>
                   <idno type="gnd">https://d-nb.info/gnd/118731076</idno>
                </person>
-               <person xml:id="lb-person-74" n="Starhemberg, Konrad Balthasar von">
-                  <persName type="preferred">Starhemberg, Konrad Balthasar von</persName>
+               <person xml:id="lb-person-74" n="Konrad Balthasar von Starhemberg">
+                  <persName type="preferred">Konrad Balthasar von Starhemberg</persName>
                   <persName type="parts">
                      <forename>Konrad Balthasar von</forename>
                      <surname>Starhemberg</surname>
