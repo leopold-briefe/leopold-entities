@@ -352,7 +352,7 @@
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Lamberg, Johann Maximilian von</persName>
-               <placeName key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
+               <placeName type="received_place" key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
                <date when="1654-02-09">1654-02-09</date>
             </correspAction>
             <!--  -->
@@ -380,7 +380,7 @@
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Lamberg, Johann Maximilian von</persName>
-               <placeName key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
+               <placeName type="received_place" key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
                <date when="1654-11-15">1654-11-15</date>
             </correspAction>
             <!--  -->
@@ -408,7 +408,7 @@
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Lamberg, Johann Maximilian von</persName>
-               <placeName key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
+               <placeName type="received_place" key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
                <date when="1654-07-12">1654-07-12</date>
             </correspAction>
             <!--  -->
@@ -436,7 +436,7 @@
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Lamberg, Johann Maximilian von</persName>
-               <placeName key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
+               <placeName type="received_place" key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
                <date when="1655-04-01">1655-04-01</date>
             </correspAction>
             <!--  -->
@@ -464,7 +464,7 @@
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Lamberg, Johann Maximilian von</persName>
-               <placeName key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
+               <placeName type="received_place" key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
                <date when="1655-08-07">1655-08-07</date>
             </correspAction>
             <!--  -->
@@ -492,7 +492,7 @@
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Lamberg, Johann Maximilian von</persName>
-               <placeName key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
+               <placeName type="received_place" key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
             </correspAction>
             <!--  -->
          </correspDesc>
@@ -519,7 +519,7 @@
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Lamberg, Johann Maximilian von</persName>
-               <placeName key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
+               <placeName type="received_place" key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
                <date when="1655-12-05">1655-12-05</date>
             </correspAction>
             <!--  -->
@@ -547,7 +547,7 @@
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Lamberg, Johann Maximilian von</persName>
-               <placeName key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
+               <placeName type="received_place" key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
                <date when="1656-02-20">1656-02-20</date>
             </correspAction>
             <!--  -->
@@ -575,7 +575,7 @@
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Lamberg, Johann Maximilian von</persName>
-               <placeName key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
+               <placeName type="received_place" key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
                <date when="1656-03-11">1656-03-11</date>
             </correspAction>
             <!--  -->
@@ -604,7 +604,7 @@
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Lamberg, Johann Maximilian von</persName>
-               <placeName key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
+               <placeName type="received_place" key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
                <date when="1656-08-26">1656-08-26</date>
             </correspAction>
             <!--  -->
@@ -632,7 +632,7 @@
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Lamberg, Johann Maximilian von</persName>
-               <placeName key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
+               <placeName type="received_place" key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
                <date when="1656-06-27">1656-06-27</date>
             </correspAction>
             <!--  -->
@@ -660,7 +660,7 @@
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Lamberg, Johann Maximilian von</persName>
-               <placeName key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
+               <placeName type="received_place" key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
                <date when="1656-12-09">1656-12-09</date>
             </correspAction>
             <!--  -->
@@ -688,7 +688,7 @@
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Lamberg, Johann Maximilian von</persName>
-               <placeName key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
+               <placeName type="received_place" key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
                <date when="1657-08-18">1657-08-18</date>
             </correspAction>
             <!--  -->
@@ -716,7 +716,7 @@
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Lamberg, Johann Maximilian von</persName>
-               <placeName key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
+               <placeName type="received_place" key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
                <date when="1657-09-08">1657-09-08</date>
             </correspAction>
             <!--  -->
@@ -744,7 +744,7 @@
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Lamberg, Johann Maximilian von</persName>
-               <placeName key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
+               <placeName type="received_place" key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
                <date when="1657-09-15">1657-09-15</date>
             </correspAction>
             <!--  -->
@@ -772,7 +772,7 @@
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Lamberg, Johann Maximilian von</persName>
-               <placeName key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
+               <placeName type="received_place" key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
                <date when="1657-09-28">1657-09-28</date>
             </correspAction>
             <!--  -->
@@ -800,7 +800,7 @@
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Lamberg, Johann Maximilian von</persName>
-               <placeName key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
+               <placeName type="received_place" key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
                <date when="1657-10-17">1657-10-17</date>
             </correspAction>
             <!--  -->
@@ -828,7 +828,7 @@
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Lamberg, Johann Maximilian von</persName>
-               <placeName key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
+               <placeName type="received_place" key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
                <date when="1657-10-29">1657-10-29</date>
             </correspAction>
             <!--  -->
@@ -882,7 +882,7 @@
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Lamberg, Johann Maximilian von</persName>
-               <placeName key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
+               <placeName type="received_place" key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
                <date when="1657-12-25">1657-12-25</date>
             </correspAction>
             <!--  -->
@@ -910,7 +910,7 @@
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Lamberg, Johann Maximilian von</persName>
-               <placeName key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
+               <placeName type="received_place" key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
                <date when="1657-12-28">1657-12-28</date>
             </correspAction>
             <!--  -->
@@ -938,7 +938,7 @@
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Lamberg, Johann Maximilian von</persName>
-               <placeName key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
+               <placeName type="received_place" key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
                <date when="1658-02-06">1658-02-06</date>
             </correspAction>
             <!--  -->
@@ -992,7 +992,7 @@
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Lamberg, Johann Maximilian von</persName>
-               <placeName key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
+               <placeName type="received_place" key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
                <date when="1658-01-30">1658-01-30</date>
             </correspAction>
             <!--  -->
@@ -1021,7 +1021,7 @@
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Lamberg, Johann Maximilian von</persName>
-               <placeName key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
+               <placeName type="received_place" key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
                <date when="1658-03-12">1658-03-12</date>
             </correspAction>
             <!--  -->
@@ -1049,7 +1049,7 @@
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Lamberg, Johann Maximilian von</persName>
-               <placeName key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
+               <placeName type="received_place" key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
                <date when="1658-04-15">1658-04-15</date>
             </correspAction>
             <!--  -->
@@ -1077,7 +1077,7 @@
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Lamberg, Johann Maximilian von</persName>
-               <placeName key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
+               <placeName type="received_place" key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
                <date when="1658-04-16">1658-04-16</date>
             </correspAction>
             <!--  -->
@@ -1105,7 +1105,7 @@
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Lamberg, Johann Maximilian von</persName>
-               <placeName key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
+               <placeName type="received_place" key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
                <date when="1658-04-24">1658-04-24</date>
             </correspAction>
             <!--  -->
@@ -1159,7 +1159,7 @@
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Lamberg, Johann Maximilian von</persName>
-               <placeName key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
+               <placeName type="received_place" key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
                <date when="1658-05-03">1658-05-03</date>
             </correspAction>
             <!--  -->
@@ -1187,7 +1187,7 @@
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Lamberg, Johann Maximilian von</persName>
-               <placeName key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
+               <placeName type="received_place" key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
                <date when="1658-05-31">1658-05-31</date>
             </correspAction>
             <!--  -->
@@ -1215,7 +1215,7 @@
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Lamberg, Johann Maximilian von</persName>
-               <placeName key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
+               <placeName type="received_place" key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
                <date when="1658-06-09">1658-06-09</date>
             </correspAction>
             <!--  -->
@@ -1243,7 +1243,7 @@
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Lamberg, Johann Maximilian von</persName>
-               <placeName key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
+               <placeName type="received_place" key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
                <date when="1658-06-22">1658-06-22</date>
             </correspAction>
             <!--  -->
@@ -1271,7 +1271,7 @@
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Lamberg, Johann Maximilian von</persName>
-               <placeName key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
+               <placeName type="received_place" key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
                <date when="1658-07-01">1658-07-01</date>
             </correspAction>
             <!--  -->
@@ -1299,7 +1299,7 @@
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Lamberg, Johann Maximilian von</persName>
-               <placeName key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
+               <placeName type="received_place" key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
                <date when="1658-08-05">1658-08-05</date>
             </correspAction>
             <!--  -->
@@ -1327,7 +1327,7 @@
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Lamberg, Johann Maximilian von</persName>
-               <placeName key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
+               <placeName type="received_place" key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
                <date when="1658-07-06">1658-07-06</date>
             </correspAction>
             <!--  -->
@@ -1355,7 +1355,7 @@
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Lamberg, Johann Maximilian von</persName>
-               <placeName key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
+               <placeName type="received_place" key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
                <date when="1658-07-31">1658-07-31</date>
             </correspAction>
             <!--  -->
@@ -1383,7 +1383,7 @@
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Lamberg, Johann Maximilian von</persName>
-               <placeName key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
+               <placeName type="received_place" key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
                <date when="1658-07-27">1658-07-27</date>
             </correspAction>
             <!--  -->
@@ -1411,7 +1411,7 @@
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Lamberg, Johann Maximilian von</persName>
-               <placeName key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
+               <placeName type="received_place" key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
                <date when="1658-08-05">1658-08-05</date>
             </correspAction>
             <!--  -->
@@ -1439,7 +1439,7 @@
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Lamberg, Johann Maximilian von</persName>
-               <placeName key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
+               <placeName type="received_place" key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
                <date when="1658-11-04">1658-11-04</date>
             </correspAction>
             <!--  -->
@@ -1467,7 +1467,7 @@
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Lamberg, Johann Maximilian von</persName>
-               <placeName key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
+               <placeName type="received_place" key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
                <date when="1658-11-26">1658-11-26</date>
             </correspAction>
             <!--  -->
@@ -1495,7 +1495,7 @@
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Lamberg, Johann Maximilian von</persName>
-               <placeName key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
+               <placeName type="received_place" key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
                <date when="1658-12-15">1658-12-15</date>
             </correspAction>
             <!--  -->
@@ -1523,8 +1523,9 @@
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Lamberg, Johann Maximilian von</persName>
-               <placeName type="destination">Madrid</placeName>
-               <placeName key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
+               <placeName type="destination"/>
+               <placeName type="received_place" key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
+               <placeName type="destination" key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
                <date when="1659-01-03">1659-01-03</date>
             </correspAction>
             <!--  -->
@@ -1552,7 +1553,7 @@
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Lamberg, Johann Maximilian von</persName>
-               <placeName key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
+               <placeName type="received_place" key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
                <date when="1659-01-07">1659-01-07</date>
             </correspAction>
             <!--  -->
@@ -1580,7 +1581,7 @@
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Lamberg, Johann Maximilian von</persName>
-               <placeName key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
+               <placeName type="received_place" key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
                <date when="1659-01-28">1659-01-28</date>
             </correspAction>
             <!--  -->
@@ -1633,7 +1634,7 @@
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Lamberg, Johann Maximilian von</persName>
-               <placeName key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
+               <placeName type="received_place" key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
                <date when="1659-02-04">1659-02-04</date>
             </correspAction>
             <!--  -->
@@ -1661,7 +1662,7 @@
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Lamberg, Johann Maximilian von</persName>
-               <placeName key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
+               <placeName type="received_place" key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
                <date when="1658-08-19">1658-08-19</date>
             </correspAction>
             <!--  -->
@@ -1689,8 +1690,9 @@
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Lamberg, Johann Maximilian von</persName>
-               <placeName type="destination">Madrid</placeName>
-               <placeName key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
+               <placeName type="destination"/>
+               <placeName type="received_place" key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
+               <placeName type="destination" key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
                <date when="1658-09-21">1658-09-21</date>
             </correspAction>
             <!--  -->
@@ -1718,7 +1720,7 @@
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Lamberg, Johann Maximilian von</persName>
-               <placeName key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
+               <placeName type="received_place" key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
                <date when="1658-10-05">1658-10-05</date>
             </correspAction>
             <!--  -->
@@ -1746,7 +1748,7 @@
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Lamberg, Johann Maximilian von</persName>
-               <placeName key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
+               <placeName type="received_place" key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
                <date when="1659-12-31">1659-12-31</date>
             </correspAction>
             <!--  -->
@@ -1774,7 +1776,7 @@
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Lamberg, Johann Maximilian von</persName>
-               <placeName key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
+               <placeName type="received_place" key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
                <date when="1660-02-04">1660-02-04</date>
             </correspAction>
             <!--  -->
@@ -1802,7 +1804,7 @@
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Lamberg, Johann Maximilian von</persName>
-               <placeName key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
+               <placeName type="received_place" key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
                <date when="1660-01-22">1660-01-22</date>
             </correspAction>
             <!--  -->
@@ -1830,7 +1832,7 @@
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Lamberg, Johann Maximilian von</persName>
-               <placeName key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
+               <placeName type="received_place" key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
                <date when="1660-01-15">1660-01-15</date>
             </correspAction>
             <!--  -->
@@ -1858,7 +1860,7 @@
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Lamberg, Johann Maximilian von</persName>
-               <placeName key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
+               <placeName type="received_place" key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
                <date when="1659-12-05">1659-12-05</date>
             </correspAction>
             <!--  -->
@@ -1886,7 +1888,7 @@
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Lamberg, Johann Maximilian von</persName>
-               <placeName key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
+               <placeName type="received_place" key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
                <date when="1659-11-26">1659-11-26</date>
             </correspAction>
             <!--  -->
@@ -1914,7 +1916,7 @@
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Lamberg, Johann Maximilian von</persName>
-               <placeName key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
+               <placeName type="received_place" key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
                <date when="1659-11-11">1659-11-11</date>
             </correspAction>
             <!--  -->
@@ -1942,7 +1944,7 @@
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Lamberg, Johann Maximilian von</persName>
-               <placeName key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
+               <placeName type="received_place" key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
                <date when="1659-10-30">1659-10-30</date>
             </correspAction>
             <!--  -->
@@ -1970,7 +1972,7 @@
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Lamberg, Johann Maximilian von</persName>
-               <placeName key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
+               <placeName type="received_place" key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
                <date when="1659-10-17">1659-10-17</date>
             </correspAction>
             <!--  -->
@@ -1998,7 +2000,7 @@
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Lamberg, Johann Maximilian von</persName>
-               <placeName key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
+               <placeName type="received_place" key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
                <date when="1659-10-02">1659-10-02</date>
             </correspAction>
             <!--  -->
@@ -2026,7 +2028,7 @@
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Lamberg, Johann Maximilian von</persName>
-               <placeName key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
+               <placeName type="received_place" key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
                <date when="1659-09-16">1659-09-16</date>
             </correspAction>
             <!--  -->
@@ -2054,7 +2056,7 @@
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Lamberg, Johann Maximilian von</persName>
-               <placeName key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
+               <placeName type="received_place" key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
                <date when="1659-05-24">1659-05-24</date>
             </correspAction>
             <!--  -->
@@ -2108,7 +2110,7 @@
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Lamberg, Johann Maximilian von</persName>
-               <placeName key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
+               <placeName type="received_place" key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
                <date when="1659-05-30">1659-05-30</date>
             </correspAction>
             <!--  -->
@@ -2136,7 +2138,7 @@
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Lamberg, Johann Maximilian von</persName>
-               <placeName key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
+               <placeName type="received_place" key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
                <date when="1659-06-21">1659-06-21</date>
             </correspAction>
             <!--  -->
@@ -2164,7 +2166,7 @@
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Lamberg, Johann Maximilian von</persName>
-               <placeName key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
+               <placeName type="received_place" key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
                <date when="1659-06-30">1659-06-30</date>
             </correspAction>
             <!--  -->
@@ -2216,7 +2218,7 @@
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Lamberg, Johann Maximilian von</persName>
-               <placeName key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
+               <placeName type="received_place" key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
                <date when="1659-07-19">1659-07-19</date>
             </correspAction>
             <!--  -->
@@ -2244,7 +2246,7 @@
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Lamberg, Johann Maximilian von</persName>
-               <placeName key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
+               <placeName type="received_place" key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
                <date when="1659-07-30">1659-07-30</date>
             </correspAction>
             <!--  -->
@@ -2272,7 +2274,7 @@
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Lamberg, Johann Maximilian von</persName>
-               <placeName key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
+               <placeName type="received_place" key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
             </correspAction>
             <!--  -->
          </correspDesc>
@@ -2323,7 +2325,7 @@
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Lamberg, Johann Maximilian von</persName>
-               <placeName key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
+               <placeName type="received_place" key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
                <date when="1659-09-03">1659-09-03</date>
             </correspAction>
             <!--  -->
@@ -2375,7 +2377,7 @@
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Lamberg, Johann Maximilian von</persName>
-               <placeName key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
+               <placeName type="received_place" key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
                <date when="1659-02-16">1659-02-16</date>
             </correspAction>
             <!--  -->
@@ -2403,7 +2405,7 @@
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Lamberg, Johann Maximilian von</persName>
-               <placeName key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
+               <placeName type="received_place" key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
                <date when="1659-03-11">1659-03-11</date>
             </correspAction>
             <!--  -->
@@ -2431,7 +2433,7 @@
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Lamberg, Johann Maximilian von</persName>
-               <placeName key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
+               <placeName type="received_place" key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
                <date when="1659-03-19">1659-03-19</date>
             </correspAction>
             <!--  -->
@@ -2459,7 +2461,7 @@
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Lamberg, Johann Maximilian von</persName>
-               <placeName key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
+               <placeName type="received_place" key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
                <date when="1659-04-12">1659-04-12</date>
             </correspAction>
             <!--  -->
@@ -2487,7 +2489,7 @@
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Lamberg, Johann Maximilian von</persName>
-               <placeName key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
+               <placeName type="received_place" key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
                <date when="1659-04-15">1659-04-15</date>
             </correspAction>
             <!--  -->
@@ -2539,7 +2541,7 @@
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Lamberg, Johann Maximilian von</persName>
-               <placeName key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
+               <placeName type="received_place" key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
                <date when="1659-05-10">1659-05-10</date>
             </correspAction>
             <!--  -->
@@ -2591,7 +2593,7 @@
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Lamberg, Johann Maximilian von</persName>
-               <placeName key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
+               <placeName type="received_place" key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
                <date when="1659-09-10">1659-09-10</date>
             </correspAction>
             <!--  -->
@@ -2619,7 +2621,7 @@
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Lamberg, Johann Maximilian von</persName>
-               <placeName key="lb-place-1" ref="https://sws.geonames.org/2761369/">Wien</placeName>
+               <placeName type="received_place" key="lb-place-1" ref="https://sws.geonames.org/2761369/">Wien</placeName>
                <date when="1660-11-26">1660-11-26</date>
             </correspAction>
             <!--  -->
@@ -2647,7 +2649,7 @@
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Lamberg, Johann Maximilian von</persName>
-               <placeName key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
+               <placeName type="received_place" key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
                <date when="1660-02-12">1660-02-12</date>
             </correspAction>
             <!--  -->
@@ -2675,7 +2677,7 @@
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Lamberg, Johann Maximilian von</persName>
-               <placeName key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
+               <placeName type="received_place" key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
                <date when="1660-03-02">1660-03-02</date>
             </correspAction>
             <!--  -->
@@ -2703,7 +2705,7 @@
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Lamberg, Johann Maximilian von</persName>
-               <placeName key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
+               <placeName type="received_place" key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
                <date when="1660-03-23">1660-03-23</date>
             </correspAction>
             <!--  -->
@@ -2731,7 +2733,7 @@
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Lamberg, Johann Maximilian von</persName>
-               <placeName key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
+               <placeName type="received_place" key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
                <date when="1660-03-23">1660-03-23</date>
             </correspAction>
             <!--  -->
@@ -2759,7 +2761,7 @@
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Lamberg, Johann Maximilian von</persName>
-               <placeName key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
+               <placeName type="received_place" key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
                <date when="1660-04-02">1660-04-02</date>
             </correspAction>
             <!--  -->
@@ -2787,7 +2789,7 @@
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Lamberg, Johann Maximilian von</persName>
-               <placeName key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
+               <placeName type="received_place" key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
                <date when="1660-04-17">1660-04-17</date>
             </correspAction>
             <!--  -->
@@ -2815,7 +2817,7 @@
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Lamberg, Johann Maximilian von</persName>
-               <placeName key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
+               <placeName type="received_place" key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
                <date when="1660-05-06">1660-05-06</date>
             </correspAction>
             <!--  -->
@@ -2843,7 +2845,7 @@
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Lamberg, Johann Maximilian von</persName>
-               <placeName key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
+               <placeName type="received_place" key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
                <date when="1660-05-08">1660-05-08</date>
             </correspAction>
             <!--  -->
@@ -2871,7 +2873,7 @@
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Lamberg, Johann Maximilian von</persName>
-               <placeName key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
+               <placeName type="received_place" key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
                <date when="1660-05-19">1660-05-19</date>
             </correspAction>
             <!--  -->
@@ -2899,7 +2901,7 @@
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Lamberg, Johann Maximilian von</persName>
-               <placeName key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
+               <placeName type="received_place" key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
                <date when="1660-05-19">1660-05-19</date>
             </correspAction>
             <!--  -->
@@ -2927,7 +2929,7 @@
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Lamberg, Johann Maximilian von</persName>
-               <placeName key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
+               <placeName type="received_place" key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
                <date when="1660-08-20">1660-08-20</date>
             </correspAction>
             <!--  -->
@@ -2955,7 +2957,7 @@
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Lamberg, Johann Maximilian von</persName>
-               <placeName key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
+               <placeName type="received_place" key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
                <date when="1660-06-29">1660-06-29</date>
             </correspAction>
             <!--  -->
@@ -2983,7 +2985,7 @@
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Lamberg, Johann Maximilian von</persName>
-               <placeName key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
+               <placeName type="received_place" key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
                <date when="1660-06-29">1660-06-29</date>
             </correspAction>
             <!--  -->
@@ -3011,7 +3013,7 @@
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Lamberg, Johann Maximilian von</persName>
-               <placeName key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
+               <placeName type="received_place" key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
             </correspAction>
             <!--  -->
          </correspDesc>
@@ -3038,7 +3040,7 @@
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Lamberg, Johann Maximilian von</persName>
-               <placeName key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
+               <placeName type="received_place" key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
                <date when="1660-08-20">1660-08-20</date>
             </correspAction>
             <!--  -->
@@ -3066,7 +3068,7 @@
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Lamberg, Johann Maximilian von</persName>
-               <placeName key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
+               <placeName type="received_place" key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
                <date when="1660-07-24">1660-07-24</date>
             </correspAction>
             <!--  -->
@@ -3094,7 +3096,7 @@
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Lamberg, Johann Maximilian von</persName>
-               <placeName key="lb-place-1" ref="https://sws.geonames.org/2761369/">Wien</placeName>
+               <placeName type="received_place" key="lb-place-1" ref="https://sws.geonames.org/2761369/">Wien</placeName>
                <date when="1660-11-26">1660-11-26</date>
             </correspAction>
             <!--  -->
