@@ -124,6 +124,13 @@ for key, value in source_data.items():
         new_values.append(seed_data[f"{x['id']}"])
     value["received_place"] = new_values
 
+    old_values = value["destination"]
+    new_values = []
+    for x in old_values:
+        new_values.append(seed_data[f"{x['id']}"])
+    value["destination"] = new_values
+
+
 seed_file = os.path.join(JSON_FOLDER, "persons.json")
 with open(seed_file, "r") as f:
     seed_data = json.load(f)

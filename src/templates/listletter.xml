@@ -65,7 +65,10 @@
             {% endif %}
             {% if x.received_place %}
                {% for place in x.received_place %}
-               <placeName key="{{ place.lb_id }}"{% if place.geonames_url %} ref="{{ place.geonames_url }}"{% endif %}>{{ place.label }}</placeName>
+               <placeName type="received_place" key="{{ place.lb_id }}"{% if place.geonames_url %} ref="{{ place.geonames_url }}"{% endif %}>{{ place.label }}</placeName>
+               {% endfor %}
+               {% for place in x.destination %}
+               <placeName type="destination" key="{{ place.lb_id }}"{% if place.geonames_url %} ref="{{ place.geonames_url }}"{% endif %}>{{ place.label }}</placeName>
                {% endfor %}
             {% endif %}
             {% if x.received_date %}
