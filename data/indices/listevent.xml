@@ -1328,58 +1328,342 @@
                   <desc>Den a 2 ten Januarij 1658 Jhars 2 brief in Bayrn vnd 2 auf Wienn gschriben.</desc>
                </event>
                <event xml:id="lb-cal-105">
-                  <label>None</label>
-                  <desc/>
+                  <label>1658-01-09</label>
+                  <desc>Den 9. dito 2 auf Wienn vnd 1 in Bayrn.</desc>
                </event>
                <event xml:id="lb-cal-106">
-                  <label>None</label>
-                  <desc/>
+                  <label>1658-01-12</label>
+                  <desc>Den 12. ein brieff auf Wienn gschrieben</desc>
                </event>
                <event xml:id="lb-cal-107">
-                  <label>None</label>
-                  <desc/>
+                  <label>1658-01-16</label>
+                  <desc>
+                     <hi rend="del">Den 19. 3 auf W</hi> Den 16. 3 in Spanien, 3 in Bayrn vnd 2 auf Wien.</desc>
                </event>
                <event xml:id="lb-cal-108">
-                  <label>None</label>
-                  <desc/>
+                  <label>1658-01-19</label>
+                  <desc>Den 19. dito 3 auf Wienn.</desc>
                </event>
                <event xml:id="lb-cal-109">
-                  <label>None</label>
-                  <desc/>
+                  <label>1658-01-23</label>
+                  <desc>Den 23. 2 brief in Spanien, 2 in Bayrn vnd 1 auf Wien gschriben.</desc>
                </event>
                <event xml:id="lb-cal-110">
-                  <label>None</label>
-                  <desc/>
+                  <label>1658-01-26</label>
+                  <desc>Den 26. ein brieff auff Wienn.</desc>
                </event>
                <event xml:id="lb-cal-111">
-                  <label>None</label>
-                  <desc/>
+                  <label>1658-01-29</label>
+                  <desc>Den 29. 2 brieff auff Wienn.</desc>
                </event>
                <event xml:id="lb-cal-112">
-                  <label>None</label>
-                  <desc/>
+                  <label>1658-02-03</label>
+                  <desc>Den 3. <hi rend="unclear">…</hi> vnd 1 brieff auff Wienn gschriben.</desc>
                </event>
                <event xml:id="lb-cal-113">
-                  <label>None</label>
-                  <desc/>
+                  <label>1658-02-12</label>
+                  <desc>Den 12. still gelegen vnd 1 brieff auf Wienn gschriben.</desc>
                </event>
                <event xml:id="lb-cal-114">
-                  <label>None</label>
-                  <desc/>
+                  <label>1658-02-15</label>
+                  <desc>Den 15. still gelegen vnd 1 brief auf Munchen gschriben.</desc>
                </event>
                <event xml:id="lb-cal-115">
-                  <label>None</label>
-                  <desc/>
+                  <label>1658-02-24</label>
+                  <desc>Den 24. <hi rend="unclear">…</hi> vnd 2 brief auf Wien vnd 1 M. <hi rend="unclear">?</hi>
+                  </desc>
                </event>
                <event xml:id="lb-cal-116">
-                  <label>None</label>
-                  <desc/>
+                  <label>1658-03-05</label>
+                  <desc>Den 5. still gelegen vnd 2 brieff auf Wien vnd <hi rend="del">2</hi> 1 auf Prag vnd 1 auf Munchen.</desc>
                </event>
                <event xml:id="lb-cal-117">
-                  <label>None</label>
-                  <desc/>
+                  <label>1658-03-09</label>
+                  <desc>Den 9. still gelegen vnd 1 brief auf Wien, 1 auf Munchen gschriben.</desc>
                </event>
                <event xml:id="lb-cal-118">
+                  <label>1658-03-12</label>
+                  <desc>Den 12. still gelegen vnd 1 brief auff Wien gschriben.</desc>
+               </event>
+               <event xml:id="lb-cal-119">
+                  <label>1658-03-13</label>
+                  <desc>Den 13. still gelegen vnd 3 schreiben in Spanien geschikht.</desc>
+               </event>
+               <event xml:id="lb-cal-120">
+                  <label>1658-03-16</label>
+                  <desc>Den 16. still gelegen vnd 2 brieff auff Wienn gschriben.</desc>
+               </event>
+               <event xml:id="lb-cal-121">
+                  <label>1658-03-22</label>
+                  <desc>Den <hi rend="del">20.</hi> 22. Martzen 2 brieff in Spanien vnd /2 auf Wienn.</desc>
+               </event>
+               <event xml:id="lb-cal-122">
+                  <label>1658-03-25</label>
+                  <desc>Den 25. <hi rend="del">ein</hi> 2 auf Wien vnd 1 Beyrn.</desc>
+               </event>
+               <event xml:id="lb-cal-123">
+                  <label>1658-03-29</label>
+                  <desc>Den 29. 3 in Spanien, 1 auff Wienn.</desc>
+               </event>
+               <event xml:id="lb-cal-124">
+                  <label>1658-04-01</label>
+                  <desc>Den 1. Aprilis a<hi rend="unclear">nn</hi>o 1658 1 auf Munchen vnd ein auf Brag vnd 2 auf Wienn gschriben.</desc>
+               </event>
+               <event xml:id="lb-cal-125">
+                  <label>1658-04-05</label>
+                  <desc>Den 5. 2 auf Wienn vnd 2 in Spanien.</desc>
+               </event>
+               <event xml:id="lb-cal-126">
+                  <label>1658-04-08</label>
+                  <desc>Den 8. ein in Beyrn vnd ein <hi rend="del">in</hi> auf Wienn.</desc>
+               </event>
+               <event xml:id="lb-cal-127">
+                  <label>1658-04-12</label>
+                  <desc>Den 12. dito 2 auff Wienn.</desc>
+               </event>
+               <event xml:id="lb-cal-128">
+                  <label>1658-04-15</label>
+                  <desc>Den 15. ein auf Munchen vnd 1 auff Wienn.</desc>
+               </event>
+               <event xml:id="lb-cal-129">
+                  <label>1658-04-19</label>
+                  <desc>Den 19. ein auf Wienn vnd 1 in Spanien.</desc>
+               </event>
+               <event xml:id="lb-cal-130">
+                  <label>1658-04-22</label>
+                  <desc>Den 22. <hi rend="del">3</hi> 4 auf Wienn, 3 auf Prag vnd 1 auf Munchen.</desc>
+               </event>
+               <event xml:id="lb-cal-131">
+                  <label>1658-04-26</label>
+                  <desc>Den 26. 2 in Spanien vnd ein auf Wienn.</desc>
+               </event>
+               <event xml:id="lb-cal-132">
+                  <label>1658-04-29</label>
+                  <desc>Den 29. 2 auf Wienn vnd 1 in Beyrn.</desc>
+               </event>
+               <event xml:id="lb-cal-133">
+                  <label>1658-05-03</label>
+                  <desc>Den dritten May 1658 ein brieff auf Wienn gsch<hi rend="unclear">rieben</hi>.</desc>
+               </event>
+               <event xml:id="lb-cal-134">
+                  <label>1658-05-06</label>
+                  <desc>Den 6. ein brieff auf Munchen vnd 1 auf Wienn gschriben.</desc>
+               </event>
+               <event xml:id="lb-cal-135">
+                  <label>1658-05-10</label>
+                  <desc>Den <hi rend="del">19</hi> 10. 3 brief in Spanien vnd 1 auf Wienn gschriben.</desc>
+               </event>
+               <event xml:id="lb-cal-136">
+                  <label>1658-05-13</label>
+                  <desc>Den 13. 2 auf Wienn vnd 1 auf Munchen.</desc>
+               </event>
+               <event xml:id="lb-cal-137">
+                  <label>1658-05-17</label>
+                  <desc>Den 17. 2 brief auff Wien.</desc>
+               </event>
+               <event xml:id="lb-cal-138">
+                  <label>1658-05-20</label>
+                  <desc>Den 20. 3 auf Wien vnd 1 in Bayrn.</desc>
+               </event>
+               <event xml:id="lb-cal-139">
+                  <label>1658-05-24</label>
+                  <desc>Den 24. 2 auf Wienn.</desc>
+               </event>
+               <event xml:id="lb-cal-140">
+                  <label>1658-05-28</label>
+                  <desc>Den <hi rend="del">27</hi> 28. 2 auf Wien, 1 in Beyrn vnd 1 auf Mantua.</desc>
+               </event>
+               <event xml:id="lb-cal-141">
+                  <label>1658-05-31</label>
+                  <desc>Den lezten ein auf Wien gschriben.</desc>
+               </event>
+               <event xml:id="lb-cal-142">
+                  <label>1658-06-03</label>
+                  <desc>Den 3. Junij 1658 2 brieff auff Wienn vnd 1 in Bayrn.</desc>
+               </event>
+               <event xml:id="lb-cal-143">
+                  <label>1658-06-03</label>
+                  <desc>Den 7ten <hi rend="del">2</hi> 3 in Spanien vnd 1 auff Wienn.</desc>
+               </event>
+               <event xml:id="lb-cal-144">
+                  <label>1658-06-10</label>
+                  <desc>Den 10. 1 auff Wienn vnd 1 auf Munchen.</desc>
+               </event>
+               <event xml:id="lb-cal-145">
+                  <label>1658-06-14</label>
+                  <desc>Den 14. 1 auf Wien gschriben.</desc>
+               </event>
+               <event xml:id="lb-cal-146">
+                  <label>1658-06-17</label>
+                  <desc>Den 17. 1 auf Wienn vnd ein in Bayrn gschriben.</desc>
+               </event>
+               <event xml:id="lb-cal-147">
+                  <label>1658-06-21</label>
+                  <desc>Den 21. 4 brieff auff Wien gschriben.</desc>
+               </event>
+               <event xml:id="lb-cal-148">
+                  <label>1658-06-24</label>
+                  <desc>
+                     <hi rend="del">Den 24. ein auff Wien vnd 1 in Bayrn.</hi>
+                     <hi rend="unclear">…</hi> Den 24. ein auff Wien vnd 1 auf München.</desc>
+               </event>
+               <event xml:id="lb-cal-149">
+                  <label>1658-06-27</label>
+                  <desc>Den 27. <hi rend="del">ein</hi> 3 auff Wienn.</desc>
+               </event>
+               <event xml:id="lb-cal-150">
+                  <label>1658-07-01</label>
+                  <desc>Den 1. Julij 1658 1 schreiben auff Wien, 2 in Munchen.</desc>
+               </event>
+               <event xml:id="lb-cal-151">
+                  <label>1658-07-01</label>
+                  <desc>Den 1. Julij 1658 1 schreiben auff Wien, 2 in Munchen.</desc>
+               </event>
+               <event xml:id="lb-cal-152">
+                  <label>1658-07-05</label>
+                  <desc>Den 5. 3 auff Wien vnd 1 auff Prag.</desc>
+               </event>
+               <event xml:id="lb-cal-153">
+                  <label>1658-07-06</label>
+                  <desc>Den 6. 3 brieff in Spanien gschrieben.</desc>
+               </event>
+               <event xml:id="lb-cal-154">
+                  <label>1658-07-08</label>
+                  <desc>Den 8. ein auff Wienn vnd 1 in Bayrn.</desc>
+               </event>
+               <event xml:id="lb-cal-155">
+                  <label>1658-07-11</label>
+                  <desc>Den 11. 3 in Spanien vnd den 12. ein auff Wien.~~</desc>
+               </event>
+               <event xml:id="lb-cal-156">
+                  <label>1658-07-12</label>
+                  <desc>Den 11. 3 in Spanien vnd den 12. ein auff Wien.~~</desc>
+               </event>
+               <event xml:id="lb-cal-157">
+                  <label>1658-07-15</label>
+                  <desc>Den 15. 2 auff Wien vnd 1 auff Munchen.</desc>
+               </event>
+               <event xml:id="lb-cal-158">
+                  <label>1658-07-18</label>
+                  <desc>Den 18. dieß <hi rend="unclear">…</hi>. Eben <hi rend="del">disen tag</hi> de hoc dato gschriben ich 3 brieff in Spanien, 4 auff Wienn, 2 in Bayrn vnd 2 auff Prag.</desc>
+               </event>
+               <event xml:id="lb-cal-159">
+                  <label>1658-07-19</label>
+                  <desc>Den 19. ein auff Wienn.</desc>
+               </event>
+               <event xml:id="lb-cal-160">
+                  <label>1658-07-23</label>
+                  <desc>Den 23. Julij ein in Wienn vnd 1 auff Munchen.</desc>
+               </event>
+               <event xml:id="lb-cal-161">
+                  <label>1658-07-26</label>
+                  <desc>Den 26. ein auff Wienn.</desc>
+               </event>
+               <event xml:id="lb-cal-162">
+                  <label>1658-07-27</label>
+                  <desc>Den 27. 2 in Spanien.</desc>
+               </event>
+               <event xml:id="lb-cal-163">
+                  <label>1658-07-29</label>
+                  <desc>Den 29. 2 auff Wien vnd 1 auff Munchen.</desc>
+               </event>
+               <event xml:id="lb-cal-164">
+                  <label>1658-08-03</label>
+                  <desc>Den 3. Aug<hi rend="unclear">ust</hi> 2 auff Wien.</desc>
+               </event>
+               <event xml:id="lb-cal-165">
+                  <label>1658-08-06</label>
+                  <desc>Den 6. 2 in Munchen, 1 Wien vnd 1 auff Prag.</desc>
+               </event>
+               <event xml:id="lb-cal-166">
+                  <label>1658-08-09</label>
+                  <desc>Den 9. <hi rend="unclear">…</hi> 3 brieff in Spanien vnd 1 auff Wien gschriben.</desc>
+               </event>
+               <event xml:id="lb-cal-167">
+                  <label>1658-08-18</label>
+                  <desc>Den 18. still gelegen vnd 1 brieff auff Wienn geschriben.</desc>
+               </event>
+               <event xml:id="lb-cal-168">
+                  <label>1658-08-23</label>
+                  <desc>Den 23. <hi rend="unclear">…</hi> 1 brieff auff Wienn geschriben.</desc>
+               </event>
+               <event xml:id="lb-cal-169">
+                  <label>1658-09-12</label>
+                  <desc>Den 12. still gelegen vnd 2 brieff auf Wien gschriben.</desc>
+               </event>
+               <event xml:id="lb-cal-170">
+                  <label>1658-09-13</label>
+                  <desc>Den 13. still gelegen vnd 2 brieff auf Wienn geschriben.</desc>
+               </event>
+               <event xml:id="lb-cal-171">
+                  <label>1658-09-16</label>
+                  <desc>Den 16. still gelegen vnd 3 brieff in Spanien vnd 1 auff Munchen gschriben.</desc>
+               </event>
+               <event xml:id="lb-cal-172">
+                  <label>1658-09-17</label>
+                  <desc>Den 17. still gelegen vnd 1 brieff auf Wien geschriben.</desc>
+               </event>
+               <event xml:id="lb-cal-173">
+                  <label>1658-09-21</label>
+                  <desc>Den 21. <hi rend="unclear">…</hi> 1 brieff auff Wien geschriben.</desc>
+               </event>
+               <event xml:id="lb-cal-174">
+                  <label>1658-09-24</label>
+                  <desc>Den 24. <hi rend="unclear">…</hi> 1 brieff auff Wien vnd 1 auf Munchen geschriben.</desc>
+               </event>
+               <event xml:id="lb-cal-175">
+                  <label>1658-10-02</label>
+                  <desc>Den 2. 3 in Spanien, 1 in Insprukh vnd 1 auff Munchen.</desc>
+               </event>
+               <event xml:id="lb-cal-176">
+                  <label>1658-10-09</label>
+                  <desc>Den 9. ein brieff in <hi rend="del">Spanien</hi> Bayrn geschriben.</desc>
+               </event>
+               <event xml:id="lb-cal-177">
+                  <label>1658-10-16</label>
+                  <desc>Den 16. ein brieff in Bayrn geschriben.</desc>
+               </event>
+               <event xml:id="lb-cal-178">
+                  <label>1658-10-23</label>
+                  <desc>Den 23. 3 brieff in Spanien, 1 in Bayrn.</desc>
+               </event>
+               <event xml:id="lb-cal-179">
+                  <label>1658-10-30</label>
+                  <desc>Den 30. <hi rend="unclear">…</hi> 1 brieff in Bayrn geschriben.</desc>
+               </event>
+               <event xml:id="lb-cal-180">
+                  <label>1658-11-06</label>
+                  <desc>Den 6. 2 in Tirol, 3 in Spanien, 1 in Bayrn.</desc>
+               </event>
+               <event xml:id="lb-cal-181">
+                  <label>1658-11-13</label>
+                  <desc>Den 13. 1 brief in Bayrn vnd ein nach Tirol geschriben.</desc>
+               </event>
+               <event xml:id="lb-cal-182">
+                  <label>1658-11-20</label>
+                  <desc>Den 20. 2 brieff in Spanien vnd 1 in Bayrn.</desc>
+               </event>
+               <event xml:id="lb-cal-183">
+                  <label>1658-11-27</label>
+                  <desc>Den 27. ein in Bayrn vnd 1 in Mantova.</desc>
+               </event>
+               <event xml:id="lb-cal-184">
+                  <label>1658-12-04</label>
+                  <desc>Den 4. Decembris ein brieff in Bayrn geschriben.</desc>
+               </event>
+               <event xml:id="lb-cal-185">
+                  <label>1658-12-11</label>
+                  <desc>Den 11. 3 in Spanien, 1 in Bayrn vnd 1 auff Insprukh.</desc>
+               </event>
+               <event xml:id="lb-cal-186">
+                  <label>1658-12-18</label>
+                  <desc>Den 18. ein brief in <hi rend="del">Spanien</hi> Bayrn geschriben.</desc>
+               </event>
+               <event xml:id="lb-cal-187">
+                  <label>1658-12-24</label>
+                  <desc>Den 24. 2 in Spanien vnd 1 in Bayrn.</desc>
+               </event>
+               <event xml:id="lb-cal-188">
                   <label>None</label>
                   <desc/>
                </event>
