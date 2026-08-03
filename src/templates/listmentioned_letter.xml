@@ -23,19 +23,10 @@
             <p>Register der im Projekt erwähnten Briefe</p>
          </sourceDesc>
       </fileDesc>
-      <profileDesc>{% for x in objects %}{% if x.lb_id %}
+      <profileDesc>{% for x in objects %}
          <correspDesc xml:id="{{ x.lb_id }}">
-            {% if x.metadata_notes %}
-            <noteGrp type="metadata">
-               {% for meta in x.metadata_notes %}
-               <note type="{{ meta.type }}">{{ meta.text }}</note>
-               {% endfor %}{% for y in x.archiv %}
-               <note type="archiv_abbr">{{ y.abbr }}</note>{% endfor %}
-            </noteGrp>
-            {% endif %}
             <correspAction type="sent">
-            {% for sender in x.sender %}
-               <persName{% if sender.id %} key="lb-person-{{ sender.id }}"{% endif %} ref="https://d-nb.info/gnd/118571869">{{ sender.value }}</persName>
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
            {% if x.place_of_writing or x.placename_written %}
                {% for place in x.place_of_writing %}
                <placeName key="{{ place.lb_id }}"{% if place.geonames_url %} ref="{{ place.geonames_url }}"{% endif %}>{{ place.label }}</placeName>
@@ -44,15 +35,18 @@
                <placeName type="written">{{ x.placename_written }}</placeName>
                {% endif %}
             {% endif %}
-            {% endfor %}
-            {% if x.written_date or x.not_before or x.not_after %}
-               <date{% if x.not_before and x.not_after and x.not_before == x.not_after %} when="{{ x.not_before }}"{% else %}{% if x.not_before %} notBefore="{{ x.not_before }}"{% endif %}{% if x.not_after %} notAfter="{{ x.not_after }}"{% endif %}{% endif %}>{% if x.written_date %}{{ x.written_date }}{% else %}{{ x.not_before or x.not_after }}{% endif %}</date>{% if x.date_note %}
-               <note type="date">{{ x.date_note }}</note>{% endif %}
+            {% if x.correct_date %}
+            <date when="{{ x.correct_date }}">{{ x.correct_date }}</date>
+            {% else %}
+               <date when="{{ x.not_before }}">{{ x.not_before }}</date>
             {% endif %}
             </correspAction>
             <correspAction type="received">
-            {% for receiver in x.receiver %}
-               <persName key="{{ receiver.lb_id }}"{% if receiver.gnd_url %} ref="{{ receiver.gnd_url }}"{% endif %}>{{ receiver.label }}</persName>
+            {% for receiver in x.addressee_worked_out %}
+               <persName type="addressee_worked_out" key="{{ receiver.lb_id }}"{% if receiver.gnd_url %} ref="{{ receiver.gnd_url }}"{% endif %}>{{ receiver.label }}</persName>
+            {% endfor %}
+            {% for receiver in x.addressee_stated %}
+               <persName type="addressee_stated" key="{{ receiver.lb_id }}"{% if receiver.gnd_url %} ref="{{ receiver.gnd_url }}"{% endif %}>{{ receiver.label }}</persName>
             {% endfor %}
             {% if x.destination %}
             {% for place in x.destination %}
@@ -67,15 +61,9 @@
             {% if x.received_date %}
                <date when="{{ x.received_date }}">{{ x.received_date }}</date>
             {% endif %}
-            </correspAction>
-            <!-- {% if x.related_letters %}
-            <correspContext>
-               {% for rel in x.related_letters %}
-               <ref target="#{{ rel.id }}"{% if rel.relation_type %} type="{{ rel.relation_type }}"{% endif %}>{% if rel.kind %}{{ rel.kind | map(attribute='value') | join(', ') }}{% else %}related correspondence{% endif %}</ref>
-               {% endfor %}
-            </correspContext>
-            {% endif %} -->
-         </correspDesc>{% endif %}{% endfor %}
+            </correspAction>{% if x.note %}
+            <note type="anmerkung">{{ x.note }}</note>{% endif %}
+         </correspDesc>{% endfor %}
       </profileDesc>
    </teiHeader>
    <text>
