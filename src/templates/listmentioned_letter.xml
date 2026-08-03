@@ -24,7 +24,7 @@
          </sourceDesc>
       </fileDesc>
       <profileDesc>{% for x in objects %}
-         <correspDesc xml:id="{{ x.lb_id }}">
+         <correspDesc xml:id="{{ x.lb_id }}" {% for y in x.original_letter %} corresp="#{{ y.value }}" {% endfor %}>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
            {% if x.place_of_writing or x.placename_written %}
