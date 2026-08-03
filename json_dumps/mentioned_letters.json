@@ -9,15 +9,21 @@
     "destination": [
       {
         "id": 37,
-        "value": "Mantova",
-        "order": "5.00000000000000000000"
+        "order": "5.00000000000000000000",
+        "label": "Mantova",
+        "lb_id": "lb-place-37",
+        "geonames_url": "https://www.geonames.org/3174051/mantua.html",
+        "latitude": "45.16031",
+        "longitude": "10.79784",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-1"
   },
   "2": {
     "id": 2,
@@ -29,15 +35,21 @@
     "destination": [
       {
         "id": 38,
-        "value": "Bayern",
-        "order": "6.00000000000000000000"
+        "order": "6.00000000000000000000",
+        "label": "Bayern",
+        "lb_id": "lb-place-38",
+        "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
+        "latitude": "49.00000",
+        "longitude": "11.50000",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-2"
   },
   "3": {
     "id": 3,
@@ -49,15 +61,21 @@
     "destination": [
       {
         "id": 38,
-        "value": "Bayern",
-        "order": "6.00000000000000000000"
+        "order": "6.00000000000000000000",
+        "label": "Bayern",
+        "lb_id": "lb-place-38",
+        "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
+        "latitude": "49.00000",
+        "longitude": "11.50000",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-3"
   },
   "4": {
     "id": 4,
@@ -69,15 +87,21 @@
     "destination": [
       {
         "id": 38,
-        "value": "Bayern",
-        "order": "6.00000000000000000000"
+        "order": "6.00000000000000000000",
+        "label": "Bayern",
+        "lb_id": "lb-place-38",
+        "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
+        "latitude": "49.00000",
+        "longitude": "11.50000",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-4"
   },
   "5": {
     "id": 5,
@@ -89,15 +113,21 @@
     "destination": [
       {
         "id": 38,
-        "value": "Bayern",
-        "order": "6.00000000000000000000"
+        "order": "6.00000000000000000000",
+        "label": "Bayern",
+        "lb_id": "lb-place-38",
+        "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
+        "latitude": "49.00000",
+        "longitude": "11.50000",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-5"
   },
   "6": {
     "id": 6,
@@ -109,15 +139,21 @@
     "destination": [
       {
         "id": 39,
-        "value": "Spanien",
-        "order": "7.00000000000000000000"
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-6"
   },
   "7": {
     "id": 7,
@@ -129,15 +165,21 @@
     "destination": [
       {
         "id": 38,
-        "value": "Bayern",
-        "order": "6.00000000000000000000"
+        "order": "6.00000000000000000000",
+        "label": "Bayern",
+        "lb_id": "lb-place-38",
+        "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
+        "latitude": "49.00000",
+        "longitude": "11.50000",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-7"
   },
   "8": {
     "id": 8,
@@ -149,15 +191,21 @@
     "destination": [
       {
         "id": 38,
-        "value": "Bayern",
-        "order": "6.00000000000000000000"
+        "order": "6.00000000000000000000",
+        "label": "Bayern",
+        "lb_id": "lb-place-38",
+        "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
+        "latitude": "49.00000",
+        "longitude": "11.50000",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-8"
   },
   "9": {
     "id": 9,
@@ -169,15 +217,21 @@
     "destination": [
       {
         "id": 37,
-        "value": "Mantova",
-        "order": "5.00000000000000000000"
+        "order": "5.00000000000000000000",
+        "label": "Mantova",
+        "lb_id": "lb-place-37",
+        "geonames_url": "https://www.geonames.org/3174051/mantua.html",
+        "latitude": "45.16031",
+        "longitude": "10.79784",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-9"
   },
   "10": {
     "id": 10,
@@ -189,15 +243,21 @@
     "destination": [
       {
         "id": 38,
-        "value": "Bayern",
-        "order": "6.00000000000000000000"
+        "order": "6.00000000000000000000",
+        "label": "Bayern",
+        "lb_id": "lb-place-38",
+        "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
+        "latitude": "49.00000",
+        "longitude": "11.50000",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-10"
   },
   "11": {
     "id": 11,
@@ -209,15 +269,21 @@
     "destination": [
       {
         "id": 38,
-        "value": "Bayern",
-        "order": "6.00000000000000000000"
+        "order": "6.00000000000000000000",
+        "label": "Bayern",
+        "lb_id": "lb-place-38",
+        "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
+        "latitude": "49.00000",
+        "longitude": "11.50000",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-11"
   },
   "12": {
     "id": 12,
@@ -229,15 +295,21 @@
     "destination": [
       {
         "id": 39,
-        "value": "Spanien",
-        "order": "7.00000000000000000000"
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-12"
   },
   "13": {
     "id": 13,
@@ -249,15 +321,21 @@
     "destination": [
       {
         "id": 39,
-        "value": "Spanien",
-        "order": "7.00000000000000000000"
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-13"
   },
   "14": {
     "id": 14,
@@ -269,15 +347,21 @@
     "destination": [
       {
         "id": 38,
-        "value": "Bayern",
-        "order": "6.00000000000000000000"
+        "order": "6.00000000000000000000",
+        "label": "Bayern",
+        "lb_id": "lb-place-38",
+        "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
+        "latitude": "49.00000",
+        "longitude": "11.50000",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-14"
   },
   "15": {
     "id": 15,
@@ -289,15 +373,21 @@
     "destination": [
       {
         "id": 38,
-        "value": "Bayern",
-        "order": "6.00000000000000000000"
+        "order": "6.00000000000000000000",
+        "label": "Bayern",
+        "lb_id": "lb-place-38",
+        "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
+        "latitude": "49.00000",
+        "longitude": "11.50000",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-15"
   },
   "16": {
     "id": 16,
@@ -309,15 +399,21 @@
     "destination": [
       {
         "id": 39,
-        "value": "Spanien",
-        "order": "7.00000000000000000000"
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-16"
   },
   "17": {
     "id": 17,
@@ -329,15 +425,21 @@
     "destination": [
       {
         "id": 38,
-        "value": "Bayern",
-        "order": "6.00000000000000000000"
+        "order": "6.00000000000000000000",
+        "label": "Bayern",
+        "lb_id": "lb-place-38",
+        "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
+        "latitude": "49.00000",
+        "longitude": "11.50000",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-17"
   },
   "18": {
     "id": 18,
@@ -349,15 +451,21 @@
     "destination": [
       {
         "id": 38,
-        "value": "Bayern",
-        "order": "6.00000000000000000000"
+        "order": "6.00000000000000000000",
+        "label": "Bayern",
+        "lb_id": "lb-place-38",
+        "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
+        "latitude": "49.00000",
+        "longitude": "11.50000",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-18"
   },
   "19": {
     "id": 19,
@@ -369,15 +477,21 @@
     "destination": [
       {
         "id": 39,
-        "value": "Spanien",
-        "order": "7.00000000000000000000"
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-19"
   },
   "20": {
     "id": 20,
@@ -389,15 +503,21 @@
     "destination": [
       {
         "id": 38,
-        "value": "Bayern",
-        "order": "6.00000000000000000000"
+        "order": "6.00000000000000000000",
+        "label": "Bayern",
+        "lb_id": "lb-place-38",
+        "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
+        "latitude": "49.00000",
+        "longitude": "11.50000",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-20"
   },
   "21": {
     "id": 21,
@@ -409,15 +529,21 @@
     "destination": [
       {
         "id": 39,
-        "value": "Spanien",
-        "order": "7.00000000000000000000"
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-21"
   },
   "22": {
     "id": 22,
@@ -429,15 +555,21 @@
     "destination": [
       {
         "id": 38,
-        "value": "Bayern",
-        "order": "6.00000000000000000000"
+        "order": "6.00000000000000000000",
+        "label": "Bayern",
+        "lb_id": "lb-place-38",
+        "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
+        "latitude": "49.00000",
+        "longitude": "11.50000",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-22"
   },
   "23": {
     "id": 23,
@@ -449,15 +581,21 @@
     "destination": [
       {
         "id": 38,
-        "value": "Bayern",
-        "order": "6.00000000000000000000"
+        "order": "6.00000000000000000000",
+        "label": "Bayern",
+        "lb_id": "lb-place-38",
+        "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
+        "latitude": "49.00000",
+        "longitude": "11.50000",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-23"
   },
   "24": {
     "id": 24,
@@ -469,15 +607,21 @@
     "destination": [
       {
         "id": 39,
-        "value": "Spanien",
-        "order": "7.00000000000000000000"
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-24"
   },
   "25": {
     "id": 25,
@@ -489,15 +633,21 @@
     "destination": [
       {
         "id": 40,
-        "value": "Polen",
-        "order": "8.00000000000000000000"
+        "order": "8.00000000000000000000",
+        "label": "Polen",
+        "lb_id": "lb-place-40",
+        "geonames_url": "https://www.geonames.org/798544/republic-of-poland.html",
+        "latitude": "52.00000",
+        "longitude": "20.00000",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-25"
   },
   "26": {
     "id": 26,
@@ -509,15 +659,21 @@
     "destination": [
       {
         "id": 37,
-        "value": "Mantova",
-        "order": "5.00000000000000000000"
+        "order": "5.00000000000000000000",
+        "label": "Mantova",
+        "lb_id": "lb-place-37",
+        "geonames_url": "https://www.geonames.org/3174051/mantua.html",
+        "latitude": "45.16031",
+        "longitude": "10.79784",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-26"
   },
   "27": {
     "id": 27,
@@ -529,15 +685,21 @@
     "destination": [
       {
         "id": 39,
-        "value": "Spanien",
-        "order": "7.00000000000000000000"
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-27"
   },
   "28": {
     "id": 28,
@@ -549,15 +711,21 @@
     "destination": [
       {
         "id": 39,
-        "value": "Spanien",
-        "order": "7.00000000000000000000"
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-28"
   },
   "29": {
     "id": 29,
@@ -569,15 +737,21 @@
     "destination": [
       {
         "id": 41,
-        "value": "Frankreich",
-        "order": "9.00000000000000000000"
+        "order": "9.00000000000000000000",
+        "label": "Frankreich",
+        "lb_id": "lb-place-41",
+        "geonames_url": "https://www.geonames.org/3017382/republic-of-france.html",
+        "latitude": "46.00000",
+        "longitude": "2.00000",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-29"
   },
   "30": {
     "id": 30,
@@ -589,15 +763,21 @@
     "destination": [
       {
         "id": 41,
-        "value": "Frankreich",
-        "order": "9.00000000000000000000"
+        "order": "9.00000000000000000000",
+        "label": "Frankreich",
+        "lb_id": "lb-place-41",
+        "geonames_url": "https://www.geonames.org/3017382/republic-of-france.html",
+        "latitude": "46.00000",
+        "longitude": "2.00000",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-30"
   },
   "31": {
     "id": 31,
@@ -609,15 +789,21 @@
     "destination": [
       {
         "id": 38,
-        "value": "Bayern",
-        "order": "6.00000000000000000000"
+        "order": "6.00000000000000000000",
+        "label": "Bayern",
+        "lb_id": "lb-place-38",
+        "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
+        "latitude": "49.00000",
+        "longitude": "11.50000",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-31"
   },
   "32": {
     "id": 32,
@@ -629,15 +815,21 @@
     "destination": [
       {
         "id": 39,
-        "value": "Spanien",
-        "order": "7.00000000000000000000"
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-32"
   },
   "33": {
     "id": 33,
@@ -649,15 +841,21 @@
     "destination": [
       {
         "id": 38,
-        "value": "Bayern",
-        "order": "6.00000000000000000000"
+        "order": "6.00000000000000000000",
+        "label": "Bayern",
+        "lb_id": "lb-place-38",
+        "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
+        "latitude": "49.00000",
+        "longitude": "11.50000",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-33"
   },
   "34": {
     "id": 34,
@@ -669,15 +867,21 @@
     "destination": [
       {
         "id": 38,
-        "value": "Bayern",
-        "order": "6.00000000000000000000"
+        "order": "6.00000000000000000000",
+        "label": "Bayern",
+        "lb_id": "lb-place-38",
+        "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
+        "latitude": "49.00000",
+        "longitude": "11.50000",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-34"
   },
   "35": {
     "id": 35,
@@ -689,15 +893,21 @@
     "destination": [
       {
         "id": 39,
-        "value": "Spanien",
-        "order": "7.00000000000000000000"
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-35"
   },
   "36": {
     "id": 36,
@@ -709,15 +919,21 @@
     "destination": [
       {
         "id": 38,
-        "value": "Bayern",
-        "order": "6.00000000000000000000"
+        "order": "6.00000000000000000000",
+        "label": "Bayern",
+        "lb_id": "lb-place-38",
+        "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
+        "latitude": "49.00000",
+        "longitude": "11.50000",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-36"
   },
   "37": {
     "id": 37,
@@ -729,15 +945,21 @@
     "destination": [
       {
         "id": 39,
-        "value": "Spanien",
-        "order": "7.00000000000000000000"
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-37"
   },
   "38": {
     "id": 38,
@@ -749,15 +971,21 @@
     "destination": [
       {
         "id": 38,
-        "value": "Bayern",
-        "order": "6.00000000000000000000"
+        "order": "6.00000000000000000000",
+        "label": "Bayern",
+        "lb_id": "lb-place-38",
+        "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
+        "latitude": "49.00000",
+        "longitude": "11.50000",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-38"
   },
   "39": {
     "id": 39,
@@ -769,15 +997,21 @@
     "destination": [
       {
         "id": 38,
-        "value": "Bayern",
-        "order": "6.00000000000000000000"
+        "order": "6.00000000000000000000",
+        "label": "Bayern",
+        "lb_id": "lb-place-38",
+        "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
+        "latitude": "49.00000",
+        "longitude": "11.50000",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-39"
   },
   "40": {
     "id": 40,
@@ -789,15 +1023,21 @@
     "destination": [
       {
         "id": 39,
-        "value": "Spanien",
-        "order": "7.00000000000000000000"
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-40"
   },
   "41": {
     "id": 41,
@@ -809,15 +1049,21 @@
     "destination": [
       {
         "id": 38,
-        "value": "Bayern",
-        "order": "6.00000000000000000000"
+        "order": "6.00000000000000000000",
+        "label": "Bayern",
+        "lb_id": "lb-place-38",
+        "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
+        "latitude": "49.00000",
+        "longitude": "11.50000",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-41"
   },
   "42": {
     "id": 42,
@@ -829,15 +1075,21 @@
     "destination": [
       {
         "id": 38,
-        "value": "Bayern",
-        "order": "6.00000000000000000000"
+        "order": "6.00000000000000000000",
+        "label": "Bayern",
+        "lb_id": "lb-place-38",
+        "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
+        "latitude": "49.00000",
+        "longitude": "11.50000",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-42"
   },
   "43": {
     "id": 43,
@@ -849,15 +1101,21 @@
     "destination": [
       {
         "id": 38,
-        "value": "Bayern",
-        "order": "6.00000000000000000000"
+        "order": "6.00000000000000000000",
+        "label": "Bayern",
+        "lb_id": "lb-place-38",
+        "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
+        "latitude": "49.00000",
+        "longitude": "11.50000",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-43"
   },
   "44": {
     "id": 44,
@@ -869,15 +1127,21 @@
     "destination": [
       {
         "id": 39,
-        "value": "Spanien",
-        "order": "7.00000000000000000000"
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-44"
   },
   "45": {
     "id": 45,
@@ -889,15 +1153,21 @@
     "destination": [
       {
         "id": 38,
-        "value": "Bayern",
-        "order": "6.00000000000000000000"
+        "order": "6.00000000000000000000",
+        "label": "Bayern",
+        "lb_id": "lb-place-38",
+        "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
+        "latitude": "49.00000",
+        "longitude": "11.50000",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-45"
   },
   "46": {
     "id": 46,
@@ -909,15 +1179,21 @@
     "destination": [
       {
         "id": 38,
-        "value": "Bayern",
-        "order": "6.00000000000000000000"
+        "order": "6.00000000000000000000",
+        "label": "Bayern",
+        "lb_id": "lb-place-38",
+        "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
+        "latitude": "49.00000",
+        "longitude": "11.50000",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-46"
   },
   "47": {
     "id": 47,
@@ -929,15 +1205,21 @@
     "destination": [
       {
         "id": 38,
-        "value": "Bayern",
-        "order": "6.00000000000000000000"
+        "order": "6.00000000000000000000",
+        "label": "Bayern",
+        "lb_id": "lb-place-38",
+        "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
+        "latitude": "49.00000",
+        "longitude": "11.50000",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-47"
   },
   "48": {
     "id": 48,
@@ -949,8 +1231,13 @@
     "destination": [
       {
         "id": 39,
-        "value": "Spanien",
-        "order": "7.00000000000000000000"
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
@@ -963,7 +1250,8 @@
         "order": "36.88888888888888573092"
       }
     ],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-48"
   },
   "49": {
     "id": 49,
@@ -975,8 +1263,13 @@
     "destination": [
       {
         "id": 39,
-        "value": "Spanien",
-        "order": "7.00000000000000000000"
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
@@ -984,12 +1277,36 @@
     "addressee_worked_out": [
       {
         "id": 75,
-        "value": "Maria Anna (Mariana) von Österreuch",
-        "order": "11.00000000000000000000"
+        "order": "11.00000000000000000000",
+        "label": "Maria Anna (Mariana) von Österreuch",
+        "lb_id": "lb-person-75",
+        "gnd_url": "https://d-nb.info/gnd/118781863",
+        "place_of_birth": [
+          {
+            "id": 144,
+            "value": "Wiener Neustadt",
+            "order": "22.00000000000000000000"
+          }
+        ],
+        "date_of_birth": "1634-12-22",
+        "place_of_death": [
+          {
+            "id": 72,
+            "value": "Madrid",
+            "order": "14.00000000000000000000"
+          }
+        ],
+        "date_of_death": "1696-05-16",
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": null,
+        "last_name": "Maria Anna",
+        "maiden_name": null
       }
     ],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-49"
   },
   "50": {
     "id": 50,
@@ -1001,15 +1318,21 @@
     "destination": [
       {
         "id": 1,
-        "value": "Wien",
-        "order": "1.00000000000000000000"
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-50"
   },
   "51": {
     "id": 51,
@@ -1021,15 +1344,21 @@
     "destination": [
       {
         "id": 37,
-        "value": "Mantova",
-        "order": "5.00000000000000000000"
+        "order": "5.00000000000000000000",
+        "label": "Mantova",
+        "lb_id": "lb-place-37",
+        "geonames_url": "https://www.geonames.org/3174051/mantua.html",
+        "latitude": "45.16031",
+        "longitude": "10.79784",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-51"
   },
   "52": {
     "id": 52,
@@ -1041,15 +1370,21 @@
     "destination": [
       {
         "id": 142,
-        "value": "Sachsen",
-        "order": "20.00000000000000000000"
+        "order": "20.00000000000000000000",
+        "label": "Sachsen",
+        "lb_id": "lb-place-142",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-52"
   },
   "53": {
     "id": 53,
@@ -1061,15 +1396,21 @@
     "destination": [
       {
         "id": 36,
-        "value": "München",
-        "order": "4.00000000000000000000"
+        "order": "4.00000000000000000000",
+        "label": "München",
+        "lb_id": "lb-place-36",
+        "geonames_url": "https://www.geonames.org/2867714/munich.html",
+        "latitude": "48.13743",
+        "longitude": "11.57549",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-53"
   },
   "54": {
     "id": 54,
@@ -1081,15 +1422,21 @@
     "destination": [
       {
         "id": 1,
-        "value": "Wien",
-        "order": "1.00000000000000000000"
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-54"
   },
   "55": {
     "id": 55,
@@ -1101,15 +1448,21 @@
     "destination": [
       {
         "id": 1,
-        "value": "Wien",
-        "order": "1.00000000000000000000"
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-55"
   },
   "56": {
     "id": 56,
@@ -1121,15 +1474,21 @@
     "destination": [
       {
         "id": 1,
-        "value": "Wien",
-        "order": "1.00000000000000000000"
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-56"
   },
   "57": {
     "id": 57,
@@ -1141,15 +1500,21 @@
     "destination": [
       {
         "id": 1,
-        "value": "Wien",
-        "order": "1.00000000000000000000"
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-57"
   },
   "58": {
     "id": 58,
@@ -1161,15 +1526,21 @@
     "destination": [
       {
         "id": 1,
-        "value": "Wien",
-        "order": "1.00000000000000000000"
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-58"
   },
   "59": {
     "id": 59,
@@ -1181,15 +1552,21 @@
     "destination": [
       {
         "id": 38,
-        "value": "Bayern",
-        "order": "6.00000000000000000000"
+        "order": "6.00000000000000000000",
+        "label": "Bayern",
+        "lb_id": "lb-place-38",
+        "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
+        "latitude": "49.00000",
+        "longitude": "11.50000",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-59"
   },
   "60": {
     "id": 60,
@@ -1201,15 +1578,21 @@
     "destination": [
       {
         "id": 1,
-        "value": "Wien",
-        "order": "1.00000000000000000000"
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-60"
   },
   "61": {
     "id": 61,
@@ -1221,8 +1604,13 @@
     "destination": [
       {
         "id": 39,
-        "value": "Spanien",
-        "order": "7.00000000000000000000"
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
@@ -1235,7 +1623,8 @@
         "order": "36.89999999999999857891"
       }
     ],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-61"
   },
   "62": {
     "id": 62,
@@ -1247,15 +1636,21 @@
     "destination": [
       {
         "id": 39,
-        "value": "Spanien",
-        "order": "7.00000000000000000000"
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-62"
   },
   "63": {
     "id": 63,
@@ -1267,15 +1662,21 @@
     "destination": [
       {
         "id": 39,
-        "value": "Spanien",
-        "order": "7.00000000000000000000"
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-63"
   },
   "64": {
     "id": 64,
@@ -1287,15 +1688,21 @@
     "destination": [
       {
         "id": 1,
-        "value": "Wien",
-        "order": "1.00000000000000000000"
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-64"
   },
   "65": {
     "id": 65,
@@ -1307,15 +1714,21 @@
     "destination": [
       {
         "id": 1,
-        "value": "Wien",
-        "order": "1.00000000000000000000"
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-65"
   },
   "66": {
     "id": 66,
@@ -1327,8 +1740,13 @@
     "destination": [
       {
         "id": 39,
-        "value": "Spanien",
-        "order": "7.00000000000000000000"
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
@@ -1341,7 +1759,8 @@
         "order": "36.90909090909090650712"
       }
     ],
-    "correct_date": "1657-08-10"
+    "correct_date": "1657-08-10",
+    "lb-id": "lb-ml-66"
   },
   "67": {
     "id": 67,
@@ -1353,15 +1772,21 @@
     "destination": [
       {
         "id": 39,
-        "value": "Spanien",
-        "order": "7.00000000000000000000"
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-67"
   },
   "68": {
     "id": 68,
@@ -1373,15 +1798,21 @@
     "destination": [
       {
         "id": 1,
-        "value": "Wien",
-        "order": "1.00000000000000000000"
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-68"
   },
   "69": {
     "id": 69,
@@ -1393,15 +1824,21 @@
     "destination": [
       {
         "id": 1,
-        "value": "Wien",
-        "order": "1.00000000000000000000"
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-69"
   },
   "70": {
     "id": 70,
@@ -1413,15 +1850,21 @@
     "destination": [
       {
         "id": 38,
-        "value": "Bayern",
-        "order": "6.00000000000000000000"
+        "order": "6.00000000000000000000",
+        "label": "Bayern",
+        "lb_id": "lb-place-38",
+        "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
+        "latitude": "49.00000",
+        "longitude": "11.50000",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-70"
   },
   "71": {
     "id": 71,
@@ -1433,15 +1876,21 @@
     "destination": [
       {
         "id": 1,
-        "value": "Wien",
-        "order": "1.00000000000000000000"
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-71"
   },
   "72": {
     "id": 72,
@@ -1453,15 +1902,21 @@
     "destination": [
       {
         "id": 1,
-        "value": "Wien",
-        "order": "1.00000000000000000000"
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-72"
   },
   "73": {
     "id": 73,
@@ -1473,15 +1928,21 @@
     "destination": [
       {
         "id": 38,
-        "value": "Bayern",
-        "order": "6.00000000000000000000"
+        "order": "6.00000000000000000000",
+        "label": "Bayern",
+        "lb_id": "lb-place-38",
+        "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
+        "latitude": "49.00000",
+        "longitude": "11.50000",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-73"
   },
   "74": {
     "id": 74,
@@ -1493,8 +1954,13 @@
     "destination": [
       {
         "id": 39,
-        "value": "Spanien",
-        "order": "7.00000000000000000000"
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
@@ -1507,7 +1973,8 @@
         "order": "36.91666666666666429819"
       }
     ],
-    "correct_date": "1657-08-23"
+    "correct_date": "1657-08-23",
+    "lb-id": "lb-ml-74"
   },
   "75": {
     "id": 75,
@@ -1519,8 +1986,13 @@
     "destination": [
       {
         "id": 39,
-        "value": "Spanien",
-        "order": "7.00000000000000000000"
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
@@ -1528,12 +2000,36 @@
     "addressee_worked_out": [
       {
         "id": 75,
-        "value": "Maria Anna (Mariana) von Österreuch",
-        "order": "11.00000000000000000000"
+        "order": "11.00000000000000000000",
+        "label": "Maria Anna (Mariana) von Österreuch",
+        "lb_id": "lb-person-75",
+        "gnd_url": "https://d-nb.info/gnd/118781863",
+        "place_of_birth": [
+          {
+            "id": 144,
+            "value": "Wiener Neustadt",
+            "order": "22.00000000000000000000"
+          }
+        ],
+        "date_of_birth": "1634-12-22",
+        "place_of_death": [
+          {
+            "id": 72,
+            "value": "Madrid",
+            "order": "14.00000000000000000000"
+          }
+        ],
+        "date_of_death": "1696-05-16",
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": null,
+        "last_name": "Maria Anna",
+        "maiden_name": null
       }
     ],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-75"
   },
   "76": {
     "id": 76,
@@ -1545,15 +2041,21 @@
     "destination": [
       {
         "id": 1,
-        "value": "Wien",
-        "order": "1.00000000000000000000"
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-76"
   },
   "77": {
     "id": 77,
@@ -1565,15 +2067,21 @@
     "destination": [
       {
         "id": 39,
-        "value": "Spanien",
-        "order": "7.00000000000000000000"
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-77"
   },
   "78": {
     "id": 78,
@@ -1585,15 +2093,21 @@
     "destination": [
       {
         "id": 39,
-        "value": "Spanien",
-        "order": "7.00000000000000000000"
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-78"
   },
   "79": {
     "id": 79,
@@ -1605,15 +2119,21 @@
     "destination": [
       {
         "id": 39,
-        "value": "Spanien",
-        "order": "7.00000000000000000000"
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-79"
   },
   "80": {
     "id": 80,
@@ -1625,15 +2145,21 @@
     "destination": [
       {
         "id": 1,
-        "value": "Wien",
-        "order": "1.00000000000000000000"
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-80"
   },
   "81": {
     "id": 81,
@@ -1645,15 +2171,21 @@
     "destination": [
       {
         "id": 1,
-        "value": "Wien",
-        "order": "1.00000000000000000000"
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-81"
   },
   "82": {
     "id": 82,
@@ -1665,15 +2197,21 @@
     "destination": [
       {
         "id": 1,
-        "value": "Wien",
-        "order": "1.00000000000000000000"
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-82"
   },
   "83": {
     "id": 83,
@@ -1685,15 +2223,21 @@
     "destination": [
       {
         "id": 38,
-        "value": "Bayern",
-        "order": "6.00000000000000000000"
+        "order": "6.00000000000000000000",
+        "label": "Bayern",
+        "lb_id": "lb-place-38",
+        "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
+        "latitude": "49.00000",
+        "longitude": "11.50000",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-83"
   },
   "84": {
     "id": 84,
@@ -1705,15 +2249,21 @@
     "destination": [
       {
         "id": 38,
-        "value": "Bayern",
-        "order": "6.00000000000000000000"
+        "order": "6.00000000000000000000",
+        "label": "Bayern",
+        "lb_id": "lb-place-38",
+        "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
+        "latitude": "49.00000",
+        "longitude": "11.50000",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-84"
   },
   "85": {
     "id": 85,
@@ -1725,15 +2275,21 @@
     "destination": [
       {
         "id": 1,
-        "value": "Wien",
-        "order": "1.00000000000000000000"
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-85"
   },
   "86": {
     "id": 86,
@@ -1745,15 +2301,21 @@
     "destination": [
       {
         "id": 38,
-        "value": "Bayern",
-        "order": "6.00000000000000000000"
+        "order": "6.00000000000000000000",
+        "label": "Bayern",
+        "lb_id": "lb-place-38",
+        "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
+        "latitude": "49.00000",
+        "longitude": "11.50000",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-86"
   },
   "87": {
     "id": 87,
@@ -1765,15 +2327,21 @@
     "destination": [
       {
         "id": 38,
-        "value": "Bayern",
-        "order": "6.00000000000000000000"
+        "order": "6.00000000000000000000",
+        "label": "Bayern",
+        "lb_id": "lb-place-38",
+        "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
+        "latitude": "49.00000",
+        "longitude": "11.50000",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-87"
   },
   "88": {
     "id": 88,
@@ -1785,15 +2353,21 @@
     "destination": [
       {
         "id": 1,
-        "value": "Wien",
-        "order": "1.00000000000000000000"
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-88"
   },
   "89": {
     "id": 89,
@@ -1805,8 +2379,13 @@
     "destination": [
       {
         "id": 39,
-        "value": "Spanien",
-        "order": "7.00000000000000000000"
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
@@ -1819,7 +2398,8 @@
         "order": "36.92857142857143060155"
       }
     ],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-89"
   },
   "90": {
     "id": 90,
@@ -1831,8 +2411,13 @@
     "destination": [
       {
         "id": 39,
-        "value": "Spanien",
-        "order": "7.00000000000000000000"
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
@@ -1840,12 +2425,36 @@
     "addressee_worked_out": [
       {
         "id": 75,
-        "value": "Maria Anna (Mariana) von Österreuch",
-        "order": "11.00000000000000000000"
+        "order": "11.00000000000000000000",
+        "label": "Maria Anna (Mariana) von Österreuch",
+        "lb_id": "lb-person-75",
+        "gnd_url": "https://d-nb.info/gnd/118781863",
+        "place_of_birth": [
+          {
+            "id": 144,
+            "value": "Wiener Neustadt",
+            "order": "22.00000000000000000000"
+          }
+        ],
+        "date_of_birth": "1634-12-22",
+        "place_of_death": [
+          {
+            "id": 72,
+            "value": "Madrid",
+            "order": "14.00000000000000000000"
+          }
+        ],
+        "date_of_death": "1696-05-16",
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": null,
+        "last_name": "Maria Anna",
+        "maiden_name": null
       }
     ],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-90"
   },
   "91": {
     "id": 91,
@@ -1857,15 +2466,21 @@
     "destination": [
       {
         "id": 1,
-        "value": "Wien",
-        "order": "1.00000000000000000000"
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-91"
   },
   "92": {
     "id": 92,
@@ -1877,15 +2492,21 @@
     "destination": [
       {
         "id": 1,
-        "value": "Wien",
-        "order": "1.00000000000000000000"
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-92"
   },
   "93": {
     "id": 93,
@@ -1897,15 +2518,21 @@
     "destination": [
       {
         "id": 36,
-        "value": "München",
-        "order": "4.00000000000000000000"
+        "order": "4.00000000000000000000",
+        "label": "München",
+        "lb_id": "lb-place-36",
+        "geonames_url": "https://www.geonames.org/2867714/munich.html",
+        "latitude": "48.13743",
+        "longitude": "11.57549",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-93"
   },
   "94": {
     "id": 94,
@@ -1917,15 +2544,21 @@
     "destination": [
       {
         "id": 1,
-        "value": "Wien",
-        "order": "1.00000000000000000000"
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-94"
   },
   "95": {
     "id": 95,
@@ -1937,15 +2570,21 @@
     "destination": [
       {
         "id": 1,
-        "value": "Wien",
-        "order": "1.00000000000000000000"
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-95"
   },
   "96": {
     "id": 96,
@@ -1957,15 +2596,21 @@
     "destination": [
       {
         "id": 38,
-        "value": "Bayern",
-        "order": "6.00000000000000000000"
+        "order": "6.00000000000000000000",
+        "label": "Bayern",
+        "lb_id": "lb-place-38",
+        "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
+        "latitude": "49.00000",
+        "longitude": "11.50000",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-96"
   },
   "97": {
     "id": 97,
@@ -1977,15 +2622,21 @@
     "destination": [
       {
         "id": 1,
-        "value": "Wien",
-        "order": "1.00000000000000000000"
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-97"
   },
   "98": {
     "id": 98,
@@ -1997,15 +2648,21 @@
     "destination": [
       {
         "id": 1,
-        "value": "Wien",
-        "order": "1.00000000000000000000"
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-98"
   },
   "99": {
     "id": 99,
@@ -2017,15 +2674,21 @@
     "destination": [
       {
         "id": 38,
-        "value": "Bayern",
-        "order": "6.00000000000000000000"
+        "order": "6.00000000000000000000",
+        "label": "Bayern",
+        "lb_id": "lb-place-38",
+        "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
+        "latitude": "49.00000",
+        "longitude": "11.50000",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-99"
   },
   "100": {
     "id": 100,
@@ -2037,15 +2700,21 @@
     "destination": [
       {
         "id": 1,
-        "value": "Wien",
-        "order": "1.00000000000000000000"
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-100"
   },
   "101": {
     "id": 101,
@@ -2057,15 +2726,21 @@
     "destination": [
       {
         "id": 1,
-        "value": "Wien",
-        "order": "1.00000000000000000000"
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-101"
   },
   "102": {
     "id": 102,
@@ -2077,15 +2752,21 @@
     "destination": [
       {
         "id": 37,
-        "value": "Mantova",
-        "order": "5.00000000000000000000"
+        "order": "5.00000000000000000000",
+        "label": "Mantova",
+        "lb_id": "lb-place-37",
+        "geonames_url": "https://www.geonames.org/3174051/mantua.html",
+        "latitude": "45.16031",
+        "longitude": "10.79784",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-102"
   },
   "103": {
     "id": 103,
@@ -2097,15 +2778,21 @@
     "destination": [
       {
         "id": 1,
-        "value": "Wien",
-        "order": "1.00000000000000000000"
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-103"
   },
   "104": {
     "id": 104,
@@ -2117,15 +2804,21 @@
     "destination": [
       {
         "id": 38,
-        "value": "Bayern",
-        "order": "6.00000000000000000000"
+        "order": "6.00000000000000000000",
+        "label": "Bayern",
+        "lb_id": "lb-place-38",
+        "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
+        "latitude": "49.00000",
+        "longitude": "11.50000",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-104"
   },
   "105": {
     "id": 105,
@@ -2137,15 +2830,21 @@
     "destination": [
       {
         "id": 1,
-        "value": "Wien",
-        "order": "1.00000000000000000000"
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-105"
   },
   "106": {
     "id": 106,
@@ -2157,15 +2856,21 @@
     "destination": [
       {
         "id": 38,
-        "value": "Bayern",
-        "order": "6.00000000000000000000"
+        "order": "6.00000000000000000000",
+        "label": "Bayern",
+        "lb_id": "lb-place-38",
+        "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
+        "latitude": "49.00000",
+        "longitude": "11.50000",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-106"
   },
   "107": {
     "id": 107,
@@ -2177,15 +2882,21 @@
     "destination": [
       {
         "id": 1,
-        "value": "Wien",
-        "order": "1.00000000000000000000"
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-107"
   },
   "108": {
     "id": 108,
@@ -2197,15 +2908,21 @@
     "destination": [
       {
         "id": 1,
-        "value": "Wien",
-        "order": "1.00000000000000000000"
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-108"
   },
   "109": {
     "id": 109,
@@ -2217,15 +2934,21 @@
     "destination": [
       {
         "id": 1,
-        "value": "Wien",
-        "order": "1.00000000000000000000"
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-109"
   },
   "110": {
     "id": 110,
@@ -2237,15 +2960,21 @@
     "destination": [
       {
         "id": 1,
-        "value": "Wien",
-        "order": "1.00000000000000000000"
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-110"
   },
   "111": {
     "id": 111,
@@ -2257,15 +2986,21 @@
     "destination": [
       {
         "id": 39,
-        "value": "Spanien",
-        "order": "7.00000000000000000000"
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-111"
   },
   "112": {
     "id": 112,
@@ -2277,15 +3012,21 @@
     "destination": [
       {
         "id": 39,
-        "value": "Spanien",
-        "order": "7.00000000000000000000"
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-112"
   },
   "113": {
     "id": 113,
@@ -2297,15 +3038,21 @@
     "destination": [
       {
         "id": 38,
-        "value": "Bayern",
-        "order": "6.00000000000000000000"
+        "order": "6.00000000000000000000",
+        "label": "Bayern",
+        "lb_id": "lb-place-38",
+        "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
+        "latitude": "49.00000",
+        "longitude": "11.50000",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-113"
   },
   "114": {
     "id": 114,
@@ -2317,15 +3064,21 @@
     "destination": [
       {
         "id": 1,
-        "value": "Wien",
-        "order": "1.00000000000000000000"
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-114"
   },
   "115": {
     "id": 115,
@@ -2337,15 +3090,21 @@
     "destination": [
       {
         "id": 1,
-        "value": "Wien",
-        "order": "1.00000000000000000000"
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-115"
   },
   "116": {
     "id": 116,
@@ -2357,15 +3116,21 @@
     "destination": [
       {
         "id": 1,
-        "value": "Wien",
-        "order": "1.00000000000000000000"
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-116"
   },
   "117": {
     "id": 117,
@@ -2377,15 +3142,21 @@
     "destination": [
       {
         "id": 1,
-        "value": "Wien",
-        "order": "1.00000000000000000000"
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-117"
   },
   "118": {
     "id": 118,
@@ -2397,15 +3168,21 @@
     "destination": [
       {
         "id": 1,
-        "value": "Wien",
-        "order": "1.00000000000000000000"
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-118"
   },
   "119": {
     "id": 119,
@@ -2417,15 +3194,21 @@
     "destination": [
       {
         "id": 1,
-        "value": "Wien",
-        "order": "1.00000000000000000000"
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-119"
   },
   "120": {
     "id": 120,
@@ -2437,15 +3220,21 @@
     "destination": [
       {
         "id": 1,
-        "value": "Wien",
-        "order": "1.00000000000000000000"
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-120"
   },
   "121": {
     "id": 121,
@@ -2457,15 +3246,21 @@
     "destination": [
       {
         "id": 1,
-        "value": "Wien",
-        "order": "1.00000000000000000000"
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-121"
   },
   "122": {
     "id": 122,
@@ -2477,15 +3272,21 @@
     "destination": [
       {
         "id": 1,
-        "value": "Wien",
-        "order": "1.00000000000000000000"
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-122"
   },
   "123": {
     "id": 123,
@@ -2497,15 +3298,21 @@
     "destination": [
       {
         "id": 38,
-        "value": "Bayern",
-        "order": "6.00000000000000000000"
+        "order": "6.00000000000000000000",
+        "label": "Bayern",
+        "lb_id": "lb-place-38",
+        "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
+        "latitude": "49.00000",
+        "longitude": "11.50000",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-123"
   },
   "124": {
     "id": 124,
@@ -2517,15 +3324,21 @@
     "destination": [
       {
         "id": 1,
-        "value": "Wien",
-        "order": "1.00000000000000000000"
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-124"
   },
   "125": {
     "id": 125,
@@ -2537,15 +3350,21 @@
     "destination": [
       {
         "id": 1,
-        "value": "Wien",
-        "order": "1.00000000000000000000"
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-125"
   },
   "126": {
     "id": 126,
@@ -2557,15 +3376,21 @@
     "destination": [
       {
         "id": 1,
-        "value": "Wien",
-        "order": "1.00000000000000000000"
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-126"
   },
   "127": {
     "id": 127,
@@ -2577,15 +3402,21 @@
     "destination": [
       {
         "id": 1,
-        "value": "Wien",
-        "order": "1.00000000000000000000"
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-127"
   },
   "128": {
     "id": 128,
@@ -2597,15 +3428,21 @@
     "destination": [
       {
         "id": 39,
-        "value": "Spanien",
-        "order": "7.00000000000000000000"
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-128"
   },
   "129": {
     "id": 129,
@@ -2617,15 +3454,21 @@
     "destination": [
       {
         "id": 39,
-        "value": "Spanien",
-        "order": "7.00000000000000000000"
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-129"
   },
   "130": {
     "id": 130,
@@ -2637,15 +3480,21 @@
     "destination": [
       {
         "id": 38,
-        "value": "Bayern",
-        "order": "6.00000000000000000000"
+        "order": "6.00000000000000000000",
+        "label": "Bayern",
+        "lb_id": "lb-place-38",
+        "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
+        "latitude": "49.00000",
+        "longitude": "11.50000",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-130"
   },
   "131": {
     "id": 131,
@@ -2657,15 +3506,21 @@
     "destination": [
       {
         "id": 1,
-        "value": "Wien",
-        "order": "1.00000000000000000000"
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-131"
   },
   "132": {
     "id": 132,
@@ -2677,15 +3532,21 @@
     "destination": [
       {
         "id": 39,
-        "value": "Spanien",
-        "order": "7.00000000000000000000"
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-132"
   },
   "133": {
     "id": 133,
@@ -2697,8 +3558,13 @@
     "destination": [
       {
         "id": 39,
-        "value": "Spanien",
-        "order": "7.00000000000000000000"
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
@@ -2706,12 +3572,36 @@
     "addressee_worked_out": [
       {
         "id": 75,
-        "value": "Maria Anna (Mariana) von Österreuch",
-        "order": "11.00000000000000000000"
+        "order": "11.00000000000000000000",
+        "label": "Maria Anna (Mariana) von Österreuch",
+        "lb_id": "lb-person-75",
+        "gnd_url": "https://d-nb.info/gnd/118781863",
+        "place_of_birth": [
+          {
+            "id": 144,
+            "value": "Wiener Neustadt",
+            "order": "22.00000000000000000000"
+          }
+        ],
+        "date_of_birth": "1634-12-22",
+        "place_of_death": [
+          {
+            "id": 72,
+            "value": "Madrid",
+            "order": "14.00000000000000000000"
+          }
+        ],
+        "date_of_death": "1696-05-16",
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": null,
+        "last_name": "Maria Anna",
+        "maiden_name": null
       }
     ],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-133"
   },
   "134": {
     "id": 134,
@@ -2723,15 +3613,21 @@
     "destination": [
       {
         "id": 1,
-        "value": "Wien",
-        "order": "1.00000000000000000000"
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-134"
   },
   "135": {
     "id": 135,
@@ -2743,15 +3639,21 @@
     "destination": [
       {
         "id": 1,
-        "value": "Wien",
-        "order": "1.00000000000000000000"
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-135"
   },
   "136": {
     "id": 136,
@@ -2763,15 +3665,21 @@
     "destination": [
       {
         "id": 38,
-        "value": "Bayern",
-        "order": "6.00000000000000000000"
+        "order": "6.00000000000000000000",
+        "label": "Bayern",
+        "lb_id": "lb-place-38",
+        "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
+        "latitude": "49.00000",
+        "longitude": "11.50000",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-136"
   },
   "137": {
     "id": 137,
@@ -2783,15 +3691,21 @@
     "destination": [
       {
         "id": 1,
-        "value": "Wien",
-        "order": "1.00000000000000000000"
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-137"
   },
   "138": {
     "id": 138,
@@ -2803,15 +3717,21 @@
     "destination": [
       {
         "id": 38,
-        "value": "Bayern",
-        "order": "6.00000000000000000000"
+        "order": "6.00000000000000000000",
+        "label": "Bayern",
+        "lb_id": "lb-place-38",
+        "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
+        "latitude": "49.00000",
+        "longitude": "11.50000",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-138"
   },
   "139": {
     "id": 139,
@@ -2823,15 +3743,21 @@
     "destination": [
       {
         "id": 1,
-        "value": "Wien",
-        "order": "1.00000000000000000000"
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-139"
   },
   "140": {
     "id": 140,
@@ -2843,15 +3769,21 @@
     "destination": [
       {
         "id": 38,
-        "value": "Bayern",
-        "order": "6.00000000000000000000"
+        "order": "6.00000000000000000000",
+        "label": "Bayern",
+        "lb_id": "lb-place-38",
+        "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
+        "latitude": "49.00000",
+        "longitude": "11.50000",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-140"
   },
   "141": {
     "id": 141,
@@ -2863,15 +3795,21 @@
     "destination": [
       {
         "id": 1,
-        "value": "Wien",
-        "order": "1.00000000000000000000"
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-141"
   },
   "142": {
     "id": 142,
@@ -2883,15 +3821,21 @@
     "destination": [
       {
         "id": 1,
-        "value": "Wien",
-        "order": "1.00000000000000000000"
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-142"
   },
   "143": {
     "id": 143,
@@ -2903,15 +3847,21 @@
     "destination": [
       {
         "id": 38,
-        "value": "Bayern",
-        "order": "6.00000000000000000000"
+        "order": "6.00000000000000000000",
+        "label": "Bayern",
+        "lb_id": "lb-place-38",
+        "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
+        "latitude": "49.00000",
+        "longitude": "11.50000",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-143"
   },
   "144": {
     "id": 144,
@@ -2923,15 +3873,21 @@
     "destination": [
       {
         "id": 1,
-        "value": "Wien",
-        "order": "1.00000000000000000000"
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-144"
   },
   "145": {
     "id": 145,
@@ -2943,15 +3899,21 @@
     "destination": [
       {
         "id": 1,
-        "value": "Wien",
-        "order": "1.00000000000000000000"
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-145"
   },
   "146": {
     "id": 146,
@@ -2963,15 +3925,21 @@
     "destination": [
       {
         "id": 1,
-        "value": "Wien",
-        "order": "1.00000000000000000000"
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-146"
   },
   "147": {
     "id": 147,
@@ -2983,15 +3951,21 @@
     "destination": [
       {
         "id": 1,
-        "value": "Wien",
-        "order": "1.00000000000000000000"
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-147"
   },
   "148": {
     "id": 148,
@@ -3003,15 +3977,21 @@
     "destination": [
       {
         "id": 1,
-        "value": "Wien",
-        "order": "1.00000000000000000000"
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-148"
   },
   "149": {
     "id": 149,
@@ -3023,15 +4003,21 @@
     "destination": [
       {
         "id": 36,
-        "value": "München",
-        "order": "4.00000000000000000000"
+        "order": "4.00000000000000000000",
+        "label": "München",
+        "lb_id": "lb-place-36",
+        "geonames_url": "https://www.geonames.org/2867714/munich.html",
+        "latitude": "48.13743",
+        "longitude": "11.57549",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-149"
   },
   "150": {
     "id": 150,
@@ -3043,15 +4029,21 @@
     "destination": [
       {
         "id": 1,
-        "value": "Wien",
-        "order": "1.00000000000000000000"
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-150"
   },
   "151": {
     "id": 151,
@@ -3063,15 +4055,21 @@
     "destination": [
       {
         "id": 39,
-        "value": "Spanien",
-        "order": "7.00000000000000000000"
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": "Das Schreiben datiert vom 19. Dezember.",
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": "1657-12-19"
+    "correct_date": "1657-12-19",
+    "lb-id": "lb-ml-151"
   },
   "152": {
     "id": 152,
@@ -3083,15 +4081,21 @@
     "destination": [
       {
         "id": 39,
-        "value": "Spanien",
-        "order": "7.00000000000000000000"
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": "Das Schreiben datiert vom 19. Dezember.",
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": "1657-12-19"
+    "correct_date": "1657-12-19",
+    "lb-id": "lb-ml-152"
   },
   "153": {
     "id": 153,
@@ -3103,15 +4107,21 @@
     "destination": [
       {
         "id": 39,
-        "value": "Spanien",
-        "order": "7.00000000000000000000"
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-153"
   },
   "154": {
     "id": 154,
@@ -3123,15 +4133,21 @@
     "destination": [
       {
         "id": 1,
-        "value": "Wien",
-        "order": "1.00000000000000000000"
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-154"
   },
   "155": {
     "id": 155,
@@ -3143,15 +4159,21 @@
     "destination": [
       {
         "id": 1,
-        "value": "Wien",
-        "order": "1.00000000000000000000"
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-155"
   },
   "156": {
     "id": 156,
@@ -3163,15 +4185,21 @@
     "destination": [
       {
         "id": 1,
-        "value": "Wien",
-        "order": "1.00000000000000000000"
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-156"
   },
   "157": {
     "id": 157,
@@ -3183,15 +4211,21 @@
     "destination": [
       {
         "id": 36,
-        "value": "München",
-        "order": "4.00000000000000000000"
+        "order": "4.00000000000000000000",
+        "label": "München",
+        "lb_id": "lb-place-36",
+        "geonames_url": "https://www.geonames.org/2867714/munich.html",
+        "latitude": "48.13743",
+        "longitude": "11.57549",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-157"
   },
   "158": {
     "id": 158,
@@ -3203,15 +4237,21 @@
     "destination": [
       {
         "id": 1,
-        "value": "Wien",
-        "order": "1.00000000000000000000"
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-158"
   },
   "159": {
     "id": 159,
@@ -3223,15 +4263,21 @@
     "destination": [
       {
         "id": 39,
-        "value": "Spanien",
-        "order": "7.00000000000000000000"
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-159"
   },
   "160": {
     "id": 160,
@@ -3243,8 +4289,13 @@
     "destination": [
       {
         "id": 39,
-        "value": "Spanien",
-        "order": "7.00000000000000000000"
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
@@ -3252,12 +4303,36 @@
     "addressee_worked_out": [
       {
         "id": 76,
-        "value": "Philipp IV.",
-        "order": "12.00000000000000000000"
+        "order": "12.00000000000000000000",
+        "label": "Philipp IV.",
+        "lb_id": "lb-person-76",
+        "gnd_url": "https://d-nb.info/gnd/118593870",
+        "place_of_birth": [
+          {
+            "id": 145,
+            "value": "Valladolid",
+            "order": "23.00000000000000000000"
+          }
+        ],
+        "date_of_birth": "1605-04-08",
+        "place_of_death": [
+          {
+            "id": 72,
+            "value": "Madrid",
+            "order": "14.00000000000000000000"
+          }
+        ],
+        "date_of_death": "1665-09-17",
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": null,
+        "last_name": "Philipp IV.",
+        "maiden_name": null
       }
     ],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-160"
   },
   "161": {
     "id": 161,
@@ -3269,8 +4344,13 @@
     "destination": [
       {
         "id": 39,
-        "value": "Spanien",
-        "order": "7.00000000000000000000"
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
@@ -3278,12 +4358,36 @@
     "addressee_worked_out": [
       {
         "id": 75,
-        "value": "Maria Anna (Mariana) von Österreuch",
-        "order": "11.00000000000000000000"
+        "order": "11.00000000000000000000",
+        "label": "Maria Anna (Mariana) von Österreuch",
+        "lb_id": "lb-person-75",
+        "gnd_url": "https://d-nb.info/gnd/118781863",
+        "place_of_birth": [
+          {
+            "id": 144,
+            "value": "Wiener Neustadt",
+            "order": "22.00000000000000000000"
+          }
+        ],
+        "date_of_birth": "1634-12-22",
+        "place_of_death": [
+          {
+            "id": 72,
+            "value": "Madrid",
+            "order": "14.00000000000000000000"
+          }
+        ],
+        "date_of_death": "1696-05-16",
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": null,
+        "last_name": "Maria Anna",
+        "maiden_name": null
       }
     ],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-161"
   },
   "162": {
     "id": 162,
@@ -3295,15 +4399,21 @@
     "destination": [
       {
         "id": 39,
-        "value": "Spanien",
-        "order": "7.00000000000000000000"
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-162"
   },
   "164": {
     "id": 164,
@@ -3315,15 +4425,21 @@
     "destination": [
       {
         "id": 38,
-        "value": "Bayern",
-        "order": "6.00000000000000000000"
+        "order": "6.00000000000000000000",
+        "label": "Bayern",
+        "lb_id": "lb-place-38",
+        "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
+        "latitude": "49.00000",
+        "longitude": "11.50000",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-164"
   },
   "165": {
     "id": 165,
@@ -3335,15 +4451,21 @@
     "destination": [
       {
         "id": 38,
-        "value": "Bayern",
-        "order": "6.00000000000000000000"
+        "order": "6.00000000000000000000",
+        "label": "Bayern",
+        "lb_id": "lb-place-38",
+        "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
+        "latitude": "49.00000",
+        "longitude": "11.50000",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-165"
   },
   "166": {
     "id": 166,
@@ -3355,15 +4477,21 @@
     "destination": [
       {
         "id": 1,
-        "value": "Wien",
-        "order": "1.00000000000000000000"
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-166"
   },
   "167": {
     "id": 167,
@@ -3375,15 +4503,21 @@
     "destination": [
       {
         "id": 1,
-        "value": "Wien",
-        "order": "1.00000000000000000000"
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-167"
   },
   "168": {
     "id": 168,
@@ -3395,15 +4529,21 @@
     "destination": [
       {
         "id": 1,
-        "value": "Wien",
-        "order": "1.00000000000000000000"
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-168"
   },
   "169": {
     "id": 169,
@@ -3415,14 +4555,20 @@
     "destination": [
       {
         "id": 143,
-        "value": "Mainz",
-        "order": "21.00000000000000000000"
+        "order": "21.00000000000000000000",
+        "label": "Mainz",
+        "lb_id": "lb-place-143",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
+        "gnd_url": ""
       }
     ],
     "dictated_letter": false,
     "note": null,
     "addressee_worked_out": [],
     "original_letter": [],
-    "correct_date": null
+    "correct_date": null,
+    "lb-id": "lb-ml-169"
   }
 }

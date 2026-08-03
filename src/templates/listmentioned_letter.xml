@@ -5,7 +5,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">CMIF</title>
+            <title type="main">Erwähnte und verzeichnete Briefe</title>
             <title type="sub">Korrespondenz von Kaiser Leopold I</title>
             <editor key="https://d-nb.info/gnd/132150654">
                 <forename>Petr</forename>
@@ -20,7 +20,7 @@
             </availability>
         </publicationStmt>
          <sourceDesc>
-            <p>Register der im Projekt bearbeiteten Briefe</p>
+            <p>Register der im Projekt erwähnten Briefe</p>
          </sourceDesc>
       </fileDesc>
       <profileDesc>{% for x in objects %}{% if x.lb_id %}
