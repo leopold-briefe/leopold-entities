@@ -35,7 +35,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-1"
+        "lb_id": "lb-ml-1"
       }
     ]
   },
@@ -75,7 +75,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-2"
+        "lb_id": "lb-ml-2"
       },
       {
         "id": 3,
@@ -96,7 +96,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-3"
+        "lb_id": "lb-ml-3"
       },
       {
         "id": 4,
@@ -117,7 +117,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-4"
+        "lb_id": "lb-ml-4"
       }
     ]
   },
@@ -157,7 +157,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-5"
+        "lb_id": "lb-ml-5"
       }
     ]
   },
@@ -202,7 +202,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-6"
+        "lb_id": "lb-ml-6"
       },
       {
         "id": 7,
@@ -223,7 +223,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-7"
+        "lb_id": "lb-ml-7"
       },
       {
         "id": 8,
@@ -244,7 +244,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-8"
+        "lb_id": "lb-ml-8"
       }
     ]
   },
@@ -284,7 +284,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-9"
+        "lb_id": "lb-ml-9"
       }
     ]
   },
@@ -324,7 +324,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-10"
+        "lb_id": "lb-ml-10"
       }
     ]
   },
@@ -369,7 +369,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-11"
+        "lb_id": "lb-ml-11"
       },
       {
         "id": 12,
@@ -390,7 +390,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-12"
+        "lb_id": "lb-ml-12"
       },
       {
         "id": 13,
@@ -411,7 +411,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-13"
+        "lb_id": "lb-ml-13"
       }
     ]
   },
@@ -456,7 +456,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-14"
+        "lb_id": "lb-ml-14"
       },
       {
         "id": 15,
@@ -477,7 +477,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-15"
+        "lb_id": "lb-ml-15"
       },
       {
         "id": 16,
@@ -498,7 +498,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-16"
+        "lb_id": "lb-ml-16"
       }
     ]
   },
@@ -538,7 +538,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-17"
+        "lb_id": "lb-ml-17"
       }
     ]
   },
@@ -583,7 +583,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-18"
+        "lb_id": "lb-ml-18"
       },
       {
         "id": 19,
@@ -604,7 +604,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-19"
+        "lb_id": "lb-ml-19"
       }
     ]
   },
@@ -644,7 +644,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-20"
+        "lb_id": "lb-ml-20"
       }
     ]
   },
@@ -684,7 +684,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-21"
+        "lb_id": "lb-ml-21"
       }
     ]
   },
@@ -724,7 +724,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-22"
+        "lb_id": "lb-ml-22"
       }
     ]
   },
@@ -769,7 +769,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-23"
+        "lb_id": "lb-ml-23"
       },
       {
         "id": 24,
@@ -790,7 +790,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-24"
+        "lb_id": "lb-ml-24"
       }
     ]
   },
@@ -830,7 +830,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-25"
+        "lb_id": "lb-ml-25"
       },
       {
         "id": 26,
@@ -851,7 +851,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-26"
+        "lb_id": "lb-ml-26"
       }
     ]
   },
@@ -891,7 +891,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-27"
+        "lb_id": "lb-ml-27"
       },
       {
         "id": 28,
@@ -912,7 +912,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-28"
+        "lb_id": "lb-ml-28"
       }
     ]
   },
@@ -952,7 +952,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-29"
+        "lb_id": "lb-ml-29"
       },
       {
         "id": 30,
@@ -973,7 +973,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-30"
+        "lb_id": "lb-ml-30"
       }
     ]
   },
@@ -1018,7 +1018,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-31"
+        "lb_id": "lb-ml-31"
       },
       {
         "id": 32,
@@ -1039,7 +1039,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-32"
+        "lb_id": "lb-ml-32"
       }
     ]
   },
@@ -1073,7 +1073,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-33"
+        "lb_id": "lb-ml-33"
       }
     ]
   },
@@ -1107,7 +1107,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-34"
+        "lb_id": "lb-ml-34"
       },
       {
         "id": 35,
@@ -1128,7 +1128,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-35"
+        "lb_id": "lb-ml-35"
       }
     ]
   },
@@ -1162,7 +1162,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-36"
+        "lb_id": "lb-ml-36"
       }
     ]
   },
@@ -1196,7 +1196,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-37"
+        "lb_id": "lb-ml-37"
       },
       {
         "id": 38,
@@ -1217,7 +1217,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-38"
+        "lb_id": "lb-ml-38"
       },
       {
         "id": 39,
@@ -1238,7 +1238,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-39"
+        "lb_id": "lb-ml-39"
       }
     ]
   },
@@ -1272,7 +1272,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-40"
+        "lb_id": "lb-ml-40"
       },
       {
         "id": 41,
@@ -1293,7 +1293,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-41"
+        "lb_id": "lb-ml-41"
       }
     ]
   },
@@ -1327,7 +1327,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-42"
+        "lb_id": "lb-ml-42"
       }
     ]
   },
@@ -1361,7 +1361,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-43"
+        "lb_id": "lb-ml-43"
       },
       {
         "id": 44,
@@ -1382,7 +1382,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-44"
+        "lb_id": "lb-ml-44"
       }
     ]
   },
@@ -1416,7 +1416,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-45"
+        "lb_id": "lb-ml-45"
       }
     ]
   },
@@ -1450,7 +1450,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-46"
+        "lb_id": "lb-ml-46"
       }
     ]
   },
@@ -1484,7 +1484,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-47"
+        "lb_id": "lb-ml-47"
       },
       {
         "id": 48,
@@ -1511,7 +1511,7 @@
           }
         ],
         "correct_date": null,
-        "lb-id": "lb-ml-48"
+        "lb_id": "lb-ml-48"
       },
       {
         "id": 49,
@@ -1538,7 +1538,7 @@
         ],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-49"
+        "lb_id": "lb-ml-49"
       }
     ]
   },
@@ -1572,7 +1572,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-50"
+        "lb_id": "lb-ml-50"
       },
       {
         "id": 51,
@@ -1593,7 +1593,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-51"
+        "lb_id": "lb-ml-51"
       }
     ]
   },
@@ -1627,7 +1627,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-52"
+        "lb_id": "lb-ml-52"
       }
     ]
   },
@@ -1661,7 +1661,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-53"
+        "lb_id": "lb-ml-53"
       },
       {
         "id": 54,
@@ -1682,7 +1682,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-54"
+        "lb_id": "lb-ml-54"
       }
     ]
   },
@@ -1716,7 +1716,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-55"
+        "lb_id": "lb-ml-55"
       }
     ]
   },
@@ -1750,7 +1750,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-56"
+        "lb_id": "lb-ml-56"
       },
       {
         "id": 57,
@@ -1771,7 +1771,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-57"
+        "lb_id": "lb-ml-57"
       },
       {
         "id": 58,
@@ -1792,7 +1792,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-58"
+        "lb_id": "lb-ml-58"
       },
       {
         "id": 59,
@@ -1813,7 +1813,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-59"
+        "lb_id": "lb-ml-59"
       }
     ]
   },
@@ -1847,7 +1847,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-60"
+        "lb_id": "lb-ml-60"
       },
       {
         "id": 61,
@@ -1874,7 +1874,7 @@
           }
         ],
         "correct_date": null,
-        "lb-id": "lb-ml-61"
+        "lb_id": "lb-ml-61"
       },
       {
         "id": 62,
@@ -1895,7 +1895,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-62"
+        "lb_id": "lb-ml-62"
       },
       {
         "id": 63,
@@ -1916,7 +1916,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-63"
+        "lb_id": "lb-ml-63"
       }
     ]
   },
@@ -1950,7 +1950,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-64"
+        "lb_id": "lb-ml-64"
       }
     ]
   },
@@ -1984,7 +1984,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-65"
+        "lb_id": "lb-ml-65"
       },
       {
         "id": 66,
@@ -2011,7 +2011,7 @@
           }
         ],
         "correct_date": "1657-08-10",
-        "lb-id": "lb-ml-66"
+        "lb_id": "lb-ml-66"
       },
       {
         "id": 67,
@@ -2032,7 +2032,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-67"
+        "lb_id": "lb-ml-67"
       }
     ]
   },
@@ -2066,7 +2066,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-68"
+        "lb_id": "lb-ml-68"
       },
       {
         "id": 69,
@@ -2087,7 +2087,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-69"
+        "lb_id": "lb-ml-69"
       },
       {
         "id": 70,
@@ -2108,7 +2108,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-70"
+        "lb_id": "lb-ml-70"
       }
     ]
   },
@@ -2142,7 +2142,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-71"
+        "lb_id": "lb-ml-71"
       }
     ]
   },
@@ -2176,7 +2176,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-72"
+        "lb_id": "lb-ml-72"
       },
       {
         "id": 73,
@@ -2197,7 +2197,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-73"
+        "lb_id": "lb-ml-73"
       },
       {
         "id": 74,
@@ -2224,7 +2224,7 @@
           }
         ],
         "correct_date": "1657-08-23",
-        "lb-id": "lb-ml-74"
+        "lb_id": "lb-ml-74"
       },
       {
         "id": 75,
@@ -2251,7 +2251,7 @@
         ],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-75"
+        "lb_id": "lb-ml-75"
       }
     ]
   },
@@ -2285,7 +2285,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-76"
+        "lb_id": "lb-ml-76"
       }
     ]
   },
@@ -2319,7 +2319,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-77"
+        "lb_id": "lb-ml-77"
       },
       {
         "id": 78,
@@ -2340,7 +2340,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-78"
+        "lb_id": "lb-ml-78"
       },
       {
         "id": 79,
@@ -2361,7 +2361,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-79"
+        "lb_id": "lb-ml-79"
       },
       {
         "id": 80,
@@ -2382,7 +2382,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-80"
+        "lb_id": "lb-ml-80"
       },
       {
         "id": 81,
@@ -2403,7 +2403,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-81"
+        "lb_id": "lb-ml-81"
       },
       {
         "id": 82,
@@ -2424,7 +2424,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-82"
+        "lb_id": "lb-ml-82"
       },
       {
         "id": 83,
@@ -2445,7 +2445,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-83"
+        "lb_id": "lb-ml-83"
       },
       {
         "id": 84,
@@ -2466,7 +2466,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-84"
+        "lb_id": "lb-ml-84"
       }
     ]
   },
@@ -2500,7 +2500,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-85"
+        "lb_id": "lb-ml-85"
       }
     ]
   },
@@ -2534,7 +2534,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-86"
+        "lb_id": "lb-ml-86"
       },
       {
         "id": 87,
@@ -2555,7 +2555,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-87"
+        "lb_id": "lb-ml-87"
       },
       {
         "id": 88,
@@ -2576,7 +2576,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-88"
+        "lb_id": "lb-ml-88"
       }
     ]
   },
@@ -2616,7 +2616,7 @@
           }
         ],
         "correct_date": null,
-        "lb-id": "lb-ml-89"
+        "lb_id": "lb-ml-89"
       },
       {
         "id": 90,
@@ -2643,7 +2643,7 @@
         ],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-90"
+        "lb_id": "lb-ml-90"
       },
       {
         "id": 91,
@@ -2664,7 +2664,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-91"
+        "lb_id": "lb-ml-91"
       },
       {
         "id": 92,
@@ -2685,7 +2685,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-92"
+        "lb_id": "lb-ml-92"
       },
       {
         "id": 93,
@@ -2706,7 +2706,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-93"
+        "lb_id": "lb-ml-93"
       }
     ]
   },
@@ -2740,7 +2740,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-94"
+        "lb_id": "lb-ml-94"
       }
     ]
   },
@@ -2774,7 +2774,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-95"
+        "lb_id": "lb-ml-95"
       },
       {
         "id": 96,
@@ -2795,7 +2795,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-96"
+        "lb_id": "lb-ml-96"
       }
     ]
   },
@@ -2829,7 +2829,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-97"
+        "lb_id": "lb-ml-97"
       }
     ]
   },
@@ -2863,7 +2863,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-98"
+        "lb_id": "lb-ml-98"
       },
       {
         "id": 99,
@@ -2884,7 +2884,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-99"
+        "lb_id": "lb-ml-99"
       }
     ]
   },
@@ -2918,7 +2918,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-100"
+        "lb_id": "lb-ml-100"
       }
     ]
   },
@@ -2952,7 +2952,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-101"
+        "lb_id": "lb-ml-101"
       },
       {
         "id": 102,
@@ -2973,7 +2973,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-102"
+        "lb_id": "lb-ml-102"
       }
     ]
   },
@@ -3007,7 +3007,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-103"
+        "lb_id": "lb-ml-103"
       },
       {
         "id": 104,
@@ -3028,7 +3028,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-104"
+        "lb_id": "lb-ml-104"
       }
     ]
   },
@@ -3062,7 +3062,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-105"
+        "lb_id": "lb-ml-105"
       }
     ]
   },
@@ -3096,7 +3096,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-106"
+        "lb_id": "lb-ml-106"
       },
       {
         "id": 107,
@@ -3117,7 +3117,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-107"
+        "lb_id": "lb-ml-107"
       },
       {
         "id": 108,
@@ -3138,7 +3138,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-108"
+        "lb_id": "lb-ml-108"
       },
       {
         "id": 109,
@@ -3159,7 +3159,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-109"
+        "lb_id": "lb-ml-109"
       }
     ]
   },
@@ -3193,7 +3193,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-110"
+        "lb_id": "lb-ml-110"
       }
     ]
   },
@@ -3227,7 +3227,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-111"
+        "lb_id": "lb-ml-111"
       },
       {
         "id": 112,
@@ -3248,7 +3248,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-112"
+        "lb_id": "lb-ml-112"
       },
       {
         "id": 113,
@@ -3269,7 +3269,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-113"
+        "lb_id": "lb-ml-113"
       },
       {
         "id": 114,
@@ -3290,7 +3290,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-114"
+        "lb_id": "lb-ml-114"
       }
     ]
   },
@@ -3324,7 +3324,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-115"
+        "lb_id": "lb-ml-115"
       },
       {
         "id": 116,
@@ -3345,7 +3345,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-116"
+        "lb_id": "lb-ml-116"
       },
       {
         "id": 117,
@@ -3366,7 +3366,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-117"
+        "lb_id": "lb-ml-117"
       },
       {
         "id": 118,
@@ -3387,7 +3387,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-118"
+        "lb_id": "lb-ml-118"
       },
       {
         "id": 119,
@@ -3408,7 +3408,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-119"
+        "lb_id": "lb-ml-119"
       }
     ]
   },
@@ -3442,7 +3442,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-120"
+        "lb_id": "lb-ml-120"
       },
       {
         "id": 121,
@@ -3463,7 +3463,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-121"
+        "lb_id": "lb-ml-121"
       },
       {
         "id": 122,
@@ -3484,7 +3484,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-122"
+        "lb_id": "lb-ml-122"
       },
       {
         "id": 123,
@@ -3505,7 +3505,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-123"
+        "lb_id": "lb-ml-123"
       }
     ]
   },
@@ -3539,7 +3539,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-124"
+        "lb_id": "lb-ml-124"
       },
       {
         "id": 125,
@@ -3560,7 +3560,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-125"
+        "lb_id": "lb-ml-125"
       }
     ]
   },
@@ -3594,7 +3594,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-126"
+        "lb_id": "lb-ml-126"
       },
       {
         "id": 127,
@@ -3615,7 +3615,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-127"
+        "lb_id": "lb-ml-127"
       },
       {
         "id": 128,
@@ -3636,7 +3636,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-128"
+        "lb_id": "lb-ml-128"
       },
       {
         "id": 129,
@@ -3657,7 +3657,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-129"
+        "lb_id": "lb-ml-129"
       },
       {
         "id": 130,
@@ -3678,7 +3678,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-130"
+        "lb_id": "lb-ml-130"
       }
     ]
   },
@@ -3712,7 +3712,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-131"
+        "lb_id": "lb-ml-131"
       }
     ]
   },
@@ -3746,7 +3746,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-132"
+        "lb_id": "lb-ml-132"
       },
       {
         "id": 133,
@@ -3773,7 +3773,7 @@
         ],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-133"
+        "lb_id": "lb-ml-133"
       },
       {
         "id": 134,
@@ -3794,7 +3794,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-134"
+        "lb_id": "lb-ml-134"
       },
       {
         "id": 135,
@@ -3815,7 +3815,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-135"
+        "lb_id": "lb-ml-135"
       },
       {
         "id": 136,
@@ -3836,7 +3836,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-136"
+        "lb_id": "lb-ml-136"
       }
     ]
   },
@@ -3870,7 +3870,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-137"
+        "lb_id": "lb-ml-137"
       }
     ]
   },
@@ -3904,7 +3904,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-138"
+        "lb_id": "lb-ml-138"
       },
       {
         "id": 139,
@@ -3925,7 +3925,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-139"
+        "lb_id": "lb-ml-139"
       }
     ]
   },
@@ -3959,7 +3959,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-140"
+        "lb_id": "lb-ml-140"
       },
       {
         "id": 141,
@@ -3980,7 +3980,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-141"
+        "lb_id": "lb-ml-141"
       }
     ]
   },
@@ -4014,7 +4014,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-142"
+        "lb_id": "lb-ml-142"
       }
     ]
   },
@@ -4048,7 +4048,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-143"
+        "lb_id": "lb-ml-143"
       },
       {
         "id": 144,
@@ -4069,7 +4069,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-144"
+        "lb_id": "lb-ml-144"
       },
       {
         "id": 145,
@@ -4090,7 +4090,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-145"
+        "lb_id": "lb-ml-145"
       }
     ]
   },
@@ -4124,7 +4124,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-146"
+        "lb_id": "lb-ml-146"
       }
     ]
   },
@@ -4158,7 +4158,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-147"
+        "lb_id": "lb-ml-147"
       },
       {
         "id": 148,
@@ -4179,7 +4179,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-148"
+        "lb_id": "lb-ml-148"
       },
       {
         "id": 149,
@@ -4200,7 +4200,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-149"
+        "lb_id": "lb-ml-149"
       }
     ]
   },
@@ -4234,7 +4234,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-150"
+        "lb_id": "lb-ml-150"
       }
     ]
   },
@@ -4268,7 +4268,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": "1657-12-19",
-        "lb-id": "lb-ml-151"
+        "lb_id": "lb-ml-151"
       },
       {
         "id": 152,
@@ -4289,7 +4289,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": "1657-12-19",
-        "lb-id": "lb-ml-152"
+        "lb_id": "lb-ml-152"
       },
       {
         "id": 153,
@@ -4310,7 +4310,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-153"
+        "lb_id": "lb-ml-153"
       },
       {
         "id": 154,
@@ -4331,7 +4331,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-154"
+        "lb_id": "lb-ml-154"
       },
       {
         "id": 155,
@@ -4352,7 +4352,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-155"
+        "lb_id": "lb-ml-155"
       },
       {
         "id": 156,
@@ -4373,7 +4373,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-156"
+        "lb_id": "lb-ml-156"
       },
       {
         "id": 157,
@@ -4394,7 +4394,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-157"
+        "lb_id": "lb-ml-157"
       }
     ]
   },
@@ -4428,7 +4428,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-158"
+        "lb_id": "lb-ml-158"
       }
     ]
   },
@@ -4462,7 +4462,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-159"
+        "lb_id": "lb-ml-159"
       },
       {
         "id": 160,
@@ -4489,7 +4489,7 @@
         ],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-160"
+        "lb_id": "lb-ml-160"
       },
       {
         "id": 161,
@@ -4516,7 +4516,7 @@
         ],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-161"
+        "lb_id": "lb-ml-161"
       },
       {
         "id": 162,
@@ -4537,7 +4537,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-162"
+        "lb_id": "lb-ml-162"
       },
       {
         "id": 164,
@@ -4558,7 +4558,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-164"
+        "lb_id": "lb-ml-164"
       },
       {
         "id": 165,
@@ -4579,7 +4579,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-165"
+        "lb_id": "lb-ml-165"
       },
       {
         "id": 166,
@@ -4600,7 +4600,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-166"
+        "lb_id": "lb-ml-166"
       },
       {
         "id": 167,
@@ -4621,7 +4621,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-167"
+        "lb_id": "lb-ml-167"
       }
     ]
   },
@@ -4655,7 +4655,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-168"
+        "lb_id": "lb-ml-168"
       },
       {
         "id": 169,
@@ -4676,7 +4676,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb-id": "lb-ml-169"
+        "lb_id": "lb-ml-169"
       }
     ]
   },
