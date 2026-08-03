@@ -25,6 +25,53 @@ with open(source_file, "w") as f:
     json.dump(source_data, f, ensure_ascii=False, indent=2)
 
 
+seed_file = os.path.join(JSON_FOLDER, "persons.json")
+source_file = os.path.join(JSON_FOLDER, "mentioned_letters.json")
+
+with open(seed_file, "r") as f:
+    seed_data = json.load(f)
+
+with open(source_file, "r") as f:
+    source_data = json.load(f)
+
+for key, value in source_data.items():
+    old_values = value["addressee_stated"]
+    new_values = []
+    for x in old_values:
+        new_values.append(seed_data[f"{x['id']}"])
+    value["addressee_stated"] = new_values
+
+for key, value in source_data.items():
+    old_values = value["addressee_worked_out"]
+    new_values = []
+    for x in old_values:
+        new_values.append(seed_data[f"{x['id']}"])
+    value["addressee_worked_out"] = new_values
+
+with open(source_file, "w") as f:
+    json.dump(source_data, f, ensure_ascii=False, indent=2)
+
+
+seed_file = os.path.join(JSON_FOLDER, "places.json")
+source_file = os.path.join(JSON_FOLDER, "mentioned_letters.json")
+
+with open(seed_file, "r") as f:
+    seed_data = json.load(f)
+
+with open(source_file, "r") as f:
+    source_data = json.load(f)
+
+for key, value in source_data.items():
+    old_values = value["destination"]
+    new_values = []
+    for x in old_values:
+        new_values.append(seed_data[f"{x['id']}"])
+    value["destination"] = new_values
+
+with open(source_file, "w") as f:
+    json.dump(source_data, f, ensure_ascii=False, indent=2)
+
+
 seed_file = os.path.join(JSON_FOLDER, "places.json")
 source_file = os.path.join(JSON_FOLDER, "persons.json")
 
