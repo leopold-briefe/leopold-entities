@@ -124,3 +124,4 @@ for x in glob.glob(f"{out_dir}/*.xml"):
             f.write(xml_text)
 
 os.rename("data/indices/listcalendar_entrie.xml", "data/indices/listevent.xml")
+os.rename("data/indices/listmentioned_letter.xml", "data/indices/mentioned-letters.xml")
