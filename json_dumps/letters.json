@@ -1507,7 +1507,7 @@
     "received_date": "1654-02-09",
     "images_on_share": true,
     "contributors": [],
-    "credits": null,
+    "credits": "bearb. v. Petr Maťa",
     "entities": false,
     "related_letters": []
   },
@@ -1641,7 +1641,7 @@
     "received_date": "1654-11-15",
     "images_on_share": true,
     "contributors": [],
-    "credits": null,
+    "credits": "bearb. v. Petr Maťa",
     "entities": false,
     "related_letters": []
   },
@@ -1775,7 +1775,7 @@
     "received_date": "1654-07-12",
     "images_on_share": true,
     "contributors": [],
-    "credits": null,
+    "credits": "bearb. v. Petr Maťa",
     "entities": false,
     "related_letters": []
   },
@@ -1909,7 +1909,7 @@
     "received_date": "1655-04-01",
     "images_on_share": true,
     "contributors": [],
-    "credits": null,
+    "credits": "bearb. v. Petr Maťa",
     "entities": false,
     "related_letters": []
   },
@@ -2043,7 +2043,7 @@
     "received_date": "1655-08-07",
     "images_on_share": true,
     "contributors": [],
-    "credits": null,
+    "credits": "bearb. v. Petr Maťa",
     "entities": false,
     "related_letters": []
   },
@@ -2175,7 +2175,7 @@
       }
     ],
     "received_date": null,
-    "images_on_share": false,
+    "images_on_share": true,
     "contributors": [],
     "credits": null,
     "entities": false,
@@ -2309,7 +2309,7 @@
       }
     ],
     "received_date": "1655-12-05",
-    "images_on_share": false,
+    "images_on_share": true,
     "contributors": [],
     "credits": null,
     "entities": false,
@@ -2443,7 +2443,7 @@
       }
     ],
     "received_date": "1656-02-20",
-    "images_on_share": false,
+    "images_on_share": true,
     "contributors": [],
     "credits": null,
     "entities": false,
@@ -2577,7 +2577,7 @@
       }
     ],
     "received_date": "1656-03-11",
-    "images_on_share": false,
+    "images_on_share": true,
     "contributors": [],
     "credits": null,
     "entities": false,
@@ -2711,7 +2711,7 @@
       }
     ],
     "received_date": "1656-08-26",
-    "images_on_share": false,
+    "images_on_share": true,
     "contributors": [],
     "credits": null,
     "entities": false,
@@ -2845,7 +2845,7 @@
       }
     ],
     "received_date": "1656-06-27",
-    "images_on_share": false,
+    "images_on_share": true,
     "contributors": [],
     "credits": null,
     "entities": false,
@@ -2979,7 +2979,7 @@
       }
     ],
     "received_date": "1656-12-09",
-    "images_on_share": false,
+    "images_on_share": true,
     "contributors": [],
     "credits": null,
     "entities": false,
@@ -3113,7 +3113,7 @@
       }
     ],
     "received_date": "1657-08-18",
-    "images_on_share": false,
+    "images_on_share": true,
     "contributors": [],
     "credits": null,
     "entities": false,
@@ -3211,9 +3211,9 @@
     "concept_for": [],
     "regest": false,
     "status_transkription": {
-      "id": 23031,
-      "value": "nicht vorhanden",
-      "color": "darker-red"
+      "id": 23030,
+      "value": "finalisiert",
+      "color": "darker-green"
     },
     "place_of_writing": [
       {
@@ -3247,9 +3247,19 @@
       }
     ],
     "received_date": "1657-09-08",
-    "images_on_share": false,
-    "contributors": [],
-    "credits": null,
+    "images_on_share": true,
+    "contributors": [
+      {
+        "id": 19,
+        "order": "19.00000000000000000000",
+        "label": "Tobias Hübl",
+        "last_name": "Hübl",
+        "first_name": "Tobias",
+        "uri": "",
+        "lb-id": "lb-contributor_19"
+      }
+    ],
+    "credits": "bearb. v. Petr Maťa (Ersttranskription von Tobias Hübl)",
     "entities": false,
     "related_letters": []
   },
@@ -3381,7 +3391,7 @@
       }
     ],
     "received_date": "1657-09-15",
-    "images_on_share": false,
+    "images_on_share": true,
     "contributors": [],
     "credits": null,
     "entities": false,
@@ -3479,9 +3489,9 @@
     "concept_for": [],
     "regest": false,
     "status_transkription": {
-      "id": 23031,
-      "value": "nicht vorhanden",
-      "color": "darker-red"
+      "id": 23030,
+      "value": "finalisiert",
+      "color": "darker-green"
     },
     "place_of_writing": [
       {
@@ -3515,9 +3525,28 @@
       }
     ],
     "received_date": "1657-09-28",
-    "images_on_share": false,
-    "contributors": [],
-    "credits": null,
+    "images_on_share": true,
+    "contributors": [
+      {
+        "id": 7,
+        "order": "7.00000000000000000000",
+        "label": "Marek Palys",
+        "last_name": "Palys",
+        "first_name": "Marek",
+        "uri": "",
+        "lb-id": "lb-contributor_7"
+      },
+      {
+        "id": 8,
+        "order": "8.00000000000000000000",
+        "label": "Christian Standhartinger",
+        "last_name": "Standhartinger",
+        "first_name": "Christian",
+        "uri": "",
+        "lb-id": "lb-contributor_8"
+      }
+    ],
+    "credits": "bearb. v. Petr Maťa (Ersttranskription von Marek Palys und Christian Standhartinger)",
     "entities": false,
     "related_letters": []
   },
@@ -3613,9 +3642,9 @@
     "concept_for": [],
     "regest": false,
     "status_transkription": {
-      "id": 23031,
-      "value": "nicht vorhanden",
-      "color": "darker-red"
+      "id": 23030,
+      "value": "finalisiert",
+      "color": "darker-green"
     },
     "place_of_writing": [
       {
@@ -3649,9 +3678,28 @@
       }
     ],
     "received_date": "1657-10-17",
-    "images_on_share": false,
-    "contributors": [],
-    "credits": null,
+    "images_on_share": true,
+    "contributors": [
+      {
+        "id": 7,
+        "order": "7.00000000000000000000",
+        "label": "Marek Palys",
+        "last_name": "Palys",
+        "first_name": "Marek",
+        "uri": "",
+        "lb-id": "lb-contributor_7"
+      },
+      {
+        "id": 8,
+        "order": "8.00000000000000000000",
+        "label": "Christian Standhartinger",
+        "last_name": "Standhartinger",
+        "first_name": "Christian",
+        "uri": "",
+        "lb-id": "lb-contributor_8"
+      }
+    ],
+    "credits": "bearb. v. Petr Maťa (Ersttranskription von Marek Palys und Christian Standhartinger)",
     "entities": false,
     "related_letters": []
   },
@@ -3747,9 +3795,9 @@
     "concept_for": [],
     "regest": false,
     "status_transkription": {
-      "id": 23031,
-      "value": "nicht vorhanden",
-      "color": "darker-red"
+      "id": 23030,
+      "value": "finalisiert",
+      "color": "darker-green"
     },
     "place_of_writing": [
       {
@@ -3783,9 +3831,28 @@
       }
     ],
     "received_date": "1657-10-29",
-    "images_on_share": false,
-    "contributors": [],
-    "credits": null,
+    "images_on_share": true,
+    "contributors": [
+      {
+        "id": 8,
+        "order": "8.00000000000000000000",
+        "label": "Christian Standhartinger",
+        "last_name": "Standhartinger",
+        "first_name": "Christian",
+        "uri": "",
+        "lb-id": "lb-contributor_8"
+      },
+      {
+        "id": 9,
+        "order": "9.00000000000000000000",
+        "label": "Tomáš Konečný",
+        "last_name": "Konečný",
+        "first_name": "Tomáš",
+        "uri": "",
+        "lb-id": "lb-contributor_9"
+      }
+    ],
+    "credits": "bearb. v. Petr Maťa (Ersttranskription von Tomáš Konečný und Christian Standhartinger)",
     "entities": false,
     "related_letters": []
   },
@@ -3881,9 +3948,9 @@
     "concept_for": [],
     "regest": false,
     "status_transkription": {
-      "id": 23031,
-      "value": "nicht vorhanden",
-      "color": "darker-red"
+      "id": 23030,
+      "value": "finalisiert",
+      "color": "darker-green"
     },
     "place_of_writing": [
       {
@@ -3906,9 +3973,28 @@
     "page": "",
     "received_place": [],
     "received_date": null,
-    "images_on_share": false,
-    "contributors": [],
-    "credits": null,
+    "images_on_share": true,
+    "contributors": [
+      {
+        "id": 8,
+        "order": "8.00000000000000000000",
+        "label": "Christian Standhartinger",
+        "last_name": "Standhartinger",
+        "first_name": "Christian",
+        "uri": "",
+        "lb-id": "lb-contributor_8"
+      },
+      {
+        "id": 9,
+        "order": "9.00000000000000000000",
+        "label": "Tomáš Konečný",
+        "last_name": "Konečný",
+        "first_name": "Tomáš",
+        "uri": "",
+        "lb-id": "lb-contributor_9"
+      }
+    ],
+    "credits": "bearb. v. Petr Maťa (Ersttranskription von Tomáš Konečný und Christian Standhartinger)",
     "entities": false,
     "related_letters": []
   },
@@ -4004,9 +4090,9 @@
     "concept_for": [],
     "regest": false,
     "status_transkription": {
-      "id": 23031,
-      "value": "nicht vorhanden",
-      "color": "darker-red"
+      "id": 23030,
+      "value": "finalisiert",
+      "color": "darker-green"
     },
     "place_of_writing": [
       {
@@ -4040,9 +4126,28 @@
       }
     ],
     "received_date": "1657-12-25",
-    "images_on_share": false,
-    "contributors": [],
-    "credits": null,
+    "images_on_share": true,
+    "contributors": [
+      {
+        "id": 8,
+        "order": "8.00000000000000000000",
+        "label": "Christian Standhartinger",
+        "last_name": "Standhartinger",
+        "first_name": "Christian",
+        "uri": "",
+        "lb-id": "lb-contributor_8"
+      },
+      {
+        "id": 10,
+        "order": "10.00000000000000000000",
+        "label": "Štěpánka Grunová",
+        "last_name": "Grunová",
+        "first_name": "Štěpánka",
+        "uri": "",
+        "lb-id": "lb-contributor_10"
+      }
+    ],
+    "credits": "bearb. v. Petr Maťa (Ersttranskription von Štěpánka Grunová und Christian Standhartinger)",
     "entities": false,
     "related_letters": []
   },
@@ -4138,9 +4243,9 @@
     "concept_for": [],
     "regest": false,
     "status_transkription": {
-      "id": 23031,
-      "value": "nicht vorhanden",
-      "color": "darker-red"
+      "id": 23030,
+      "value": "finalisiert",
+      "color": "darker-green"
     },
     "place_of_writing": [
       {
@@ -4174,9 +4279,19 @@
       }
     ],
     "received_date": "1657-12-28",
-    "images_on_share": false,
-    "contributors": [],
-    "credits": null,
+    "images_on_share": true,
+    "contributors": [
+      {
+        "id": 11,
+        "order": "11.00000000000000000000",
+        "label": "Polina Khodorkovskaya",
+        "last_name": "Khodorkovskaya",
+        "first_name": "Polina",
+        "uri": "",
+        "lb-id": "lb-contributor_11"
+      }
+    ],
+    "credits": "bearb. v. Petr Maťa (Ersttranskription von Polina Khodorkovskaya)",
     "entities": false,
     "related_letters": []
   },
@@ -4272,9 +4387,9 @@
     "concept_for": [],
     "regest": false,
     "status_transkription": {
-      "id": 23031,
-      "value": "nicht vorhanden",
-      "color": "darker-red"
+      "id": 23030,
+      "value": "finalisiert",
+      "color": "darker-green"
     },
     "place_of_writing": [
       {
@@ -4308,9 +4423,28 @@
       }
     ],
     "received_date": "1658-02-06",
-    "images_on_share": false,
-    "contributors": [],
-    "credits": null,
+    "images_on_share": true,
+    "contributors": [
+      {
+        "id": 12,
+        "order": "12.00000000000000000000",
+        "label": "Theresa Khan",
+        "last_name": "Khan",
+        "first_name": "Theresa",
+        "uri": "",
+        "lb-id": "lb-contributor_12"
+      },
+      {
+        "id": 13,
+        "order": "13.00000000000000000000",
+        "label": "Karoline Müller",
+        "last_name": "Müller",
+        "first_name": "Karoline",
+        "uri": "",
+        "lb-id": "lb-contributor_13"
+      }
+    ],
+    "credits": "bearb. v. Petr Maťa (Ersttranskription von Theresa Khan und Karoline Müller)",
     "entities": false,
     "related_letters": []
   },
@@ -4406,9 +4540,9 @@
     "concept_for": [],
     "regest": false,
     "status_transkription": {
-      "id": 23031,
-      "value": "nicht vorhanden",
-      "color": "darker-red"
+      "id": 23030,
+      "value": "finalisiert",
+      "color": "darker-green"
     },
     "place_of_writing": [
       {
@@ -4431,9 +4565,28 @@
     "page": "",
     "received_place": [],
     "received_date": null,
-    "images_on_share": false,
-    "contributors": [],
-    "credits": null,
+    "images_on_share": true,
+    "contributors": [
+      {
+        "id": 8,
+        "order": "8.00000000000000000000",
+        "label": "Christian Standhartinger",
+        "last_name": "Standhartinger",
+        "first_name": "Christian",
+        "uri": "",
+        "lb-id": "lb-contributor_8"
+      },
+      {
+        "id": 14,
+        "order": "14.00000000000000000000",
+        "label": "Veronika Gašparcová",
+        "last_name": "Gašparcová",
+        "first_name": "Veronika",
+        "uri": "",
+        "lb-id": "lb-contributor_14"
+      }
+    ],
+    "credits": "bearb. v. Petr Maťa (Ersttranskription von Veronika Gašparcová und Christian Standhartinger)",
     "entities": false,
     "related_letters": []
   },
@@ -4529,9 +4682,9 @@
     "concept_for": [],
     "regest": false,
     "status_transkription": {
-      "id": 23031,
-      "value": "nicht vorhanden",
-      "color": "darker-red"
+      "id": 23030,
+      "value": "finalisiert",
+      "color": "darker-green"
     },
     "place_of_writing": [
       {
@@ -4565,9 +4718,19 @@
       }
     ],
     "received_date": "1658-01-30",
-    "images_on_share": false,
-    "contributors": [],
-    "credits": null,
+    "images_on_share": true,
+    "contributors": [
+      {
+        "id": 15,
+        "order": "15.00000000000000000000",
+        "label": "Vojtěch Kuna",
+        "last_name": "Kuna",
+        "first_name": "Vojtěch",
+        "uri": "",
+        "lb-id": "lb-contributor_15"
+      }
+    ],
+    "credits": "bearb. v. Petr Maťa (Ersttranskription von Vojtěch Kuna)",
     "entities": false,
     "related_letters": []
   },
@@ -4663,9 +4826,9 @@
     "concept_for": [],
     "regest": false,
     "status_transkription": {
-      "id": 23031,
-      "value": "nicht vorhanden",
-      "color": "darker-red"
+      "id": 23030,
+      "value": "finalisiert",
+      "color": "darker-green"
     },
     "place_of_writing": [
       {
@@ -4699,9 +4862,19 @@
       }
     ],
     "received_date": "1658-03-12",
-    "images_on_share": false,
-    "contributors": [],
-    "credits": null,
+    "images_on_share": true,
+    "contributors": [
+      {
+        "id": 16,
+        "order": "16.00000000000000000000",
+        "label": "Tobias Bidlingmaier",
+        "last_name": "Bidlingmaier",
+        "first_name": "Tobias",
+        "uri": "",
+        "lb-id": "lb-contributor_16"
+      }
+    ],
+    "credits": "bearb. v. Petr Maťa (Ersttranskription von Tobias Bidlingmaier)",
     "entities": false,
     "related_letters": []
   },
@@ -4797,9 +4970,9 @@
     "concept_for": [],
     "regest": false,
     "status_transkription": {
-      "id": 23031,
-      "value": "nicht vorhanden",
-      "color": "darker-red"
+      "id": 23030,
+      "value": "finalisiert",
+      "color": "darker-green"
     },
     "place_of_writing": [
       {
@@ -4833,9 +5006,28 @@
       }
     ],
     "received_date": "1658-04-15",
-    "images_on_share": false,
-    "contributors": [],
-    "credits": null,
+    "images_on_share": true,
+    "contributors": [
+      {
+        "id": 8,
+        "order": "8.00000000000000000000",
+        "label": "Christian Standhartinger",
+        "last_name": "Standhartinger",
+        "first_name": "Christian",
+        "uri": "",
+        "lb-id": "lb-contributor_8"
+      },
+      {
+        "id": 12,
+        "order": "12.00000000000000000000",
+        "label": "Theresa Khan",
+        "last_name": "Khan",
+        "first_name": "Theresa",
+        "uri": "",
+        "lb-id": "lb-contributor_12"
+      }
+    ],
+    "credits": "bearb. v. Petr Maťa (Ersttranskription von Theresa Khan und Christian Standhartinger)",
     "entities": false,
     "related_letters": []
   },
@@ -4931,9 +5123,9 @@
     "concept_for": [],
     "regest": false,
     "status_transkription": {
-      "id": 23031,
-      "value": "nicht vorhanden",
-      "color": "darker-red"
+      "id": 23030,
+      "value": "finalisiert",
+      "color": "darker-green"
     },
     "place_of_writing": [
       {
@@ -4967,9 +5159,28 @@
       }
     ],
     "received_date": "1658-04-16",
-    "images_on_share": false,
-    "contributors": [],
-    "credits": null,
+    "images_on_share": true,
+    "contributors": [
+      {
+        "id": 8,
+        "order": "8.00000000000000000000",
+        "label": "Christian Standhartinger",
+        "last_name": "Standhartinger",
+        "first_name": "Christian",
+        "uri": "",
+        "lb-id": "lb-contributor_8"
+      },
+      {
+        "id": 16,
+        "order": "16.00000000000000000000",
+        "label": "Tobias Bidlingmaier",
+        "last_name": "Bidlingmaier",
+        "first_name": "Tobias",
+        "uri": "",
+        "lb-id": "lb-contributor_16"
+      }
+    ],
+    "credits": "bearb. v. Petr Maťa (Ersttranskription von Tobias Bidlingmaier und Christian Standhartinger)",
     "entities": false,
     "related_letters": []
   },
@@ -5065,9 +5276,9 @@
     "concept_for": [],
     "regest": false,
     "status_transkription": {
-      "id": 23031,
-      "value": "nicht vorhanden",
-      "color": "darker-red"
+      "id": 23030,
+      "value": "finalisiert",
+      "color": "darker-green"
     },
     "place_of_writing": [
       {
@@ -5101,9 +5312,19 @@
       }
     ],
     "received_date": "1658-04-24",
-    "images_on_share": false,
-    "contributors": [],
-    "credits": null,
+    "images_on_share": true,
+    "contributors": [
+      {
+        "id": 17,
+        "order": "17.00000000000000000000",
+        "label": "Eva Riedlsperger",
+        "last_name": "Riedlsperger",
+        "first_name": "Eva",
+        "uri": "",
+        "lb-id": "lb-contributor_17"
+      }
+    ],
+    "credits": "bearb. v. Petr Maťa (Ersttranskription von Eva Riedlsperger)",
     "entities": false,
     "related_letters": []
   },
@@ -5199,9 +5420,9 @@
     "concept_for": [],
     "regest": false,
     "status_transkription": {
-      "id": 23031,
-      "value": "nicht vorhanden",
-      "color": "darker-red"
+      "id": 23030,
+      "value": "finalisiert",
+      "color": "darker-green"
     },
     "place_of_writing": [
       {
@@ -5224,9 +5445,19 @@
     "page": "",
     "received_place": [],
     "received_date": null,
-    "images_on_share": false,
-    "contributors": [],
-    "credits": null,
+    "images_on_share": true,
+    "contributors": [
+      {
+        "id": 15,
+        "order": "15.00000000000000000000",
+        "label": "Vojtěch Kuna",
+        "last_name": "Kuna",
+        "first_name": "Vojtěch",
+        "uri": "",
+        "lb-id": "lb-contributor_15"
+      }
+    ],
+    "credits": "bearb. v. Petr Maťa (Ersttranskription von Vojtěch Kuna)",
     "entities": false,
     "related_letters": []
   },
@@ -5322,9 +5553,9 @@
     "concept_for": [],
     "regest": false,
     "status_transkription": {
-      "id": 23031,
-      "value": "nicht vorhanden",
-      "color": "darker-red"
+      "id": 23030,
+      "value": "finalisiert",
+      "color": "darker-green"
     },
     "place_of_writing": [
       {
@@ -5358,9 +5589,19 @@
       }
     ],
     "received_date": "1658-05-03",
-    "images_on_share": false,
-    "contributors": [],
-    "credits": null,
+    "images_on_share": true,
+    "contributors": [
+      {
+        "id": 14,
+        "order": "14.00000000000000000000",
+        "label": "Veronika Gašparcová",
+        "last_name": "Gašparcová",
+        "first_name": "Veronika",
+        "uri": "",
+        "lb-id": "lb-contributor_14"
+      }
+    ],
+    "credits": "bearb. v. Petr Maťa (Ersttranskription von Veronika Gašparcová)",
     "entities": false,
     "related_letters": []
   },
@@ -5492,9 +5733,19 @@
       }
     ],
     "received_date": "1658-05-31",
-    "images_on_share": false,
-    "contributors": [],
-    "credits": null,
+    "images_on_share": true,
+    "contributors": [
+      {
+        "id": 17,
+        "order": "17.00000000000000000000",
+        "label": "Eva Riedlsperger",
+        "last_name": "Riedlsperger",
+        "first_name": "Eva",
+        "uri": "",
+        "lb-id": "lb-contributor_17"
+      }
+    ],
+    "credits": "bearb. v. Petr Maťa (Ersttranskription von Eva Riedlsperger)",
     "entities": false,
     "related_letters": []
   },
@@ -5626,9 +5877,28 @@
       }
     ],
     "received_date": "1658-06-09",
-    "images_on_share": false,
-    "contributors": [],
-    "credits": null,
+    "images_on_share": true,
+    "contributors": [
+      {
+        "id": 8,
+        "order": "8.00000000000000000000",
+        "label": "Christian Standhartinger",
+        "last_name": "Standhartinger",
+        "first_name": "Christian",
+        "uri": "",
+        "lb-id": "lb-contributor_8"
+      },
+      {
+        "id": 18,
+        "order": "18.00000000000000000000",
+        "label": "Kateřina Tichá",
+        "last_name": "Tichá",
+        "first_name": "Kateřina",
+        "uri": "",
+        "lb-id": "lb-contributor_18"
+      }
+    ],
+    "credits": "bearb. v. Petr Maťa (Ersttranskription von Kateřina Tichá und Christian Standhartinger)",
     "entities": false,
     "related_letters": []
   },
@@ -5760,9 +6030,28 @@
       }
     ],
     "received_date": "1658-06-22",
-    "images_on_share": false,
-    "contributors": [],
-    "credits": null,
+    "images_on_share": true,
+    "contributors": [
+      {
+        "id": 8,
+        "order": "8.00000000000000000000",
+        "label": "Christian Standhartinger",
+        "last_name": "Standhartinger",
+        "first_name": "Christian",
+        "uri": "",
+        "lb-id": "lb-contributor_8"
+      },
+      {
+        "id": 18,
+        "order": "18.00000000000000000000",
+        "label": "Kateřina Tichá",
+        "last_name": "Tichá",
+        "first_name": "Kateřina",
+        "uri": "",
+        "lb-id": "lb-contributor_18"
+      }
+    ],
+    "credits": "bearb. v. Petr Maťa (Ersttranskription von Kateřina Tichá und Christian Standhartinger)",
     "entities": false,
     "related_letters": []
   },
@@ -5858,9 +6147,9 @@
     "concept_for": [],
     "regest": false,
     "status_transkription": {
-      "id": 23031,
-      "value": "nicht vorhanden",
-      "color": "darker-red"
+      "id": 23030,
+      "value": "finalisiert",
+      "color": "darker-green"
     },
     "place_of_writing": [
       {
@@ -5894,9 +6183,19 @@
       }
     ],
     "received_date": "1658-07-01",
-    "images_on_share": false,
-    "contributors": [],
-    "credits": null,
+    "images_on_share": true,
+    "contributors": [
+      {
+        "id": 13,
+        "order": "13.00000000000000000000",
+        "label": "Karoline Müller",
+        "last_name": "Müller",
+        "first_name": "Karoline",
+        "uri": "",
+        "lb-id": "lb-contributor_13"
+      }
+    ],
+    "credits": "bearb. v. Petr Maťa (Ersttranskription von Karoline Müller)",
     "entities": false,
     "related_letters": []
   },
@@ -5992,9 +6291,9 @@
     "concept_for": [],
     "regest": false,
     "status_transkription": {
-      "id": 23031,
-      "value": "nicht vorhanden",
-      "color": "darker-red"
+      "id": 23030,
+      "value": "finalisiert",
+      "color": "darker-green"
     },
     "place_of_writing": [
       {
@@ -6028,9 +6327,19 @@
       }
     ],
     "received_date": "1658-08-05",
-    "images_on_share": false,
-    "contributors": [],
-    "credits": null,
+    "images_on_share": true,
+    "contributors": [
+      {
+        "id": 9,
+        "order": "9.00000000000000000000",
+        "label": "Tomáš Konečný",
+        "last_name": "Konečný",
+        "first_name": "Tomáš",
+        "uri": "",
+        "lb-id": "lb-contributor_9"
+      }
+    ],
+    "credits": "bearb. v. Petr Maťa (Ersttranskription von Tomáš Konečný)",
     "entities": false,
     "related_letters": []
   },
@@ -6162,9 +6471,19 @@
       }
     ],
     "received_date": "1658-07-06",
-    "images_on_share": false,
-    "contributors": [],
-    "credits": null,
+    "images_on_share": true,
+    "contributors": [
+      {
+        "id": 9,
+        "order": "9.00000000000000000000",
+        "label": "Tomáš Konečný",
+        "last_name": "Konečný",
+        "first_name": "Tomáš",
+        "uri": "",
+        "lb-id": "lb-contributor_9"
+      }
+    ],
+    "credits": "bearb. v. Petr Maťa (Ersttranskription von Tomáš Konečný)",
     "entities": false,
     "related_letters": []
   },
@@ -6260,9 +6579,9 @@
     "concept_for": [],
     "regest": false,
     "status_transkription": {
-      "id": 23031,
-      "value": "nicht vorhanden",
-      "color": "darker-red"
+      "id": 23030,
+      "value": "finalisiert",
+      "color": "darker-green"
     },
     "place_of_writing": [
       {
@@ -6296,9 +6615,19 @@
       }
     ],
     "received_date": "1658-07-31",
-    "images_on_share": false,
-    "contributors": [],
-    "credits": null,
+    "images_on_share": true,
+    "contributors": [
+      {
+        "id": 19,
+        "order": "19.00000000000000000000",
+        "label": "Tobias Hübl",
+        "last_name": "Hübl",
+        "first_name": "Tobias",
+        "uri": "",
+        "lb-id": "lb-contributor_19"
+      }
+    ],
+    "credits": "bearb. v. Petr Maťa (Ersttranskription von Tobias Hübl)",
     "entities": false,
     "related_letters": []
   },
@@ -6430,9 +6759,19 @@
       }
     ],
     "received_date": "1658-07-27",
-    "images_on_share": false,
-    "contributors": [],
-    "credits": null,
+    "images_on_share": true,
+    "contributors": [
+      {
+        "id": 10,
+        "order": "10.00000000000000000000",
+        "label": "Štěpánka Grunová",
+        "last_name": "Grunová",
+        "first_name": "Štěpánka",
+        "uri": "",
+        "lb-id": "lb-contributor_10"
+      }
+    ],
+    "credits": "bearb. v. Petr Maťa (Ersttranskription von Štěpánka Grunová)",
     "entities": false,
     "related_letters": []
   },
@@ -6564,7 +6903,7 @@
       }
     ],
     "received_date": "1658-08-05",
-    "images_on_share": false,
+    "images_on_share": true,
     "contributors": [],
     "credits": null,
     "entities": false,
@@ -6698,7 +7037,7 @@
       }
     ],
     "received_date": "1658-11-04",
-    "images_on_share": false,
+    "images_on_share": true,
     "contributors": [],
     "credits": null,
     "entities": false,
@@ -6832,7 +7171,7 @@
       }
     ],
     "received_date": "1658-11-26",
-    "images_on_share": false,
+    "images_on_share": true,
     "contributors": [],
     "credits": null,
     "entities": false,
@@ -6966,7 +7305,7 @@
       }
     ],
     "received_date": "1658-12-15",
-    "images_on_share": false,
+    "images_on_share": true,
     "contributors": [],
     "credits": null,
     "entities": false,
@@ -7111,7 +7450,7 @@
       }
     ],
     "received_date": "1659-01-03",
-    "images_on_share": false,
+    "images_on_share": true,
     "contributors": [],
     "credits": null,
     "entities": false,
@@ -7245,7 +7584,7 @@
       }
     ],
     "received_date": "1659-01-07",
-    "images_on_share": false,
+    "images_on_share": true,
     "contributors": [],
     "credits": null,
     "entities": false,
@@ -7379,7 +7718,7 @@
       }
     ],
     "received_date": "1659-01-28",
-    "images_on_share": false,
+    "images_on_share": true,
     "contributors": [],
     "credits": null,
     "entities": false,
@@ -7502,7 +7841,7 @@
     "page": "",
     "received_place": [],
     "received_date": null,
-    "images_on_share": false,
+    "images_on_share": true,
     "contributors": [],
     "credits": null,
     "entities": false,

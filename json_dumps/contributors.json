@@ -52,5 +52,122 @@
     "first_name": "Jiří",
     "uri": "",
     "lb-id": "lb-contributor_6"
+  },
+  "7": {
+    "id": 7,
+    "order": "7.00000000000000000000",
+    "label": "Marek Palys",
+    "last_name": "Palys",
+    "first_name": "Marek",
+    "uri": "",
+    "lb-id": "lb-contributor_7"
+  },
+  "8": {
+    "id": 8,
+    "order": "8.00000000000000000000",
+    "label": "Christian Standhartinger",
+    "last_name": "Standhartinger",
+    "first_name": "Christian",
+    "uri": "",
+    "lb-id": "lb-contributor_8"
+  },
+  "9": {
+    "id": 9,
+    "order": "9.00000000000000000000",
+    "label": "Tomáš Konečný",
+    "last_name": "Konečný",
+    "first_name": "Tomáš",
+    "uri": "",
+    "lb-id": "lb-contributor_9"
+  },
+  "10": {
+    "id": 10,
+    "order": "10.00000000000000000000",
+    "label": "Štěpánka Grunová",
+    "last_name": "Grunová",
+    "first_name": "Štěpánka",
+    "uri": "",
+    "lb-id": "lb-contributor_10"
+  },
+  "11": {
+    "id": 11,
+    "order": "11.00000000000000000000",
+    "label": "Polina Khodorkovskaya",
+    "last_name": "Khodorkovskaya",
+    "first_name": "Polina",
+    "uri": "",
+    "lb-id": "lb-contributor_11"
+  },
+  "12": {
+    "id": 12,
+    "order": "12.00000000000000000000",
+    "label": "Theresa Khan",
+    "last_name": "Khan",
+    "first_name": "Theresa",
+    "uri": "",
+    "lb-id": "lb-contributor_12"
+  },
+  "13": {
+    "id": 13,
+    "order": "13.00000000000000000000",
+    "label": "Karoline Müller",
+    "last_name": "Müller",
+    "first_name": "Karoline",
+    "uri": "",
+    "lb-id": "lb-contributor_13"
+  },
+  "14": {
+    "id": 14,
+    "order": "14.00000000000000000000",
+    "label": "Veronika Gašparcová",
+    "last_name": "Gašparcová",
+    "first_name": "Veronika",
+    "uri": "",
+    "lb-id": "lb-contributor_14"
+  },
+  "15": {
+    "id": 15,
+    "order": "15.00000000000000000000",
+    "label": "Vojtěch Kuna",
+    "last_name": "Kuna",
+    "first_name": "Vojtěch",
+    "uri": "",
+    "lb-id": "lb-contributor_15"
+  },
+  "16": {
+    "id": 16,
+    "order": "16.00000000000000000000",
+    "label": "Tobias Bidlingmaier",
+    "last_name": "Bidlingmaier",
+    "first_name": "Tobias",
+    "uri": "",
+    "lb-id": "lb-contributor_16"
+  },
+  "17": {
+    "id": 17,
+    "order": "17.00000000000000000000",
+    "label": "Eva Riedlsperger",
+    "last_name": "Riedlsperger",
+    "first_name": "Eva",
+    "uri": "",
+    "lb-id": "lb-contributor_17"
+  },
+  "18": {
+    "id": 18,
+    "order": "18.00000000000000000000",
+    "label": "Kateřina Tichá",
+    "last_name": "Tichá",
+    "first_name": "Kateřina",
+    "uri": "",
+    "lb-id": "lb-contributor_18"
+  },
+  "19": {
+    "id": 19,
+    "order": "19.00000000000000000000",
+    "label": "Tobias Hübl",
+    "last_name": "Hübl",
+    "first_name": "Tobias",
+    "uri": "",
+    "lb-id": "lb-contributor_19"
   }
 }

@@ -341,6 +341,7 @@
                <note type="regest">False</note>
                <note type="status_transkription">finalisiert</note>
                <note type="images_on_share">True</note>
+               <note type="credits">bearb. v. Petr Maťa</note>
                <note type="entities">False</note>
                <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
@@ -369,6 +370,7 @@
                <note type="regest">False</note>
                <note type="status_transkription">finalisiert</note>
                <note type="images_on_share">True</note>
+               <note type="credits">bearb. v. Petr Maťa</note>
                <note type="entities">False</note>
                <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
@@ -397,6 +399,7 @@
                <note type="regest">False</note>
                <note type="status_transkription">finalisiert</note>
                <note type="images_on_share">True</note>
+               <note type="credits">bearb. v. Petr Maťa</note>
                <note type="entities">False</note>
                <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
@@ -425,6 +428,7 @@
                <note type="regest">False</note>
                <note type="status_transkription">finalisiert</note>
                <note type="images_on_share">True</note>
+               <note type="credits">bearb. v. Petr Maťa</note>
                <note type="entities">False</note>
                <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
@@ -453,6 +457,7 @@
                <note type="regest">False</note>
                <note type="status_transkription">finalisiert</note>
                <note type="images_on_share">True</note>
+               <note type="credits">bearb. v. Petr Maťa</note>
                <note type="entities">False</note>
                <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
@@ -480,7 +485,7 @@
                <note type="daily_order">1</note>
                <note type="regest">False</note>
                <note type="status_transkription">nicht vorhanden</note>
-               <note type="images_on_share">False</note>
+               <note type="images_on_share">True</note>
                <note type="entities">False</note>
                <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
@@ -507,7 +512,7 @@
                <note type="daily_order">1</note>
                <note type="regest">False</note>
                <note type="status_transkription">nicht vorhanden</note>
-               <note type="images_on_share">False</note>
+               <note type="images_on_share">True</note>
                <note type="entities">False</note>
                <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
@@ -535,7 +540,7 @@
                <note type="daily_order">1</note>
                <note type="regest">False</note>
                <note type="status_transkription">nicht vorhanden</note>
-               <note type="images_on_share">False</note>
+               <note type="images_on_share">True</note>
                <note type="entities">False</note>
                <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
@@ -563,7 +568,7 @@
                <note type="daily_order">1</note>
                <note type="regest">False</note>
                <note type="status_transkription">nicht vorhanden</note>
-               <note type="images_on_share">False</note>
+               <note type="images_on_share">True</note>
                <note type="entities">False</note>
                <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
@@ -591,7 +596,7 @@
                <note type="daily_order">1</note>
                <note type="regest">False</note>
                <note type="status_transkription">nicht vorhanden</note>
-               <note type="images_on_share">False</note>
+               <note type="images_on_share">True</note>
                <note type="entities">False</note>
                <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
@@ -620,7 +625,7 @@
                <note type="daily_order">1</note>
                <note type="regest">False</note>
                <note type="status_transkription">nicht vorhanden</note>
-               <note type="images_on_share">False</note>
+               <note type="images_on_share">True</note>
                <note type="entities">False</note>
                <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
@@ -648,7 +653,7 @@
                <note type="daily_order">1</note>
                <note type="regest">False</note>
                <note type="status_transkription">nicht vorhanden</note>
-               <note type="images_on_share">False</note>
+               <note type="images_on_share">True</note>
                <note type="entities">False</note>
                <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
@@ -676,7 +681,7 @@
                <note type="daily_order">1</note>
                <note type="regest">False</note>
                <note type="status_transkription">nicht vorhanden</note>
-               <note type="images_on_share">False</note>
+               <note type="images_on_share">True</note>
                <note type="entities">False</note>
                <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
@@ -703,8 +708,10 @@
                <note type="main_language">deu</note>
                <note type="daily_order">1</note>
                <note type="regest">False</note>
-               <note type="status_transkription">nicht vorhanden</note>
-               <note type="images_on_share">False</note>
+               <note type="status_transkription">finalisiert</note>
+               <note type="images_on_share">True</note>
+               <note type="contributors">Tobias Hübl</note>
+               <note type="credits">bearb. v. Petr Maťa (Ersttranskription von Tobias Hübl)</note>
                <note type="entities">False</note>
                <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
@@ -732,7 +739,7 @@
                <note type="daily_order">1</note>
                <note type="regest">False</note>
                <note type="status_transkription">nicht vorhanden</note>
-               <note type="images_on_share">False</note>
+               <note type="images_on_share">True</note>
                <note type="entities">False</note>
                <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
@@ -759,8 +766,10 @@
                <note type="main_language">deu</note>
                <note type="daily_order">1</note>
                <note type="regest">False</note>
-               <note type="status_transkription">nicht vorhanden</note>
-               <note type="images_on_share">False</note>
+               <note type="status_transkription">finalisiert</note>
+               <note type="images_on_share">True</note>
+               <note type="contributors">Marek Palys, Christian Standhartinger</note>
+               <note type="credits">bearb. v. Petr Maťa (Ersttranskription von Marek Palys und Christian Standhartinger)</note>
                <note type="entities">False</note>
                <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
@@ -787,8 +796,10 @@
                <note type="main_language">deu</note>
                <note type="daily_order">1</note>
                <note type="regest">False</note>
-               <note type="status_transkription">nicht vorhanden</note>
-               <note type="images_on_share">False</note>
+               <note type="status_transkription">finalisiert</note>
+               <note type="images_on_share">True</note>
+               <note type="contributors">Marek Palys, Christian Standhartinger</note>
+               <note type="credits">bearb. v. Petr Maťa (Ersttranskription von Marek Palys und Christian Standhartinger)</note>
                <note type="entities">False</note>
                <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
@@ -815,8 +826,10 @@
                <note type="main_language">deu</note>
                <note type="daily_order">1</note>
                <note type="regest">False</note>
-               <note type="status_transkription">nicht vorhanden</note>
-               <note type="images_on_share">False</note>
+               <note type="status_transkription">finalisiert</note>
+               <note type="images_on_share">True</note>
+               <note type="contributors">Christian Standhartinger, Tomáš Konečný</note>
+               <note type="credits">bearb. v. Petr Maťa (Ersttranskription von Tomáš Konečný und Christian Standhartinger)</note>
                <note type="entities">False</note>
                <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
@@ -843,8 +856,10 @@
                <note type="main_language">deu</note>
                <note type="daily_order">1</note>
                <note type="regest">False</note>
-               <note type="status_transkription">nicht vorhanden</note>
-               <note type="images_on_share">False</note>
+               <note type="status_transkription">finalisiert</note>
+               <note type="images_on_share">True</note>
+               <note type="contributors">Christian Standhartinger, Tomáš Konečný</note>
+               <note type="credits">bearb. v. Petr Maťa (Ersttranskription von Tomáš Konečný und Christian Standhartinger)</note>
                <note type="entities">False</note>
                <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
@@ -869,8 +884,10 @@
                <note type="main_language">deu</note>
                <note type="daily_order">1</note>
                <note type="regest">False</note>
-               <note type="status_transkription">nicht vorhanden</note>
-               <note type="images_on_share">False</note>
+               <note type="status_transkription">finalisiert</note>
+               <note type="images_on_share">True</note>
+               <note type="contributors">Christian Standhartinger, Štěpánka Grunová</note>
+               <note type="credits">bearb. v. Petr Maťa (Ersttranskription von Štěpánka Grunová und Christian Standhartinger)</note>
                <note type="entities">False</note>
                <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
@@ -897,8 +914,10 @@
                <note type="main_language">deu</note>
                <note type="daily_order">1</note>
                <note type="regest">False</note>
-               <note type="status_transkription">nicht vorhanden</note>
-               <note type="images_on_share">False</note>
+               <note type="status_transkription">finalisiert</note>
+               <note type="images_on_share">True</note>
+               <note type="contributors">Polina Khodorkovskaya</note>
+               <note type="credits">bearb. v. Petr Maťa (Ersttranskription von Polina Khodorkovskaya)</note>
                <note type="entities">False</note>
                <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
@@ -925,8 +944,10 @@
                <note type="main_language">deu</note>
                <note type="daily_order">1</note>
                <note type="regest">False</note>
-               <note type="status_transkription">nicht vorhanden</note>
-               <note type="images_on_share">False</note>
+               <note type="status_transkription">finalisiert</note>
+               <note type="images_on_share">True</note>
+               <note type="contributors">Theresa Khan, Karoline Müller</note>
+               <note type="credits">bearb. v. Petr Maťa (Ersttranskription von Theresa Khan und Karoline Müller)</note>
                <note type="entities">False</note>
                <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
@@ -953,8 +974,10 @@
                <note type="main_language">deu</note>
                <note type="daily_order">2</note>
                <note type="regest">False</note>
-               <note type="status_transkription">nicht vorhanden</note>
-               <note type="images_on_share">False</note>
+               <note type="status_transkription">finalisiert</note>
+               <note type="images_on_share">True</note>
+               <note type="contributors">Christian Standhartinger, Veronika Gašparcová</note>
+               <note type="credits">bearb. v. Petr Maťa (Ersttranskription von Veronika Gašparcová und Christian Standhartinger)</note>
                <note type="entities">False</note>
                <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
@@ -979,8 +1002,10 @@
                <note type="main_language">deu</note>
                <note type="daily_order">1</note>
                <note type="regest">False</note>
-               <note type="status_transkription">nicht vorhanden</note>
-               <note type="images_on_share">False</note>
+               <note type="status_transkription">finalisiert</note>
+               <note type="images_on_share">True</note>
+               <note type="contributors">Vojtěch Kuna</note>
+               <note type="credits">bearb. v. Petr Maťa (Ersttranskription von Vojtěch Kuna)</note>
                <note type="entities">False</note>
                <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
@@ -1007,8 +1032,10 @@
                <note type="main_language">deu</note>
                <note type="daily_order">1</note>
                <note type="regest">False</note>
-               <note type="status_transkription">nicht vorhanden</note>
-               <note type="images_on_share">False</note>
+               <note type="status_transkription">finalisiert</note>
+               <note type="images_on_share">True</note>
+               <note type="contributors">Tobias Bidlingmaier</note>
+               <note type="credits">bearb. v. Petr Maťa (Ersttranskription von Tobias Bidlingmaier)</note>
                <note type="entities">False</note>
                <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
@@ -1036,8 +1063,10 @@
                <note type="main_language">deu</note>
                <note type="daily_order">1</note>
                <note type="regest">False</note>
-               <note type="status_transkription">nicht vorhanden</note>
-               <note type="images_on_share">False</note>
+               <note type="status_transkription">finalisiert</note>
+               <note type="images_on_share">True</note>
+               <note type="contributors">Christian Standhartinger, Theresa Khan</note>
+               <note type="credits">bearb. v. Petr Maťa (Ersttranskription von Theresa Khan und Christian Standhartinger)</note>
                <note type="entities">False</note>
                <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
@@ -1064,8 +1093,10 @@
                <note type="main_language">deu</note>
                <note type="daily_order">1</note>
                <note type="regest">False</note>
-               <note type="status_transkription">nicht vorhanden</note>
-               <note type="images_on_share">False</note>
+               <note type="status_transkription">finalisiert</note>
+               <note type="images_on_share">True</note>
+               <note type="contributors">Christian Standhartinger, Tobias Bidlingmaier</note>
+               <note type="credits">bearb. v. Petr Maťa (Ersttranskription von Tobias Bidlingmaier und Christian Standhartinger)</note>
                <note type="entities">False</note>
                <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
@@ -1092,8 +1123,10 @@
                <note type="main_language">deu</note>
                <note type="daily_order">1</note>
                <note type="regest">False</note>
-               <note type="status_transkription">nicht vorhanden</note>
-               <note type="images_on_share">False</note>
+               <note type="status_transkription">finalisiert</note>
+               <note type="images_on_share">True</note>
+               <note type="contributors">Eva Riedlsperger</note>
+               <note type="credits">bearb. v. Petr Maťa (Ersttranskription von Eva Riedlsperger)</note>
                <note type="entities">False</note>
                <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
@@ -1120,8 +1153,10 @@
                <note type="main_language">deu</note>
                <note type="daily_order">2</note>
                <note type="regest">False</note>
-               <note type="status_transkription">nicht vorhanden</note>
-               <note type="images_on_share">False</note>
+               <note type="status_transkription">finalisiert</note>
+               <note type="images_on_share">True</note>
+               <note type="contributors">Vojtěch Kuna</note>
+               <note type="credits">bearb. v. Petr Maťa (Ersttranskription von Vojtěch Kuna)</note>
                <note type="entities">False</note>
                <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
@@ -1146,8 +1181,10 @@
                <note type="main_language">deu</note>
                <note type="daily_order">1</note>
                <note type="regest">False</note>
-               <note type="status_transkription">nicht vorhanden</note>
-               <note type="images_on_share">False</note>
+               <note type="status_transkription">finalisiert</note>
+               <note type="images_on_share">True</note>
+               <note type="contributors">Veronika Gašparcová</note>
+               <note type="credits">bearb. v. Petr Maťa (Ersttranskription von Veronika Gašparcová)</note>
                <note type="entities">False</note>
                <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
@@ -1175,7 +1212,9 @@
                <note type="daily_order">1</note>
                <note type="regest">False</note>
                <note type="status_transkription">finalisiert</note>
-               <note type="images_on_share">False</note>
+               <note type="images_on_share">True</note>
+               <note type="contributors">Eva Riedlsperger</note>
+               <note type="credits">bearb. v. Petr Maťa (Ersttranskription von Eva Riedlsperger)</note>
                <note type="entities">False</note>
                <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
@@ -1203,7 +1242,9 @@
                <note type="daily_order">1</note>
                <note type="regest">False</note>
                <note type="status_transkription">finalisiert</note>
-               <note type="images_on_share">False</note>
+               <note type="images_on_share">True</note>
+               <note type="contributors">Christian Standhartinger, Kateřina Tichá</note>
+               <note type="credits">bearb. v. Petr Maťa (Ersttranskription von Kateřina Tichá und Christian Standhartinger)</note>
                <note type="entities">False</note>
                <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
@@ -1231,7 +1272,9 @@
                <note type="daily_order">1</note>
                <note type="regest">False</note>
                <note type="status_transkription">finalisiert</note>
-               <note type="images_on_share">False</note>
+               <note type="images_on_share">True</note>
+               <note type="contributors">Christian Standhartinger, Kateřina Tichá</note>
+               <note type="credits">bearb. v. Petr Maťa (Ersttranskription von Kateřina Tichá und Christian Standhartinger)</note>
                <note type="entities">False</note>
                <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
@@ -1258,8 +1301,10 @@
                <note type="main_language">deu</note>
                <note type="daily_order">1</note>
                <note type="regest">False</note>
-               <note type="status_transkription">nicht vorhanden</note>
-               <note type="images_on_share">False</note>
+               <note type="status_transkription">finalisiert</note>
+               <note type="images_on_share">True</note>
+               <note type="contributors">Karoline Müller</note>
+               <note type="credits">bearb. v. Petr Maťa (Ersttranskription von Karoline Müller)</note>
                <note type="entities">False</note>
                <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
@@ -1286,8 +1331,10 @@
                <note type="main_language">deu</note>
                <note type="daily_order">1</note>
                <note type="regest">False</note>
-               <note type="status_transkription">nicht vorhanden</note>
-               <note type="images_on_share">False</note>
+               <note type="status_transkription">finalisiert</note>
+               <note type="images_on_share">True</note>
+               <note type="contributors">Tomáš Konečný</note>
+               <note type="credits">bearb. v. Petr Maťa (Ersttranskription von Tomáš Konečný)</note>
                <note type="entities">False</note>
                <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
@@ -1315,7 +1362,9 @@
                <note type="daily_order">1</note>
                <note type="regest">False</note>
                <note type="status_transkription">finalisiert</note>
-               <note type="images_on_share">False</note>
+               <note type="images_on_share">True</note>
+               <note type="contributors">Tomáš Konečný</note>
+               <note type="credits">bearb. v. Petr Maťa (Ersttranskription von Tomáš Konečný)</note>
                <note type="entities">False</note>
                <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
@@ -1342,8 +1391,10 @@
                <note type="main_language">deu</note>
                <note type="daily_order">1</note>
                <note type="regest">False</note>
-               <note type="status_transkription">nicht vorhanden</note>
-               <note type="images_on_share">False</note>
+               <note type="status_transkription">finalisiert</note>
+               <note type="images_on_share">True</note>
+               <note type="contributors">Tobias Hübl</note>
+               <note type="credits">bearb. v. Petr Maťa (Ersttranskription von Tobias Hübl)</note>
                <note type="entities">False</note>
                <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
@@ -1371,7 +1422,9 @@
                <note type="daily_order">1</note>
                <note type="regest">False</note>
                <note type="status_transkription">finalisiert</note>
-               <note type="images_on_share">False</note>
+               <note type="images_on_share">True</note>
+               <note type="contributors">Štěpánka Grunová</note>
+               <note type="credits">bearb. v. Petr Maťa (Ersttranskription von Štěpánka Grunová)</note>
                <note type="entities">False</note>
                <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
@@ -1399,7 +1452,7 @@
                <note type="daily_order">1</note>
                <note type="regest">False</note>
                <note type="status_transkription">nicht vorhanden</note>
-               <note type="images_on_share">False</note>
+               <note type="images_on_share">True</note>
                <note type="entities">False</note>
                <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
@@ -1427,7 +1480,7 @@
                <note type="daily_order">1</note>
                <note type="regest">False</note>
                <note type="status_transkription">nicht vorhanden</note>
-               <note type="images_on_share">False</note>
+               <note type="images_on_share">True</note>
                <note type="entities">False</note>
                <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
@@ -1455,7 +1508,7 @@
                <note type="daily_order">1</note>
                <note type="regest">False</note>
                <note type="status_transkription">nicht vorhanden</note>
-               <note type="images_on_share">False</note>
+               <note type="images_on_share">True</note>
                <note type="entities">False</note>
                <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
@@ -1483,7 +1536,7 @@
                <note type="daily_order">1</note>
                <note type="regest">False</note>
                <note type="status_transkription">nicht vorhanden</note>
-               <note type="images_on_share">False</note>
+               <note type="images_on_share">True</note>
                <note type="entities">False</note>
                <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
@@ -1511,7 +1564,7 @@
                <note type="daily_order">1</note>
                <note type="regest">False</note>
                <note type="status_transkription">nicht vorhanden</note>
-               <note type="images_on_share">False</note>
+               <note type="images_on_share">True</note>
                <note type="entities">False</note>
                <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
@@ -1540,7 +1593,7 @@
                <note type="daily_order">1</note>
                <note type="regest">False</note>
                <note type="status_transkription">nicht vorhanden</note>
-               <note type="images_on_share">False</note>
+               <note type="images_on_share">True</note>
                <note type="entities">False</note>
                <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
@@ -1568,7 +1621,7 @@
                <note type="daily_order">1</note>
                <note type="regest">False</note>
                <note type="status_transkription">nicht vorhanden</note>
-               <note type="images_on_share">False</note>
+               <note type="images_on_share">True</note>
                <note type="entities">False</note>
                <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
@@ -1596,7 +1649,7 @@
                <note type="daily_order">1</note>
                <note type="regest">False</note>
                <note type="status_transkription">nicht vorhanden</note>
-               <note type="images_on_share">False</note>
+               <note type="images_on_share">True</note>
                <note type="entities">False</note>
                <note type="archiv_abbr">OÖLA</note>
             </noteGrp>
