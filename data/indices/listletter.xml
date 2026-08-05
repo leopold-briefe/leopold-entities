@@ -2551,7 +2551,7 @@
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
                <note type="collection">HA Steyr</note>
                <note type="signatur">K. 1233, Fasz. 22, Nr. 366/69, fol. 144r‒v</note>
-               <note type="kind">Original</note>
+               <note type="kind">Dechiffrat</note>
                <note type="main_language">deu</note>
                <note type="daily_order">1</note>
                <note type="regest">False</note>
@@ -3149,6 +3149,30 @@
                <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Johann Maximilian von Lamberg</persName>
                <placeName type="received_place" key="lb-place-1" ref="https://sws.geonames.org/2761369/">Wien</placeName>
                <date when="1660-11-26">1660-11-26</date>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-00201">
+            <noteGrp type="metadata">
+               <note type="not_before">1665-03-31</note>
+               <note type="archiv">Oberösterreichisches Landesarchiv</note>
+               <note type="collection">HA Steyr</note>
+               <note type="signatur">K. 1236, Fasz. 25, Nr. 451/93</note>
+               <note type="kind">Original</note>
+               <note type="main_language">deu</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">OÖLA</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+               <date when="1665-03-31">31. März 1665</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Johann Maximilian von Lamberg</persName>
             </correspAction>
             <!--  -->
          </correspDesc>

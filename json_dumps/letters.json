@@ -12146,9 +12146,9 @@
     "signatur": "K. 1233, Fasz. 22, Nr. 366/69, fol. 144r‒v",
     "kind": [
       {
-        "id": 23015,
-        "value": "Original",
-        "color": "dark-green"
+        "id": 23253,
+        "value": "Dechiffrat",
+        "color": "darker-cyan"
       }
     ],
     "main_language": {
@@ -14976,6 +14976,118 @@
   "244": {
     "id": 244,
     "order": "36.97560975609756184213",
+    "lb_id": "lb-00201",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 3,
+        "order": "3.00000000000000000000",
+        "label": "Johann Maximilian von Lamberg",
+        "lb_id": "lb-person-3",
+        "gnd_url": "https://d-nb.info/gnd/118823795",
+        "place_of_birth": [
+          {
+            "id": 3,
+            "order": "3.00000000000000000000",
+            "label": "Brno",
+            "lb_id": "lb-place-3",
+            "geonames_url": "https://www.geonames.org/3078610/brno.html",
+            "latitude": "49.19522",
+            "longitude": "16.60796",
+            "gnd_url": ""
+          }
+        ],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg",
+        "maiden_name": null
+      }
+    ],
+    "not_before": "1665-03-31",
+    "not_after": "1665-03-31",
+    "written_date": "31. März 1665",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "abbr": "OÖLA",
+        "label": "Oberösterreichisches Landesarchiv",
+        "lb_id": "lb-org-1",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/2020619-7",
+        "located_in": [
+          {
+            "id": 2,
+            "order": "2.00000000000000000000",
+            "label": "Linz",
+            "lb_id": "lb-place-2",
+            "geonames_url": "https://sws.geonames.org/2772400/",
+            "latitude": "48.30639",
+            "longitude": "14.28611",
+            "gnd_url": ""
+          }
+        ],
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
+      }
+    ],
+    "collection": "HA Steyr",
+    "signatur": "K. 1236, Fasz. 25, Nr. 451/93",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [],
+    "placename_written": "",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "277": {
+    "id": 277,
+    "order": "36.97619047619047449871",
     "lb_id": "",
     "sender": [
       {
