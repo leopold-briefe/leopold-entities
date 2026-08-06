@@ -139,17 +139,55 @@ for x in doc.any_xpath(".//tei:correspDesc[@xml:id]"):
             x, ".//tei:correspAction[@type='received']/tei:persName/text()"
         )[0]
     except IndexError:
-        receiver = "unbekannt"
+        receiver = "Unbekannt"
     try:
         date = any_xpath(x, ".//tei:correspAction[@type='sent']/tei:date/text()")[0]
     except IndexError:
-        date = "unbekannt"
+        date = "Unbekannt"
     try:
         place = any_xpath(
             x, ".//tei:correspAction[@type='sent']/tei:placeName[1]/text()"
         )[0]
     except IndexError:
-        place = "unbekannt"
+        place = "Unbekannt"
+    title = f"{sender} an {receiver} am {date} ({place})"
+    x.attrib["n"] = title
+
+doc.tree_to_file(file)
+
+
+file = os.path.join("data", "indices", "mentioned-letters.xml")
+print(f"adding labels to correspAction elements {file}")
+
+doc = TeiReader(file)
+for x in doc.any_xpath(".//tei:correspDesc[@xml:id]"):
+    try:
+        sender = any_xpath(x, ".//tei:correspAction[@type='sent']/tei:persName/text()")[
+            0
+        ]
+    except IndexError:
+        sender = "Leopold I."
+    try:
+        receiver = any_xpath(
+            x, ".//tei:correspAction[@type='received']/tei:persName/text()"
+        )[0]
+    except IndexError:
+        receiver = "Unbekannt"
+    try:
+        date = any_xpath(x, ".//tei:correspAction[@type='sent']/tei:date/text()")[0]
+    except IndexError:
+        date = "Unbekannt"
+    try:
+        place = any_xpath(
+            x, ".//tei:correspAction[@type='sent']/tei:placeName[1]/text()"
+        )[0]
+    except IndexError:
+        try:
+            place = any_xpath(
+                x, ".//tei:correspAction[@type='received']/tei:placeName[1]/text()"
+            )[0]
+        except IndexError:
+            place = "Unbekannt"
     title = f"{sender} an {receiver} am {date} ({place})"
     x.attrib["n"] = title
 
