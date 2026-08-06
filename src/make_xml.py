@@ -6,6 +6,7 @@ import re
 import jinja2
 import lxml.etree as ET
 from acdh_tei_pyutils.tei import TeiReader
+from acdh_tei_pyutils.utils import any_xpath
 from AcdhArcheAssets.uri_norm_rules import get_normalized_uri
 
 templateLoader = jinja2.FileSystemLoader(searchpath="src/templates")
@@ -125,3 +126,31 @@ for x in glob.glob(f"{out_dir}/*.xml"):
 
 os.rename("data/indices/listcalendar_entrie.xml", "data/indices/listevent.xml")
 os.rename("data/indices/listmentioned_letter.xml", "data/indices/mentioned-letters.xml")
+
+
+file = os.path.join("data", "indices", "listletter.xml")
+print(f"adding labels to correspAction elements {file}")
+
+doc = TeiReader(file)
+for x in doc.any_xpath(".//tei:correspDesc[@xml:id]"):
+    sender = "Leopold I."
+    try:
+        receiver = any_xpath(
+            x, ".//tei:correspAction[@type='received']/tei:persName/text()"
+        )[0]
+    except IndexError:
+        receiver = "unbekannt"
+    try:
+        date = any_xpath(x, ".//tei:correspAction[@type='sent']/tei:date/text()")[0]
+    except IndexError:
+        date = "unbekannt"
+    try:
+        place = any_xpath(
+            x, ".//tei:correspAction[@type='sent']/tei:placeName[1]/text()"
+        )[0]
+    except IndexError:
+        place = "unbekannt"
+    title = f"{sender} an {receiver} am {date} ({place})"
+    x.attrib["n"] = title
+
+doc.tree_to_file(file)

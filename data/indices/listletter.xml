@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -24,7 +22,7 @@
          </sourceDesc>
       </fileDesc>
       <profileDesc>
-         <correspDesc xml:id="lb-00001">
+         <correspDesc xml:id="lb-00001" n="Leopold I. an Adolf Wratislaw von Sternberg am 28. Jänner 1668 (unbekannt)">
             <noteGrp type="metadata">
                <note type="not_before">1668-01-28</note>
                <note type="archiv">Archiv Národního muzea</note>
@@ -54,7 +52,7 @@
             </correspContext>
  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00002">
+         <correspDesc xml:id="lb-00002" n="Leopold I. an Adolf Wratislaw von Sternberg am 28. Jänner 1668 (unbekannt)">
             <noteGrp type="metadata">
                <note type="not_before">1668-01-28</note>
                <note type="archiv">Archiv Národního muzea</note>
@@ -81,7 +79,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00003">
+         <correspDesc xml:id="lb-00003" n="Leopold I. an Adolf Wratislaw von Sternberg am 28. Jänner 1668 (unbekannt)">
             <noteGrp type="metadata">
                <note type="not_before">1668-01-28</note>
                <note type="archiv">Archiv Národního muzea</note>
@@ -108,7 +106,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00004">
+         <correspDesc xml:id="lb-00004" n="Leopold I. an Adolf Wratislaw von Sternberg am 20. Juni 1672 (Wien)">
             <noteGrp type="metadata">
                <note type="not_before">1672-06-20</note>
                <note type="archiv">Archiv Národního muzea</note>
@@ -137,7 +135,7 @@
             </correspContext>
  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00005">
+         <correspDesc xml:id="lb-00005" n="Leopold I. an Adolf Wratislaw von Sternberg am 20. Juni 1672 (Wien)">
             <noteGrp type="metadata">
                <note type="not_before">1672-06-20</note>
                <note type="archiv">Archiv Národního muzea</note>
@@ -164,7 +162,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00006">
+         <correspDesc xml:id="lb-00006" n="Leopold I. an Adolf Wratislaw von Sternberg am 9. April 1677 (Wien)">
             <noteGrp type="metadata">
                <note type="not_before">1677-04-09</note>
                <note type="archiv">Archiv Národního muzea</note>
@@ -194,7 +192,7 @@
             </correspContext>
  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00007">
+         <correspDesc xml:id="lb-00007" n="Leopold I. an Adolf Wratislaw von Sternberg am 9. April 1677 (Wien)">
             <noteGrp type="metadata">
                <note type="not_before">1677-04-09</note>
                <note type="archiv">Archiv Národního muzea</note>
@@ -220,7 +218,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00008">
+         <correspDesc xml:id="lb-00008" n="Leopold I. an Adolf Wratislaw von Sternberg am 9. April 1677 (Wien)">
             <noteGrp type="metadata">
                <note type="not_before">1677-04-09</note>
                <note type="archiv">Archiv Národního muzea</note>
@@ -246,7 +244,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00009">
+         <correspDesc xml:id="lb-00009" n="Leopold I. an Adolf Wratislaw von Sternberg am 14. August 1678 (Wien)">
             <noteGrp type="metadata">
                <note type="not_before">1678-08-14</note>
                <note type="archiv">Archiv Národního muzea</note>
@@ -276,7 +274,7 @@
             </correspContext>
  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00010">
+         <correspDesc xml:id="lb-00010" n="Leopold I. an Adolf Wratislaw von Sternberg am 14. August 1678 (Wien)">
             <noteGrp type="metadata">
                <note type="not_before">1678-08-14</note>
                <note type="archiv">Archiv Národního muzea</note>
@@ -303,7 +301,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00011">
+         <correspDesc xml:id="lb-00011" n="Leopold I. an Adolf Wratislaw von Sternberg am 14. August 1678 (Wien)">
             <noteGrp type="metadata">
                <note type="not_before">1678-08-14</note>
                <note type="archiv">Archiv Národního muzea</note>
@@ -329,7 +327,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00101">
+         <correspDesc xml:id="lb-00101" n="Leopold I. an Johann Maximilian von Lamberg am 19. November 1653 (Wien)">
             <noteGrp type="metadata">
                <note type="not_before">1653-11-19</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -358,7 +356,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00102">
+         <correspDesc xml:id="lb-00102" n="Leopold I. an Johann Maximilian von Lamberg am 3. Oktober 1654 (Ebersdorf)">
             <noteGrp type="metadata">
                <note type="not_before">1654-10-03</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -387,7 +385,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00103">
+         <correspDesc xml:id="lb-00103" n="Leopold I. an Johann Maximilian von Lamberg am 6. Mai 1654 (Wien)">
             <noteGrp type="metadata">
                <note type="not_before">1654-05-06</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -416,7 +414,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00104">
+         <correspDesc xml:id="lb-00104" n="Leopold I. an Johann Maximilian von Lamberg am 27. Jänner 1655 (Wien)">
             <noteGrp type="metadata">
                <note type="not_before">1655-01-27</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -445,7 +443,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00105">
+         <correspDesc xml:id="lb-00105" n="Leopold I. an Johann Maximilian von Lamberg am 31. Mai 1655 (Pressburg)">
             <noteGrp type="metadata">
                <note type="not_before">1655-05-31</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -474,7 +472,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00106">
+         <correspDesc xml:id="lb-00106" n="Leopold I. an Johann Maximilian von Lamberg am 29. Juni 1655 (Pressburg)">
             <noteGrp type="metadata">
                <note type="not_before">1655-06-29</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -501,7 +499,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00107">
+         <correspDesc xml:id="lb-00107" n="Leopold I. an Johann Maximilian von Lamberg am 27. Oktober 1655 (Ebersdorf)">
             <noteGrp type="metadata">
                <note type="not_before">1655-10-27</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -529,7 +527,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00108">
+         <correspDesc xml:id="lb-00108" n="Leopold I. an Johann Maximilian von Lamberg am 12. Jänner 1656 (Wien)">
             <noteGrp type="metadata">
                <note type="not_before">1656-01-12</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -557,7 +555,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00109">
+         <correspDesc xml:id="lb-00109" n="Leopold I. an Johann Maximilian von Lamberg am 26. Jänner 1656 (Wien)">
             <noteGrp type="metadata">
                <note type="not_before">1656-01-26</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -585,7 +583,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00110">
+         <correspDesc xml:id="lb-00110" n="Leopold I. an Johann Maximilian von Lamberg am 19. Juli 1656 (Wien)">
             <noteGrp type="metadata">
                <note type="not_before">1656-07-19</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -614,7 +612,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00111">
+         <correspDesc xml:id="lb-00111" n="Leopold I. an Johann Maximilian von Lamberg am 10. Mai 1656 (Baden)">
             <noteGrp type="metadata">
                <note type="not_before">1656-05-10</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -642,7 +640,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00112">
+         <correspDesc xml:id="lb-00112" n="Leopold I. an Johann Maximilian von Lamberg am 17. Oktober 1656 (Wien)">
             <noteGrp type="metadata">
                <note type="not_before">1656-10-17</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -670,7 +668,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00113">
+         <correspDesc xml:id="lb-00113" n="Leopold I. an Johann Maximilian von Lamberg am 11. Juli 1657 (Wien)">
             <noteGrp type="metadata">
                <note type="not_before">1657-07-11</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -698,7 +696,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00114">
+         <correspDesc xml:id="lb-00114" n="Leopold I. an Johann Maximilian von Lamberg am 4. August 1657 (Praha)">
             <noteGrp type="metadata">
                <note type="not_before">1657-08-04</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -728,7 +726,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00115">
+         <correspDesc xml:id="lb-00115" n="Leopold I. an Johann Maximilian von Lamberg am 10. August 1657 (Praha)">
             <noteGrp type="metadata">
                <note type="not_before">1657-08-10</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -756,7 +754,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00116">
+         <correspDesc xml:id="lb-00116" n="Leopold I. an Johann Maximilian von Lamberg am 23. August 1657 (Praha)">
             <noteGrp type="metadata">
                <note type="not_before">1657-08-23</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -786,7 +784,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00117">
+         <correspDesc xml:id="lb-00117" n="Leopold I. an Johann Maximilian von Lamberg am 5. September 1657 (Praha)">
             <noteGrp type="metadata">
                <note type="not_before">1657-09-05</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -816,7 +814,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00118">
+         <correspDesc xml:id="lb-00118" n="Leopold I. an Johann Maximilian von Lamberg am 12. September 1657 (Praha)">
             <noteGrp type="metadata">
                <note type="not_before">1657-09-12</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -846,7 +844,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00119">
+         <correspDesc xml:id="lb-00119" n="Leopold I. an Johann Maximilian von Lamberg am 24. Oktober 1657 (Praha)">
             <noteGrp type="metadata">
                <note type="not_before">1657-10-24</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -874,7 +872,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00120">
+         <correspDesc xml:id="lb-00120" n="Leopold I. an Johann Maximilian von Lamberg am 14. November 1657 (Praha)">
             <noteGrp type="metadata">
                <note type="not_before">1657-11-14</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -904,7 +902,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00121">
+         <correspDesc xml:id="lb-00121" n="Leopold I. an Johann Maximilian von Lamberg am 7. November 1657 (Praha)">
             <noteGrp type="metadata">
                <note type="not_before">1657-11-07</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -934,7 +932,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00122">
+         <correspDesc xml:id="lb-00122" n="Leopold I. an Johann Maximilian von Lamberg am 26. Dezember 1657 (Praha)">
             <noteGrp type="metadata">
                <note type="not_before">1657-12-26</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -964,7 +962,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00123">
+         <correspDesc xml:id="lb-00123" n="Leopold I. an Johann Maximilian von Lamberg am 19. Dezember 1657 (Praha)">
             <noteGrp type="metadata">
                <note type="not_before">1657-12-19</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -992,7 +990,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00124">
+         <correspDesc xml:id="lb-00124" n="Leopold I. an Johann Maximilian von Lamberg am 19. Dezember 1657 (Praha)">
             <noteGrp type="metadata">
                <note type="not_before">1657-12-19</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -1022,7 +1020,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00125">
+         <correspDesc xml:id="lb-00125" n="Leopold I. an Johann Maximilian von Lamberg am 16. Jänner 1658 (Praha)">
             <noteGrp type="metadata">
                <note type="not_before">1658-01-16</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -1053,7 +1051,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00126">
+         <correspDesc xml:id="lb-00126" n="Leopold I. an Johann Maximilian von Lamberg am 23. Jänner 1658 (Praha)">
             <noteGrp type="metadata">
                <note type="not_before">1658-01-23</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -1083,7 +1081,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00127">
+         <correspDesc xml:id="lb-00127" n="Leopold I. an Johann Maximilian von Lamberg am 13. März 1658 (Aschaffenburg)">
             <noteGrp type="metadata">
                <note type="not_before">1658-03-13</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -1113,7 +1111,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00128">
+         <correspDesc xml:id="lb-00128" n="Leopold I. an Johann Maximilian von Lamberg am 22. März 1658 (Frankfurt am Main)">
             <noteGrp type="metadata">
                <note type="not_before">1658-03-22</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -1143,7 +1141,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00129">
+         <correspDesc xml:id="lb-00129" n="Leopold I. an Johann Maximilian von Lamberg am 22. März 1658 (Frankfurt am Main)">
             <noteGrp type="metadata">
                <note type="not_before">1658-04-22</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -1171,7 +1169,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00130">
+         <correspDesc xml:id="lb-00130" n="Leopold I. an Johann Maximilian von Lamberg am 29. März 1658 (Frankfurt am Main)">
             <noteGrp type="metadata">
                <note type="not_before">1658-03-29</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -1201,7 +1199,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00131">
+         <correspDesc xml:id="lb-00131" n="Leopold I. an Johann Maximilian von Lamberg am 5. April 1658 (Frankfurt am Main)">
             <noteGrp type="metadata">
                <note type="not_before">1658-04-05</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -1231,7 +1229,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00132">
+         <correspDesc xml:id="lb-00132" n="Leopold I. an Johann Maximilian von Lamberg am 10. Mai 1658 (Frankfurt am Main)">
             <noteGrp type="metadata">
                <note type="not_before">1658-05-10</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -1261,7 +1259,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00133">
+         <correspDesc xml:id="lb-00133" n="Leopold I. an Johann Maximilian von Lamberg am 25. Mai 1658 (Frankfurt am Main)">
             <noteGrp type="metadata">
                <note type="not_before">1658-05-25</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -1291,7 +1289,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00134">
+         <correspDesc xml:id="lb-00134" n="Leopold I. an Johann Maximilian von Lamberg am 26. April 1658 (Frankfurt am Main)">
             <noteGrp type="metadata">
                <note type="not_before">1658-04-26</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -1321,7 +1319,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00135">
+         <correspDesc xml:id="lb-00135" n="Leopold I. an Johann Maximilian von Lamberg am 11. Juli 1658 (Frankfurt am Main)">
             <noteGrp type="metadata">
                <note type="not_before">1658-07-11</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -1351,7 +1349,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00136">
+         <correspDesc xml:id="lb-00136" n="Leopold I. an Johann Maximilian von Lamberg am 8. Juni 1658 (Frankfurt am Main)">
             <noteGrp type="metadata">
                <note type="not_before">1658-08-08</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -1381,7 +1379,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00137">
+         <correspDesc xml:id="lb-00137" n="Leopold I. an Johann Maximilian von Lamberg am 6. Juli 1658 (Frankfurt am Main)">
             <noteGrp type="metadata">
                <note type="not_before">1658-07-06</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -1411,7 +1409,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00138">
+         <correspDesc xml:id="lb-00138" n="Leopold I. an Johann Maximilian von Lamberg am 22. Mai 1658 (Frankfurt am Main)">
             <noteGrp type="metadata">
                <note type="not_before">1658-05-22</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -1441,7 +1439,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00139">
+         <correspDesc xml:id="lb-00139" n="Leopold I. an Johann Maximilian von Lamberg am 18. Juli 1658 (Frankfurt am Main)">
             <noteGrp type="metadata">
                <note type="not_before">1658-07-18</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -1469,7 +1467,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00140">
+         <correspDesc xml:id="lb-00140" n="Leopold I. an Johann Maximilian von Lamberg am 2. Oktober 1658 (Wien)">
             <noteGrp type="metadata">
                <note type="not_before">1658-10-02</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -1497,7 +1495,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00141">
+         <correspDesc xml:id="lb-00141" n="Leopold I. an Johann Maximilian von Lamberg am 23. Oktober 1658 (Wien)">
             <noteGrp type="metadata">
                <note type="not_before">1658-10-23</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -1525,7 +1523,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00142">
+         <correspDesc xml:id="lb-00142" n="Leopold I. an Johann Maximilian von Lamberg am 6. November 1658 (Wien)">
             <noteGrp type="metadata">
                <note type="not_before">1658-11-06</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -1553,7 +1551,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00143">
+         <correspDesc xml:id="lb-00143" n="Leopold I. an Johann Maximilian von Lamberg am 16. September 1658 (Linz)">
             <noteGrp type="metadata">
                <note type="not_before">1658-09-16</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -1582,7 +1580,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00144">
+         <correspDesc xml:id="lb-00144" n="Leopold I. an Johann Maximilian von Lamberg am 20. November 1658 (Wien)">
             <noteGrp type="metadata">
                <note type="not_before">1658-11-20</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -1610,7 +1608,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00145">
+         <correspDesc xml:id="lb-00145" n="Leopold I. an Johann Maximilian von Lamberg am 11. Dezember 1658 (Wien)">
             <noteGrp type="metadata">
                <note type="not_before">1658-12-11</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -1638,7 +1636,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00146">
+         <correspDesc xml:id="lb-00146" n="Leopold I. an Johann Maximilian von Lamberg am 11. Dezember 1658 (Wien)">
             <noteGrp type="metadata">
                <note type="not_before">1658-12-11</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -1663,7 +1661,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00147">
+         <correspDesc xml:id="lb-00147" n="Leopold I. an Johann Maximilian von Lamberg am 24. Dezember 1658 (Wien)">
             <noteGrp type="metadata">
                <note type="not_before">1658-12-24</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -1691,7 +1689,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00148">
+         <correspDesc xml:id="lb-00148" n="Leopold I. an Johann Maximilian von Lamberg am 27. Juli 1658 (Frankfurt am Main)">
             <noteGrp type="metadata">
                <note type="not_before">1658-07-27</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -1719,7 +1717,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00149">
+         <correspDesc xml:id="lb-00149" n="Leopold I. an Johann Maximilian von Lamberg am 9. August 1658 (Aschaffenburg)">
             <noteGrp type="metadata">
                <note type="not_before">1658-08-09</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -1748,7 +1746,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00150">
+         <correspDesc xml:id="lb-00150" n="Leopold I. an Johann Maximilian von Lamberg am 28. August 1658 (München)">
             <noteGrp type="metadata">
                <note type="not_before">1658-08-28</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -1776,7 +1774,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00151">
+         <correspDesc xml:id="lb-00151" n="Leopold I. an Johann Maximilian von Lamberg am 18. November 1659 (Pressburg)">
             <noteGrp type="metadata">
                <note type="not_before">1659-11-18</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -1804,7 +1802,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00152">
+         <correspDesc xml:id="lb-00152" n="Leopold I. an Johann Maximilian von Lamberg am 24. Dezember 1659 (Wien)">
             <noteGrp type="metadata">
                <note type="not_before">1659-12-24</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -1832,7 +1830,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00153">
+         <correspDesc xml:id="lb-00153" n="Leopold I. an Johann Maximilian von Lamberg am 10. Dezember 1659 (Wien)">
             <noteGrp type="metadata">
                <note type="not_before">1659-12-10</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -1860,7 +1858,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00154">
+         <correspDesc xml:id="lb-00154" n="Leopold I. an Johann Maximilian von Lamberg am 2. Dezember 1659 (Pressburg)">
             <noteGrp type="metadata">
                <note type="not_before">1659-12-02</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -1888,7 +1886,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00155">
+         <correspDesc xml:id="lb-00155" n="Leopold I. an Johann Maximilian von Lamberg am 4. November 1659 (Pressburg)">
             <noteGrp type="metadata">
                <note type="not_before">1659-11-04</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -1916,7 +1914,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00156">
+         <correspDesc xml:id="lb-00156" n="Leopold I. an Johann Maximilian von Lamberg am 21. Oktober 1659 (Pressburg)">
             <noteGrp type="metadata">
                <note type="not_before">1659-10-21</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -1944,7 +1942,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00157">
+         <correspDesc xml:id="lb-00157" n="Leopold I. an Johann Maximilian von Lamberg am 7. Oktober 1659 (Pressburg)">
             <noteGrp type="metadata">
                <note type="not_before">1659-10-07</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -1972,7 +1970,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00158">
+         <correspDesc xml:id="lb-00158" n="Leopold I. an Johann Maximilian von Lamberg am 22. September 1659 (Pressburg)">
             <noteGrp type="metadata">
                <note type="not_before">1659-09-22</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -2000,7 +1998,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00159">
+         <correspDesc xml:id="lb-00159" n="Leopold I. an Johann Maximilian von Lamberg am 9. September 1659 (Pressburg)">
             <noteGrp type="metadata">
                <note type="not_before">1659-09-09</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -2028,7 +2026,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00160">
+         <correspDesc xml:id="lb-00160" n="Leopold I. an Johann Maximilian von Lamberg am 16. August 1659 (Pressburg)">
             <noteGrp type="metadata">
                <note type="not_before">1659-08-16</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -2056,7 +2054,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00161">
+         <correspDesc xml:id="lb-00161" n="Leopold I. an Johann Maximilian von Lamberg am 12. August 1659 (Wien)">
             <noteGrp type="metadata">
                <note type="not_before">1659-08-12</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -2084,7 +2082,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00162">
+         <correspDesc xml:id="lb-00162" n="Leopold I. an Johann Maximilian von Lamberg am 16. April 1659 (Wien)">
             <noteGrp type="metadata">
                <note type="not_before">1659-04-16</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -2112,7 +2110,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00163">
+         <correspDesc xml:id="lb-00163" n="Leopold I. an Johann Maximilian von Lamberg am 16. April 1659 (Wien)">
             <noteGrp type="metadata">
                <note type="not_before">1659-04-16</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -2138,7 +2136,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00164">
+         <correspDesc xml:id="lb-00164" n="Leopold I. an Johann Maximilian von Lamberg am 23. April 1659 (Wien)">
             <noteGrp type="metadata">
                <note type="not_before">1659-04-23</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -2166,7 +2164,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00165">
+         <correspDesc xml:id="lb-00165" n="Leopold I. an Johann Maximilian von Lamberg am 14. Mai 1659 (Laxenburg)">
             <noteGrp type="metadata">
                <note type="not_before">1659-05-14</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -2194,7 +2192,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00166">
+         <correspDesc xml:id="lb-00166" n="Leopold I. an Johann Maximilian von Lamberg am 28. Mai 1659 (Laxenburg)">
             <noteGrp type="metadata">
                <note type="not_before">1659-05-28</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -2222,7 +2220,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00167">
+         <correspDesc xml:id="lb-00167" n="Leopold I. an Johann Maximilian von Lamberg am 28. Mai 1659 (unbekannt)">
             <noteGrp type="metadata">
                <note type="not_before">1659-05-28</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -2246,7 +2244,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00168">
+         <correspDesc xml:id="lb-00168" n="Leopold I. an Johann Maximilian von Lamberg am 11. Juni 1659 (Wien)">
             <noteGrp type="metadata">
                <note type="not_before">1659-06-11</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -2274,7 +2272,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00169">
+         <correspDesc xml:id="lb-00169" n="Leopold I. an Johann Maximilian von Lamberg am 25. Juni 1659 (Wien)">
             <noteGrp type="metadata">
                <note type="not_before">1659-06-25</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -2302,7 +2300,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00170">
+         <correspDesc xml:id="lb-00170" n="Leopold I. an Johann Maximilian von Lamberg am 9. Juli 1659 (Wien)">
             <noteGrp type="metadata">
                <note type="not_before">1659-07-09</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -2329,7 +2327,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00171">
+         <correspDesc xml:id="lb-00171" n="Leopold I. an Johann Maximilian von Lamberg am 9. Juli 1659 (unbekannt)">
             <noteGrp type="metadata">
                <note type="not_before">1659-07-09</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -2353,7 +2351,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00172">
+         <correspDesc xml:id="lb-00172" n="Leopold I. an Johann Maximilian von Lamberg am 30. Juli 1659 (Wien)">
             <noteGrp type="metadata">
                <note type="not_before">1659-07-30</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -2381,7 +2379,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00173">
+         <correspDesc xml:id="lb-00173" n="Leopold I. an Johann Maximilian von Lamberg am 30. Juli 1659 (unbekannt)">
             <noteGrp type="metadata">
                <note type="not_before">1659-07-30</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -2405,7 +2403,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00174">
+         <correspDesc xml:id="lb-00174" n="Leopold I. an Johann Maximilian von Lamberg am 8. Jänner 1659 (Wien)">
             <noteGrp type="metadata">
                <note type="not_before">1659-01-08</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -2433,7 +2431,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00175">
+         <correspDesc xml:id="lb-00175" n="Leopold I. an Johann Maximilian von Lamberg am 29. Jänner 1659 (Wien)">
             <noteGrp type="metadata">
                <note type="not_before">1659-01-29</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -2461,7 +2459,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00176">
+         <correspDesc xml:id="lb-00176" n="Leopold I. an Johann Maximilian von Lamberg am 12. Februar 1659 (Wien)">
             <noteGrp type="metadata">
                <note type="not_before">1659-02-12</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -2489,7 +2487,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00177">
+         <correspDesc xml:id="lb-00177" n="Leopold I. an Johann Maximilian von Lamberg am 26. Februar 1659 (Wien)">
             <noteGrp type="metadata">
                <note type="not_before">1659-02-26</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -2517,7 +2515,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00178">
+         <correspDesc xml:id="lb-00178" n="Leopold I. an Johann Maximilian von Lamberg am 12. März 1659 (Wien)">
             <noteGrp type="metadata">
                <note type="not_before">1659-03-12</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -2545,7 +2543,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00179">
+         <correspDesc xml:id="lb-00179" n="Leopold I. an Johann Maximilian von Lamberg am 12. März 1659 (unbekannt)">
             <noteGrp type="metadata">
                <note type="not_before">1659-03-12</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -2569,7 +2567,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00180">
+         <correspDesc xml:id="lb-00180" n="Leopold I. an Johann Maximilian von Lamberg am 2. April 1659 (Wien)">
             <noteGrp type="metadata">
                <note type="not_before">1659-04-02</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -2597,7 +2595,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00181">
+         <correspDesc xml:id="lb-00181" n="Leopold I. an Johann Maximilian von Lamberg am 2. April 1659 (unbekannt)">
             <noteGrp type="metadata">
                <note type="not_before">1659-04-02</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -2621,7 +2619,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00182">
+         <correspDesc xml:id="lb-00182" n="Leopold I. an Johann Maximilian von Lamberg am 6. August 1659 (Wien)">
             <noteGrp type="metadata">
                <note type="not_before">1659-08-06</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -2649,7 +2647,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00183">
+         <correspDesc xml:id="lb-00183" n="Leopold I. an Johann Maximilian von Lamberg am 17. August 1660 (Graz)">
             <noteGrp type="metadata">
                <note type="not_before">1660-08-17</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -2677,7 +2675,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00184">
+         <correspDesc xml:id="lb-00184" n="Leopold I. an Johann Maximilian von Lamberg am 7. Jänner 1660 (Wien)">
             <noteGrp type="metadata">
                <note type="not_before">1660-01-07</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -2705,7 +2703,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00185">
+         <correspDesc xml:id="lb-00185" n="Leopold I. an Johann Maximilian von Lamberg am 21. Jänner 1660 (Wien)">
             <noteGrp type="metadata">
                <note type="not_before">1660-01-21</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -2733,7 +2731,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00186">
+         <correspDesc xml:id="lb-00186" n="Leopold I. an Johann Maximilian von Lamberg am 11. Februar 1660 (Wien)">
             <noteGrp type="metadata">
                <note type="not_before">1660-02-11</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -2761,7 +2759,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00187">
+         <correspDesc xml:id="lb-00187" n="Leopold I. an Johann Maximilian von Lamberg am 25. Februar 1660 (Wien)">
             <noteGrp type="metadata">
                <note type="not_before">1660-02-25</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -2789,7 +2787,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00188">
+         <correspDesc xml:id="lb-00188" n="Leopold I. an Johann Maximilian von Lamberg am 18. Februar 1660 (Wien)">
             <noteGrp type="metadata">
                <note type="not_before">1660-02-18</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -2817,7 +2815,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00189">
+         <correspDesc xml:id="lb-00189" n="Leopold I. an Johann Maximilian von Lamberg am 10. März 1660 (Wien)">
             <noteGrp type="metadata">
                <note type="not_before">1660-03-10</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -2845,7 +2843,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00190">
+         <correspDesc xml:id="lb-00190" n="Leopold I. an Johann Maximilian von Lamberg am 12. April 1660 (Wien)">
             <noteGrp type="metadata">
                <note type="not_before">1660-04-12</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -2873,7 +2871,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00191">
+         <correspDesc xml:id="lb-00191" n="Leopold I. an Johann Maximilian von Lamberg am 24. März 1660 (Wien)">
             <noteGrp type="metadata">
                <note type="not_before">1660-03-24</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -2901,7 +2899,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00192">
+         <correspDesc xml:id="lb-00192" n="Leopold I. an Johann Maximilian von Lamberg am 7. April 1660 (Wien)">
             <noteGrp type="metadata">
                <note type="not_before">1660-04-07</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -2929,7 +2927,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00193">
+         <correspDesc xml:id="lb-00193" n="Leopold I. an Johann Maximilian von Lamberg am 21. April 1660 (Wien)">
             <noteGrp type="metadata">
                <note type="not_before">1660-04-21</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -2957,7 +2955,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00194">
+         <correspDesc xml:id="lb-00194" n="Leopold I. an Johann Maximilian von Lamberg am 9. Juni 1660 (Wien)">
             <noteGrp type="metadata">
                <note type="not_before">1660-06-09</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -2985,7 +2983,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00195">
+         <correspDesc xml:id="lb-00195" n="Leopold I. an Johann Maximilian von Lamberg am 4. Mai 1660 (Laxenburg)">
             <noteGrp type="metadata">
                <note type="not_before">1660-05-04</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -3013,7 +3011,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00196">
+         <correspDesc xml:id="lb-00196" n="Leopold I. an Johann Maximilian von Lamberg am 19. Mai 1660 (Laxenburg)">
             <noteGrp type="metadata">
                <note type="not_before">1660-05-19</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -3041,7 +3039,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00197">
+         <correspDesc xml:id="lb-00197" n="Leopold I. an Johann Maximilian von Lamberg am 28. Juni 1660 (Graz)">
             <noteGrp type="metadata">
                <note type="not_before">1660-06-28</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -3068,7 +3066,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00198">
+         <correspDesc xml:id="lb-00198" n="Leopold I. an Johann Maximilian von Lamberg am 13. Juli 1660 (Graz)">
             <noteGrp type="metadata">
                <note type="not_before">1660-07-13</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -3096,7 +3094,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00199">
+         <correspDesc xml:id="lb-00199" n="Leopold I. an Johann Maximilian von Lamberg am 16. Juni 1660 (Wien)">
             <noteGrp type="metadata">
                <note type="not_before">1660-06-16</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -3124,7 +3122,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00200">
+         <correspDesc xml:id="lb-00200" n="Leopold I. an Johann Maximilian von Lamberg am 27. Juli 1660 (Graz)">
             <noteGrp type="metadata">
                <note type="not_before">1660-07-27</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
@@ -3152,7 +3150,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00201">
+         <correspDesc xml:id="lb-00201" n="Leopold I. an Johann Maximilian von Lamberg am 31. März 1665 (unbekannt)">
             <noteGrp type="metadata">
                <note type="not_before">1665-03-31</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
