@@ -72,6 +72,12 @@
                      <placeName key="lb-place-165">Neuhaus</placeName>
                   </location>
                </org>
+               <org xml:id="lb-org-73">
+                  <orgName>Státní oblastní archiv v Třeboni, pracoviště Český Krumlov</orgName>
+                  <location>
+                     <placeName key="lb-place-165">Neuhaus</placeName>
+                  </location>
+               </org>
                <org xml:id="lb-org-71">
                   <orgName/>
                </org>

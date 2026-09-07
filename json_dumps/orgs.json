@@ -163,6 +163,30 @@
     "has_license": "",
     "translation": "Staatliches Gebietsarchiv in Wittingau, Arbeitsstelle Neuhaus ‒ Schloss"
   },
+  "73": {
+    "id": 73,
+    "order": "5.50000000000000000000",
+    "abbr": "SOA Třeboň/ČK",
+    "label": "Státní oblastní archiv v Třeboni, pracoviště Český Krumlov",
+    "lb_id": "lb-org-73",
+    "kind": null,
+    "gnd_url": "",
+    "located_in": [
+      {
+        "id": 165,
+        "order": "43.00000000000000000000",
+        "label": "Neuhaus",
+        "lb_id": "lb-place-165",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
+        "gnd_url": "",
+        "endonym": "Jindřichův Hradec"
+      }
+    ],
+    "has_license": "",
+    "translation": "Staatliches Gebietsarchiv in Wittingau, Arbeitsstelle Krumau"
+  },
   "71": {
     "id": 71,
     "order": "6.00000000000000000000",

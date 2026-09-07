@@ -255,6 +255,36 @@
                <place xml:id="lb-place-171">
                   <placeName>Klagenfurt</placeName>
                </place>
+               <place xml:id="lb-place-172">
+                  <placeName>Melk</placeName>
+               </place>
+               <place xml:id="lb-place-173">
+                  <placeName>Gutenstein</placeName>
+               </place>
+               <place xml:id="lb-place-174">
+                  <placeName>Türnitz</placeName>
+               </place>
+               <place xml:id="lb-place-175">
+                  <placeName>Wasserburg</placeName>
+               </place>
+               <place xml:id="lb-place-176">
+                  <placeName>Königstetten</placeName>
+               </place>
+               <place xml:id="lb-place-177">
+                  <placeName>Heiligenkreuz</placeName>
+               </place>
+               <place xml:id="lb-place-178">
+                  <placeName>Krems</placeName>
+               </place>
+               <place xml:id="lb-place-179">
+                  <placeName>Köln</placeName>
+               </place>
+               <place xml:id="lb-place-180">
+                  <placeName>Laibach</placeName>
+               </place>
+               <place xml:id="lb-place-181">
+                  <placeName>Leibnitz</placeName>
+               </place>
             </listPlace>
          </div>
       </body>

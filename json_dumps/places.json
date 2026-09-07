@@ -537,5 +537,115 @@
     "longitude": null,
     "gnd_url": "",
     "endonym": ""
+  },
+  "172": {
+    "id": 172,
+    "order": "50.00000000000000000000",
+    "label": "Melk",
+    "lb_id": "lb-place-172",
+    "geonames_url": "",
+    "latitude": null,
+    "longitude": null,
+    "gnd_url": "",
+    "endonym": ""
+  },
+  "173": {
+    "id": 173,
+    "order": "51.00000000000000000000",
+    "label": "Gutenstein",
+    "lb_id": "lb-place-173",
+    "geonames_url": "",
+    "latitude": null,
+    "longitude": null,
+    "gnd_url": "",
+    "endonym": ""
+  },
+  "174": {
+    "id": 174,
+    "order": "52.00000000000000000000",
+    "label": "Türnitz",
+    "lb_id": "lb-place-174",
+    "geonames_url": "",
+    "latitude": null,
+    "longitude": null,
+    "gnd_url": "",
+    "endonym": ""
+  },
+  "175": {
+    "id": 175,
+    "order": "53.00000000000000000000",
+    "label": "Wasserburg",
+    "lb_id": "lb-place-175",
+    "geonames_url": "",
+    "latitude": null,
+    "longitude": null,
+    "gnd_url": "",
+    "endonym": ""
+  },
+  "176": {
+    "id": 176,
+    "order": "54.00000000000000000000",
+    "label": "Königstetten",
+    "lb_id": "lb-place-176",
+    "geonames_url": "",
+    "latitude": null,
+    "longitude": null,
+    "gnd_url": "",
+    "endonym": ""
+  },
+  "177": {
+    "id": 177,
+    "order": "55.00000000000000000000",
+    "label": "Heiligenkreuz",
+    "lb_id": "lb-place-177",
+    "geonames_url": "",
+    "latitude": null,
+    "longitude": null,
+    "gnd_url": "",
+    "endonym": ""
+  },
+  "178": {
+    "id": 178,
+    "order": "56.00000000000000000000",
+    "label": "Krems",
+    "lb_id": "lb-place-178",
+    "geonames_url": "",
+    "latitude": null,
+    "longitude": null,
+    "gnd_url": "",
+    "endonym": ""
+  },
+  "179": {
+    "id": 179,
+    "order": "57.00000000000000000000",
+    "label": "Köln",
+    "lb_id": "lb-place-179",
+    "geonames_url": "",
+    "latitude": null,
+    "longitude": null,
+    "gnd_url": "",
+    "endonym": ""
+  },
+  "180": {
+    "id": 180,
+    "order": "58.00000000000000000000",
+    "label": "Laibach",
+    "lb_id": "lb-place-180",
+    "geonames_url": "",
+    "latitude": null,
+    "longitude": null,
+    "gnd_url": "",
+    "endonym": "Ljubljana"
+  },
+  "181": {
+    "id": 181,
+    "order": "59.00000000000000000000",
+    "label": "Leibnitz",
+    "lb_id": "lb-place-181",
+    "geonames_url": "",
+    "latitude": null,
+    "longitude": null,
+    "gnd_url": "",
+    "endonym": ""
   }
 }

@@ -374,5 +374,53 @@
     "first_name": "Georg Ludwig von",
     "last_name": "Sinzendorf",
     "maiden_name": ""
+  },
+  "83": {
+    "id": 83,
+    "order": "17.00000000000000000000",
+    "label": "Johann Adolf von Schwarzenberg",
+    "lb_id": "lb-person-83",
+    "gnd_url": "",
+    "place_of_birth": [],
+    "date_of_birth": null,
+    "place_of_death": [],
+    "date_of_death": null,
+    "wikidata_url": "",
+    "mentioned_letters - courier": [],
+    "first_name": "Johann Adolf von",
+    "last_name": "Schwarzenberg",
+    "maiden_name": ""
+  },
+  "84": {
+    "id": 84,
+    "order": "18.00000000000000000000",
+    "label": "Adolf Berger",
+    "lb_id": "lb-person-84",
+    "gnd_url": "",
+    "place_of_birth": [],
+    "date_of_birth": null,
+    "place_of_death": [],
+    "date_of_death": null,
+    "wikidata_url": "",
+    "mentioned_letters - courier": [],
+    "first_name": "Adolf",
+    "last_name": "Berger",
+    "maiden_name": ""
+  },
+  "85": {
+    "id": 85,
+    "order": "19.00000000000000000000",
+    "label": "Eleonora Magdalena Gonzaga",
+    "lb_id": "lb-person-85",
+    "gnd_url": "",
+    "place_of_birth": [],
+    "date_of_birth": null,
+    "place_of_death": [],
+    "date_of_death": null,
+    "wikidata_url": "",
+    "mentioned_letters - courier": [],
+    "first_name": "",
+    "last_name": "",
+    "maiden_name": ""
   }
 }

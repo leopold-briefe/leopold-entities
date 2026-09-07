@@ -220,6 +220,23 @@
                      <surname>Sinzendorf</surname>
                   </persName>
                </person>
+               <person xml:id="lb-person-83" n="Johann Adolf von Schwarzenberg">
+                  <persName type="preferred">Johann Adolf von Schwarzenberg</persName>
+                  <persName type="parts">
+                     <forename>Johann Adolf von</forename>
+                     <surname>Schwarzenberg</surname>
+                  </persName>
+               </person>
+               <person xml:id="lb-person-84" n="Adolf Berger">
+                  <persName type="preferred">Adolf Berger</persName>
+                  <persName type="parts">
+                     <forename>Adolf</forename>
+                     <surname>Berger</surname>
+                  </persName>
+               </person>
+               <person xml:id="lb-person-85" n="Eleonora Magdalena Gonzaga">
+                  <persName type="preferred">Eleonora Magdalena Gonzaga</persName>
+               </person>
             </listPerson>
          </div>
       </body>
