@@ -16116,7 +16116,7 @@
                <placeName key="lb-place-108" ref="https://www.geonames.org/2772809/schloss-laxenburg.html">Laxenburg</placeName>
                <placeName type="written">Laxenburg</placeName>
                <date when="1678-05-27">27. Mai 1678</date>
-               <note type="date">In der Edition auf den 7. Juni 1670 datier. NB Schwarzenberg als Fürst angesprochen, obwohl er noch Graf war.</note>
+               <note type="date">In der Edition auf den 7. Juni 1670 datiert. NB Schwarzenberg als Fürst angesprochen, obwohl er noch Graf war.</note>
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-83">Johann Adolf von Schwarzenberg</persName>
