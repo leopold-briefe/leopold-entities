@@ -33412,7 +33412,7 @@
       }
     ],
     "collection": "HA Steyr",
-    "signatur": "K. 1237, Fasz. 26, Nr. 481/147, fol. 156r‒v",
+    "signatur": "K. 1237, Fasz. 26, Nr. 481/147, fol. 256r‒v",
     "kind": [
       {
         "id": 23015,
@@ -33972,6 +33972,144 @@
       }
     ],
     "received_date": "1662-05-11",
+    "images_on_share": false,
+    "contributors": [],
+    "credits": null,
+    "entities": false,
+    "related_letters": []
+  },
+  "890": {
+    "id": 890,
+    "order": "37.99004975124378091778",
+    "lb_id": "lb-00347",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 3,
+        "order": "3.00000000000000000000",
+        "label": "Johann Maximilian von Lamberg",
+        "lb_id": "lb-person-3",
+        "gnd_url": "https://d-nb.info/gnd/118823795",
+        "place_of_birth": [
+          {
+            "id": 3,
+            "order": "3.00000000000000000000",
+            "label": "Brünn",
+            "lb_id": "lb-place-3",
+            "geonames_url": "https://www.geonames.org/3078610/brno.html",
+            "latitude": "49.19522",
+            "longitude": "16.60796",
+            "gnd_url": "",
+            "endonym": "Brno"
+          }
+        ],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Maximilian von",
+        "last_name": "Lamberg",
+        "maiden_name": null
+      }
+    ],
+    "not_before": "1662-05-13",
+    "not_after": "1662-05-13",
+    "written_date": "13. Mai 1662",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "abbr": "OÖLA",
+        "label": "Oberösterreichisches Landesarchiv",
+        "lb_id": "lb-org-1",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/2020619-7",
+        "located_in": [
+          {
+            "id": 2,
+            "order": "2.00000000000000000000",
+            "label": "Linz",
+            "lb_id": "lb-place-2",
+            "geonames_url": "https://sws.geonames.org/2772400/",
+            "latitude": "48.30639",
+            "longitude": "14.28611",
+            "gnd_url": "",
+            "endonym": null
+          }
+        ],
+        "has_license": "https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0",
+        "translation": null
+      }
+    ],
+    "collection": "HA Steyr",
+    "signatur": "K. 1240, Fasz. 30, Nr. 661/2",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 108,
+        "order": "18.00000000000000000000",
+        "label": "Laxenburg",
+        "lb_id": "lb-place-108",
+        "geonames_url": "https://www.geonames.org/2772809/schloss-laxenburg.html",
+        "latitude": "48.06667",
+        "longitude": "16.36667",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "placename_written": "Lax[enburg]",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
+    "received_place": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "received_date": "1662-05-13",
     "images_on_share": false,
     "contributors": [],
     "credits": null,

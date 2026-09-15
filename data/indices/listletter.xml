@@ -6871,7 +6871,7 @@
                <note type="not_before">1680-04-14</note>
                <note type="archiv">Oberösterreichisches Landesarchiv</note>
                <note type="collection">HA Steyr</note>
-               <note type="signatur">K. 1237, Fasz. 26, Nr. 481/147, fol. 156r‒v</note>
+               <note type="signatur">K. 1237, Fasz. 26, Nr. 481/147, fol. 256r‒v</note>
                <note type="kind">Original</note>
                <note type="main_language">deu</note>
                <note type="daily_order">1</note>
@@ -6992,6 +6992,34 @@
                <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Johann Maximilian von Lamberg</persName>
                <placeName type="received_place" key="lb-place-1" ref="https://sws.geonames.org/2761369/">Wien</placeName>
                <date when="1662-05-11">1662-05-11</date>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-00347" n="Leopold I. an Johann Maximilian von Lamberg am 13. Mai 1662 (Laxenburg)">
+            <noteGrp type="metadata">
+               <note type="not_before">1662-05-13</note>
+               <note type="archiv">Oberösterreichisches Landesarchiv</note>
+               <note type="collection">HA Steyr</note>
+               <note type="signatur">K. 1240, Fasz. 30, Nr. 661/2</note>
+               <note type="kind">Original</note>
+               <note type="main_language">deu</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">OÖLA</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+               <placeName key="lb-place-108" ref="https://www.geonames.org/2772809/schloss-laxenburg.html">Laxenburg</placeName>
+               <placeName type="written">Lax[enburg]</placeName>
+               <date when="1662-05-13">13. Mai 1662</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-3" ref="https://d-nb.info/gnd/118823795">Johann Maximilian von Lamberg</persName>
+               <placeName type="received_place" key="lb-place-1" ref="https://sws.geonames.org/2761369/">Wien</placeName>
+               <date when="1662-05-13">1662-05-13</date>
             </correspAction>
             <!--  -->
          </correspDesc>
