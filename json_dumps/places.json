@@ -647,5 +647,104 @@
     "longitude": null,
     "gnd_url": "",
     "endonym": ""
+  },
+  "182": {
+    "id": 182,
+    "order": "60.00000000000000000000",
+    "label": "Walpersdorf",
+    "lb_id": "lb-place-182",
+    "geonames_url": "",
+    "latitude": null,
+    "longitude": null,
+    "gnd_url": "",
+    "endonym": ""
+  },
+  "183": {
+    "id": 183,
+    "order": "61.00000000000000000000",
+    "label": "Klein-Mariazell",
+    "lb_id": "lb-place-183",
+    "geonames_url": "",
+    "latitude": null,
+    "longitude": null,
+    "gnd_url": "",
+    "endonym": ""
+  },
+  "184": {
+    "id": 184,
+    "order": "62.00000000000000000000",
+    "label": "Trumau",
+    "lb_id": "lb-place-184",
+    "geonames_url": "",
+    "latitude": null,
+    "longitude": null,
+    "gnd_url": "",
+    "endonym": ""
+  },
+  "185": {
+    "id": 185,
+    "order": "63.00000000000000000000",
+    "label": "Znaim",
+    "lb_id": "lb-place-185",
+    "geonames_url": "",
+    "latitude": null,
+    "longitude": null,
+    "gnd_url": "",
+    "endonym": "Znojmo"
+  },
+  "186": {
+    "id": 186,
+    "order": "64.00000000000000000000",
+    "label": "Lilienfeld",
+    "lb_id": "lb-place-186",
+    "geonames_url": "",
+    "latitude": null,
+    "longitude": null,
+    "gnd_url": "",
+    "endonym": ""
+  },
+  "187": {
+    "id": 187,
+    "order": "65.00000000000000000000",
+    "label": "Wittingau",
+    "lb_id": "lb-place-187",
+    "geonames_url": "",
+    "latitude": null,
+    "longitude": null,
+    "gnd_url": "",
+    "endonym": "Třeboň"
+  },
+  "188": {
+    "id": 188,
+    "order": "66.00000000000000000000",
+    "label": "Gmunden",
+    "lb_id": "lb-place-188",
+    "geonames_url": "",
+    "latitude": null,
+    "longitude": null,
+    "gnd_url": "",
+    "endonym": ""
+  },
+  "189": {
+    "id": 189,
+    "order": "67.00000000000000000000",
+    "label": "Altötting",
+    "lb_id": "lb-place-189",
+    "geonames_url": "",
+    "latitude": null,
+    "longitude": null,
+    "gnd_url": "",
+    "endonym": ""
+  },
+  "190": {
+    "id": 190,
+    "order": "68.00000000000000000000",
+    "label": "Ried im Innkreis",
+    "lb_id": "lb-place-190",
+    "geonames_url": "",
+    "latitude": null,
+    "longitude": null,
+    "gnd_url": "",
+    "endonym": ""
   }
 }

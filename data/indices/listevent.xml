@@ -5460,7 +5460,7 @@
                   <label>1660-08-30</label>
                   <desc>Den 30. 3 brieff auf Wienn geschriben.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-00473">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-1">Wien</rs>
                         </title>
                         <date>1660-08-30</date>

@@ -285,6 +285,33 @@
                <place xml:id="lb-place-181">
                   <placeName>Leibnitz</placeName>
                </place>
+               <place xml:id="lb-place-182">
+                  <placeName>Walpersdorf</placeName>
+               </place>
+               <place xml:id="lb-place-183">
+                  <placeName>Klein-Mariazell</placeName>
+               </place>
+               <place xml:id="lb-place-184">
+                  <placeName>Trumau</placeName>
+               </place>
+               <place xml:id="lb-place-185">
+                  <placeName>Znaim</placeName>
+               </place>
+               <place xml:id="lb-place-186">
+                  <placeName>Lilienfeld</placeName>
+               </place>
+               <place xml:id="lb-place-187">
+                  <placeName>Wittingau</placeName>
+               </place>
+               <place xml:id="lb-place-188">
+                  <placeName>Gmunden</placeName>
+               </place>
+               <place xml:id="lb-place-189">
+                  <placeName>Altötting</placeName>
+               </place>
+               <place xml:id="lb-place-190">
+                  <placeName>Ried im Innkreis</placeName>
+               </place>
             </listPlace>
          </div>
       </body>

@@ -6917,7 +6917,7 @@
                <placeName type="destination" key="lb-place-1" ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc xml:id="lb-ml-771" n="Leopold I. an Unbekannt am 1660-08-30 (Wien)">
+         <correspDesc xml:id="lb-ml-771" corresp="#lb-00473" n="Leopold I. an Unbekannt am 1660-08-30 (Wien)">
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
                <date when="1660-08-30">1660-08-30</date>

@@ -21500,7 +21500,13 @@
     "dictated_letter": false,
     "note": "",
     "addressee_worked_out": [],
-    "original_letter": [],
+    "original_letter": [
+      {
+        "id": 556,
+        "value": "lb-00473",
+        "order": "37.99547511312216840906"
+      }
+    ],
     "correct_date": null,
     "lb_id": "lb-ml-771"
   },
