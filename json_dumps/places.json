@@ -746,5 +746,49 @@
     "longitude": null,
     "gnd_url": "",
     "endonym": ""
+  },
+  "191": {
+    "id": 191,
+    "order": "69.00000000000000000000",
+    "label": "Sünching",
+    "lb_id": "lb-place-191",
+    "geonames_url": "",
+    "latitude": null,
+    "longitude": null,
+    "gnd_url": "",
+    "endonym": ""
+  },
+  "192": {
+    "id": 192,
+    "order": "70.00000000000000000000",
+    "label": "Mauthausen",
+    "lb_id": "lb-place-192",
+    "geonames_url": "",
+    "latitude": null,
+    "longitude": null,
+    "gnd_url": "",
+    "endonym": ""
+  },
+  "193": {
+    "id": 193,
+    "order": "71.00000000000000000000",
+    "label": "Kammer",
+    "lb_id": "lb-place-193",
+    "geonames_url": "",
+    "latitude": null,
+    "longitude": null,
+    "gnd_url": "",
+    "endonym": ""
+  },
+  "194": {
+    "id": 194,
+    "order": "72.00000000000000000000",
+    "label": "Wörgl",
+    "lb_id": "lb-place-194",
+    "geonames_url": "",
+    "latitude": null,
+    "longitude": null,
+    "gnd_url": "",
+    "endonym": ""
   }
 }

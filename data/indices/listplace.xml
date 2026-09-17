@@ -312,6 +312,18 @@
                <place xml:id="lb-place-190">
                   <placeName>Ried im Innkreis</placeName>
                </place>
+               <place xml:id="lb-place-191">
+                  <placeName>Sünching</placeName>
+               </place>
+               <place xml:id="lb-place-192">
+                  <placeName>Mauthausen</placeName>
+               </place>
+               <place xml:id="lb-place-193">
+                  <placeName>Kammer</placeName>
+               </place>
+               <place xml:id="lb-place-194">
+                  <placeName>Wörgl</placeName>
+               </place>
             </listPlace>
          </div>
       </body>
