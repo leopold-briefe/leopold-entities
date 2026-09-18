@@ -790,5 +790,27 @@
     "longitude": null,
     "gnd_url": "",
     "endonym": ""
+  },
+  "226": {
+    "id": 226,
+    "order": "73.00000000000000000000",
+    "label": "Grinzing",
+    "lb_id": "lb-place-226",
+    "geonames_url": "",
+    "latitude": null,
+    "longitude": null,
+    "gnd_url": "",
+    "endonym": ""
+  },
+  "227": {
+    "id": 227,
+    "order": "74.00000000000000000000",
+    "label": "",
+    "lb_id": "lb-place-227",
+    "geonames_url": "",
+    "latitude": null,
+    "longitude": null,
+    "gnd_url": "",
+    "endonym": ""
   }
 }

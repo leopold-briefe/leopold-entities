@@ -110661,6 +110661,4710 @@
   "1201": {
     "id": 1201,
     "order": "558.00000000000000000000",
+    "lb_id": "lb-01029",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 40,
+        "order": "8.00000000000000000000",
+        "label": "Franz Eusebius von Pötting",
+        "lb_id": "lb-person-40",
+        "gnd_url": "https://d-nb.info/gnd/119324636",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Franz Eusebius von",
+        "last_name": "Pötting",
+        "maiden_name": null
+      }
+    ],
+    "not_before": "1667-04-28",
+    "not_after": "1667-04-28",
+    "written_date": "28. April 1667",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 3,
+        "order": "3.00000000000000000000",
+        "abbr": "ÖStA, HHStA",
+        "label": "Österreichisches Staatsarchiv, Haus-, Hof- und Staatsarchiv",
+        "lb_id": "lb-org-3",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/1045024-5",
+        "located_in": [
+          {
+            "id": 1,
+            "order": "1.00000000000000000000",
+            "label": "Wien",
+            "lb_id": "lb-place-1",
+            "geonames_url": "https://sws.geonames.org/2761369/",
+            "latitude": "48.20849",
+            "longitude": "16.37208",
+            "gnd_url": "",
+            "endonym": null
+          }
+        ],
+        "has_license": "",
+        "translation": null
+      }
+    ],
+    "collection": "Große Korrespondenz",
+    "signatur": "K. 33, Bd. 2 (1666‒1667), fol. 135r‒136v",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "placename_written": "Wienn",
+    "destination": [],
+    "hand": [],
+    "edition": [
+      {
+        "id": 1,
+        "value": "PŘIBRAM/PRAGENAU 1903–1904.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "volume": "1",
+    "number": "128",
+    "page": "297–299",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": "",
+    "entities": false,
+    "related_letters": []
+  },
+  "1202": {
+    "id": 1202,
+    "order": "559.00000000000000000000",
+    "lb_id": "lb-01030",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 40,
+        "order": "8.00000000000000000000",
+        "label": "Franz Eusebius von Pötting",
+        "lb_id": "lb-person-40",
+        "gnd_url": "https://d-nb.info/gnd/119324636",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Franz Eusebius von",
+        "last_name": "Pötting",
+        "maiden_name": null
+      }
+    ],
+    "not_before": "1667-05-11",
+    "not_after": "1667-05-11",
+    "written_date": "11. Mai 1667",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 3,
+        "order": "3.00000000000000000000",
+        "abbr": "ÖStA, HHStA",
+        "label": "Österreichisches Staatsarchiv, Haus-, Hof- und Staatsarchiv",
+        "lb_id": "lb-org-3",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/1045024-5",
+        "located_in": [
+          {
+            "id": 1,
+            "order": "1.00000000000000000000",
+            "label": "Wien",
+            "lb_id": "lb-place-1",
+            "geonames_url": "https://sws.geonames.org/2761369/",
+            "latitude": "48.20849",
+            "longitude": "16.37208",
+            "gnd_url": "",
+            "endonym": null
+          }
+        ],
+        "has_license": "",
+        "translation": null
+      }
+    ],
+    "collection": "Große Korrespondenz",
+    "signatur": "K. 33, Bd. 2 (1666‒1667), fol. 137r‒139v",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 108,
+        "order": "18.00000000000000000000",
+        "label": "Laxenburg",
+        "lb_id": "lb-place-108",
+        "geonames_url": "https://www.geonames.org/2772809/schloss-laxenburg.html",
+        "latitude": "48.06667",
+        "longitude": "16.36667",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "placename_written": "Laxenburg",
+    "destination": [
+      {
+        "id": 72,
+        "order": "14.00000000000000000000",
+        "label": "Madrid",
+        "lb_id": "lb-place-72",
+        "geonames_url": "https://www.geonames.org/3117735/madrid.html",
+        "latitude": "40.41650",
+        "longitude": "-3.70256",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "hand": [],
+    "edition": [
+      {
+        "id": 1,
+        "value": "PŘIBRAM/PRAGENAU 1903–1904.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "volume": "1",
+    "number": "129",
+    "page": "299–301",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": "",
+    "entities": false,
+    "related_letters": []
+  },
+  "1234": {
+    "id": 1234,
+    "order": "560.00000000000000000000",
+    "lb_id": "lb-01031",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 40,
+        "order": "8.00000000000000000000",
+        "label": "Franz Eusebius von Pötting",
+        "lb_id": "lb-person-40",
+        "gnd_url": "https://d-nb.info/gnd/119324636",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Franz Eusebius von",
+        "last_name": "Pötting",
+        "maiden_name": null
+      }
+    ],
+    "not_before": "1667-05-25",
+    "not_after": "1667-05-25",
+    "written_date": "25. Mai 1667",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 3,
+        "order": "3.00000000000000000000",
+        "abbr": "ÖStA, HHStA",
+        "label": "Österreichisches Staatsarchiv, Haus-, Hof- und Staatsarchiv",
+        "lb_id": "lb-org-3",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/1045024-5",
+        "located_in": [
+          {
+            "id": 1,
+            "order": "1.00000000000000000000",
+            "label": "Wien",
+            "lb_id": "lb-place-1",
+            "geonames_url": "https://sws.geonames.org/2761369/",
+            "latitude": "48.20849",
+            "longitude": "16.37208",
+            "gnd_url": "",
+            "endonym": null
+          }
+        ],
+        "has_license": "",
+        "translation": null
+      }
+    ],
+    "collection": "Große Korrespondenz",
+    "signatur": "K. 33, Bd. 2 (1666‒1667), fol. 140r‒142v",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 108,
+        "order": "18.00000000000000000000",
+        "label": "Laxenburg",
+        "lb_id": "lb-place-108",
+        "geonames_url": "https://www.geonames.org/2772809/schloss-laxenburg.html",
+        "latitude": "48.06667",
+        "longitude": "16.36667",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "placename_written": "Laxenburg",
+    "destination": [
+      {
+        "id": 72,
+        "order": "14.00000000000000000000",
+        "label": "Madrid",
+        "lb_id": "lb-place-72",
+        "geonames_url": "https://www.geonames.org/3117735/madrid.html",
+        "latitude": "40.41650",
+        "longitude": "-3.70256",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "hand": [],
+    "edition": [
+      {
+        "id": 1,
+        "value": "PŘIBRAM/PRAGENAU 1903–1904.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "volume": "1",
+    "number": "130",
+    "page": "302",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": "",
+    "entities": false,
+    "related_letters": []
+  },
+  "1235": {
+    "id": 1235,
+    "order": "562.00000000000000000000",
+    "lb_id": "lb-01032",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 40,
+        "order": "8.00000000000000000000",
+        "label": "Franz Eusebius von Pötting",
+        "lb_id": "lb-person-40",
+        "gnd_url": "https://d-nb.info/gnd/119324636",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Franz Eusebius von",
+        "last_name": "Pötting",
+        "maiden_name": null
+      }
+    ],
+    "not_before": "1667-06-06",
+    "not_after": "1667-06-06",
+    "written_date": "6. Juni 1667",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 3,
+        "order": "3.00000000000000000000",
+        "abbr": "ÖStA, HHStA",
+        "label": "Österreichisches Staatsarchiv, Haus-, Hof- und Staatsarchiv",
+        "lb_id": "lb-org-3",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/1045024-5",
+        "located_in": [
+          {
+            "id": 1,
+            "order": "1.00000000000000000000",
+            "label": "Wien",
+            "lb_id": "lb-place-1",
+            "geonames_url": "https://sws.geonames.org/2761369/",
+            "latitude": "48.20849",
+            "longitude": "16.37208",
+            "gnd_url": "",
+            "endonym": null
+          }
+        ],
+        "has_license": "",
+        "translation": null
+      }
+    ],
+    "collection": "Große Korrespondenz",
+    "signatur": "K. 33, Bd. 2 (1666‒1667), fol. 143r‒145v",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 108,
+        "order": "18.00000000000000000000",
+        "label": "Laxenburg",
+        "lb_id": "lb-place-108",
+        "geonames_url": "https://www.geonames.org/2772809/schloss-laxenburg.html",
+        "latitude": "48.06667",
+        "longitude": "16.36667",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "placename_written": "Laxenburg",
+    "destination": [],
+    "hand": [],
+    "edition": [
+      {
+        "id": 1,
+        "value": "PŘIBRAM/PRAGENAU 1903–1904.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "volume": "1",
+    "number": "131",
+    "page": "302–306",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": "",
+    "entities": false,
+    "related_letters": []
+  },
+  "1236": {
+    "id": 1236,
+    "order": "563.00000000000000000000",
+    "lb_id": "lb-01033",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 40,
+        "order": "8.00000000000000000000",
+        "label": "Franz Eusebius von Pötting",
+        "lb_id": "lb-person-40",
+        "gnd_url": "https://d-nb.info/gnd/119324636",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Franz Eusebius von",
+        "last_name": "Pötting",
+        "maiden_name": null
+      }
+    ],
+    "not_before": "1667-06-08",
+    "not_after": "1667-06-08",
+    "written_date": "8. Juni 1667",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 3,
+        "order": "3.00000000000000000000",
+        "abbr": "ÖStA, HHStA",
+        "label": "Österreichisches Staatsarchiv, Haus-, Hof- und Staatsarchiv",
+        "lb_id": "lb-org-3",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/1045024-5",
+        "located_in": [
+          {
+            "id": 1,
+            "order": "1.00000000000000000000",
+            "label": "Wien",
+            "lb_id": "lb-place-1",
+            "geonames_url": "https://sws.geonames.org/2761369/",
+            "latitude": "48.20849",
+            "longitude": "16.37208",
+            "gnd_url": "",
+            "endonym": null
+          }
+        ],
+        "has_license": "",
+        "translation": null
+      }
+    ],
+    "collection": "Große Korrespondenz",
+    "signatur": "K. 33, Bd. 2 (1666‒1667), fol. 146r‒148v",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "placename_written": "Wienn",
+    "destination": [
+      {
+        "id": 72,
+        "order": "14.00000000000000000000",
+        "label": "Madrid",
+        "lb_id": "lb-place-72",
+        "geonames_url": "https://www.geonames.org/3117735/madrid.html",
+        "latitude": "40.41650",
+        "longitude": "-3.70256",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "hand": [],
+    "edition": [
+      {
+        "id": 1,
+        "value": "PŘIBRAM/PRAGENAU 1903–1904.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "volume": "1",
+    "number": "132",
+    "page": "306f.",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": "",
+    "entities": false,
+    "related_letters": []
+  },
+  "1237": {
+    "id": 1237,
+    "order": "564.00000000000000000000",
+    "lb_id": "lb-01034",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 40,
+        "order": "8.00000000000000000000",
+        "label": "Franz Eusebius von Pötting",
+        "lb_id": "lb-person-40",
+        "gnd_url": "https://d-nb.info/gnd/119324636",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Franz Eusebius von",
+        "last_name": "Pötting",
+        "maiden_name": null
+      }
+    ],
+    "not_before": "1667-06-20",
+    "not_after": "1667-06-20",
+    "written_date": "20. Juni 1667",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 3,
+        "order": "3.00000000000000000000",
+        "abbr": "ÖStA, HHStA",
+        "label": "Österreichisches Staatsarchiv, Haus-, Hof- und Staatsarchiv",
+        "lb_id": "lb-org-3",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/1045024-5",
+        "located_in": [
+          {
+            "id": 1,
+            "order": "1.00000000000000000000",
+            "label": "Wien",
+            "lb_id": "lb-place-1",
+            "geonames_url": "https://sws.geonames.org/2761369/",
+            "latitude": "48.20849",
+            "longitude": "16.37208",
+            "gnd_url": "",
+            "endonym": null
+          }
+        ],
+        "has_license": "",
+        "translation": null
+      }
+    ],
+    "collection": "Große Korrespondenz",
+    "signatur": "K. 33, Bd. 2 (1666‒1667), fol. 149r‒151v",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "placename_written": "Wienn",
+    "destination": [
+      {
+        "id": 72,
+        "order": "14.00000000000000000000",
+        "label": "Madrid",
+        "lb_id": "lb-place-72",
+        "geonames_url": "https://www.geonames.org/3117735/madrid.html",
+        "latitude": "40.41650",
+        "longitude": "-3.70256",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "hand": [],
+    "edition": [
+      {
+        "id": 1,
+        "value": "PŘIBRAM/PRAGENAU 1903–1904.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "volume": "1",
+    "number": "133",
+    "page": "307f.",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": "",
+    "entities": false,
+    "related_letters": []
+  },
+  "1238": {
+    "id": 1238,
+    "order": "565.00000000000000000000",
+    "lb_id": "lb-01035",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 40,
+        "order": "8.00000000000000000000",
+        "label": "Franz Eusebius von Pötting",
+        "lb_id": "lb-person-40",
+        "gnd_url": "https://d-nb.info/gnd/119324636",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Franz Eusebius von",
+        "last_name": "Pötting",
+        "maiden_name": null
+      }
+    ],
+    "not_before": "1667-07-07",
+    "not_after": "1667-07-07",
+    "written_date": "7. Juli 1667",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 3,
+        "order": "3.00000000000000000000",
+        "abbr": "ÖStA, HHStA",
+        "label": "Österreichisches Staatsarchiv, Haus-, Hof- und Staatsarchiv",
+        "lb_id": "lb-org-3",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/1045024-5",
+        "located_in": [
+          {
+            "id": 1,
+            "order": "1.00000000000000000000",
+            "label": "Wien",
+            "lb_id": "lb-place-1",
+            "geonames_url": "https://sws.geonames.org/2761369/",
+            "latitude": "48.20849",
+            "longitude": "16.37208",
+            "gnd_url": "",
+            "endonym": null
+          }
+        ],
+        "has_license": "",
+        "translation": null
+      }
+    ],
+    "collection": "Große Korrespondenz",
+    "signatur": "K. 33, Bd. 2 (1666‒1667), fol. 152r‒154v",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "placename_written": "Wienn",
+    "destination": [],
+    "hand": [],
+    "edition": [
+      {
+        "id": 1,
+        "value": "PŘIBRAM/PRAGENAU 1903–1904.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "volume": "1",
+    "number": "134",
+    "page": "308–311",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": "",
+    "entities": false,
+    "related_letters": []
+  },
+  "1239": {
+    "id": 1239,
+    "order": "566.00000000000000000000",
+    "lb_id": "lb-01036",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 40,
+        "order": "8.00000000000000000000",
+        "label": "Franz Eusebius von Pötting",
+        "lb_id": "lb-person-40",
+        "gnd_url": "https://d-nb.info/gnd/119324636",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Franz Eusebius von",
+        "last_name": "Pötting",
+        "maiden_name": null
+      }
+    ],
+    "not_before": "1667-07-21",
+    "not_after": "1667-07-21",
+    "written_date": "21. Juli 1667",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 3,
+        "order": "3.00000000000000000000",
+        "abbr": "ÖStA, HHStA",
+        "label": "Österreichisches Staatsarchiv, Haus-, Hof- und Staatsarchiv",
+        "lb_id": "lb-org-3",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/1045024-5",
+        "located_in": [
+          {
+            "id": 1,
+            "order": "1.00000000000000000000",
+            "label": "Wien",
+            "lb_id": "lb-place-1",
+            "geonames_url": "https://sws.geonames.org/2761369/",
+            "latitude": "48.20849",
+            "longitude": "16.37208",
+            "gnd_url": "",
+            "endonym": null
+          }
+        ],
+        "has_license": "",
+        "translation": null
+      }
+    ],
+    "collection": "Große Korrespondenz",
+    "signatur": "K. 33, Bd. 2 (1666‒1667), fol. 155r‒157v",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "placename_written": "Wienn",
+    "destination": [],
+    "hand": [],
+    "edition": [
+      {
+        "id": 1,
+        "value": "PŘIBRAM/PRAGENAU 1903–1904.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "volume": "1",
+    "number": "135",
+    "page": "311–313",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": "",
+    "entities": false,
+    "related_letters": []
+  },
+  "1240": {
+    "id": 1240,
+    "order": "567.00000000000000000000",
+    "lb_id": "lb-01037",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 40,
+        "order": "8.00000000000000000000",
+        "label": "Franz Eusebius von Pötting",
+        "lb_id": "lb-person-40",
+        "gnd_url": "https://d-nb.info/gnd/119324636",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Franz Eusebius von",
+        "last_name": "Pötting",
+        "maiden_name": null
+      }
+    ],
+    "not_before": "1667-08-03",
+    "not_after": "1667-08-03",
+    "written_date": "3. August 1667",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 3,
+        "order": "3.00000000000000000000",
+        "abbr": "ÖStA, HHStA",
+        "label": "Österreichisches Staatsarchiv, Haus-, Hof- und Staatsarchiv",
+        "lb_id": "lb-org-3",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/1045024-5",
+        "located_in": [
+          {
+            "id": 1,
+            "order": "1.00000000000000000000",
+            "label": "Wien",
+            "lb_id": "lb-place-1",
+            "geonames_url": "https://sws.geonames.org/2761369/",
+            "latitude": "48.20849",
+            "longitude": "16.37208",
+            "gnd_url": "",
+            "endonym": null
+          }
+        ],
+        "has_license": "",
+        "translation": null
+      }
+    ],
+    "collection": "Große Korrespondenz",
+    "signatur": "K. 33, Bd. 2 (1666‒1667), fol. 158r‒160v",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "placename_written": "Wienn",
+    "destination": [
+      {
+        "id": 72,
+        "order": "14.00000000000000000000",
+        "label": "Madrid",
+        "lb_id": "lb-place-72",
+        "geonames_url": "https://www.geonames.org/3117735/madrid.html",
+        "latitude": "40.41650",
+        "longitude": "-3.70256",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "hand": [],
+    "edition": [
+      {
+        "id": 1,
+        "value": "PŘIBRAM/PRAGENAU 1903–1904.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "volume": "1",
+    "number": "136",
+    "page": "313f.",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": "",
+    "entities": false,
+    "related_letters": []
+  },
+  "1241": {
+    "id": 1241,
+    "order": "568.00000000000000000000",
+    "lb_id": "lb-01038",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 40,
+        "order": "8.00000000000000000000",
+        "label": "Franz Eusebius von Pötting",
+        "lb_id": "lb-person-40",
+        "gnd_url": "https://d-nb.info/gnd/119324636",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Franz Eusebius von",
+        "last_name": "Pötting",
+        "maiden_name": null
+      }
+    ],
+    "not_before": "1667-08-17",
+    "not_after": "1667-08-17",
+    "written_date": "17. August 1667",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 3,
+        "order": "3.00000000000000000000",
+        "abbr": "ÖStA, HHStA",
+        "label": "Österreichisches Staatsarchiv, Haus-, Hof- und Staatsarchiv",
+        "lb_id": "lb-org-3",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/1045024-5",
+        "located_in": [
+          {
+            "id": 1,
+            "order": "1.00000000000000000000",
+            "label": "Wien",
+            "lb_id": "lb-place-1",
+            "geonames_url": "https://sws.geonames.org/2761369/",
+            "latitude": "48.20849",
+            "longitude": "16.37208",
+            "gnd_url": "",
+            "endonym": null
+          }
+        ],
+        "has_license": "",
+        "translation": null
+      }
+    ],
+    "collection": "Große Korrespondenz",
+    "signatur": "K. 33, Bd. 2 (1666‒1667), fol. 161r‒163v",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 226,
+        "order": "73.00000000000000000000",
+        "label": "Grinzing",
+        "lb_id": "lb-place-226",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
+        "gnd_url": "",
+        "endonym": ""
+      }
+    ],
+    "placename_written": "Grinzing",
+    "destination": [
+      {
+        "id": 72,
+        "order": "14.00000000000000000000",
+        "label": "Madrid",
+        "lb_id": "lb-place-72",
+        "geonames_url": "https://www.geonames.org/3117735/madrid.html",
+        "latitude": "40.41650",
+        "longitude": "-3.70256",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "hand": [],
+    "edition": [
+      {
+        "id": 1,
+        "value": "PŘIBRAM/PRAGENAU 1903–1904.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "volume": "1",
+    "number": "137",
+    "page": "315f.",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": "",
+    "entities": false,
+    "related_letters": []
+  },
+  "1242": {
+    "id": 1242,
+    "order": "569.00000000000000000000",
+    "lb_id": "lb-01039",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 40,
+        "order": "8.00000000000000000000",
+        "label": "Franz Eusebius von Pötting",
+        "lb_id": "lb-person-40",
+        "gnd_url": "https://d-nb.info/gnd/119324636",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Franz Eusebius von",
+        "last_name": "Pötting",
+        "maiden_name": null
+      }
+    ],
+    "not_before": "1667-08-31",
+    "not_after": "1667-08-31",
+    "written_date": "31. August 1667",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 3,
+        "order": "3.00000000000000000000",
+        "abbr": "ÖStA, HHStA",
+        "label": "Österreichisches Staatsarchiv, Haus-, Hof- und Staatsarchiv",
+        "lb_id": "lb-org-3",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/1045024-5",
+        "located_in": [
+          {
+            "id": 1,
+            "order": "1.00000000000000000000",
+            "label": "Wien",
+            "lb_id": "lb-place-1",
+            "geonames_url": "https://sws.geonames.org/2761369/",
+            "latitude": "48.20849",
+            "longitude": "16.37208",
+            "gnd_url": "",
+            "endonym": null
+          }
+        ],
+        "has_license": "",
+        "translation": null
+      }
+    ],
+    "collection": "Große Korrespondenz",
+    "signatur": "K. 33, Bd. 2 (1666‒1667), fol. 164r‒166v",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "placename_written": "Wienn",
+    "destination": [
+      {
+        "id": 72,
+        "order": "14.00000000000000000000",
+        "label": "Madrid",
+        "lb_id": "lb-place-72",
+        "geonames_url": "https://www.geonames.org/3117735/madrid.html",
+        "latitude": "40.41650",
+        "longitude": "-3.70256",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "hand": [],
+    "edition": [
+      {
+        "id": 1,
+        "value": "PŘIBRAM/PRAGENAU 1903–1904.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "volume": "1",
+    "number": "138",
+    "page": "316f.",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": "",
+    "entities": false,
+    "related_letters": []
+  },
+  "1243": {
+    "id": 1243,
+    "order": "570.00000000000000000000",
+    "lb_id": "lb-01040",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 40,
+        "order": "8.00000000000000000000",
+        "label": "Franz Eusebius von Pötting",
+        "lb_id": "lb-person-40",
+        "gnd_url": "https://d-nb.info/gnd/119324636",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Franz Eusebius von",
+        "last_name": "Pötting",
+        "maiden_name": null
+      }
+    ],
+    "not_before": "1667-09-10",
+    "not_after": "1667-09-10",
+    "written_date": "10. September 1667",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 3,
+        "order": "3.00000000000000000000",
+        "abbr": "ÖStA, HHStA",
+        "label": "Österreichisches Staatsarchiv, Haus-, Hof- und Staatsarchiv",
+        "lb_id": "lb-org-3",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/1045024-5",
+        "located_in": [
+          {
+            "id": 1,
+            "order": "1.00000000000000000000",
+            "label": "Wien",
+            "lb_id": "lb-place-1",
+            "geonames_url": "https://sws.geonames.org/2761369/",
+            "latitude": "48.20849",
+            "longitude": "16.37208",
+            "gnd_url": "",
+            "endonym": null
+          }
+        ],
+        "has_license": "",
+        "translation": null
+      }
+    ],
+    "collection": "Große Korrespondenz",
+    "signatur": "K. 33, Bd. 2 (1666‒1667), fol. 167r‒169v",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "placename_written": "Wienn",
+    "destination": [],
+    "hand": [],
+    "edition": [
+      {
+        "id": 1,
+        "value": "PŘIBRAM/PRAGENAU 1903–1904.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "volume": "1",
+    "number": "139",
+    "page": "317f.",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": "",
+    "entities": false,
+    "related_letters": []
+  },
+  "1244": {
+    "id": 1244,
+    "order": "572.00000000000000000000",
+    "lb_id": "lb-01041",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 40,
+        "order": "8.00000000000000000000",
+        "label": "Franz Eusebius von Pötting",
+        "lb_id": "lb-person-40",
+        "gnd_url": "https://d-nb.info/gnd/119324636",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Franz Eusebius von",
+        "last_name": "Pötting",
+        "maiden_name": null
+      }
+    ],
+    "not_before": "1667-09-14",
+    "not_after": "1667-09-14",
+    "written_date": "14. September 1667",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 3,
+        "order": "3.00000000000000000000",
+        "abbr": "ÖStA, HHStA",
+        "label": "Österreichisches Staatsarchiv, Haus-, Hof- und Staatsarchiv",
+        "lb_id": "lb-org-3",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/1045024-5",
+        "located_in": [
+          {
+            "id": 1,
+            "order": "1.00000000000000000000",
+            "label": "Wien",
+            "lb_id": "lb-place-1",
+            "geonames_url": "https://sws.geonames.org/2761369/",
+            "latitude": "48.20849",
+            "longitude": "16.37208",
+            "gnd_url": "",
+            "endonym": null
+          }
+        ],
+        "has_license": "",
+        "translation": null
+      }
+    ],
+    "collection": "Große Korrespondenz",
+    "signatur": "K. 33, Bd. 2 (1666‒1667), fol. 170r‒172v",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "placename_written": "Wienn",
+    "destination": [
+      {
+        "id": 72,
+        "order": "14.00000000000000000000",
+        "label": "Madrid",
+        "lb_id": "lb-place-72",
+        "geonames_url": "https://www.geonames.org/3117735/madrid.html",
+        "latitude": "40.41650",
+        "longitude": "-3.70256",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "hand": [],
+    "edition": [
+      {
+        "id": 1,
+        "value": "PŘIBRAM/PRAGENAU 1903–1904.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "volume": "1",
+    "number": "140",
+    "page": "319",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": "",
+    "entities": false,
+    "related_letters": []
+  },
+  "1246": {
+    "id": 1246,
+    "order": "572.50000000000000000000",
+    "lb_id": "lb-01042",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 40,
+        "order": "8.00000000000000000000",
+        "label": "Franz Eusebius von Pötting",
+        "lb_id": "lb-person-40",
+        "gnd_url": "https://d-nb.info/gnd/119324636",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Franz Eusebius von",
+        "last_name": "Pötting",
+        "maiden_name": null
+      }
+    ],
+    "not_before": "1667-09-18",
+    "not_after": "1667-09-18",
+    "written_date": "18. September 1667",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 3,
+        "order": "3.00000000000000000000",
+        "abbr": "ÖStA, HHStA",
+        "label": "Österreichisches Staatsarchiv, Haus-, Hof- und Staatsarchiv",
+        "lb_id": "lb-org-3",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/1045024-5",
+        "located_in": [
+          {
+            "id": 1,
+            "order": "1.00000000000000000000",
+            "label": "Wien",
+            "lb_id": "lb-place-1",
+            "geonames_url": "https://sws.geonames.org/2761369/",
+            "latitude": "48.20849",
+            "longitude": "16.37208",
+            "gnd_url": "",
+            "endonym": null
+          }
+        ],
+        "has_license": "",
+        "translation": null
+      }
+    ],
+    "collection": "Große Korrespondenz",
+    "signatur": "K. 33, Bd. 2 (1666‒1667), fol. 173r‒174v",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "placename_written": "Wienn",
+    "destination": [
+      {
+        "id": 72,
+        "order": "14.00000000000000000000",
+        "label": "Madrid",
+        "lb_id": "lb-place-72",
+        "geonames_url": "https://www.geonames.org/3117735/madrid.html",
+        "latitude": "40.41650",
+        "longitude": "-3.70256",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "hand": [],
+    "edition": [
+      {
+        "id": 1,
+        "value": "PŘIBRAM/PRAGENAU 1903–1904.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "volume": "1",
+    "number": "141",
+    "page": "320",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": "",
+    "entities": false,
+    "related_letters": []
+  },
+  "1247": {
+    "id": 1247,
+    "order": "572.66666666666662877105",
+    "lb_id": "lb-01043",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 40,
+        "order": "8.00000000000000000000",
+        "label": "Franz Eusebius von Pötting",
+        "lb_id": "lb-person-40",
+        "gnd_url": "https://d-nb.info/gnd/119324636",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Franz Eusebius von",
+        "last_name": "Pötting",
+        "maiden_name": null
+      }
+    ],
+    "not_before": "1667-09-24",
+    "not_after": "1667-09-24",
+    "written_date": "24. September 1667",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 3,
+        "order": "3.00000000000000000000",
+        "abbr": "ÖStA, HHStA",
+        "label": "Österreichisches Staatsarchiv, Haus-, Hof- und Staatsarchiv",
+        "lb_id": "lb-org-3",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/1045024-5",
+        "located_in": [
+          {
+            "id": 1,
+            "order": "1.00000000000000000000",
+            "label": "Wien",
+            "lb_id": "lb-place-1",
+            "geonames_url": "https://sws.geonames.org/2761369/",
+            "latitude": "48.20849",
+            "longitude": "16.37208",
+            "gnd_url": "",
+            "endonym": null
+          }
+        ],
+        "has_license": "",
+        "translation": null
+      }
+    ],
+    "collection": "Große Korrespondenz",
+    "signatur": "K. 33, Bd. 2 (1666‒1667), fol. 175r‒177v",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "placename_written": "Wienn",
+    "destination": [],
+    "hand": [],
+    "edition": [
+      {
+        "id": 1,
+        "value": "PŘIBRAM/PRAGENAU 1903–1904.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "volume": "1",
+    "number": "142",
+    "page": "321f.",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": "",
+    "entities": false,
+    "related_letters": []
+  },
+  "1248": {
+    "id": 1248,
+    "order": "572.75000000000000000000",
+    "lb_id": "lb-01044",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 40,
+        "order": "8.00000000000000000000",
+        "label": "Franz Eusebius von Pötting",
+        "lb_id": "lb-person-40",
+        "gnd_url": "https://d-nb.info/gnd/119324636",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Franz Eusebius von",
+        "last_name": "Pötting",
+        "maiden_name": null
+      }
+    ],
+    "not_before": "1667-09-28",
+    "not_after": "1667-09-28",
+    "written_date": "28. September 1667",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 3,
+        "order": "3.00000000000000000000",
+        "abbr": "ÖStA, HHStA",
+        "label": "Österreichisches Staatsarchiv, Haus-, Hof- und Staatsarchiv",
+        "lb_id": "lb-org-3",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/1045024-5",
+        "located_in": [
+          {
+            "id": 1,
+            "order": "1.00000000000000000000",
+            "label": "Wien",
+            "lb_id": "lb-place-1",
+            "geonames_url": "https://sws.geonames.org/2761369/",
+            "latitude": "48.20849",
+            "longitude": "16.37208",
+            "gnd_url": "",
+            "endonym": null
+          }
+        ],
+        "has_license": "",
+        "translation": null
+      }
+    ],
+    "collection": "Große Korrespondenz",
+    "signatur": "K. 33, Bd. 2 (1666‒1667), fol. 178r‒179v",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "placename_written": "Wienn",
+    "destination": [],
+    "hand": [],
+    "edition": [
+      {
+        "id": 1,
+        "value": "PŘIBRAM/PRAGENAU 1903–1904.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "volume": "1",
+    "number": "143",
+    "page": "322–324",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": "",
+    "entities": false,
+    "related_letters": []
+  },
+  "1249": {
+    "id": 1249,
+    "order": "572.79999999999995452526",
+    "lb_id": "lb-01045",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 40,
+        "order": "8.00000000000000000000",
+        "label": "Franz Eusebius von Pötting",
+        "lb_id": "lb-person-40",
+        "gnd_url": "https://d-nb.info/gnd/119324636",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Franz Eusebius von",
+        "last_name": "Pötting",
+        "maiden_name": null
+      }
+    ],
+    "not_before": "1667-09-28",
+    "not_after": "1667-09-28",
+    "written_date": "28. September 1667",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 3,
+        "order": "3.00000000000000000000",
+        "abbr": "ÖStA, HHStA",
+        "label": "Österreichisches Staatsarchiv, Haus-, Hof- und Staatsarchiv",
+        "lb_id": "lb-org-3",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/1045024-5",
+        "located_in": [
+          {
+            "id": 1,
+            "order": "1.00000000000000000000",
+            "label": "Wien",
+            "lb_id": "lb-place-1",
+            "geonames_url": "https://sws.geonames.org/2761369/",
+            "latitude": "48.20849",
+            "longitude": "16.37208",
+            "gnd_url": "",
+            "endonym": null
+          }
+        ],
+        "has_license": "",
+        "translation": null
+      }
+    ],
+    "collection": "Große Korrespondenz",
+    "signatur": "K. 33, Bd. 2 (1666‒1667), fol. 180r‒182v",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "2",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "placename_written": "Wienn",
+    "destination": [
+      {
+        "id": 72,
+        "order": "14.00000000000000000000",
+        "label": "Madrid",
+        "lb_id": "lb-place-72",
+        "geonames_url": "https://www.geonames.org/3117735/madrid.html",
+        "latitude": "40.41650",
+        "longitude": "-3.70256",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "hand": [],
+    "edition": [
+      {
+        "id": 1,
+        "value": "PŘIBRAM/PRAGENAU 1903–1904.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "volume": "1",
+    "number": "144",
+    "page": "325",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": "",
+    "entities": false,
+    "related_letters": []
+  },
+  "1250": {
+    "id": 1250,
+    "order": "572.83333333333337122895",
+    "lb_id": "lb-01046",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 40,
+        "order": "8.00000000000000000000",
+        "label": "Franz Eusebius von Pötting",
+        "lb_id": "lb-person-40",
+        "gnd_url": "https://d-nb.info/gnd/119324636",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Franz Eusebius von",
+        "last_name": "Pötting",
+        "maiden_name": null
+      }
+    ],
+    "not_before": "1667-10-03",
+    "not_after": "1667-10-03",
+    "written_date": "3. Oktober 1667",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 3,
+        "order": "3.00000000000000000000",
+        "abbr": "ÖStA, HHStA",
+        "label": "Österreichisches Staatsarchiv, Haus-, Hof- und Staatsarchiv",
+        "lb_id": "lb-org-3",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/1045024-5",
+        "located_in": [
+          {
+            "id": 1,
+            "order": "1.00000000000000000000",
+            "label": "Wien",
+            "lb_id": "lb-place-1",
+            "geonames_url": "https://sws.geonames.org/2761369/",
+            "latitude": "48.20849",
+            "longitude": "16.37208",
+            "gnd_url": "",
+            "endonym": null
+          }
+        ],
+        "has_license": "",
+        "translation": null
+      }
+    ],
+    "collection": "Große Korrespondenz",
+    "signatur": "K. 33, Bd. 2 (1666‒1667), fol. 183r‒185v",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "placename_written": "Wienn",
+    "destination": [],
+    "hand": [],
+    "edition": [
+      {
+        "id": 1,
+        "value": "PŘIBRAM/PRAGENAU 1903–1904.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "volume": "1",
+    "number": "145",
+    "page": "325",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": "",
+    "entities": false,
+    "related_letters": []
+  },
+  "1251": {
+    "id": 1251,
+    "order": "572.85714285714288962481",
+    "lb_id": "lb-01047",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 40,
+        "order": "8.00000000000000000000",
+        "label": "Franz Eusebius von Pötting",
+        "lb_id": "lb-person-40",
+        "gnd_url": "https://d-nb.info/gnd/119324636",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Franz Eusebius von",
+        "last_name": "Pötting",
+        "maiden_name": null
+      }
+    ],
+    "not_before": "1667-10-08",
+    "not_after": "1667-10-08",
+    "written_date": "8. Oktober 1667",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 3,
+        "order": "3.00000000000000000000",
+        "abbr": "ÖStA, HHStA",
+        "label": "Österreichisches Staatsarchiv, Haus-, Hof- und Staatsarchiv",
+        "lb_id": "lb-org-3",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/1045024-5",
+        "located_in": [
+          {
+            "id": 1,
+            "order": "1.00000000000000000000",
+            "label": "Wien",
+            "lb_id": "lb-place-1",
+            "geonames_url": "https://sws.geonames.org/2761369/",
+            "latitude": "48.20849",
+            "longitude": "16.37208",
+            "gnd_url": "",
+            "endonym": null
+          }
+        ],
+        "has_license": "",
+        "translation": null
+      }
+    ],
+    "collection": "Große Korrespondenz",
+    "signatur": "K. 33, Bd. 2 (1666‒1667), fol. 186r‒188v",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "placename_written": "Wienn",
+    "destination": [],
+    "hand": [],
+    "edition": [
+      {
+        "id": 1,
+        "value": "PŘIBRAM/PRAGENAU 1903–1904.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "volume": "1",
+    "number": "146",
+    "page": "325f.",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": "",
+    "entities": false,
+    "related_letters": []
+  },
+  "1252": {
+    "id": 1252,
+    "order": "572.87500000000000000000",
+    "lb_id": "lb-01048",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 40,
+        "order": "8.00000000000000000000",
+        "label": "Franz Eusebius von Pötting",
+        "lb_id": "lb-person-40",
+        "gnd_url": "https://d-nb.info/gnd/119324636",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Franz Eusebius von",
+        "last_name": "Pötting",
+        "maiden_name": null
+      }
+    ],
+    "not_before": "1667-10-12",
+    "not_after": "1667-10-12",
+    "written_date": "12. Oktober 1667",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 3,
+        "order": "3.00000000000000000000",
+        "abbr": "ÖStA, HHStA",
+        "label": "Österreichisches Staatsarchiv, Haus-, Hof- und Staatsarchiv",
+        "lb_id": "lb-org-3",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/1045024-5",
+        "located_in": [
+          {
+            "id": 1,
+            "order": "1.00000000000000000000",
+            "label": "Wien",
+            "lb_id": "lb-place-1",
+            "geonames_url": "https://sws.geonames.org/2761369/",
+            "latitude": "48.20849",
+            "longitude": "16.37208",
+            "gnd_url": "",
+            "endonym": null
+          }
+        ],
+        "has_license": "",
+        "translation": null
+      }
+    ],
+    "collection": "Große Korrespondenz",
+    "signatur": "K. 33, Bd. 2 (1666‒1667), fol. 189r‒191v",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "placename_written": "Wienn",
+    "destination": [
+      {
+        "id": 72,
+        "order": "14.00000000000000000000",
+        "label": "Madrid",
+        "lb_id": "lb-place-72",
+        "geonames_url": "https://www.geonames.org/3117735/madrid.html",
+        "latitude": "40.41650",
+        "longitude": "-3.70256",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "hand": [],
+    "edition": [
+      {
+        "id": 1,
+        "value": "PŘIBRAM/PRAGENAU 1903–1904.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "volume": "1",
+    "number": "147",
+    "page": "326f.",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": "",
+    "entities": false,
+    "related_letters": []
+  },
+  "1253": {
+    "id": 1253,
+    "order": "572.88888888888891415263",
+    "lb_id": "lb-01049",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 40,
+        "order": "8.00000000000000000000",
+        "label": "Franz Eusebius von Pötting",
+        "lb_id": "lb-person-40",
+        "gnd_url": "https://d-nb.info/gnd/119324636",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Franz Eusebius von",
+        "last_name": "Pötting",
+        "maiden_name": null
+      }
+    ],
+    "not_before": "1667-10-15",
+    "not_after": "1667-10-15",
+    "written_date": "15. Oktober 1667",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 3,
+        "order": "3.00000000000000000000",
+        "abbr": "ÖStA, HHStA",
+        "label": "Österreichisches Staatsarchiv, Haus-, Hof- und Staatsarchiv",
+        "lb_id": "lb-org-3",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/1045024-5",
+        "located_in": [
+          {
+            "id": 1,
+            "order": "1.00000000000000000000",
+            "label": "Wien",
+            "lb_id": "lb-place-1",
+            "geonames_url": "https://sws.geonames.org/2761369/",
+            "latitude": "48.20849",
+            "longitude": "16.37208",
+            "gnd_url": "",
+            "endonym": null
+          }
+        ],
+        "has_license": "",
+        "translation": null
+      }
+    ],
+    "collection": "Große Korrespondenz",
+    "signatur": "K. 33, Bd. 2 (1666‒1667), fol. 192r‒194v",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "placename_written": "Wien",
+    "destination": [],
+    "hand": [],
+    "edition": [
+      {
+        "id": 1,
+        "value": "PŘIBRAM/PRAGENAU 1903–1904.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "volume": "1",
+    "number": "148",
+    "page": "327–329",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": "",
+    "entities": false,
+    "related_letters": []
+  },
+  "1254": {
+    "id": 1254,
+    "order": "572.89999999999997726263",
+    "lb_id": "lb-01050",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 40,
+        "order": "8.00000000000000000000",
+        "label": "Franz Eusebius von Pötting",
+        "lb_id": "lb-person-40",
+        "gnd_url": "https://d-nb.info/gnd/119324636",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Franz Eusebius von",
+        "last_name": "Pötting",
+        "maiden_name": null
+      }
+    ],
+    "not_before": "1667-10-22",
+    "not_after": "1667-10-22",
+    "written_date": "22. Oktober 1667",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 3,
+        "order": "3.00000000000000000000",
+        "abbr": "ÖStA, HHStA",
+        "label": "Österreichisches Staatsarchiv, Haus-, Hof- und Staatsarchiv",
+        "lb_id": "lb-org-3",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/1045024-5",
+        "located_in": [
+          {
+            "id": 1,
+            "order": "1.00000000000000000000",
+            "label": "Wien",
+            "lb_id": "lb-place-1",
+            "geonames_url": "https://sws.geonames.org/2761369/",
+            "latitude": "48.20849",
+            "longitude": "16.37208",
+            "gnd_url": "",
+            "endonym": null
+          }
+        ],
+        "has_license": "",
+        "translation": null
+      }
+    ],
+    "collection": "Große Korrespondenz",
+    "signatur": "K. 33, Bd. 2 (1666‒1667), fol. 195r‒197v",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "placename_written": "Wienn",
+    "destination": [
+      {
+        "id": 72,
+        "order": "14.00000000000000000000",
+        "label": "Madrid",
+        "lb_id": "lb-place-72",
+        "geonames_url": "https://www.geonames.org/3117735/madrid.html",
+        "latitude": "40.41650",
+        "longitude": "-3.70256",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "hand": [],
+    "edition": [
+      {
+        "id": 1,
+        "value": "PŘIBRAM/PRAGENAU 1903–1904.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "volume": "1",
+    "number": "149",
+    "page": "329",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": "",
+    "entities": false,
+    "related_letters": []
+  },
+  "1255": {
+    "id": 1255,
+    "order": "572.90909090909087808541",
+    "lb_id": "lb-01051",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 40,
+        "order": "8.00000000000000000000",
+        "label": "Franz Eusebius von Pötting",
+        "lb_id": "lb-person-40",
+        "gnd_url": "https://d-nb.info/gnd/119324636",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Franz Eusebius von",
+        "last_name": "Pötting",
+        "maiden_name": null
+      }
+    ],
+    "not_before": "1667-10-26",
+    "not_after": "1667-10-26",
+    "written_date": "26. Oktober 1667",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 3,
+        "order": "3.00000000000000000000",
+        "abbr": "ÖStA, HHStA",
+        "label": "Österreichisches Staatsarchiv, Haus-, Hof- und Staatsarchiv",
+        "lb_id": "lb-org-3",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/1045024-5",
+        "located_in": [
+          {
+            "id": 1,
+            "order": "1.00000000000000000000",
+            "label": "Wien",
+            "lb_id": "lb-place-1",
+            "geonames_url": "https://sws.geonames.org/2761369/",
+            "latitude": "48.20849",
+            "longitude": "16.37208",
+            "gnd_url": "",
+            "endonym": null
+          }
+        ],
+        "has_license": "",
+        "translation": null
+      }
+    ],
+    "collection": "Große Korrespondenz",
+    "signatur": "K. 33, Bd. 2 (1666‒1667), fol. 198r‒200v",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "placename_written": "Wienn",
+    "destination": [
+      {
+        "id": 72,
+        "order": "14.00000000000000000000",
+        "label": "Madrid",
+        "lb_id": "lb-place-72",
+        "geonames_url": "https://www.geonames.org/3117735/madrid.html",
+        "latitude": "40.41650",
+        "longitude": "-3.70256",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "hand": [],
+    "edition": [
+      {
+        "id": 1,
+        "value": "PŘIBRAM/PRAGENAU 1903–1904.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "volume": "1",
+    "number": "150",
+    "page": "330",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": "",
+    "entities": false,
+    "related_letters": []
+  },
+  "1256": {
+    "id": 1256,
+    "order": "572.91666666666662877105",
+    "lb_id": "lb-01052",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 40,
+        "order": "8.00000000000000000000",
+        "label": "Franz Eusebius von Pötting",
+        "lb_id": "lb-person-40",
+        "gnd_url": "https://d-nb.info/gnd/119324636",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Franz Eusebius von",
+        "last_name": "Pötting",
+        "maiden_name": null
+      }
+    ],
+    "not_before": "1667-10-29",
+    "not_after": "1667-10-29",
+    "written_date": "29. Oktober 1667",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 3,
+        "order": "3.00000000000000000000",
+        "abbr": "ÖStA, HHStA",
+        "label": "Österreichisches Staatsarchiv, Haus-, Hof- und Staatsarchiv",
+        "lb_id": "lb-org-3",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/1045024-5",
+        "located_in": [
+          {
+            "id": 1,
+            "order": "1.00000000000000000000",
+            "label": "Wien",
+            "lb_id": "lb-place-1",
+            "geonames_url": "https://sws.geonames.org/2761369/",
+            "latitude": "48.20849",
+            "longitude": "16.37208",
+            "gnd_url": "",
+            "endonym": null
+          }
+        ],
+        "has_license": "",
+        "translation": null
+      }
+    ],
+    "collection": "Große Korrespondenz",
+    "signatur": "K. 33, Bd. 2 (1666‒1667), fol. 201r‒203v",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "placename_written": "Wienn",
+    "destination": [
+      {
+        "id": 72,
+        "order": "14.00000000000000000000",
+        "label": "Madrid",
+        "lb_id": "lb-place-72",
+        "geonames_url": "https://www.geonames.org/3117735/madrid.html",
+        "latitude": "40.41650",
+        "longitude": "-3.70256",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "hand": [],
+    "edition": [
+      {
+        "id": 1,
+        "value": "PŘIBRAM/PRAGENAU 1903–1904.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "volume": "1",
+    "number": "151",
+    "page": "330f.",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": "",
+    "entities": false,
+    "related_letters": []
+  },
+  "1257": {
+    "id": 1257,
+    "order": "572.92307692307690558664",
+    "lb_id": "lb-01053",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 40,
+        "order": "8.00000000000000000000",
+        "label": "Franz Eusebius von Pötting",
+        "lb_id": "lb-person-40",
+        "gnd_url": "https://d-nb.info/gnd/119324636",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Franz Eusebius von",
+        "last_name": "Pötting",
+        "maiden_name": null
+      }
+    ],
+    "not_before": "1667-11-10",
+    "not_after": "1667-11-10",
+    "written_date": "10. November 1667",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 3,
+        "order": "3.00000000000000000000",
+        "abbr": "ÖStA, HHStA",
+        "label": "Österreichisches Staatsarchiv, Haus-, Hof- und Staatsarchiv",
+        "lb_id": "lb-org-3",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/1045024-5",
+        "located_in": [
+          {
+            "id": 1,
+            "order": "1.00000000000000000000",
+            "label": "Wien",
+            "lb_id": "lb-place-1",
+            "geonames_url": "https://sws.geonames.org/2761369/",
+            "latitude": "48.20849",
+            "longitude": "16.37208",
+            "gnd_url": "",
+            "endonym": null
+          }
+        ],
+        "has_license": "",
+        "translation": null
+      }
+    ],
+    "collection": "Große Korrespondenz",
+    "signatur": "K. 33, Bd. 2 (1666‒1667), fol. 204r‒206v",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "placename_written": "Wienn",
+    "destination": [
+      {
+        "id": 72,
+        "order": "14.00000000000000000000",
+        "label": "Madrid",
+        "lb_id": "lb-place-72",
+        "geonames_url": "https://www.geonames.org/3117735/madrid.html",
+        "latitude": "40.41650",
+        "longitude": "-3.70256",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "hand": [],
+    "edition": [
+      {
+        "id": 1,
+        "value": "PŘIBRAM/PRAGENAU 1903–1904.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "volume": "1",
+    "number": "153",
+    "page": "332f.",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": "",
+    "entities": false,
+    "related_letters": []
+  },
+  "1258": {
+    "id": 1258,
+    "order": "572.92857142857144481241",
+    "lb_id": "lb-01054",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 40,
+        "order": "8.00000000000000000000",
+        "label": "Franz Eusebius von Pötting",
+        "lb_id": "lb-person-40",
+        "gnd_url": "https://d-nb.info/gnd/119324636",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Franz Eusebius von",
+        "last_name": "Pötting",
+        "maiden_name": null
+      }
+    ],
+    "not_before": "1667-11-06",
+    "not_after": "1667-11-06",
+    "written_date": "6. November 1667",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 3,
+        "order": "3.00000000000000000000",
+        "abbr": "ÖStA, HHStA",
+        "label": "Österreichisches Staatsarchiv, Haus-, Hof- und Staatsarchiv",
+        "lb_id": "lb-org-3",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/1045024-5",
+        "located_in": [
+          {
+            "id": 1,
+            "order": "1.00000000000000000000",
+            "label": "Wien",
+            "lb_id": "lb-place-1",
+            "geonames_url": "https://sws.geonames.org/2761369/",
+            "latitude": "48.20849",
+            "longitude": "16.37208",
+            "gnd_url": "",
+            "endonym": null
+          }
+        ],
+        "has_license": "",
+        "translation": null
+      }
+    ],
+    "collection": "Große Korrespondenz",
+    "signatur": "K. 33, Bd. 2 (1666‒1667), fol. 207r‒209v",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "placename_written": "Wien",
+    "destination": [],
+    "hand": [],
+    "edition": [
+      {
+        "id": 1,
+        "value": "PŘIBRAM/PRAGENAU 1903–1904.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "volume": "1",
+    "number": "152",
+    "page": "331f.",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": "",
+    "entities": false,
+    "related_letters": []
+  },
+  "1259": {
+    "id": 1259,
+    "order": "572.93333333333328027948",
+    "lb_id": "lb-01055",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 40,
+        "order": "8.00000000000000000000",
+        "label": "Franz Eusebius von Pötting",
+        "lb_id": "lb-person-40",
+        "gnd_url": "https://d-nb.info/gnd/119324636",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Franz Eusebius von",
+        "last_name": "Pötting",
+        "maiden_name": null
+      }
+    ],
+    "not_before": "1667-11-12",
+    "not_after": "1667-11-12",
+    "written_date": "12. November 1667",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 3,
+        "order": "3.00000000000000000000",
+        "abbr": "ÖStA, HHStA",
+        "label": "Österreichisches Staatsarchiv, Haus-, Hof- und Staatsarchiv",
+        "lb_id": "lb-org-3",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/1045024-5",
+        "located_in": [
+          {
+            "id": 1,
+            "order": "1.00000000000000000000",
+            "label": "Wien",
+            "lb_id": "lb-place-1",
+            "geonames_url": "https://sws.geonames.org/2761369/",
+            "latitude": "48.20849",
+            "longitude": "16.37208",
+            "gnd_url": "",
+            "endonym": null
+          }
+        ],
+        "has_license": "",
+        "translation": null
+      }
+    ],
+    "collection": "Große Korrespondenz",
+    "signatur": "K. 33, Bd. 2 (1666‒1667), fol. 210r‒212v",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "placename_written": "Wienn",
+    "destination": [],
+    "hand": [],
+    "edition": [
+      {
+        "id": 1,
+        "value": "PŘIBRAM/PRAGENAU 1903–1904.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "volume": "1",
+    "number": "154",
+    "page": "333",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": "",
+    "entities": false,
+    "related_letters": []
+  },
+  "1260": {
+    "id": 1260,
+    "order": "572.93750000000000000000",
+    "lb_id": "lb-01056",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 40,
+        "order": "8.00000000000000000000",
+        "label": "Franz Eusebius von Pötting",
+        "lb_id": "lb-person-40",
+        "gnd_url": "https://d-nb.info/gnd/119324636",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Franz Eusebius von",
+        "last_name": "Pötting",
+        "maiden_name": null
+      }
+    ],
+    "not_before": "1667-11-20",
+    "not_after": "1667-11-20",
+    "written_date": "20. November 1667",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 3,
+        "order": "3.00000000000000000000",
+        "abbr": "ÖStA, HHStA",
+        "label": "Österreichisches Staatsarchiv, Haus-, Hof- und Staatsarchiv",
+        "lb_id": "lb-org-3",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/1045024-5",
+        "located_in": [
+          {
+            "id": 1,
+            "order": "1.00000000000000000000",
+            "label": "Wien",
+            "lb_id": "lb-place-1",
+            "geonames_url": "https://sws.geonames.org/2761369/",
+            "latitude": "48.20849",
+            "longitude": "16.37208",
+            "gnd_url": "",
+            "endonym": null
+          }
+        ],
+        "has_license": "",
+        "translation": null
+      }
+    ],
+    "collection": "Große Korrespondenz",
+    "signatur": "K. 33, Bd. 2 (1666‒1667), fol. 213r‒215v",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "placename_written": "Wienn",
+    "destination": [
+      {
+        "id": 72,
+        "order": "14.00000000000000000000",
+        "label": "Madrid",
+        "lb_id": "lb-place-72",
+        "geonames_url": "https://www.geonames.org/3117735/madrid.html",
+        "latitude": "40.41650",
+        "longitude": "-3.70256",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "hand": [],
+    "edition": [
+      {
+        "id": 1,
+        "value": "PŘIBRAM/PRAGENAU 1903–1904.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "volume": "1",
+    "number": "155",
+    "page": "333f.",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": "",
+    "entities": false,
+    "related_letters": []
+  },
+  "1261": {
+    "id": 1261,
+    "order": "572.94117647058828879381",
+    "lb_id": "lb-01057",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 40,
+        "order": "8.00000000000000000000",
+        "label": "Franz Eusebius von Pötting",
+        "lb_id": "lb-person-40",
+        "gnd_url": "https://d-nb.info/gnd/119324636",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Franz Eusebius von",
+        "last_name": "Pötting",
+        "maiden_name": null
+      }
+    ],
+    "not_before": "1667-11-24",
+    "not_after": "1667-11-24",
+    "written_date": "24. November 1667",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 3,
+        "order": "3.00000000000000000000",
+        "abbr": "ÖStA, HHStA",
+        "label": "Österreichisches Staatsarchiv, Haus-, Hof- und Staatsarchiv",
+        "lb_id": "lb-org-3",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/1045024-5",
+        "located_in": [
+          {
+            "id": 1,
+            "order": "1.00000000000000000000",
+            "label": "Wien",
+            "lb_id": "lb-place-1",
+            "geonames_url": "https://sws.geonames.org/2761369/",
+            "latitude": "48.20849",
+            "longitude": "16.37208",
+            "gnd_url": "",
+            "endonym": null
+          }
+        ],
+        "has_license": "",
+        "translation": null
+      }
+    ],
+    "collection": "Große Korrespondenz",
+    "signatur": "K. 33, Bd. 2 (1666‒1667), fol. 216r‒218v",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "placename_written": "Wienn",
+    "destination": [
+      {
+        "id": 72,
+        "order": "14.00000000000000000000",
+        "label": "Madrid",
+        "lb_id": "lb-place-72",
+        "geonames_url": "https://www.geonames.org/3117735/madrid.html",
+        "latitude": "40.41650",
+        "longitude": "-3.70256",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "hand": [],
+    "edition": [
+      {
+        "id": 1,
+        "value": "PŘIBRAM/PRAGENAU 1903–1904.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "volume": "1",
+    "number": "156",
+    "page": "334–336",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": "",
+    "entities": false,
+    "related_letters": []
+  },
+  "1262": {
+    "id": 1262,
+    "order": "572.94444444444445707632",
+    "lb_id": "lb-01058",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 40,
+        "order": "8.00000000000000000000",
+        "label": "Franz Eusebius von Pötting",
+        "lb_id": "lb-person-40",
+        "gnd_url": "https://d-nb.info/gnd/119324636",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Franz Eusebius von",
+        "last_name": "Pötting",
+        "maiden_name": null
+      }
+    ],
+    "not_before": "1667-11-26",
+    "not_after": "1667-11-26",
+    "written_date": "26. November 1667",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 3,
+        "order": "3.00000000000000000000",
+        "abbr": "ÖStA, HHStA",
+        "label": "Österreichisches Staatsarchiv, Haus-, Hof- und Staatsarchiv",
+        "lb_id": "lb-org-3",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/1045024-5",
+        "located_in": [
+          {
+            "id": 1,
+            "order": "1.00000000000000000000",
+            "label": "Wien",
+            "lb_id": "lb-place-1",
+            "geonames_url": "https://sws.geonames.org/2761369/",
+            "latitude": "48.20849",
+            "longitude": "16.37208",
+            "gnd_url": "",
+            "endonym": null
+          }
+        ],
+        "has_license": "",
+        "translation": null
+      }
+    ],
+    "collection": "Große Korrespondenz",
+    "signatur": "K. 33, Bd. 2 (1666‒1667), fol. 219r‒221v",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "placename_written": "Wienn",
+    "destination": [],
+    "hand": [],
+    "edition": [
+      {
+        "id": 1,
+        "value": "PŘIBRAM/PRAGENAU 1903–1904.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "volume": "1",
+    "number": "157",
+    "page": "336f.",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": "",
+    "entities": false,
+    "related_letters": []
+  },
+  "1263": {
+    "id": 1263,
+    "order": "572.94736842105260166136",
+    "lb_id": "lb-01059",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 40,
+        "order": "8.00000000000000000000",
+        "label": "Franz Eusebius von Pötting",
+        "lb_id": "lb-person-40",
+        "gnd_url": "https://d-nb.info/gnd/119324636",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Franz Eusebius von",
+        "last_name": "Pötting",
+        "maiden_name": null
+      }
+    ],
+    "not_before": "1667-12-03",
+    "not_after": "1667-12-03",
+    "written_date": "3. Dezember 1667",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 3,
+        "order": "3.00000000000000000000",
+        "abbr": "ÖStA, HHStA",
+        "label": "Österreichisches Staatsarchiv, Haus-, Hof- und Staatsarchiv",
+        "lb_id": "lb-org-3",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/1045024-5",
+        "located_in": [
+          {
+            "id": 1,
+            "order": "1.00000000000000000000",
+            "label": "Wien",
+            "lb_id": "lb-place-1",
+            "geonames_url": "https://sws.geonames.org/2761369/",
+            "latitude": "48.20849",
+            "longitude": "16.37208",
+            "gnd_url": "",
+            "endonym": null
+          }
+        ],
+        "has_license": "",
+        "translation": null
+      }
+    ],
+    "collection": "Große Korrespondenz",
+    "signatur": "K. 33, Bd. 2 (1666‒1667), fol. 222r‒224v",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "placename_written": "Wien",
+    "destination": [],
+    "hand": [],
+    "edition": [
+      {
+        "id": 1,
+        "value": "PŘIBRAM/PRAGENAU 1903–1904.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "volume": "1",
+    "number": "158",
+    "page": "337f.",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": "",
+    "entities": false,
+    "related_letters": []
+  },
+  "1264": {
+    "id": 1264,
+    "order": "572.95000000000004547474",
+    "lb_id": "lb-01060",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 40,
+        "order": "8.00000000000000000000",
+        "label": "Franz Eusebius von Pötting",
+        "lb_id": "lb-person-40",
+        "gnd_url": "https://d-nb.info/gnd/119324636",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Franz Eusebius von",
+        "last_name": "Pötting",
+        "maiden_name": null
+      }
+    ],
+    "not_before": "1667-12-08",
+    "not_after": "1667-12-08",
+    "written_date": "8. Dezember 1667",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 3,
+        "order": "3.00000000000000000000",
+        "abbr": "ÖStA, HHStA",
+        "label": "Österreichisches Staatsarchiv, Haus-, Hof- und Staatsarchiv",
+        "lb_id": "lb-org-3",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/1045024-5",
+        "located_in": [
+          {
+            "id": 1,
+            "order": "1.00000000000000000000",
+            "label": "Wien",
+            "lb_id": "lb-place-1",
+            "geonames_url": "https://sws.geonames.org/2761369/",
+            "latitude": "48.20849",
+            "longitude": "16.37208",
+            "gnd_url": "",
+            "endonym": null
+          }
+        ],
+        "has_license": "",
+        "translation": null
+      }
+    ],
+    "collection": "Große Korrespondenz",
+    "signatur": "K. 33, Bd. 2 (1666‒1667), fol. 225r‒228v",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "placename_written": "Wienn",
+    "destination": [
+      {
+        "id": 72,
+        "order": "14.00000000000000000000",
+        "label": "Madrid",
+        "lb_id": "lb-place-72",
+        "geonames_url": "https://www.geonames.org/3117735/madrid.html",
+        "latitude": "40.41650",
+        "longitude": "-3.70256",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "hand": [],
+    "edition": [
+      {
+        "id": 1,
+        "value": "PŘIBRAM/PRAGENAU 1903–1904.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "volume": "1",
+    "number": "159",
+    "page": "338–340",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": "",
+    "entities": false,
+    "related_letters": []
+  },
+  "1265": {
+    "id": 1265,
+    "order": "572.95238095238096320827",
+    "lb_id": "lb-01061",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 40,
+        "order": "8.00000000000000000000",
+        "label": "Franz Eusebius von Pötting",
+        "lb_id": "lb-person-40",
+        "gnd_url": "https://d-nb.info/gnd/119324636",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Franz Eusebius von",
+        "last_name": "Pötting",
+        "maiden_name": null
+      }
+    ],
+    "not_before": "1667-12-11",
+    "not_after": "1667-12-11",
+    "written_date": "11. Dezember 1667",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 3,
+        "order": "3.00000000000000000000",
+        "abbr": "ÖStA, HHStA",
+        "label": "Österreichisches Staatsarchiv, Haus-, Hof- und Staatsarchiv",
+        "lb_id": "lb-org-3",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/1045024-5",
+        "located_in": [
+          {
+            "id": 1,
+            "order": "1.00000000000000000000",
+            "label": "Wien",
+            "lb_id": "lb-place-1",
+            "geonames_url": "https://sws.geonames.org/2761369/",
+            "latitude": "48.20849",
+            "longitude": "16.37208",
+            "gnd_url": "",
+            "endonym": null
+          }
+        ],
+        "has_license": "",
+        "translation": null
+      }
+    ],
+    "collection": "Große Korrespondenz",
+    "signatur": "K. 33, Bd. 2 (1666‒1667), fol. 228r‒230v",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "placename_written": "Wienn",
+    "destination": [
+      {
+        "id": 72,
+        "order": "14.00000000000000000000",
+        "label": "Madrid",
+        "lb_id": "lb-place-72",
+        "geonames_url": "https://www.geonames.org/3117735/madrid.html",
+        "latitude": "40.41650",
+        "longitude": "-3.70256",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "hand": [],
+    "edition": [
+      {
+        "id": 1,
+        "value": "PŘIBRAM/PRAGENAU 1903–1904.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "volume": "1",
+    "number": "160",
+    "page": "340–342",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": "",
+    "entities": false,
+    "related_letters": []
+  },
+  "1266": {
+    "id": 1266,
+    "order": "572.95454545454549588612",
+    "lb_id": "lb-01062",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 40,
+        "order": "8.00000000000000000000",
+        "label": "Franz Eusebius von Pötting",
+        "lb_id": "lb-person-40",
+        "gnd_url": "https://d-nb.info/gnd/119324636",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Franz Eusebius von",
+        "last_name": "Pötting",
+        "maiden_name": null
+      }
+    ],
+    "not_before": "1667-12-13",
+    "not_after": "1667-12-13",
+    "written_date": "13. Dezember 1667",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 3,
+        "order": "3.00000000000000000000",
+        "abbr": "ÖStA, HHStA",
+        "label": "Österreichisches Staatsarchiv, Haus-, Hof- und Staatsarchiv",
+        "lb_id": "lb-org-3",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/1045024-5",
+        "located_in": [
+          {
+            "id": 1,
+            "order": "1.00000000000000000000",
+            "label": "Wien",
+            "lb_id": "lb-place-1",
+            "geonames_url": "https://sws.geonames.org/2761369/",
+            "latitude": "48.20849",
+            "longitude": "16.37208",
+            "gnd_url": "",
+            "endonym": null
+          }
+        ],
+        "has_license": "",
+        "translation": null
+      }
+    ],
+    "collection": "Große Korrespondenz",
+    "signatur": "K. 33, Bd. 2 (1666‒1667), fol. 231r‒233v",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "placename_written": "Wienn",
+    "destination": [],
+    "hand": [],
+    "edition": [
+      {
+        "id": 1,
+        "value": "PŘIBRAM/PRAGENAU 1903–1904.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "volume": "1",
+    "number": "161",
+    "page": "342",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": "",
+    "entities": false,
+    "related_letters": []
+  },
+  "1267": {
+    "id": 1267,
+    "order": "572.95652173913038041064",
+    "lb_id": "lb-01063",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 40,
+        "order": "8.00000000000000000000",
+        "label": "Franz Eusebius von Pötting",
+        "lb_id": "lb-person-40",
+        "gnd_url": "https://d-nb.info/gnd/119324636",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Franz Eusebius von",
+        "last_name": "Pötting",
+        "maiden_name": null
+      }
+    ],
+    "not_before": "1667-12-17",
+    "not_after": "1667-12-17",
+    "written_date": "17. Dezember 1667",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 3,
+        "order": "3.00000000000000000000",
+        "abbr": "ÖStA, HHStA",
+        "label": "Österreichisches Staatsarchiv, Haus-, Hof- und Staatsarchiv",
+        "lb_id": "lb-org-3",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/1045024-5",
+        "located_in": [
+          {
+            "id": 1,
+            "order": "1.00000000000000000000",
+            "label": "Wien",
+            "lb_id": "lb-place-1",
+            "geonames_url": "https://sws.geonames.org/2761369/",
+            "latitude": "48.20849",
+            "longitude": "16.37208",
+            "gnd_url": "",
+            "endonym": null
+          }
+        ],
+        "has_license": "",
+        "translation": null
+      }
+    ],
+    "collection": "Große Korrespondenz",
+    "signatur": "K. 33, Bd. 2 (1666‒1667), fol. 234r‒236v",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "placename_written": "Wienn",
+    "destination": [
+      {
+        "id": 72,
+        "order": "14.00000000000000000000",
+        "label": "Madrid",
+        "lb_id": "lb-place-72",
+        "geonames_url": "https://www.geonames.org/3117735/madrid.html",
+        "latitude": "40.41650",
+        "longitude": "-3.70256",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "hand": [],
+    "edition": [
+      {
+        "id": 1,
+        "value": "PŘIBRAM/PRAGENAU 1903–1904.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "volume": "1",
+    "number": "162",
+    "page": "342f.",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": "",
+    "entities": false,
+    "related_letters": []
+  },
+  "1268": {
+    "id": 1268,
+    "order": "572.95833333333337122895",
+    "lb_id": "lb-01064",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 40,
+        "order": "8.00000000000000000000",
+        "label": "Franz Eusebius von Pötting",
+        "lb_id": "lb-person-40",
+        "gnd_url": "https://d-nb.info/gnd/119324636",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Franz Eusebius von",
+        "last_name": "Pötting",
+        "maiden_name": null
+      }
+    ],
+    "not_before": "1667-12-21",
+    "not_after": "1667-12-21",
+    "written_date": "21. Dezember 1667",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 3,
+        "order": "3.00000000000000000000",
+        "abbr": "ÖStA, HHStA",
+        "label": "Österreichisches Staatsarchiv, Haus-, Hof- und Staatsarchiv",
+        "lb_id": "lb-org-3",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/1045024-5",
+        "located_in": [
+          {
+            "id": 1,
+            "order": "1.00000000000000000000",
+            "label": "Wien",
+            "lb_id": "lb-place-1",
+            "geonames_url": "https://sws.geonames.org/2761369/",
+            "latitude": "48.20849",
+            "longitude": "16.37208",
+            "gnd_url": "",
+            "endonym": null
+          }
+        ],
+        "has_license": "",
+        "translation": null
+      }
+    ],
+    "collection": "Große Korrespondenz",
+    "signatur": "K. 33, Bd. 2 (1666‒1667), fol. 237r‒239v",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "placename_written": "Wienn",
+    "destination": [
+      {
+        "id": 72,
+        "order": "14.00000000000000000000",
+        "label": "Madrid",
+        "lb_id": "lb-place-72",
+        "geonames_url": "https://www.geonames.org/3117735/madrid.html",
+        "latitude": "40.41650",
+        "longitude": "-3.70256",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "hand": [],
+    "edition": [
+      {
+        "id": 1,
+        "value": "PŘIBRAM/PRAGENAU 1903–1904.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "volume": "1",
+    "number": "163",
+    "page": "343f.",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": "",
+    "entities": false,
+    "related_letters": []
+  },
+  "1269": {
+    "id": 1269,
+    "order": "572.96000000000003637979",
+    "lb_id": "lb-01065",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 40,
+        "order": "8.00000000000000000000",
+        "label": "Franz Eusebius von Pötting",
+        "lb_id": "lb-person-40",
+        "gnd_url": "https://d-nb.info/gnd/119324636",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Franz Eusebius von",
+        "last_name": "Pötting",
+        "maiden_name": null
+      }
+    ],
+    "not_before": "1667-12-31",
+    "not_after": "1667-12-31",
+    "written_date": "31. Dezember 1667",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 3,
+        "order": "3.00000000000000000000",
+        "abbr": "ÖStA, HHStA",
+        "label": "Österreichisches Staatsarchiv, Haus-, Hof- und Staatsarchiv",
+        "lb_id": "lb-org-3",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "https://d-nb.info/gnd/1045024-5",
+        "located_in": [
+          {
+            "id": 1,
+            "order": "1.00000000000000000000",
+            "label": "Wien",
+            "lb_id": "lb-place-1",
+            "geonames_url": "https://sws.geonames.org/2761369/",
+            "latitude": "48.20849",
+            "longitude": "16.37208",
+            "gnd_url": "",
+            "endonym": null
+          }
+        ],
+        "has_license": "",
+        "translation": null
+      }
+    ],
+    "collection": "Große Korrespondenz",
+    "signatur": "K. 33, Bd. 2 (1666‒1667), fol. 240r‒242v",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "placename_written": "Wienn",
+    "destination": [
+      {
+        "id": 72,
+        "order": "14.00000000000000000000",
+        "label": "Madrid",
+        "lb_id": "lb-place-72",
+        "geonames_url": "https://www.geonames.org/3117735/madrid.html",
+        "latitude": "40.41650",
+        "longitude": "-3.70256",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "hand": [],
+    "edition": [
+      {
+        "id": 1,
+        "value": "PŘIBRAM/PRAGENAU 1903–1904.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "volume": "1",
+    "number": "164",
+    "page": "344–346",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": "",
+    "entities": false,
+    "related_letters": []
+  },
+  "1270": {
+    "id": 1270,
+    "order": "572.96153846153845279332",
     "lb_id": "",
     "sender": [
       {
@@ -110722,7 +115426,7 @@
       }
     ],
     "collection": "Große Korrespondenz",
-    "signatur": "K. 33, Bd. 2 (1666‒1667), fol. r‒v",
+    "signatur": "K. 33, Bd. 3 (1668‒1669), fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -110758,7 +115462,19 @@
       }
     ],
     "placename_written": "Wienn",
-    "destination": [],
+    "destination": [
+      {
+        "id": 72,
+        "order": "14.00000000000000000000",
+        "label": "Madrid",
+        "lb_id": "lb-place-72",
+        "geonames_url": "https://www.geonames.org/3117735/madrid.html",
+        "latitude": "40.41650",
+        "longitude": "-3.70256",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
     "hand": [],
     "edition": [
       {
@@ -110778,83 +115494,21 @@
     "entities": false,
     "related_letters": []
   },
-  "1202": {
-    "id": 1202,
-    "order": "559.00000000000000000000",
+  "1245": {
+    "id": 1245,
+    "order": "573.00000000000000000000",
     "lb_id": "",
-    "sender": [
-      {
-        "id": 1,
-        "value": "Leopold I.",
-        "order": "1.00000000000000000000"
-      }
-    ],
-    "receiver": [
-      {
-        "id": 40,
-        "order": "8.00000000000000000000",
-        "label": "Franz Eusebius von Pötting",
-        "lb_id": "lb-person-40",
-        "gnd_url": "https://d-nb.info/gnd/119324636",
-        "place_of_birth": [],
-        "date_of_birth": null,
-        "place_of_death": [],
-        "date_of_death": null,
-        "wikidata_url": "",
-        "mentioned_letters - courier": [],
-        "first_name": "Franz Eusebius von",
-        "last_name": "Pötting",
-        "maiden_name": null
-      }
-    ],
+    "sender": [],
+    "receiver": [],
     "not_before": null,
     "not_after": null,
     "written_date": "",
     "date_note": "",
-    "archiv": [
-      {
-        "id": 3,
-        "order": "3.00000000000000000000",
-        "abbr": "ÖStA, HHStA",
-        "label": "Österreichisches Staatsarchiv, Haus-, Hof- und Staatsarchiv",
-        "lb_id": "lb-org-3",
-        "kind": {
-          "id": 23014,
-          "value": "archiv/library",
-          "color": "dark-cyan"
-        },
-        "gnd_url": "https://d-nb.info/gnd/1045024-5",
-        "located_in": [
-          {
-            "id": 1,
-            "order": "1.00000000000000000000",
-            "label": "Wien",
-            "lb_id": "lb-place-1",
-            "geonames_url": "https://sws.geonames.org/2761369/",
-            "latitude": "48.20849",
-            "longitude": "16.37208",
-            "gnd_url": "",
-            "endonym": null
-          }
-        ],
-        "has_license": "",
-        "translation": null
-      }
-    ],
-    "collection": "Große Korrespondenz",
-    "signatur": "K. 33, Bd. 2 (1666‒1667), fol. r‒v",
-    "kind": [
-      {
-        "id": 23015,
-        "value": "Original",
-        "color": "dark-green"
-      }
-    ],
-    "main_language": {
-      "id": 23018,
-      "value": "deu",
-      "color": "darker-brown"
-    },
+    "archiv": [],
+    "collection": "",
+    "signatur": "",
+    "kind": [],
+    "main_language": null,
     "daily_order": "1",
     "copy_of": [],
     "concept_for": [],
@@ -110864,32 +115518,14 @@
       "value": "nicht vorhanden",
       "color": "darker-red"
     },
-    "place_of_writing": [
-      {
-        "id": 1,
-        "order": "1.00000000000000000000",
-        "label": "Wien",
-        "lb_id": "lb-place-1",
-        "geonames_url": "https://sws.geonames.org/2761369/",
-        "latitude": "48.20849",
-        "longitude": "16.37208",
-        "gnd_url": "",
-        "endonym": null
-      }
-    ],
-    "placename_written": "Wienn",
+    "place_of_writing": [],
+    "placename_written": "",
     "destination": [],
     "hand": [],
-    "edition": [
-      {
-        "id": 1,
-        "value": "PŘIBRAM/PRAGENAU 1903–1904.",
-        "order": "1.00000000000000000000"
-      }
-    ],
-    "volume": "1",
+    "edition": [],
+    "volume": "",
     "number": "",
-    "page": "–",
+    "page": "",
     "received_place": [],
     "received_date": null,
     "images_on_share": false,
