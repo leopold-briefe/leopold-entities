@@ -237,6 +237,12 @@
                <person xml:id="lb-person-85" n="Eleonora Magdalena Gonzaga">
                   <persName type="preferred">Eleonora Magdalena Gonzaga</persName>
                </person>
+               <person xml:id="lb-person-118" n="Ludwig XIV.">
+                  <persName type="preferred">Ludwig XIV.</persName>
+               </person>
+               <person xml:id="lb-person-119" n="Ferdinand I. Bonaventura Harrach">
+                  <persName type="preferred">Ferdinand I. Bonaventura Harrach</persName>
+               </person>
             </listPerson>
          </div>
       </body>

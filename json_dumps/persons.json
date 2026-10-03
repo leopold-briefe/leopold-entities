@@ -422,5 +422,53 @@
     "first_name": "",
     "last_name": "",
     "maiden_name": ""
+  },
+  "118": {
+    "id": 118,
+    "order": "20.00000000000000000000",
+    "label": "Ludwig XIV.",
+    "lb_id": "lb-person-118",
+    "gnd_url": "",
+    "place_of_birth": [],
+    "date_of_birth": null,
+    "place_of_death": [],
+    "date_of_death": null,
+    "wikidata_url": "",
+    "mentioned_letters - courier": [],
+    "first_name": "",
+    "last_name": "",
+    "maiden_name": ""
+  },
+  "119": {
+    "id": 119,
+    "order": "21.00000000000000000000",
+    "label": "Ferdinand I. Bonaventura Harrach",
+    "lb_id": "lb-person-119",
+    "gnd_url": "",
+    "place_of_birth": [],
+    "date_of_birth": null,
+    "place_of_death": [],
+    "date_of_death": null,
+    "wikidata_url": "",
+    "mentioned_letters - courier": [
+      {
+        "id": 968,
+        "value": "1661-04-29",
+        "order": "896.00000000000000000000"
+      },
+      {
+        "id": 969,
+        "value": "1661-04-29",
+        "order": "897.00000000000000000000"
+      },
+      {
+        "id": 970,
+        "value": "1661-04-29",
+        "order": "898.00000000000000000000"
+      }
+    ],
+    "first_name": "",
+    "last_name": "",
+    "maiden_name": ""
   }
 }

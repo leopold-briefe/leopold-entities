@@ -330,6 +330,15 @@
                <place xml:id="lb-place-227">
                   <placeName/>
                </place>
+               <place xml:id="lb-place-228">
+                  <placeName>Rom</placeName>
+               </place>
+               <place xml:id="lb-place-229">
+                  <placeName>Italien</placeName>
+               </place>
+               <place xml:id="lb-place-230">
+                  <placeName>Zell</placeName>
+               </place>
             </listPlace>
          </div>
       </body>

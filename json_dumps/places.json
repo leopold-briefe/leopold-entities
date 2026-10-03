@@ -812,5 +812,38 @@
     "longitude": null,
     "gnd_url": "",
     "endonym": ""
+  },
+  "228": {
+    "id": 228,
+    "order": "75.00000000000000000000",
+    "label": "Rom",
+    "lb_id": "lb-place-228",
+    "geonames_url": "",
+    "latitude": null,
+    "longitude": null,
+    "gnd_url": "",
+    "endonym": ""
+  },
+  "229": {
+    "id": 229,
+    "order": "76.00000000000000000000",
+    "label": "Italien",
+    "lb_id": "lb-place-229",
+    "geonames_url": "",
+    "latitude": null,
+    "longitude": null,
+    "gnd_url": "",
+    "endonym": ""
+  },
+  "230": {
+    "id": 230,
+    "order": "77.00000000000000000000",
+    "label": "Zell",
+    "lb_id": "lb-place-230",
+    "geonames_url": "",
+    "latitude": null,
+    "longitude": null,
+    "gnd_url": "",
+    "endonym": ""
   }
 }
