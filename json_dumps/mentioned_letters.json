@@ -24680,7 +24680,7 @@
   "930": {
     "id": 930,
     "order": "858.00000000000000000000",
-    "not_before": "1661-02-15",
+    "not_before": "1661-02-16",
     "not_after": null,
     "addressee_stated": [],
     "courier": [],
@@ -28764,21 +28764,6 @@
     "correct_date": null,
     "lb_id": "lb-ml-1082"
   },
-  "1083": {
-    "id": 1083,
-    "order": "1011.00000000000000000000",
-    "not_before": null,
-    "not_after": null,
-    "addressee_stated": [],
-    "courier": [],
-    "destination": [],
-    "dictated_letter": false,
-    "note": "",
-    "addressee_worked_out": [],
-    "original_letter": [],
-    "correct_date": null,
-    "lb_id": "lb-ml-1083"
-  },
   "1084": {
     "id": 1084,
     "order": "1012.00000000000000000000",
@@ -29078,6 +29063,21 @@
     "original_letter": [],
     "correct_date": null,
     "lb_id": "lb-ml-1095"
+  },
+  "1083": {
+    "id": 1083,
+    "order": "1023.50000000000000000000",
+    "not_before": null,
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-1083"
   },
   "1096": {
     "id": 1096,

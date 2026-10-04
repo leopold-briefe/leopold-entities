@@ -6233,7 +6233,7 @@
                </event>
                <event xml:id="lb-cal-334">
                   <label>1661-02-02</label>
-                  <desc>Den 2.ten Feb<hi rend="unclear">ruar</hi> 1661 ein briff in Bayrn gschriben.</desc>
+                  <desc>Den 2ten Feb<hi rend="unclear">ruar</hi> 1661 ein briff in Bayrn gschriben.</desc>
                   <listBibl>
                      <bibl>
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-38">Bayern</rs>
@@ -6288,11 +6288,6 @@
                   <listBibl>
                      <bibl>
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-69">Prag</rs>
-                        </title>
-                        <date>1661-02-15</date>
-                     </bibl>
-                     <bibl>
-                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-36">München</rs>
                         </title>
                         <date>1661-02-15</date>
                      </bibl>
@@ -6391,6 +6386,10 @@
                         <date>1661-03-16</date>
                      </bibl>
                   </listBibl>
+               </event>
+               <event xml:id="lb-cal-418">
+                  <label>1661-03-23</label>
+                  <desc>Den 23. 2 briff in Spanien, 2 in Tirol, 1 auf Munchen vnd 1 auf Prag geschriben.</desc>
                </event>
                <event xml:id="lb-cal-348">
                   <label>1661-03-30</label>
@@ -7080,7 +7079,7 @@
                </event>
                <event xml:id="lb-cal-383">
                   <label>1661-09-24</label>
-                  <desc>Den 24e. ein brief in Italien geschriben.</desc>
+                  <desc>Den 24. ein brief in Italien geschriben.</desc>
                   <listBibl>
                      <bibl>
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-229">Italien</rs>
@@ -7381,51 +7380,9 @@
                      </bibl>
                   </listBibl>
                </event>
-               <event xml:id="lb-cal-399">
-                  <label>None</label>
-                  <desc/>
-                  <listBibl>
-                     <bibl>
-                        <title>Leopold an Unbekannt</title>
-                        <date>None</date>
-                     </bibl>
-                     <bibl>
-                        <title>Leopold an Unbekannt</title>
-                        <date>None</date>
-                     </bibl>
-                     <bibl>
-                        <title>Leopold an Unbekannt</title>
-                        <date>None</date>
-                     </bibl>
-                     <bibl>
-                        <title>Leopold an Unbekannt</title>
-                        <date>None</date>
-                     </bibl>
-                     <bibl>
-                        <title>Leopold an Unbekannt</title>
-                        <date>None</date>
-                     </bibl>
-                     <bibl>
-                        <title>Leopold an Unbekannt</title>
-                        <date>None</date>
-                     </bibl>
-                     <bibl>
-                        <title>Leopold an Unbekannt</title>
-                        <date>None</date>
-                     </bibl>
-                     <bibl>
-                        <title>Leopold an Unbekannt</title>
-                        <date>None</date>
-                     </bibl>
-                     <bibl>
-                        <title>Leopold an Unbekannt</title>
-                        <date>None</date>
-                     </bibl>
-                  </listBibl>
-               </event>
                <event xml:id="lb-cal-400">
                   <label>1661-12-10</label>
-                  <desc>Den. 10. dito <hi rend="unclear">…</hi>. Item ein briff auf Venedig gschriben.</desc>
+                  <desc>Den 10. dito <hi rend="unclear">…</hi>. Item ein briff auf Venedig gschriben.</desc>
                   <listBibl>
                      <bibl>
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-166">Venedig</rs>

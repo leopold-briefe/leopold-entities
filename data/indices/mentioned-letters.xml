@@ -8027,10 +8027,10 @@
                <placeName type="destination" key="lb-place-69" ref="https://www.geonames.org/3067696/prague.html">Prag</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc xml:id="lb-ml-930" n="Leopold I. an Unbekannt am 1661-02-15 (München)">
+         <correspDesc xml:id="lb-ml-930" n="Leopold I. an Unbekannt am 1661-02-16 (München)">
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
-               <date when="1661-02-15">1661-02-15</date>
+               <date when="1661-02-16">1661-02-16</date>
             </correspAction>
             <correspAction type="received">
                <placeName type="destination" key="lb-place-36" ref="https://www.geonames.org/2867714/munich.html">München</placeName>
@@ -9398,14 +9398,6 @@
                <placeName type="destination" key="lb-place-39" ref="https://www.geonames.org/2510769/kingdom-of-spain.html">Spanien</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc xml:id="lb-ml-1083" n="Leopold I. an Unbekannt am None (Unbekannt)">
-            <correspAction type="sent">
-               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
-               <date when="None">None</date>
-            </correspAction>
-            <correspAction type="received">
-            </correspAction>
-         </correspDesc>
          <correspDesc xml:id="lb-ml-1084" n="Leopold I. an Unbekannt am 1661-12-10 (Venedig)">
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
@@ -9505,6 +9497,14 @@
             </correspAction>
          </correspDesc>
          <correspDesc xml:id="lb-ml-1095" n="Leopold I. an Unbekannt am None (Unbekannt)">
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+               <date when="None">None</date>
+            </correspAction>
+            <correspAction type="received">
+            </correspAction>
+         </correspDesc>
+         <correspDesc xml:id="lb-ml-1083" n="Leopold I. an Unbekannt am None (Unbekannt)">
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
                <date when="None">None</date>
