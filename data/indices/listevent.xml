@@ -6224,7 +6224,7 @@
                         </title>
                         <date>1661-01-29</date>
                      </bibl>
-                     <bibl>
+                     <bibl key="lb-00402">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-166">Venedig</rs>
                         </title>
                         <date>1661-01-29</date>
@@ -6240,16 +6240,18 @@
                         </title>
                         <date>1661-02-02</date>
                      </bibl>
-                     <bibl>
-                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-166">Venedig</rs>
-                        </title>
-                        <date>1661-02-02</date>
-                     </bibl>
                   </listBibl>
                </event>
                <event xml:id="lb-cal-335">
                   <label>1661-02-04</label>
                   <desc>Den 4. ein per Venetia.</desc>
+                  <listBibl>
+                     <bibl key="lb-00403">
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-166">Venedig</rs>
+                        </title>
+                        <date>1661-02-04</date>
+                     </bibl>
+                  </listBibl>
                </event>
                <event xml:id="lb-cal-336">
                   <label>1661-02-09</label>
@@ -6333,7 +6335,7 @@
                   <label>1661-03-02</label>
                   <desc>Den 2. Merz 1661 ein briff auf Venetia vnd 1 auf München gschriben.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-00404">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-166">Venedig</rs>
                         </title>
                         <date>1661-03-02</date>
@@ -6390,6 +6392,38 @@
                <event xml:id="lb-cal-418">
                   <label>1661-03-23</label>
                   <desc>Den 23. 2 briff in Spanien, 2 in Tirol, 1 auf Munchen vnd 1 auf Prag geschriben.</desc>
+                  <listBibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
+                        </title>
+                        <date>1661-03-23</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
+                        </title>
+                        <date>1661-03-23</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-161">Tirol</rs>
+                        </title>
+                        <date>1661-03-23</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-161">Tirol</rs>
+                        </title>
+                        <date>1661-03-23</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-36">München</rs>
+                        </title>
+                        <date>1661-03-23</date>
+                     </bibl>
+                     <bibl>
+                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-69">Prag</rs>
+                        </title>
+                        <date>1661-03-23</date>
+                     </bibl>
+                  </listBibl>
                </event>
                <event xml:id="lb-cal-348">
                   <label>1661-03-30</label>
@@ -6406,15 +6440,16 @@
                   <label>1661-04-03</label>
                   <desc>Den <hi rend="del">ersten</hi> 3. April 1 auf Venedig vnd 1 auf Rom geschriben.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-00406">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-166">Venedig</rs>
                         </title>
                         <date>1661-04-03</date>
                      </bibl>
                      <bibl>
-                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-228">Rom</rs>
+                        <title>Leopold an <rs type="person" ref="#lb-person-120">Ludovico Mattei</rs>[ermittelt] nach <rs type="place" ref="lb-place-228">Rom</rs>
                         </title>
                         <date>1661-04-03</date>
+                        <note>Adressat erwähnt in lb-00406.</note>
                      </bibl>
                   </listBibl>
                </event>
@@ -6484,15 +6519,16 @@
                   <label>1661-04-19</label>
                   <desc>Den 19. 2 auf Venedig vnd 1 auf Brag.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-00407">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-166">Venedig</rs>
                         </title>
                         <date>1661-04-19</date>
                      </bibl>
                      <bibl>
-                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-166">Venedig</rs>
+                        <title>Leopold an <rs type="person" ref="#lb-person-120">Ludovico Mattei</rs>[ermittelt] nach <rs type="place" ref="lb-place-166">Venedig</rs>
                         </title>
                         <date>1661-04-19</date>
+                        <note>Adressat erwähnt in lb-00407. Zielort war Rom, nicht Venedig.</note>
                      </bibl>
                      <bibl>
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-69">Prag</rs>
@@ -6573,7 +6609,7 @@
                   <label>1661-04-30</label>
                   <desc>Den 30. 2 in Italien.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-00408">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-229">Italien</rs>
                         </title>
                         <date>1661-04-30</date>
@@ -6594,7 +6630,7 @@
                         </title>
                         <date>1661-05-04</date>
                      </bibl>
-                     <bibl>
+                     <bibl key="lb-00409">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-166">Venedig</rs>
                         </title>
                         <date>1661-05-04</date>
@@ -6605,7 +6641,7 @@
                   <label>1661-05-14</label>
                   <desc>Den 14. a Venetia.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-00410">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-166">Venedig</rs>
                         </title>
                         <date>1661-05-14</date>
@@ -6716,7 +6752,7 @@
                   <label>1661-06-11</label>
                   <desc>Den 11. 2 briff in Italien geschriben.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-00411">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-229">Italien</rs>
                         </title>
                         <date>1661-06-11</date>
@@ -6821,7 +6857,7 @@
                   <label>1661-07-09</label>
                   <desc>Den 9. 2 brief in Italia geschriben.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-00412">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-229">Italien</rs>
                         </title>
                         <date>1661-07-09</date>
@@ -6870,11 +6906,12 @@
                   <desc>Den 24. 2 brif auf Rom vnd Venedig geschriben.</desc>
                   <listBibl>
                      <bibl>
-                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-228">Rom</rs>
+                        <title>Leopold an <rs type="person" ref="#lb-person-120">Ludovico Mattei</rs>[ermittelt] nach <rs type="place" ref="lb-place-228">Rom</rs>
                         </title>
                         <date>1661-07-24</date>
+                        <note>Adressat erwähnt in lb-00413</note>
                      </bibl>
-                     <bibl>
+                     <bibl key="lb-00413">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-166">Venedig</rs>
                         </title>
                         <date>1661-07-24</date>
@@ -6980,15 +7017,16 @@
                   <label>1661-08-26</label>
                   <desc>Den 26. 2 <hi rend="del">brf</hi> brief in Italia geschriben.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-00414">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-229">Italien</rs>
                         </title>
                         <date>1661-08-26</date>
                      </bibl>
                      <bibl>
-                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-229">Italien</rs>
+                        <title>Leopold an <rs type="person" ref="#lb-person-120">Ludovico Mattei</rs>[ermittelt] nach <rs type="place" ref="lb-place-229">Italien</rs>
                         </title>
                         <date>1661-08-26</date>
+                        <note>Adressat erwähnt - obwohl etwas vage - in lb-00414.</note>
                      </bibl>
                   </listBibl>
                </event>
@@ -7066,7 +7104,7 @@
                         <date>1661-09-14</date>
                      </bibl>
                      <bibl>
-                        <title>Leopold an <rs type="person" ref="#lb-person-85">Eleonora Magdalena Gonzaga</rs> nach <rs type="place" ref="lb-place-230">Zell</rs>
+                        <title>Leopold an <rs type="person" ref="#lb-person-85">Eleonora Magdalena Gonzaga</rs> nach <rs type="place" ref="lb-place-153">Mariazell</rs>
                         </title>
                         <date>1661-09-14</date>
                      </bibl>
@@ -7081,7 +7119,7 @@
                   <label>1661-09-24</label>
                   <desc>Den 24. ein brief in Italien geschriben.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-00415">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-229">Italien</rs>
                         </title>
                         <date>1661-09-24</date>
@@ -7134,15 +7172,16 @@
                   <label>1661-10-15</label>
                   <desc>Den 15. 2 brief in Italien geschrieben.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-00419">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-229">Italien</rs>
                         </title>
                         <date>1661-10-15</date>
                      </bibl>
                      <bibl>
-                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-229">Italien</rs>
+                        <title>Leopold an <rs type="person" ref="#lb-person-120">Ludovico Mattei</rs>[ermittelt] nach <rs type="place" ref="lb-place-229">Italien</rs>
                         </title>
                         <date>1661-10-15</date>
+                        <note>Adressat erwähnt in lb-00419.</note>
                      </bibl>
                   </listBibl>
                </event>
@@ -7197,7 +7236,7 @@
                   <label>1661-10-29</label>
                   <desc>Den 29. ein brif auf Venedig gschriben.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-00420">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-166">Venedig</rs>
                         </title>
                         <date>1661-10-29</date>
@@ -7234,7 +7273,7 @@
                   <label>1661-11-05</label>
                   <desc>Den 5. <hi rend="unclear">…</hi>. Item ein brif in Italien gsch<hi rend="unclear">riben</hi>.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-00421">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-229">Italien</rs>
                         </title>
                         <date>1661-11-05</date>
@@ -7288,9 +7327,10 @@
                   <desc>Den 23. ein brief in Bayrn gschriben.</desc>
                   <listBibl>
                      <bibl>
-                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-38">Bayern</rs>
+                        <title>Leopold an <rs type="person" ref="#lb-person-121">Maria Anna von Österreich</rs>[ermittelt] nach <rs type="place" ref="lb-place-38">Bayern</rs>
                         </title>
                         <date>1661-11-23</date>
+                        <note>Adressatin erwähnt in lb-00422.</note>
                      </bibl>
                   </listBibl>
                </event>
@@ -7298,7 +7338,7 @@
                   <label>1661-11-26</label>
                   <desc>Den 26. ein brif in Italia gschriben.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-00422">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-229">Italien</rs>
                         </title>
                         <date>1661-11-26</date>
@@ -7384,7 +7424,7 @@
                   <label>1661-12-10</label>
                   <desc>Den 10. dito <hi rend="unclear">…</hi>. Item ein briff auf Venedig gschriben.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-00417">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-166">Venedig</rs>
                         </title>
                         <date>1661-12-10</date>
@@ -7442,7 +7482,7 @@
                   <label>1661-12-24</label>
                   <desc>Den 24. ein brif auf Venedig gschriben.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-00424">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-166">Venedig</rs>
                         </title>
                         <date>1661-12-24</date>

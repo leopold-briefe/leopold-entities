@@ -22829,7 +22829,13 @@
         "dictated_letter": false,
         "note": "",
         "addressee_worked_out": [],
-        "original_letter": [],
+        "original_letter": [
+          {
+            "id": 482,
+            "value": "lb-00402",
+            "order": "37.99337748344370879749"
+          }
+        ],
         "correct_date": null,
         "lb_id": "lb-ml-921"
       }
@@ -22866,27 +22872,6 @@
         "original_letter": [],
         "correct_date": null,
         "lb_id": "lb-ml-922"
-      },
-      {
-        "id": 923,
-        "order": "851.00000000000000000000",
-        "not_before": "1661-02-02",
-        "not_after": null,
-        "addressee_stated": [],
-        "courier": [],
-        "destination": [
-          {
-            "id": 166,
-            "value": "Venedig",
-            "order": "44.00000000000000000000"
-          }
-        ],
-        "dictated_letter": false,
-        "note": "",
-        "addressee_worked_out": [],
-        "original_letter": [],
-        "correct_date": null,
-        "lb_id": "lb-ml-923"
       }
     ]
   },
@@ -22900,7 +22885,35 @@
     "file_name": "",
     "lb_id": "lb-cal-335",
     "places": [],
-    "mentioned_letters": []
+    "mentioned_letters": [
+      {
+        "id": 923,
+        "order": "851.00000000000000000000",
+        "not_before": "1661-02-04",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 166,
+            "value": "Venedig",
+            "order": "44.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [
+          {
+            "id": 483,
+            "value": "lb-00403",
+            "order": "37.99342105263158231310"
+          }
+        ],
+        "correct_date": null,
+        "lb_id": "lb-ml-923"
+      }
+    ]
   },
   "336": {
     "id": 336,
@@ -23025,7 +23038,7 @@
     "order": "307.00000000000000000000",
     "not_before": "1661-02-15",
     "text": "Den 15. ein auf Brag vnd den 16. 1 auf Munchen.",
-    "not_after": null,
+    "not_after": "1661-02-16",
     "folio": "11r",
     "file_name": "",
     "lb_id": "lb-cal-337",
@@ -23221,7 +23234,13 @@
         "dictated_letter": false,
         "note": "",
         "addressee_worked_out": [],
-        "original_letter": [],
+        "original_letter": [
+          {
+            "id": 484,
+            "value": "lb-00404",
+            "order": "37.99346405228757816985"
+          }
+        ],
         "correct_date": null,
         "lb_id": "lb-ml-937"
       },
@@ -23410,7 +23429,134 @@
     "file_name": "",
     "lb_id": "lb-cal-418",
     "places": [],
-    "mentioned_letters": []
+    "mentioned_letters": [
+      {
+        "id": 1102,
+        "order": "872.50000000000000000000",
+        "not_before": "1661-03-23",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 39,
+            "value": "Spanien",
+            "order": "7.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-1102"
+      },
+      {
+        "id": 1103,
+        "order": "872.66666666666662877105",
+        "not_before": "1661-03-23",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 39,
+            "value": "Spanien",
+            "order": "7.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-1103"
+      },
+      {
+        "id": 1104,
+        "order": "872.75000000000000000000",
+        "not_before": "1661-03-23",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 161,
+            "value": "Tirol",
+            "order": "39.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-1104"
+      },
+      {
+        "id": 1106,
+        "order": "872.77777777777782830526",
+        "not_before": "1661-03-23",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 161,
+            "value": "Tirol",
+            "order": "39.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-1106"
+      },
+      {
+        "id": 1105,
+        "order": "872.79999999999995452526",
+        "not_before": "1661-03-23",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 36,
+            "value": "München",
+            "order": "4.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-1105"
+      },
+      {
+        "id": 1107,
+        "order": "872.83333333333337122895",
+        "not_before": "1661-03-23",
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
+          {
+            "id": 69,
+            "value": "Prag",
+            "order": "11.00000000000000000000"
+          }
+        ],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-1107"
+      }
+    ]
   },
   "348": {
     "id": 348,
@@ -23474,7 +23620,13 @@
         "dictated_letter": false,
         "note": "",
         "addressee_worked_out": [],
-        "original_letter": [],
+        "original_letter": [
+          {
+            "id": 486,
+            "value": "lb-00406",
+            "order": "37.99354838709677295583"
+          }
+        ],
         "correct_date": null,
         "lb_id": "lb-ml-946"
       },
@@ -23493,8 +23645,14 @@
           }
         ],
         "dictated_letter": false,
-        "note": "",
-        "addressee_worked_out": [],
+        "note": "Adressat erwähnt in lb-00406.",
+        "addressee_worked_out": [
+          {
+            "id": 120,
+            "value": "Ludovico Mattei",
+            "order": "22.00000000000000000000"
+          }
+        ],
         "original_letter": [],
         "correct_date": null,
         "lb_id": "lb-ml-947"
@@ -23765,7 +23923,13 @@
         "dictated_letter": false,
         "note": "",
         "addressee_worked_out": [],
-        "original_letter": [],
+        "original_letter": [
+          {
+            "id": 487,
+            "value": "lb-00407",
+            "order": "37.99358974358974450070"
+          }
+        ],
         "correct_date": null,
         "lb_id": "lb-ml-958"
       },
@@ -23784,8 +23948,14 @@
           }
         ],
         "dictated_letter": false,
-        "note": "",
-        "addressee_worked_out": [],
+        "note": "Adressat erwähnt in lb-00407. Zielort war Rom, nicht Venedig.",
+        "addressee_worked_out": [
+          {
+            "id": 120,
+            "value": "Ludovico Mattei",
+            "order": "22.00000000000000000000"
+          }
+        ],
         "original_letter": [],
         "correct_date": null,
         "lb_id": "lb-ml-959"
@@ -24006,7 +24176,7 @@
         "courier": [
           {
             "id": 119,
-            "value": "Ferdinand I. Bonaventura Harrach",
+            "value": "Ferdinand Bonaventura von Harrach",
             "order": "21.00000000000000000000"
           }
         ],
@@ -24033,7 +24203,7 @@
         "courier": [
           {
             "id": 119,
-            "value": "Ferdinand I. Bonaventura Harrach",
+            "value": "Ferdinand Bonaventura von Harrach",
             "order": "21.00000000000000000000"
           }
         ],
@@ -24060,7 +24230,7 @@
         "courier": [
           {
             "id": 119,
-            "value": "Ferdinand I. Bonaventura Harrach",
+            "value": "Ferdinand Bonaventura von Harrach",
             "order": "21.00000000000000000000"
           }
         ],
@@ -24108,7 +24278,13 @@
         "dictated_letter": false,
         "note": "",
         "addressee_worked_out": [],
-        "original_letter": [],
+        "original_letter": [
+          {
+            "id": 488,
+            "value": "lb-00408",
+            "order": "37.99363057324841008722"
+          }
+        ],
         "correct_date": null,
         "lb_id": "lb-ml-971"
       },
@@ -24184,7 +24360,13 @@
         "dictated_letter": false,
         "note": "",
         "addressee_worked_out": [],
-        "original_letter": [],
+        "original_letter": [
+          {
+            "id": 489,
+            "value": "lb-00409",
+            "order": "37.99367088607594666883"
+          }
+        ],
         "correct_date": null,
         "lb_id": "lb-ml-974"
       }
@@ -24218,7 +24400,13 @@
         "dictated_letter": false,
         "note": "",
         "addressee_worked_out": [],
-        "original_letter": [],
+        "original_letter": [
+          {
+            "id": 490,
+            "value": "lb-00410",
+            "order": "37.99371069182389959451"
+          }
+        ],
         "correct_date": null,
         "lb_id": "lb-ml-975"
       }
@@ -24611,7 +24799,13 @@
         "dictated_letter": false,
         "note": "",
         "addressee_worked_out": [],
-        "original_letter": [],
+        "original_letter": [
+          {
+            "id": 491,
+            "value": "lb-00411",
+            "order": "37.99374999999999857891"
+          }
+        ],
         "correct_date": null,
         "lb_id": "lb-ml-990"
       },
@@ -24991,7 +25185,13 @@
         "dictated_letter": false,
         "note": "",
         "addressee_worked_out": [],
-        "original_letter": [],
+        "original_letter": [
+          {
+            "id": 492,
+            "value": "lb-00412",
+            "order": "37.99378881987577472046"
+          }
+        ],
         "correct_date": null,
         "lb_id": "lb-ml-1005"
       },
@@ -25154,8 +25354,14 @@
           }
         ],
         "dictated_letter": false,
-        "note": "",
-        "addressee_worked_out": [],
+        "note": "Adressat erwähnt in lb-00413",
+        "addressee_worked_out": [
+          {
+            "id": 120,
+            "value": "Ludovico Mattei",
+            "order": "22.00000000000000000000"
+          }
+        ],
         "original_letter": [],
         "correct_date": null,
         "lb_id": "lb-ml-1011"
@@ -25177,7 +25383,13 @@
         "dictated_letter": false,
         "note": "",
         "addressee_worked_out": [],
-        "original_letter": [],
+        "original_letter": [
+          {
+            "id": 493,
+            "value": "lb-00413",
+            "order": "37.99382716049382935353"
+          }
+        ],
         "correct_date": null,
         "lb_id": "lb-ml-1012"
       }
@@ -25549,7 +25761,13 @@
         "dictated_letter": false,
         "note": "",
         "addressee_worked_out": [],
-        "original_letter": [],
+        "original_letter": [
+          {
+            "id": 494,
+            "value": "lb-00414",
+            "order": "37.99386503067484710527"
+          }
+        ],
         "correct_date": null,
         "lb_id": "lb-ml-1026"
       },
@@ -25568,8 +25786,14 @@
           }
         ],
         "dictated_letter": false,
-        "note": "",
-        "addressee_worked_out": [],
+        "note": "Adressat erwähnt - obwohl etwas vage - in lb-00414.",
+        "addressee_worked_out": [
+          {
+            "id": 120,
+            "value": "Ludovico Mattei",
+            "order": "22.00000000000000000000"
+          }
+        ],
         "original_letter": [],
         "correct_date": null,
         "lb_id": "lb-ml-1027"
@@ -25848,9 +26072,9 @@
         "courier": [],
         "destination": [
           {
-            "id": 230,
-            "value": "Zell",
-            "order": "77.00000000000000000000"
+            "id": 153,
+            "value": "Mariazell",
+            "order": "31.00000000000000000000"
           }
         ],
         "dictated_letter": false,
@@ -25911,7 +26135,13 @@
         "dictated_letter": false,
         "note": "",
         "addressee_worked_out": [],
-        "original_letter": [],
+        "original_letter": [
+          {
+            "id": 495,
+            "value": "lb-00415",
+            "order": "37.99390243902438868417"
+          }
+        ],
         "correct_date": null,
         "lb_id": "lb-ml-1041"
       }
@@ -26097,7 +26327,13 @@
         "dictated_letter": false,
         "note": "",
         "addressee_worked_out": [],
-        "original_letter": [],
+        "original_letter": [
+          {
+            "id": 499,
+            "value": "lb-00419",
+            "order": "37.99404761904762040103"
+          }
+        ],
         "correct_date": null,
         "lb_id": "lb-ml-1048"
       },
@@ -26116,8 +26352,14 @@
           }
         ],
         "dictated_letter": false,
-        "note": "",
-        "addressee_worked_out": [],
+        "note": "Adressat erwähnt in lb-00419.",
+        "addressee_worked_out": [
+          {
+            "id": 120,
+            "value": "Ludovico Mattei",
+            "order": "22.00000000000000000000"
+          }
+        ],
         "original_letter": [],
         "correct_date": null,
         "lb_id": "lb-ml-1049"
@@ -26325,7 +26567,13 @@
         "dictated_letter": false,
         "note": "",
         "addressee_worked_out": [],
-        "original_letter": [],
+        "original_letter": [
+          {
+            "id": 500,
+            "value": "lb-00420",
+            "order": "37.99408284023668613827"
+          }
+        ],
         "correct_date": null,
         "lb_id": "lb-ml-1057"
       }
@@ -26456,7 +26704,13 @@
         "dictated_letter": false,
         "note": "",
         "addressee_worked_out": [],
-        "original_letter": [],
+        "original_letter": [
+          {
+            "id": 501,
+            "value": "lb-00421",
+            "order": "37.99411764705882177395"
+          }
+        ],
         "correct_date": null,
         "lb_id": "lb-ml-1062"
       }
@@ -26640,8 +26894,14 @@
           }
         ],
         "dictated_letter": false,
-        "note": "",
-        "addressee_worked_out": [],
+        "note": "Adressatin erwähnt in lb-00422.",
+        "addressee_worked_out": [
+          {
+            "id": 121,
+            "value": "Maria Anna von Österreich",
+            "order": "23.00000000000000000000"
+          }
+        ],
         "original_letter": [],
         "correct_date": null,
         "lb_id": "lb-ml-1069"
@@ -26676,7 +26936,13 @@
         "dictated_letter": false,
         "note": "",
         "addressee_worked_out": [],
-        "original_letter": [],
+        "original_letter": [
+          {
+            "id": 502,
+            "value": "lb-00422",
+            "order": "37.99415204678362556479"
+          }
+        ],
         "correct_date": null,
         "lb_id": "lb-ml-1070"
       }
@@ -26983,7 +27249,13 @@
         "dictated_letter": false,
         "note": "",
         "addressee_worked_out": [],
-        "original_letter": [],
+        "original_letter": [
+          {
+            "id": 497,
+            "value": "lb-00417",
+            "order": "37.99397590361445509188"
+          }
+        ],
         "correct_date": null,
         "lb_id": "lb-ml-1084"
       }
@@ -27190,7 +27462,13 @@
         "dictated_letter": false,
         "note": "",
         "addressee_worked_out": [],
-        "original_letter": [],
+        "original_letter": [
+          {
+            "id": 504,
+            "value": "lb-00424",
+            "order": "37.99421965317919358540"
+          }
+        ],
         "correct_date": null,
         "lb_id": "lb-ml-1092"
       }

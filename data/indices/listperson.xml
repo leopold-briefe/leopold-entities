@@ -31,8 +31,8 @@
                <person xml:id="lb-person-1" n="Leopold I.">
                   <persName type="preferred">Leopold I.</persName>
                   <persName type="parts">
-                     <forename>None</forename>
-                     <surname>Leopold I.</surname>
+                     <forename>Leopold I.</forename>
+                     <surname/>
                   </persName>
                   <birth>
                      <date>1640-06-09</date>
@@ -146,8 +146,8 @@
                <person xml:id="lb-person-75" n="Maria Anna (Mariana) von Österreich">
                   <persName type="preferred">Maria Anna (Mariana) von Österreich</persName>
                   <persName type="parts">
-                     <forename>None</forename>
-                     <surname>Maria Anna</surname>
+                     <forename>Maria Anna</forename>
+                     <surname/>
                   </persName>
                   <birth>
                      <date>1634-12-22</date>
@@ -168,8 +168,8 @@
                <person xml:id="lb-person-76" n="Philipp IV.">
                   <persName type="preferred">Philipp IV.</persName>
                   <persName type="parts">
-                     <forename>None</forename>
-                     <surname>Philipp IV.</surname>
+                     <forename>Philipp IV.</forename>
+                     <surname/>
                   </persName>
                   <birth>
                      <date>1605-04-08</date>
@@ -236,12 +236,66 @@
                </person>
                <person xml:id="lb-person-85" n="Eleonora Magdalena Gonzaga">
                   <persName type="preferred">Eleonora Magdalena Gonzaga</persName>
+                  <persName type="parts">
+                     <forename>Eleonora Magdalena</forename>
+                     <surname>Gonzaga</surname>
+                  </persName>
                </person>
                <person xml:id="lb-person-118" n="Ludwig XIV.">
                   <persName type="preferred">Ludwig XIV.</persName>
+                  <persName type="parts">
+                     <forename>Ludwig XIV.</forename>
+                     <surname/>
+                  </persName>
                </person>
-               <person xml:id="lb-person-119" n="Ferdinand I. Bonaventura Harrach">
-                  <persName type="preferred">Ferdinand I. Bonaventura Harrach</persName>
+               <person xml:id="lb-person-119" n="Ferdinand Bonaventura von Harrach">
+                  <persName type="preferred">Ferdinand Bonaventura von Harrach</persName>
+                  <persName type="parts">
+                     <forename>Ferdinand Bonaventura</forename>
+                     <surname>Harrach</surname>
+                  </persName>
+               </person>
+               <person xml:id="lb-person-120" n="Ludovico Mattei">
+                  <persName type="preferred">Ludovico Mattei</persName>
+                  <persName type="parts">
+                     <forename>Ludovico</forename>
+                     <surname>Mattei</surname>
+                  </persName>
+                  <birth>
+                     <date>1609-11-19</date>
+                     <settlement key="lb-place-228">
+                        <placeName>Rom</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1665-06-08</date>
+                     <settlement key="lb-place-228">
+                        <placeName>Rom</placeName>
+                     </settlement>
+                  </death>
+               </person>
+               <person xml:id="lb-person-121" n="Maria Anna von Österreich">
+                  <persName type="preferred">Maria Anna von Österreich</persName>
+                  <persName type="parts">
+                     <forename>Maria Anna</forename>
+                     <surname/>
+                  </persName>
+                  <birth>
+                     <date>1610-01-13</date>
+                     <settlement key="lb-place-109">
+                        <placeName>Graz</placeName>
+                        <geo>47.06733 15.44197</geo>
+                        <idno type="geonames">https://sws.geonames.org/2778067/</idno>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1665-09-25</date>
+                     <settlement key="lb-place-36">
+                        <placeName>München</placeName>
+                        <geo>48.13743 11.57549</geo>
+                        <idno type="geonames">https://sws.geonames.org/2867714/</idno>
+                     </settlement>
+                  </death>
                </person>
             </listPerson>
          </div>

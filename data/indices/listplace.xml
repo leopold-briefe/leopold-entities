@@ -336,8 +336,11 @@
                <place xml:id="lb-place-229">
                   <placeName>Italien</placeName>
                </place>
-               <place xml:id="lb-place-230">
-                  <placeName>Zell</placeName>
+               <place xml:id="lb-place-231">
+                  <placeName>Hadersdorf</placeName>
+               </place>
+               <place xml:id="lb-place-232">
+                  <placeName>Nikolsburg</placeName>
                </place>
             </listPlace>
          </div>

@@ -41775,7 +41775,7 @@
       "color": "darker-red"
     },
     "place_of_writing": [],
-    "placename_written": "?",
+    "placename_written": "",
     "destination": [],
     "hand": [],
     "edition": [
@@ -41825,9 +41825,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": "1661-10-10",
-    "not_after": "1661-10-10",
-    "written_date": "10. Oktober 1661",
+    "not_before": "1661-12-10",
+    "not_after": "1661-12-10",
+    "written_date": "10. Dezember 1661",
     "date_note": "",
     "archiv": [
       {
@@ -48406,9 +48406,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1664-01-10",
+    "not_after": "1664-01-10",
+    "written_date": "10. Jänner 1664",
     "date_note": "",
     "archiv": [
       {
@@ -48461,18 +48461,18 @@
     },
     "place_of_writing": [
       {
-        "id": 1,
-        "order": "1.00000000000000000000",
-        "label": "Wien",
-        "lb_id": "lb-place-1",
-        "geonames_url": "https://sws.geonames.org/2761369/",
-        "latitude": "48.20849",
-        "longitude": "16.37208",
+        "id": 157,
+        "order": "35.00000000000000000000",
+        "label": "Regensburg",
+        "lb_id": "lb-place-157",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
         "gnd_url": "",
-        "endonym": null
+        "endonym": ""
       }
     ],
-    "placename_written": "Vienna",
+    "placename_written": "Ratisbona",
     "destination": [],
     "hand": [],
     "edition": [],
@@ -48516,9 +48516,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1664-01-24",
+    "not_after": "1664-01-24",
+    "written_date": "24. Jänner 1664",
     "date_note": "",
     "archiv": [
       {
@@ -48571,18 +48571,18 @@
     },
     "place_of_writing": [
       {
-        "id": 1,
-        "order": "1.00000000000000000000",
-        "label": "Wien",
-        "lb_id": "lb-place-1",
-        "geonames_url": "https://sws.geonames.org/2761369/",
-        "latitude": "48.20849",
-        "longitude": "16.37208",
+        "id": 157,
+        "order": "35.00000000000000000000",
+        "label": "Regensburg",
+        "lb_id": "lb-place-157",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
         "gnd_url": "",
-        "endonym": null
+        "endonym": ""
       }
     ],
-    "placename_written": "Vienna",
+    "placename_written": "Ratisbona",
     "destination": [],
     "hand": [],
     "edition": [],
@@ -48626,9 +48626,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1664-02-12",
+    "not_after": "1664-02-12",
+    "written_date": "12. Februar 1664",
     "date_note": "",
     "archiv": [
       {
@@ -48681,18 +48681,18 @@
     },
     "place_of_writing": [
       {
-        "id": 1,
-        "order": "1.00000000000000000000",
-        "label": "Wien",
-        "lb_id": "lb-place-1",
-        "geonames_url": "https://sws.geonames.org/2761369/",
-        "latitude": "48.20849",
-        "longitude": "16.37208",
+        "id": 157,
+        "order": "35.00000000000000000000",
+        "label": "Regensburg",
+        "lb_id": "lb-place-157",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
         "gnd_url": "",
-        "endonym": null
+        "endonym": ""
       }
     ],
-    "placename_written": "Vienna",
+    "placename_written": "Ratisbona",
     "destination": [],
     "hand": [],
     "edition": [],
@@ -48736,9 +48736,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1664-03-03",
+    "not_after": "1664-03-03",
+    "written_date": "3. März 1664",
     "date_note": "",
     "archiv": [
       {
@@ -48791,18 +48791,18 @@
     },
     "place_of_writing": [
       {
-        "id": 1,
-        "order": "1.00000000000000000000",
-        "label": "Wien",
-        "lb_id": "lb-place-1",
-        "geonames_url": "https://sws.geonames.org/2761369/",
-        "latitude": "48.20849",
-        "longitude": "16.37208",
+        "id": 157,
+        "order": "35.00000000000000000000",
+        "label": "Regensburg",
+        "lb_id": "lb-place-157",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
         "gnd_url": "",
-        "endonym": null
+        "endonym": ""
       }
     ],
-    "placename_written": "Vienna",
+    "placename_written": "Ratisbona",
     "destination": [],
     "hand": [],
     "edition": [],
@@ -48846,9 +48846,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1664-03-24",
+    "not_after": "1664-03-24",
+    "written_date": "24. März 1664",
     "date_note": "",
     "archiv": [
       {
@@ -48901,18 +48901,18 @@
     },
     "place_of_writing": [
       {
-        "id": 1,
-        "order": "1.00000000000000000000",
-        "label": "Wien",
-        "lb_id": "lb-place-1",
-        "geonames_url": "https://sws.geonames.org/2761369/",
-        "latitude": "48.20849",
-        "longitude": "16.37208",
+        "id": 157,
+        "order": "35.00000000000000000000",
+        "label": "Regensburg",
+        "lb_id": "lb-place-157",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
         "gnd_url": "",
-        "endonym": null
+        "endonym": ""
       }
     ],
-    "placename_written": "Vienna",
+    "placename_written": "Ratisbona",
     "destination": [],
     "hand": [],
     "edition": [],
@@ -48956,9 +48956,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1664-04-21",
+    "not_after": "1664-04-21",
+    "written_date": "21. April 1664",
     "date_note": "",
     "archiv": [
       {
@@ -49011,18 +49011,18 @@
     },
     "place_of_writing": [
       {
-        "id": 1,
-        "order": "1.00000000000000000000",
-        "label": "Wien",
-        "lb_id": "lb-place-1",
-        "geonames_url": "https://sws.geonames.org/2761369/",
-        "latitude": "48.20849",
-        "longitude": "16.37208",
+        "id": 157,
+        "order": "35.00000000000000000000",
+        "label": "Regensburg",
+        "lb_id": "lb-place-157",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
         "gnd_url": "",
-        "endonym": null
+        "endonym": ""
       }
     ],
-    "placename_written": "Vienna",
+    "placename_written": "Ratisbona",
     "destination": [],
     "hand": [],
     "edition": [],
@@ -49066,9 +49066,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1664-05-05",
+    "not_after": "1664-05-05",
+    "written_date": "5. Mai 1664",
     "date_note": "",
     "archiv": [
       {
@@ -49121,18 +49121,18 @@
     },
     "place_of_writing": [
       {
-        "id": 1,
-        "order": "1.00000000000000000000",
-        "label": "Wien",
-        "lb_id": "lb-place-1",
-        "geonames_url": "https://sws.geonames.org/2761369/",
-        "latitude": "48.20849",
-        "longitude": "16.37208",
+        "id": 157,
+        "order": "35.00000000000000000000",
+        "label": "Regensburg",
+        "lb_id": "lb-place-157",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
         "gnd_url": "",
-        "endonym": null
+        "endonym": ""
       }
     ],
-    "placename_written": "Vienna",
+    "placename_written": "Ratisbona",
     "destination": [],
     "hand": [],
     "edition": [],
@@ -49176,9 +49176,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1664-08-03",
+    "not_after": "1664-08-03",
+    "written_date": "3. August 1664",
     "date_note": "",
     "archiv": [
       {
@@ -49286,9 +49286,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1664-12-17",
+    "not_after": "1664-12-17",
+    "written_date": "17. August 1664",
     "date_note": "",
     "archiv": [
       {
@@ -49396,9 +49396,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1664-12-31",
+    "not_after": "1664-12-31",
+    "written_date": "31. Dezember 1664",
     "date_note": "",
     "archiv": [
       {
@@ -49506,9 +49506,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1665-01-15",
+    "not_after": "1665-01-15",
+    "written_date": "15. Jänner 1665",
     "date_note": "",
     "archiv": [
       {
@@ -49616,9 +49616,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1665-02-11",
+    "not_after": "1665-02-11",
+    "written_date": "11. Februar 1665",
     "date_note": "",
     "archiv": [
       {
@@ -49726,9 +49726,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1665-02-21",
+    "not_after": "1665-02-21",
+    "written_date": "21. Februar 1665",
     "date_note": "",
     "archiv": [
       {
@@ -49779,20 +49779,8 @@
       "value": "nicht vorhanden",
       "color": "darker-red"
     },
-    "place_of_writing": [
-      {
-        "id": 1,
-        "order": "1.00000000000000000000",
-        "label": "Wien",
-        "lb_id": "lb-place-1",
-        "geonames_url": "https://sws.geonames.org/2761369/",
-        "latitude": "48.20849",
-        "longitude": "16.37208",
-        "gnd_url": "",
-        "endonym": null
-      }
-    ],
-    "placename_written": "Vienna",
+    "place_of_writing": [],
+    "placename_written": "",
     "destination": [],
     "hand": [],
     "edition": [],
@@ -49836,9 +49824,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1665-03-05",
+    "not_after": "1665-03-05",
+    "written_date": "5. März 1665",
     "date_note": "",
     "archiv": [
       {
@@ -49946,9 +49934,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1665-03-25",
+    "not_after": "1665-03-25",
+    "written_date": "25. März 1665",
     "date_note": "",
     "archiv": [
       {
@@ -49999,20 +49987,8 @@
       "value": "nicht vorhanden",
       "color": "darker-red"
     },
-    "place_of_writing": [
-      {
-        "id": 1,
-        "order": "1.00000000000000000000",
-        "label": "Wien",
-        "lb_id": "lb-place-1",
-        "geonames_url": "https://sws.geonames.org/2761369/",
-        "latitude": "48.20849",
-        "longitude": "16.37208",
-        "gnd_url": "",
-        "endonym": null
-      }
-    ],
-    "placename_written": "Vienna",
+    "place_of_writing": [],
+    "placename_written": "",
     "destination": [],
     "hand": [],
     "edition": [],
@@ -50056,9 +50032,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1665-04-11",
+    "not_after": "1665-04-11",
+    "written_date": "11. April 1665",
     "date_note": "",
     "archiv": [
       {
@@ -50166,9 +50142,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1665-05-09",
+    "not_after": "1665-05-09",
+    "written_date": "9. Mai 1665",
     "date_note": "",
     "archiv": [
       {
@@ -50221,18 +50197,18 @@
     },
     "place_of_writing": [
       {
-        "id": 1,
-        "order": "1.00000000000000000000",
-        "label": "Wien",
-        "lb_id": "lb-place-1",
-        "geonames_url": "https://sws.geonames.org/2761369/",
-        "latitude": "48.20849",
-        "longitude": "16.37208",
+        "id": 108,
+        "order": "18.00000000000000000000",
+        "label": "Laxenburg",
+        "lb_id": "lb-place-108",
+        "geonames_url": "https://www.geonames.org/2772809/schloss-laxenburg.html",
+        "latitude": "48.06667",
+        "longitude": "16.36667",
         "gnd_url": "",
         "endonym": null
       }
     ],
-    "placename_written": "Vienna",
+    "placename_written": "Laxenburg",
     "destination": [],
     "hand": [],
     "edition": [],
@@ -50276,9 +50252,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1665-05-30",
+    "not_after": "1665-05-30",
+    "written_date": "30. Mai 1665",
     "date_note": "",
     "archiv": [
       {
@@ -50331,18 +50307,18 @@
     },
     "place_of_writing": [
       {
-        "id": 1,
-        "order": "1.00000000000000000000",
-        "label": "Wien",
-        "lb_id": "lb-place-1",
-        "geonames_url": "https://sws.geonames.org/2761369/",
-        "latitude": "48.20849",
-        "longitude": "16.37208",
+        "id": 108,
+        "order": "18.00000000000000000000",
+        "label": "Laxenburg",
+        "lb_id": "lb-place-108",
+        "geonames_url": "https://www.geonames.org/2772809/schloss-laxenburg.html",
+        "latitude": "48.06667",
+        "longitude": "16.36667",
         "gnd_url": "",
         "endonym": null
       }
     ],
-    "placename_written": "Vienna",
+    "placename_written": "Laxenburg",
     "destination": [],
     "hand": [],
     "edition": [],
@@ -50386,9 +50362,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1665-06-13",
+    "not_after": "1665-06-13",
+    "written_date": "13. Juni 1665",
     "date_note": "",
     "archiv": [
       {
@@ -50496,9 +50472,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1665-06-21",
+    "not_after": "1665-06-21",
+    "written_date": "21. Juni 1665",
     "date_note": "",
     "archiv": [
       {
@@ -50606,10 +50582,10 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
-    "date_note": "",
+    "not_before": "1665-07-04",
+    "not_after": "1665-07-04",
+    "written_date": "4. Juli 1665",
+    "date_note": "1",
     "archiv": [
       {
         "id": 70,
@@ -50716,9 +50692,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1665-07-15",
+    "not_after": "1665-07-15",
+    "written_date": "15. Juli 1665",
     "date_note": "",
     "archiv": [
       {
@@ -50826,9 +50802,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1665-11-29",
+    "not_after": "1665-11-29",
+    "written_date": "29. November 1665",
     "date_note": "",
     "archiv": [
       {
@@ -50936,9 +50912,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1665-12-16",
+    "not_after": "1665-12-16",
+    "written_date": "16. Dezember 1665",
     "date_note": "",
     "archiv": [
       {
@@ -51046,9 +51022,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1666-01-23",
+    "not_after": "1666-01-23",
+    "written_date": "23. Jänner 1666",
     "date_note": "",
     "archiv": [
       {
@@ -51156,9 +51132,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1666-03-13",
+    "not_after": "1666-03-13",
+    "written_date": "13. März 1666",
     "date_note": "",
     "archiv": [
       {
@@ -51266,9 +51242,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1666-03-27",
+    "not_after": "1666-03-27",
+    "written_date": "27. März 1666",
     "date_note": "",
     "archiv": [
       {
@@ -51376,9 +51352,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1666-04-03",
+    "not_after": "1666-04-03",
+    "written_date": "3. April 1666",
     "date_note": "",
     "archiv": [
       {
@@ -51486,9 +51462,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1666-04-10",
+    "not_after": "1666-04-10",
+    "written_date": "10. April 1666",
     "date_note": "",
     "archiv": [
       {
@@ -51596,9 +51572,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1666-04-21",
+    "not_after": "1666-04-21",
+    "written_date": "21. April 1666",
     "date_note": "",
     "archiv": [
       {
@@ -51706,9 +51682,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1666-05-02",
+    "not_after": "1666-05-02",
+    "written_date": "2. Mai 1666",
     "date_note": "",
     "archiv": [
       {
@@ -51816,9 +51792,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1666-05-12",
+    "not_after": "1666-05-12",
+    "written_date": "12. Mai 1666",
     "date_note": "",
     "archiv": [
       {
@@ -51871,18 +51847,18 @@
     },
     "place_of_writing": [
       {
-        "id": 1,
-        "order": "1.00000000000000000000",
-        "label": "Wien",
-        "lb_id": "lb-place-1",
-        "geonames_url": "https://sws.geonames.org/2761369/",
-        "latitude": "48.20849",
-        "longitude": "16.37208",
+        "id": 108,
+        "order": "18.00000000000000000000",
+        "label": "Laxenburg",
+        "lb_id": "lb-place-108",
+        "geonames_url": "https://www.geonames.org/2772809/schloss-laxenburg.html",
+        "latitude": "48.06667",
+        "longitude": "16.36667",
         "gnd_url": "",
         "endonym": null
       }
     ],
-    "placename_written": "Vienna",
+    "placename_written": "Laxenburg",
     "destination": [],
     "hand": [],
     "edition": [],
@@ -51926,9 +51902,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1666-05-20",
+    "not_after": "1666-05-20",
+    "written_date": "20. Mai 1666",
     "date_note": "",
     "archiv": [
       {
@@ -51981,18 +51957,18 @@
     },
     "place_of_writing": [
       {
-        "id": 1,
-        "order": "1.00000000000000000000",
-        "label": "Wien",
-        "lb_id": "lb-place-1",
-        "geonames_url": "https://sws.geonames.org/2761369/",
-        "latitude": "48.20849",
-        "longitude": "16.37208",
+        "id": 108,
+        "order": "18.00000000000000000000",
+        "label": "Laxenburg",
+        "lb_id": "lb-place-108",
+        "geonames_url": "https://www.geonames.org/2772809/schloss-laxenburg.html",
+        "latitude": "48.06667",
+        "longitude": "16.36667",
         "gnd_url": "",
         "endonym": null
       }
     ],
-    "placename_written": "Vienna",
+    "placename_written": "Laxenburg",
     "destination": [],
     "hand": [],
     "edition": [],
@@ -52036,9 +52012,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1666-06-02",
+    "not_after": "1666-06-02",
+    "written_date": "2. Juni 1666",
     "date_note": "",
     "archiv": [
       {
@@ -52091,18 +52067,18 @@
     },
     "place_of_writing": [
       {
-        "id": 1,
-        "order": "1.00000000000000000000",
-        "label": "Wien",
-        "lb_id": "lb-place-1",
-        "geonames_url": "https://sws.geonames.org/2761369/",
-        "latitude": "48.20849",
-        "longitude": "16.37208",
+        "id": 108,
+        "order": "18.00000000000000000000",
+        "label": "Laxenburg",
+        "lb_id": "lb-place-108",
+        "geonames_url": "https://www.geonames.org/2772809/schloss-laxenburg.html",
+        "latitude": "48.06667",
+        "longitude": "16.36667",
         "gnd_url": "",
         "endonym": null
       }
     ],
-    "placename_written": "Vienna",
+    "placename_written": "Lax[enburg]",
     "destination": [],
     "hand": [],
     "edition": [],
@@ -52146,9 +52122,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1666-06-16",
+    "not_after": "1666-06-16",
+    "written_date": "16. Juni 1666",
     "date_note": "",
     "archiv": [
       {
@@ -52256,9 +52232,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1666-07-03",
+    "not_after": "1666-07-03",
+    "written_date": "3. Juli 1666",
     "date_note": "",
     "archiv": [
       {
@@ -52366,9 +52342,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1666-07-15",
+    "not_after": "1666-07-15",
+    "written_date": "15. Juli 1666",
     "date_note": "",
     "archiv": [
       {
@@ -52476,9 +52452,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1666-07-24",
+    "not_after": "1666-07-24",
+    "written_date": "24. Juli 1666",
     "date_note": "",
     "archiv": [
       {
@@ -52586,9 +52562,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1666-08-25",
+    "not_after": "1666-08-25",
+    "written_date": "25. August 1666",
     "date_note": "",
     "archiv": [
       {
@@ -52696,9 +52672,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1666-09-07",
+    "not_after": "1666-09-07",
+    "written_date": "7. September 1666",
     "date_note": "",
     "archiv": [
       {
@@ -52806,9 +52782,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1666-10-09",
+    "not_after": "1666-10-09",
+    "written_date": "9. Oktober 1666",
     "date_note": "",
     "archiv": [
       {
@@ -52916,9 +52892,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1666-11-20",
+    "not_after": "1666-11-20",
+    "written_date": "20. November 1666",
     "date_note": "",
     "archiv": [
       {
@@ -52971,18 +52947,18 @@
     },
     "place_of_writing": [
       {
-        "id": 1,
-        "order": "1.00000000000000000000",
-        "label": "Wien",
-        "lb_id": "lb-place-1",
-        "geonames_url": "https://sws.geonames.org/2761369/",
-        "latitude": "48.20849",
-        "longitude": "16.37208",
+        "id": 70,
+        "order": "12.00000000000000000000",
+        "label": "Ebersdorf",
+        "lb_id": "lb-place-70",
+        "geonames_url": "https://www.geonames.org/12500696/jagd-schloss-ebersdorf.html",
+        "latitude": "48.16005",
+        "longitude": "16.47343",
         "gnd_url": "",
         "endonym": null
       }
     ],
-    "placename_written": "Vienna",
+    "placename_written": "Ebertorf",
     "destination": [],
     "hand": [],
     "edition": [],
@@ -53026,9 +53002,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1667-03-27",
+    "not_after": "1667-03-27",
+    "written_date": "27. März 1667",
     "date_note": "",
     "archiv": [
       {
@@ -53136,9 +53112,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1667-04-07",
+    "not_after": "1667-04-07",
+    "written_date": "7. April 1667",
     "date_note": "",
     "archiv": [
       {
@@ -53246,9 +53222,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1667-04-24",
+    "not_after": "1667-04-24",
+    "written_date": "24. April 1667",
     "date_note": "",
     "archiv": [
       {
@@ -53356,9 +53332,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1667-05-05",
+    "not_after": "1667-05-05",
+    "written_date": "5. Mai 1667",
     "date_note": "",
     "archiv": [
       {
@@ -53411,18 +53387,18 @@
     },
     "place_of_writing": [
       {
-        "id": 1,
-        "order": "1.00000000000000000000",
-        "label": "Wien",
-        "lb_id": "lb-place-1",
-        "geonames_url": "https://sws.geonames.org/2761369/",
-        "latitude": "48.20849",
-        "longitude": "16.37208",
+        "id": 108,
+        "order": "18.00000000000000000000",
+        "label": "Laxenburg",
+        "lb_id": "lb-place-108",
+        "geonames_url": "https://www.geonames.org/2772809/schloss-laxenburg.html",
+        "latitude": "48.06667",
+        "longitude": "16.36667",
         "gnd_url": "",
         "endonym": null
       }
     ],
-    "placename_written": "Vienna",
+    "placename_written": "Laxenburg",
     "destination": [],
     "hand": [],
     "edition": [],
@@ -53466,9 +53442,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1667-05-21",
+    "not_after": "1667-05-21",
+    "written_date": "21. Mai 1667",
     "date_note": "",
     "archiv": [
       {
@@ -53521,18 +53497,18 @@
     },
     "place_of_writing": [
       {
-        "id": 1,
-        "order": "1.00000000000000000000",
-        "label": "Wien",
-        "lb_id": "lb-place-1",
-        "geonames_url": "https://sws.geonames.org/2761369/",
-        "latitude": "48.20849",
-        "longitude": "16.37208",
+        "id": 108,
+        "order": "18.00000000000000000000",
+        "label": "Laxenburg",
+        "lb_id": "lb-place-108",
+        "geonames_url": "https://www.geonames.org/2772809/schloss-laxenburg.html",
+        "latitude": "48.06667",
+        "longitude": "16.36667",
         "gnd_url": "",
         "endonym": null
       }
     ],
-    "placename_written": "Vienna",
+    "placename_written": "Laxenburg",
     "destination": [],
     "hand": [],
     "edition": [],
@@ -53576,9 +53552,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1667-06-08",
+    "not_after": "1667-06-08",
+    "written_date": "8. Juni 1667",
     "date_note": "",
     "archiv": [
       {
@@ -53686,9 +53662,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1667-06-30",
+    "not_after": "1667-06-30",
+    "written_date": "30. Juni 1667",
     "date_note": "",
     "archiv": [
       {
@@ -53741,18 +53717,18 @@
     },
     "place_of_writing": [
       {
-        "id": 1,
-        "order": "1.00000000000000000000",
-        "label": "Wien",
-        "lb_id": "lb-place-1",
-        "geonames_url": "https://sws.geonames.org/2761369/",
-        "latitude": "48.20849",
-        "longitude": "16.37208",
+        "id": 152,
+        "order": "30.00000000000000000000",
+        "label": "Ober-Sankt-Veit",
+        "lb_id": "lb-place-152",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
         "gnd_url": "",
         "endonym": null
       }
     ],
-    "placename_written": "Vienna",
+    "placename_written": "St. Vait",
     "destination": [],
     "hand": [],
     "edition": [],
@@ -53796,9 +53772,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1667-07-14",
+    "not_after": "1667-07-14",
+    "written_date": "14. Juli 1667",
     "date_note": "",
     "archiv": [
       {
@@ -53906,9 +53882,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1667-08-06",
+    "not_after": "1667-08-06",
+    "written_date": "6. August 1667",
     "date_note": "",
     "archiv": [
       {
@@ -53961,18 +53937,18 @@
     },
     "place_of_writing": [
       {
-        "id": 1,
-        "order": "1.00000000000000000000",
-        "label": "Wien",
-        "lb_id": "lb-place-1",
-        "geonames_url": "https://sws.geonames.org/2761369/",
-        "latitude": "48.20849",
-        "longitude": "16.37208",
+        "id": 231,
+        "order": "77.00000000000000000000",
+        "label": "Hadersdorf",
+        "lb_id": "lb-place-231",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
         "gnd_url": "",
-        "endonym": null
+        "endonym": ""
       }
     ],
-    "placename_written": "Vienna",
+    "placename_written": "Haiderstorff",
     "destination": [],
     "hand": [],
     "edition": [],
@@ -54016,9 +53992,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1667-08-24",
+    "not_after": "1667-08-24",
+    "written_date": "24. August 1667",
     "date_note": "",
     "archiv": [
       {
@@ -54126,9 +54102,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1667-09-24",
+    "not_after": "1667-09-24",
+    "written_date": "24. September 1667",
     "date_note": "",
     "archiv": [
       {
@@ -54236,9 +54212,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1667-09-28",
+    "not_after": "1667-09-28",
+    "written_date": "28. September 1667",
     "date_note": "",
     "archiv": [
       {
@@ -54346,9 +54322,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1667-10-22",
+    "not_after": "1667-10-22",
+    "written_date": "22. Oktober 1667",
     "date_note": "",
     "archiv": [
       {
@@ -54456,9 +54432,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1667-10-27",
+    "not_after": "1667-10-27",
+    "written_date": "27. Oktober 1667",
     "date_note": "",
     "archiv": [
       {
@@ -54566,9 +54542,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1667-11-16",
+    "not_after": "1667-11-16",
+    "written_date": "16. November 1667",
     "date_note": "",
     "archiv": [
       {
@@ -54676,9 +54652,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1667-11-30",
+    "not_after": "1667-11-30",
+    "written_date": "30. November 1667",
     "date_note": "",
     "archiv": [
       {
@@ -54786,9 +54762,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1667-12-07",
+    "not_after": "1667-12-07",
+    "written_date": "7. Dezember 1667",
     "date_note": "",
     "archiv": [
       {
@@ -54896,9 +54872,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1668-02-22",
+    "not_after": "1668-02-22",
+    "written_date": "22. Februar 1668",
     "date_note": "",
     "archiv": [
       {
@@ -55006,9 +54982,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1668-09-19",
+    "not_after": "1668-09-19",
+    "written_date": "19. Septembr 1668",
     "date_note": "",
     "archiv": [
       {
@@ -55061,18 +55037,18 @@
     },
     "place_of_writing": [
       {
-        "id": 1,
-        "order": "1.00000000000000000000",
-        "label": "Wien",
-        "lb_id": "lb-place-1",
-        "geonames_url": "https://sws.geonames.org/2761369/",
-        "latitude": "48.20849",
-        "longitude": "16.37208",
+        "id": 70,
+        "order": "12.00000000000000000000",
+        "label": "Ebersdorf",
+        "lb_id": "lb-place-70",
+        "geonames_url": "https://www.geonames.org/12500696/jagd-schloss-ebersdorf.html",
+        "latitude": "48.16005",
+        "longitude": "16.47343",
         "gnd_url": "",
         "endonym": null
       }
     ],
-    "placename_written": "Vienna",
+    "placename_written": "Eberstorf",
     "destination": [],
     "hand": [],
     "edition": [],
@@ -55116,9 +55092,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1668-11-24",
+    "not_after": "1668-11-24",
+    "written_date": "24. November 1668",
     "date_note": "",
     "archiv": [
       {
@@ -55226,9 +55202,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1668-10-17",
+    "not_after": "1668-10-17",
+    "written_date": "17. Oktober 1668",
     "date_note": "",
     "archiv": [
       {
@@ -55336,9 +55312,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1668-11-03",
+    "not_after": "1668-11-03",
+    "written_date": "3. November 1668",
     "date_note": "",
     "archiv": [
       {
@@ -55446,9 +55422,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1669-05-01",
+    "not_after": "1669-05-01",
+    "written_date": "1. Mai 1669",
     "date_note": "",
     "archiv": [
       {
@@ -55556,9 +55532,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1668-03-07",
+    "not_after": "1668-03-07",
+    "written_date": "7. März 1668",
     "date_note": "",
     "archiv": [
       {
@@ -55611,18 +55587,18 @@
     },
     "place_of_writing": [
       {
-        "id": 1,
-        "order": "1.00000000000000000000",
-        "label": "Wien",
-        "lb_id": "lb-place-1",
-        "geonames_url": "https://sws.geonames.org/2761369/",
-        "latitude": "48.20849",
-        "longitude": "16.37208",
+        "id": 144,
+        "order": "22.00000000000000000000",
+        "label": "Wiener Neustadt",
+        "lb_id": "lb-place-144",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
         "gnd_url": "",
         "endonym": null
       }
     ],
-    "placename_written": "Vienna",
+    "placename_written": "Napoli dell´Austria",
     "destination": [],
     "hand": [],
     "edition": [],
@@ -55666,9 +55642,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1668-03-21",
+    "not_after": "1668-03-21",
+    "written_date": "21. März 1668",
     "date_note": "",
     "archiv": [
       {
@@ -55721,18 +55697,18 @@
     },
     "place_of_writing": [
       {
-        "id": 1,
-        "order": "1.00000000000000000000",
-        "label": "Wien",
-        "lb_id": "lb-place-1",
-        "geonames_url": "https://sws.geonames.org/2761369/",
-        "latitude": "48.20849",
-        "longitude": "16.37208",
+        "id": 144,
+        "order": "22.00000000000000000000",
+        "label": "Wiener Neustadt",
+        "lb_id": "lb-place-144",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
         "gnd_url": "",
         "endonym": null
       }
     ],
-    "placename_written": "Vienna",
+    "placename_written": "Neistatt",
     "destination": [],
     "hand": [],
     "edition": [],
@@ -55776,9 +55752,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1668-04-07",
+    "not_after": "1668-04-07",
+    "written_date": "7. April 1668",
     "date_note": "",
     "archiv": [
       {
@@ -55831,18 +55807,18 @@
     },
     "place_of_writing": [
       {
-        "id": 1,
-        "order": "1.00000000000000000000",
-        "label": "Wien",
-        "lb_id": "lb-place-1",
-        "geonames_url": "https://sws.geonames.org/2761369/",
-        "latitude": "48.20849",
-        "longitude": "16.37208",
+        "id": 144,
+        "order": "22.00000000000000000000",
+        "label": "Wiener Neustadt",
+        "lb_id": "lb-place-144",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
         "gnd_url": "",
         "endonym": null
       }
     ],
-    "placename_written": "Vienna",
+    "placename_written": "Neistatt",
     "destination": [],
     "hand": [],
     "edition": [],
@@ -55886,9 +55862,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1668-04-18",
+    "not_after": "1668-04-18",
+    "written_date": "18. April 1668",
     "date_note": "",
     "archiv": [
       {
@@ -55941,18 +55917,18 @@
     },
     "place_of_writing": [
       {
-        "id": 1,
-        "order": "1.00000000000000000000",
-        "label": "Wien",
-        "lb_id": "lb-place-1",
-        "geonames_url": "https://sws.geonames.org/2761369/",
-        "latitude": "48.20849",
-        "longitude": "16.37208",
+        "id": 144,
+        "order": "22.00000000000000000000",
+        "label": "Wiener Neustadt",
+        "lb_id": "lb-place-144",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
         "gnd_url": "",
         "endonym": null
       }
     ],
-    "placename_written": "Vienna",
+    "placename_written": "Neistatt",
     "destination": [],
     "hand": [],
     "edition": [],
@@ -55996,9 +55972,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1668-05-02",
+    "not_after": "1668-05-02",
+    "written_date": "2. Mai 1668",
     "date_note": "",
     "archiv": [
       {
@@ -56051,18 +56027,18 @@
     },
     "place_of_writing": [
       {
-        "id": 1,
-        "order": "1.00000000000000000000",
-        "label": "Wien",
-        "lb_id": "lb-place-1",
-        "geonames_url": "https://sws.geonames.org/2761369/",
-        "latitude": "48.20849",
-        "longitude": "16.37208",
+        "id": 108,
+        "order": "18.00000000000000000000",
+        "label": "Laxenburg",
+        "lb_id": "lb-place-108",
+        "geonames_url": "https://www.geonames.org/2772809/schloss-laxenburg.html",
+        "latitude": "48.06667",
+        "longitude": "16.36667",
         "gnd_url": "",
         "endonym": null
       }
     ],
-    "placename_written": "Vienna",
+    "placename_written": "Laxenburg",
     "destination": [],
     "hand": [],
     "edition": [],
@@ -56106,9 +56082,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1668-05-23",
+    "not_after": "1668-05-23",
+    "written_date": "23. Mai 1668",
     "date_note": "",
     "archiv": [
       {
@@ -56161,18 +56137,18 @@
     },
     "place_of_writing": [
       {
-        "id": 1,
-        "order": "1.00000000000000000000",
-        "label": "Wien",
-        "lb_id": "lb-place-1",
-        "geonames_url": "https://sws.geonames.org/2761369/",
-        "latitude": "48.20849",
-        "longitude": "16.37208",
+        "id": 108,
+        "order": "18.00000000000000000000",
+        "label": "Laxenburg",
+        "lb_id": "lb-place-108",
+        "geonames_url": "https://www.geonames.org/2772809/schloss-laxenburg.html",
+        "latitude": "48.06667",
+        "longitude": "16.36667",
         "gnd_url": "",
         "endonym": null
       }
     ],
-    "placename_written": "Vienna",
+    "placename_written": "Lassenburgo",
     "destination": [],
     "hand": [],
     "edition": [],
@@ -56216,9 +56192,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1668-06-03",
+    "not_after": "1668-06-03",
+    "written_date": "3. Juni 1668",
     "date_note": "",
     "archiv": [
       {
@@ -56271,18 +56247,18 @@
     },
     "place_of_writing": [
       {
-        "id": 1,
-        "order": "1.00000000000000000000",
-        "label": "Wien",
-        "lb_id": "lb-place-1",
-        "geonames_url": "https://sws.geonames.org/2761369/",
-        "latitude": "48.20849",
-        "longitude": "16.37208",
+        "id": 108,
+        "order": "18.00000000000000000000",
+        "label": "Laxenburg",
+        "lb_id": "lb-place-108",
+        "geonames_url": "https://www.geonames.org/2772809/schloss-laxenburg.html",
+        "latitude": "48.06667",
+        "longitude": "16.36667",
         "gnd_url": "",
         "endonym": null
       }
     ],
-    "placename_written": "Vienna",
+    "placename_written": "Laxenburg",
     "destination": [],
     "hand": [],
     "edition": [],
@@ -56326,9 +56302,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1668-06-20",
+    "not_after": "1668-06-20",
+    "written_date": "20. Juni 1668",
     "date_note": "",
     "archiv": [
       {
@@ -56436,9 +56412,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1668-07-04",
+    "not_after": "1668-07-04",
+    "written_date": "4. Juli 1668",
     "date_note": "",
     "archiv": [
       {
@@ -56546,9 +56522,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1668-07-12",
+    "not_after": "1668-07-12",
+    "written_date": "12. Juli 1668",
     "date_note": "",
     "archiv": [
       {
@@ -56656,9 +56632,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1668-07-26",
+    "not_after": "1668-07-26",
+    "written_date": "26. Juli 1668",
     "date_note": "",
     "archiv": [
       {
@@ -56766,9 +56742,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1668-08-08",
+    "not_after": "1668-08-08",
+    "written_date": "8. August 1668",
     "date_note": "",
     "archiv": [
       {
@@ -56876,9 +56852,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1669-05-15",
+    "not_after": "1669-05-15",
+    "written_date": "15. Mai 1669",
     "date_note": "",
     "archiv": [
       {
@@ -56931,18 +56907,18 @@
     },
     "place_of_writing": [
       {
-        "id": 1,
-        "order": "1.00000000000000000000",
-        "label": "Wien",
-        "lb_id": "lb-place-1",
-        "geonames_url": "https://sws.geonames.org/2761369/",
-        "latitude": "48.20849",
-        "longitude": "16.37208",
+        "id": 108,
+        "order": "18.00000000000000000000",
+        "label": "Laxenburg",
+        "lb_id": "lb-place-108",
+        "geonames_url": "https://www.geonames.org/2772809/schloss-laxenburg.html",
+        "latitude": "48.06667",
+        "longitude": "16.36667",
         "gnd_url": "",
         "endonym": null
       }
     ],
-    "placename_written": "Vienna",
+    "placename_written": "Lassenburg",
     "destination": [],
     "hand": [],
     "edition": [],
@@ -56986,9 +56962,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1669-06-05",
+    "not_after": "1669-06-05",
+    "written_date": "5. Juni 1669",
     "date_note": "",
     "archiv": [
       {
@@ -57041,18 +57017,18 @@
     },
     "place_of_writing": [
       {
-        "id": 1,
-        "order": "1.00000000000000000000",
-        "label": "Wien",
-        "lb_id": "lb-place-1",
-        "geonames_url": "https://sws.geonames.org/2761369/",
-        "latitude": "48.20849",
-        "longitude": "16.37208",
+        "id": 108,
+        "order": "18.00000000000000000000",
+        "label": "Laxenburg",
+        "lb_id": "lb-place-108",
+        "geonames_url": "https://www.geonames.org/2772809/schloss-laxenburg.html",
+        "latitude": "48.06667",
+        "longitude": "16.36667",
         "gnd_url": "",
         "endonym": null
       }
     ],
-    "placename_written": "Vienna",
+    "placename_written": "Lassenburg",
     "destination": [],
     "hand": [],
     "edition": [],
@@ -57096,9 +57072,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1669-06-26",
+    "not_after": "1669-06-26",
+    "written_date": "26. Juni 1669",
     "date_note": "",
     "archiv": [
       {
@@ -57206,9 +57182,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1669-07-10",
+    "not_after": "1669-07-10",
+    "written_date": "10. Juli 1669",
     "date_note": "",
     "archiv": [
       {
@@ -57316,9 +57292,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1669-08-07",
+    "not_after": "1669-08-07",
+    "written_date": "7. August 1669",
     "date_note": "",
     "archiv": [
       {
@@ -57426,9 +57402,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1669-08-31",
+    "not_after": "1669-08-31",
+    "written_date": "31. August 1669",
     "date_note": "",
     "archiv": [
       {
@@ -57536,9 +57512,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1669-09-18",
+    "not_after": "1669-09-18",
+    "written_date": "18. September 1669",
     "date_note": "",
     "archiv": [
       {
@@ -57591,18 +57567,18 @@
     },
     "place_of_writing": [
       {
-        "id": 1,
-        "order": "1.00000000000000000000",
-        "label": "Wien",
-        "lb_id": "lb-place-1",
-        "geonames_url": "https://sws.geonames.org/2761369/",
-        "latitude": "48.20849",
-        "longitude": "16.37208",
+        "id": 70,
+        "order": "12.00000000000000000000",
+        "label": "Ebersdorf",
+        "lb_id": "lb-place-70",
+        "geonames_url": "https://www.geonames.org/12500696/jagd-schloss-ebersdorf.html",
+        "latitude": "48.16005",
+        "longitude": "16.47343",
         "gnd_url": "",
         "endonym": null
       }
     ],
-    "placename_written": "Vienna",
+    "placename_written": "Eberstorff",
     "destination": [],
     "hand": [],
     "edition": [],
@@ -57646,9 +57622,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1669-10-02",
+    "not_after": "1669-10-02",
+    "written_date": "2. Oktober 1669",
     "date_note": "",
     "archiv": [
       {
@@ -57701,18 +57677,18 @@
     },
     "place_of_writing": [
       {
-        "id": 1,
-        "order": "1.00000000000000000000",
-        "label": "Wien",
-        "lb_id": "lb-place-1",
-        "geonames_url": "https://sws.geonames.org/2761369/",
-        "latitude": "48.20849",
-        "longitude": "16.37208",
+        "id": 70,
+        "order": "12.00000000000000000000",
+        "label": "Ebersdorf",
+        "lb_id": "lb-place-70",
+        "geonames_url": "https://www.geonames.org/12500696/jagd-schloss-ebersdorf.html",
+        "latitude": "48.16005",
+        "longitude": "16.47343",
         "gnd_url": "",
         "endonym": null
       }
     ],
-    "placename_written": "Vienna",
+    "placename_written": "Eberstorf",
     "destination": [],
     "hand": [],
     "edition": [],
@@ -57756,9 +57732,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1670-02-12",
+    "not_after": "1670-02-12",
+    "written_date": "12. Februar 1670",
     "date_note": "",
     "archiv": [
       {
@@ -57866,10 +57842,10 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
-    "date_note": "",
+    "not_before": "1670-03-05",
+    "not_after": "1670-03-05",
+    "written_date": "5. März 1670",
+    "date_note": "1",
     "archiv": [
       {
         "id": 70,
@@ -57976,9 +57952,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1670-04-12",
+    "not_after": "1670-04-12",
+    "written_date": "12. April 1670",
     "date_note": "",
     "archiv": [
       {
@@ -58086,9 +58062,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1670-04-23",
+    "not_after": "1670-04-23",
+    "written_date": "23. April 1670",
     "date_note": "",
     "archiv": [
       {
@@ -58141,18 +58117,18 @@
     },
     "place_of_writing": [
       {
-        "id": 1,
-        "order": "1.00000000000000000000",
-        "label": "Wien",
-        "lb_id": "lb-place-1",
-        "geonames_url": "https://sws.geonames.org/2761369/",
-        "latitude": "48.20849",
-        "longitude": "16.37208",
+        "id": 108,
+        "order": "18.00000000000000000000",
+        "label": "Laxenburg",
+        "lb_id": "lb-place-108",
+        "geonames_url": "https://www.geonames.org/2772809/schloss-laxenburg.html",
+        "latitude": "48.06667",
+        "longitude": "16.36667",
         "gnd_url": "",
         "endonym": null
       }
     ],
-    "placename_written": "Vienna",
+    "placename_written": "Lassenburg",
     "destination": [],
     "hand": [],
     "edition": [],
@@ -58196,9 +58172,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1670-06-26",
+    "not_after": "1670-06-26",
+    "written_date": "26. Juni 1670",
     "date_note": "",
     "archiv": [
       {
@@ -58251,18 +58227,18 @@
     },
     "place_of_writing": [
       {
-        "id": 1,
-        "order": "1.00000000000000000000",
-        "label": "Wien",
-        "lb_id": "lb-place-1",
-        "geonames_url": "https://sws.geonames.org/2761369/",
-        "latitude": "48.20849",
-        "longitude": "16.37208",
+        "id": 147,
+        "order": "25.00000000000000000000",
+        "label": "Stockerau",
+        "lb_id": "lb-place-147",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
         "gnd_url": "",
         "endonym": null
       }
     ],
-    "placename_written": "Vienna",
+    "placename_written": "Stokheraw",
     "destination": [],
     "hand": [],
     "edition": [],
@@ -58306,9 +58282,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1670-08-09",
+    "not_after": "1670-08-09",
+    "written_date": "9. August 1670",
     "date_note": "",
     "archiv": [
       {
@@ -58416,9 +58392,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1670-09-03",
+    "not_after": "1670-09-03",
+    "written_date": "3. September 1670",
     "date_note": "",
     "archiv": [
       {
@@ -58526,9 +58502,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1670-10-01",
+    "not_after": "1670-10-01",
+    "written_date": "1. Oktober 1670",
     "date_note": "",
     "archiv": [
       {
@@ -58636,9 +58612,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1671-04-29",
+    "not_after": "1671-04-29",
+    "written_date": "29. April 1671",
     "date_note": "",
     "archiv": [
       {
@@ -58691,18 +58667,18 @@
     },
     "place_of_writing": [
       {
-        "id": 1,
-        "order": "1.00000000000000000000",
-        "label": "Wien",
-        "lb_id": "lb-place-1",
-        "geonames_url": "https://sws.geonames.org/2761369/",
-        "latitude": "48.20849",
-        "longitude": "16.37208",
+        "id": 108,
+        "order": "18.00000000000000000000",
+        "label": "Laxenburg",
+        "lb_id": "lb-place-108",
+        "geonames_url": "https://www.geonames.org/2772809/schloss-laxenburg.html",
+        "latitude": "48.06667",
+        "longitude": "16.36667",
         "gnd_url": "",
         "endonym": null
       }
     ],
-    "placename_written": "Vienna",
+    "placename_written": "Lassenburg",
     "destination": [],
     "hand": [],
     "edition": [],
@@ -58746,9 +58722,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1671-05-24",
+    "not_after": "1671-05-24",
+    "written_date": "24. Mai 1671",
     "date_note": "",
     "archiv": [
       {
@@ -58801,18 +58777,18 @@
     },
     "place_of_writing": [
       {
-        "id": 1,
-        "order": "1.00000000000000000000",
-        "label": "Wien",
-        "lb_id": "lb-place-1",
-        "geonames_url": "https://sws.geonames.org/2761369/",
-        "latitude": "48.20849",
-        "longitude": "16.37208",
+        "id": 108,
+        "order": "18.00000000000000000000",
+        "label": "Laxenburg",
+        "lb_id": "lb-place-108",
+        "geonames_url": "https://www.geonames.org/2772809/schloss-laxenburg.html",
+        "latitude": "48.06667",
+        "longitude": "16.36667",
         "gnd_url": "",
         "endonym": null
       }
     ],
-    "placename_written": "Vienna",
+    "placename_written": "Lassenburg",
     "destination": [],
     "hand": [],
     "edition": [],
@@ -58856,9 +58832,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1671-06-10",
+    "not_after": "1671-06-10",
+    "written_date": "10. Juni 1671",
     "date_note": "",
     "archiv": [
       {
@@ -58966,9 +58942,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1671-06-24",
+    "not_after": "1671-06-24",
+    "written_date": "24. Juni 1671",
     "date_note": "",
     "archiv": [
       {
@@ -59076,9 +59052,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1671-07-22",
+    "not_after": "1671-07-22",
+    "written_date": "22. Juli 1671",
     "date_note": "",
     "archiv": [
       {
@@ -59186,9 +59162,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1671-09-05",
+    "not_after": "1671-09-05",
+    "written_date": "5. September 1671",
     "date_note": "",
     "archiv": [
       {
@@ -59296,9 +59272,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1671-11-01",
+    "not_after": "1671-11-01",
+    "written_date": "1. November 1671",
     "date_note": "",
     "archiv": [
       {
@@ -59406,9 +59382,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1671-12-09",
+    "not_after": "1671-12-09",
+    "written_date": "9. Dezember 1671",
     "date_note": "",
     "archiv": [
       {
@@ -59516,9 +59492,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1672-04-02",
+    "not_after": "1672-04-02",
+    "written_date": "2. April 1672",
     "date_note": "",
     "archiv": [
       {
@@ -59547,7 +59523,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -59626,9 +59602,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1672-04-27",
+    "not_after": "1672-04-27",
+    "written_date": "27. April 1672",
     "date_note": "",
     "archiv": [
       {
@@ -59657,7 +59633,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -59736,9 +59712,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1672-05-28",
+    "not_after": "1672-05-28",
+    "written_date": "28. Mai 1672",
     "date_note": "",
     "archiv": [
       {
@@ -59767,7 +59743,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -59846,9 +59822,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1672-06-18",
+    "not_after": "1672-06-18",
+    "written_date": "18. Juni 1672",
     "date_note": "",
     "archiv": [
       {
@@ -59877,7 +59853,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -59956,9 +59932,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1672-07-18",
+    "not_after": "1672-07-18",
+    "written_date": "18. Juli 1672",
     "date_note": "",
     "archiv": [
       {
@@ -59987,7 +59963,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -60011,18 +59987,18 @@
     },
     "place_of_writing": [
       {
-        "id": 1,
-        "order": "1.00000000000000000000",
-        "label": "Wien",
-        "lb_id": "lb-place-1",
-        "geonames_url": "https://sws.geonames.org/2761369/",
-        "latitude": "48.20849",
-        "longitude": "16.37208",
+        "id": 232,
+        "order": "78.00000000000000000000",
+        "label": "Nikolsburg",
+        "lb_id": "lb-place-232",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
         "gnd_url": "",
-        "endonym": null
+        "endonym": "Mikulov"
       }
     ],
-    "placename_written": "Vienna",
+    "placename_written": "Nikhelspurg",
     "destination": [],
     "hand": [],
     "edition": [],
@@ -60066,9 +60042,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1672-08-17",
+    "not_after": "1672-08-17",
+    "written_date": "17. August 1672",
     "date_note": "",
     "archiv": [
       {
@@ -60097,7 +60073,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -60176,9 +60152,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1672-10-02",
+    "not_after": "1672-10-02",
+    "written_date": "2. Oktober 1672",
     "date_note": "",
     "archiv": [
       {
@@ -60207,7 +60183,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -60231,18 +60207,18 @@
     },
     "place_of_writing": [
       {
-        "id": 1,
-        "order": "1.00000000000000000000",
-        "label": "Wien",
-        "lb_id": "lb-place-1",
-        "geonames_url": "https://sws.geonames.org/2761369/",
-        "latitude": "48.20849",
-        "longitude": "16.37208",
+        "id": 70,
+        "order": "12.00000000000000000000",
+        "label": "Ebersdorf",
+        "lb_id": "lb-place-70",
+        "geonames_url": "https://www.geonames.org/12500696/jagd-schloss-ebersdorf.html",
+        "latitude": "48.16005",
+        "longitude": "16.47343",
         "gnd_url": "",
         "endonym": null
       }
     ],
-    "placename_written": "Vienna",
+    "placename_written": "Eberstorf",
     "destination": [],
     "hand": [],
     "edition": [],
@@ -60286,9 +60262,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1672-10-15",
+    "not_after": "1672-10-15",
+    "written_date": "15. Oktober 1672",
     "date_note": "",
     "archiv": [
       {
@@ -60317,7 +60293,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -60396,9 +60372,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1672-10-26",
+    "not_after": "1672-10-26",
+    "written_date": "26. Oktober 1672",
     "date_note": "",
     "archiv": [
       {
@@ -60427,7 +60403,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -60506,9 +60482,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1672-10-30",
+    "not_after": "1672-10-30",
+    "written_date": "30. Oktober 1672",
     "date_note": "",
     "archiv": [
       {
@@ -60537,7 +60513,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -60616,9 +60592,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1672-10-30",
+    "not_after": "1672-10-30",
+    "written_date": "30. Oktober 1672",
     "date_note": "",
     "archiv": [
       {
@@ -60647,7 +60623,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -60726,10 +60702,10 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
-    "date_note": "",
+    "not_before": "1672-11-13",
+    "not_after": "1672-11-13",
+    "written_date": "13. November 1672",
+    "date_note": "1",
     "archiv": [
       {
         "id": 70,
@@ -60757,7 +60733,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -60836,9 +60812,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1672-12-18",
+    "not_after": "1672-12-18",
+    "written_date": "18. Dezember 1672",
     "date_note": "",
     "archiv": [
       {
@@ -60867,7 +60843,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -60946,9 +60922,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1672-12-31",
+    "not_after": "1672-12-31",
+    "written_date": "31. Dezember 1672",
     "date_note": "",
     "archiv": [
       {
@@ -60977,7 +60953,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -61056,9 +61032,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1673-01-22",
+    "not_after": "1673-01-22",
+    "written_date": "22. Jänner 1673",
     "date_note": "",
     "archiv": [
       {
@@ -61087,7 +61063,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -61166,9 +61142,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1673-01-07",
+    "not_after": "1673-01-07",
+    "written_date": "7. Jänner 1673",
     "date_note": "",
     "archiv": [
       {
@@ -61197,7 +61173,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -61276,9 +61252,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1673-07-05",
+    "not_after": "1673-07-05",
+    "written_date": "5. Juli 1673",
     "date_note": "",
     "archiv": [
       {
@@ -61307,7 +61283,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -61331,18 +61307,18 @@
     },
     "place_of_writing": [
       {
-        "id": 1,
-        "order": "1.00000000000000000000",
-        "label": "Wien",
-        "lb_id": "lb-place-1",
-        "geonames_url": "https://sws.geonames.org/2761369/",
-        "latitude": "48.20849",
-        "longitude": "16.37208",
+        "id": 176,
+        "order": "54.00000000000000000000",
+        "label": "Königstetten",
+        "lb_id": "lb-place-176",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
         "gnd_url": "",
-        "endonym": null
+        "endonym": ""
       }
     ],
-    "placename_written": "Vienna",
+    "placename_written": "Kinigstetten",
     "destination": [],
     "hand": [],
     "edition": [],
@@ -61386,9 +61362,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1673-06-17",
+    "not_after": "1673-06-17",
+    "written_date": "17. Juni 1673",
     "date_note": "",
     "archiv": [
       {
@@ -61417,7 +61393,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -61496,9 +61472,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1673-06-17",
+    "not_after": "1673-06-17",
+    "written_date": "17. Juni 1673",
     "date_note": "",
     "archiv": [
       {
@@ -61527,7 +61503,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -61536,9 +61512,9 @@
       }
     ],
     "main_language": {
-      "id": 23021,
-      "value": "ita",
-      "color": "deep-dark-orange"
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
     },
     "daily_order": "1",
     "copy_of": [],
@@ -61562,7 +61538,7 @@
         "endonym": null
       }
     ],
-    "placename_written": "Vienna",
+    "placename_written": "Wienn",
     "destination": [],
     "hand": [],
     "edition": [],
@@ -61606,9 +61582,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1673-06-14",
+    "not_after": "1673-06-14",
+    "written_date": "14. Juni 1673",
     "date_note": "",
     "archiv": [
       {
@@ -61637,7 +61613,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -61661,18 +61637,18 @@
     },
     "place_of_writing": [
       {
-        "id": 1,
-        "order": "1.00000000000000000000",
-        "label": "Wien",
-        "lb_id": "lb-place-1",
-        "geonames_url": "https://sws.geonames.org/2761369/",
-        "latitude": "48.20849",
-        "longitude": "16.37208",
+        "id": 108,
+        "order": "18.00000000000000000000",
+        "label": "Laxenburg",
+        "lb_id": "lb-place-108",
+        "geonames_url": "https://www.geonames.org/2772809/schloss-laxenburg.html",
+        "latitude": "48.06667",
+        "longitude": "16.36667",
         "gnd_url": "",
         "endonym": null
       }
     ],
-    "placename_written": "Vienna",
+    "placename_written": "Laxenburg",
     "destination": [],
     "hand": [],
     "edition": [],
@@ -61716,9 +61692,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1673-05-24",
+    "not_after": "1673-05-24",
+    "written_date": "24. Mai 1673",
     "date_note": "",
     "archiv": [
       {
@@ -61747,7 +61723,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -61771,18 +61747,18 @@
     },
     "place_of_writing": [
       {
-        "id": 1,
-        "order": "1.00000000000000000000",
-        "label": "Wien",
-        "lb_id": "lb-place-1",
-        "geonames_url": "https://sws.geonames.org/2761369/",
-        "latitude": "48.20849",
-        "longitude": "16.37208",
+        "id": 108,
+        "order": "18.00000000000000000000",
+        "label": "Laxenburg",
+        "lb_id": "lb-place-108",
+        "geonames_url": "https://www.geonames.org/2772809/schloss-laxenburg.html",
+        "latitude": "48.06667",
+        "longitude": "16.36667",
         "gnd_url": "",
         "endonym": null
       }
     ],
-    "placename_written": "Vienna",
+    "placename_written": "Laxenburg",
     "destination": [],
     "hand": [],
     "edition": [],
@@ -61826,9 +61802,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1673-02-15",
+    "not_after": "1673-02-15",
+    "written_date": "15. Februar 1673",
     "date_note": "",
     "archiv": [
       {
@@ -61857,7 +61833,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -61936,9 +61912,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1673-03-25",
+    "not_after": "1673-03-25",
+    "written_date": "25. März 1673",
     "date_note": "",
     "archiv": [
       {
@@ -61967,12 +61943,17 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
         "value": "Original",
         "color": "dark-green"
+      },
+      {
+        "id": 23016,
+        "value": "zeitgenössische Abschrift",
+        "color": "dark-red"
       }
     ],
     "main_language": {
@@ -61991,18 +61972,18 @@
     },
     "place_of_writing": [
       {
-        "id": 1,
-        "order": "1.00000000000000000000",
-        "label": "Wien",
-        "lb_id": "lb-place-1",
-        "geonames_url": "https://sws.geonames.org/2761369/",
-        "latitude": "48.20849",
-        "longitude": "16.37208",
+        "id": 144,
+        "order": "22.00000000000000000000",
+        "label": "Wiener Neustadt",
+        "lb_id": "lb-place-144",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
         "gnd_url": "",
         "endonym": null
       }
     ],
-    "placename_written": "Vienna",
+    "placename_written": "Neystatt",
     "destination": [],
     "hand": [],
     "edition": [],
@@ -62046,9 +62027,9 @@
         "maiden_name": ""
       }
     ],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "not_before": "1673-04-26",
+    "not_after": "1673-04-26",
+    "written_date": "26. April 1673",
     "date_note": "",
     "archiv": [
       {
@@ -62077,7 +62058,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -62101,18 +62082,18 @@
     },
     "place_of_writing": [
       {
-        "id": 1,
-        "order": "1.00000000000000000000",
-        "label": "Wien",
-        "lb_id": "lb-place-1",
-        "geonames_url": "https://sws.geonames.org/2761369/",
-        "latitude": "48.20849",
-        "longitude": "16.37208",
+        "id": 108,
+        "order": "18.00000000000000000000",
+        "label": "Laxenburg",
+        "lb_id": "lb-place-108",
+        "geonames_url": "https://www.geonames.org/2772809/schloss-laxenburg.html",
+        "latitude": "48.06667",
+        "longitude": "16.36667",
         "gnd_url": "",
         "endonym": null
       }
     ],
-    "placename_written": "Vienna",
+    "placename_written": "Laxenburg",
     "destination": [],
     "hand": [],
     "edition": [],
@@ -62187,7 +62168,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -62211,18 +62192,18 @@
     },
     "place_of_writing": [
       {
-        "id": 1,
-        "order": "1.00000000000000000000",
-        "label": "Wien",
-        "lb_id": "lb-place-1",
-        "geonames_url": "https://sws.geonames.org/2761369/",
-        "latitude": "48.20849",
-        "longitude": "16.37208",
+        "id": 108,
+        "order": "18.00000000000000000000",
+        "label": "Laxenburg",
+        "lb_id": "lb-place-108",
+        "geonames_url": "https://www.geonames.org/2772809/schloss-laxenburg.html",
+        "latitude": "48.06667",
+        "longitude": "16.36667",
         "gnd_url": "",
         "endonym": null
       }
     ],
-    "placename_written": "Vienna",
+    "placename_written": "Laxenburg",
     "destination": [],
     "hand": [],
     "edition": [],
@@ -62297,7 +62278,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -62407,7 +62388,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -62517,7 +62498,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -62627,7 +62608,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -62737,7 +62718,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -62847,7 +62828,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -62957,7 +62938,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -63067,7 +63048,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -63177,7 +63158,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -63287,7 +63268,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -63397,7 +63378,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -63507,7 +63488,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -63617,7 +63598,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -63727,7 +63708,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -63837,7 +63818,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -63947,7 +63928,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -64057,7 +64038,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -64167,7 +64148,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -64277,7 +64258,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -64387,7 +64368,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -64497,7 +64478,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -64607,7 +64588,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -64717,7 +64698,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -64827,7 +64808,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -64937,7 +64918,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -65047,7 +65028,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -65157,7 +65138,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -65267,7 +65248,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -65377,7 +65358,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -65487,7 +65468,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -65597,7 +65578,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -65707,7 +65688,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -65817,7 +65798,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -65927,7 +65908,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -66037,7 +66018,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -66147,7 +66128,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -66257,7 +66238,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -66367,7 +66348,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -66477,7 +66458,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -66587,7 +66568,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -66697,7 +66678,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -66807,7 +66788,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -66917,7 +66898,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -67027,7 +67008,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -67137,7 +67118,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -67247,7 +67228,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -67357,7 +67338,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -67467,7 +67448,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -67577,7 +67558,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -67687,7 +67668,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -67797,7 +67778,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -67907,7 +67888,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -68017,7 +67998,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -68127,7 +68108,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -68237,7 +68218,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -68347,7 +68328,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -68457,7 +68438,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -68567,7 +68548,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -68677,7 +68658,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -68787,7 +68768,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -68897,7 +68878,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -69007,7 +68988,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -69117,7 +69098,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -69227,7 +69208,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -69337,7 +69318,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -69447,7 +69428,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -69557,7 +69538,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -69667,7 +69648,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -69777,7 +69758,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -69887,7 +69868,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -69997,7 +69978,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -70107,7 +70088,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -70217,7 +70198,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -70327,7 +70308,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -70437,7 +70418,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -70547,7 +70528,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -70657,7 +70638,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -70767,7 +70748,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -70877,7 +70858,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -70987,7 +70968,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -71097,7 +71078,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -71207,7 +71188,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -71317,7 +71298,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -71427,7 +71408,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -71537,7 +71518,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -71647,7 +71628,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -71757,7 +71738,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -71867,7 +71848,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -71977,7 +71958,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -72087,7 +72068,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -72197,7 +72178,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -72307,7 +72288,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -72417,7 +72398,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -72527,7 +72508,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -72637,7 +72618,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -72747,7 +72728,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -72857,7 +72838,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -72967,7 +72948,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -73077,7 +73058,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -73187,7 +73168,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -73297,7 +73278,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -73407,7 +73388,7 @@
       }
     ],
     "collection": "RA Černínů",
-    "signatur": "K. 246, fol. r‒v",
+    "signatur": "K. 248, fol. r‒v",
     "kind": [
       {
         "id": 23015,
@@ -85455,8 +85436,8 @@
         "date_of_death": "1705-05-05",
         "wikidata_url": "",
         "mentioned_letters - courier": [],
-        "first_name": null,
-        "last_name": "Leopold I.",
+        "first_name": "Leopold I.",
+        "last_name": "",
         "maiden_name": null
       }
     ],

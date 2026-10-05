@@ -23,8 +23,8 @@
     "date_of_death": "1705-05-05",
     "wikidata_url": "",
     "mentioned_letters - courier": [],
-    "first_name": null,
-    "last_name": "Leopold I.",
+    "first_name": "Leopold I.",
+    "last_name": "",
     "maiden_name": null
   },
   "2": {
@@ -255,8 +255,8 @@
     "date_of_death": "1696-05-16",
     "wikidata_url": "",
     "mentioned_letters - courier": [],
-    "first_name": null,
-    "last_name": "Maria Anna",
+    "first_name": "Maria Anna",
+    "last_name": "",
     "maiden_name": null
   },
   "76": {
@@ -295,8 +295,8 @@
     "date_of_death": "1665-09-17",
     "wikidata_url": "",
     "mentioned_letters - courier": [],
-    "first_name": null,
-    "last_name": "Philipp IV.",
+    "first_name": "Philipp IV.",
+    "last_name": "",
     "maiden_name": null
   },
   "77": {
@@ -419,8 +419,8 @@
     "date_of_death": null,
     "wikidata_url": "",
     "mentioned_letters - courier": [],
-    "first_name": "",
-    "last_name": "",
+    "first_name": "Eleonora Magdalena",
+    "last_name": "Gonzaga",
     "maiden_name": ""
   },
   "118": {
@@ -435,14 +435,14 @@
     "date_of_death": null,
     "wikidata_url": "",
     "mentioned_letters - courier": [],
-    "first_name": "",
+    "first_name": "Ludwig XIV.",
     "last_name": "",
     "maiden_name": ""
   },
   "119": {
     "id": 119,
     "order": "21.00000000000000000000",
-    "label": "Ferdinand I. Bonaventura Harrach",
+    "label": "Ferdinand Bonaventura von Harrach",
     "lb_id": "lb-person-119",
     "gnd_url": "",
     "place_of_birth": [],
@@ -467,7 +467,87 @@
         "order": "898.00000000000000000000"
       }
     ],
-    "first_name": "",
+    "first_name": "Ferdinand Bonaventura",
+    "last_name": "Harrach",
+    "maiden_name": ""
+  },
+  "120": {
+    "id": 120,
+    "order": "22.00000000000000000000",
+    "label": "Ludovico Mattei",
+    "lb_id": "lb-person-120",
+    "gnd_url": "",
+    "place_of_birth": [
+      {
+        "id": 228,
+        "order": "75.00000000000000000000",
+        "label": "Rom",
+        "lb_id": "lb-place-228",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
+        "gnd_url": "",
+        "endonym": ""
+      }
+    ],
+    "date_of_birth": "1609-11-19",
+    "place_of_death": [
+      {
+        "id": 228,
+        "order": "75.00000000000000000000",
+        "label": "Rom",
+        "lb_id": "lb-place-228",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
+        "gnd_url": "",
+        "endonym": ""
+      }
+    ],
+    "date_of_death": "1665-06-08",
+    "wikidata_url": "",
+    "mentioned_letters - courier": [],
+    "first_name": "Ludovico",
+    "last_name": "Mattei",
+    "maiden_name": ""
+  },
+  "121": {
+    "id": 121,
+    "order": "23.00000000000000000000",
+    "label": "Maria Anna von Österreich",
+    "lb_id": "lb-person-121",
+    "gnd_url": "",
+    "place_of_birth": [
+      {
+        "id": 109,
+        "order": "19.00000000000000000000",
+        "label": "Graz",
+        "lb_id": "lb-place-109",
+        "geonames_url": "https://www.geonames.org/2778067/graz.html",
+        "latitude": "47.06733",
+        "longitude": "15.44197",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "date_of_birth": "1610-01-13",
+    "place_of_death": [
+      {
+        "id": 36,
+        "order": "4.00000000000000000000",
+        "label": "München",
+        "lb_id": "lb-place-36",
+        "geonames_url": "https://www.geonames.org/2867714/munich.html",
+        "latitude": "48.13743",
+        "longitude": "11.57549",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "date_of_death": "1665-09-25",
+    "wikidata_url": "",
+    "mentioned_letters - courier": [],
+    "first_name": "Maria Anna",
     "last_name": "",
     "maiden_name": ""
   }

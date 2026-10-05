@@ -835,15 +835,26 @@
     "gnd_url": "",
     "endonym": ""
   },
-  "230": {
-    "id": 230,
+  "231": {
+    "id": 231,
     "order": "77.00000000000000000000",
-    "label": "Zell",
-    "lb_id": "lb-place-230",
+    "label": "Hadersdorf",
+    "lb_id": "lb-place-231",
     "geonames_url": "",
     "latitude": null,
     "longitude": null,
     "gnd_url": "",
     "endonym": ""
+  },
+  "232": {
+    "id": 232,
+    "order": "78.00000000000000000000",
+    "label": "Nikolsburg",
+    "lb_id": "lb-place-232",
+    "geonames_url": "",
+    "latitude": null,
+    "longitude": null,
+    "gnd_url": "",
+    "endonym": "Mikulov"
   }
 }
