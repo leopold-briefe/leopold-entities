@@ -856,5 +856,16 @@
     "longitude": null,
     "gnd_url": "",
     "endonym": "Mikulov"
+  },
+  "233": {
+    "id": 233,
+    "order": "79.00000000000000000000",
+    "label": "Orth",
+    "lb_id": "lb-place-233",
+    "geonames_url": "",
+    "latitude": null,
+    "longitude": null,
+    "gnd_url": "",
+    "endonym": ""
   }
 }

@@ -342,6 +342,9 @@
                <place xml:id="lb-place-232">
                   <placeName>Nikolsburg</placeName>
                </place>
+               <place xml:id="lb-place-233">
+                  <placeName>Orth</placeName>
+               </place>
             </listPlace>
          </div>
       </body>

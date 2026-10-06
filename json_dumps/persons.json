@@ -550,5 +550,45 @@
     "first_name": "Maria Anna",
     "last_name": "",
     "maiden_name": ""
+  },
+  "122": {
+    "id": 122,
+    "order": "24.00000000000000000000",
+    "label": "Maria Euphrosyna a Sanctissima Trinitate (Euphrosyna Dorothea von Sternberg)",
+    "lb_id": "lb-person-122",
+    "gnd_url": "",
+    "place_of_birth": [
+      {
+        "id": 69,
+        "order": "11.00000000000000000000",
+        "label": "Prag",
+        "lb_id": "lb-place-69",
+        "geonames_url": "https://www.geonames.org/3067696/prague.html",
+        "latitude": "50.08804",
+        "longitude": "14.42076",
+        "gnd_url": "",
+        "endonym": "Praha"
+      }
+    ],
+    "date_of_birth": "1608-02-06",
+    "place_of_death": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "date_of_death": "1686-05-13",
+    "wikidata_url": "",
+    "mentioned_letters - courier": [],
+    "first_name": "Euphrosyna Dorothea",
+    "last_name": "Sternberg",
+    "maiden_name": ""
   }
 }
