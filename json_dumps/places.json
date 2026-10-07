@@ -867,5 +867,16 @@
     "longitude": null,
     "gnd_url": "",
     "endonym": ""
+  },
+  "234": {
+    "id": 234,
+    "order": "80.00000000000000000000",
+    "label": "Klosterneuburg",
+    "lb_id": "lb-place-234",
+    "geonames_url": "",
+    "latitude": null,
+    "longitude": null,
+    "gnd_url": "",
+    "endonym": ""
   }
 }
