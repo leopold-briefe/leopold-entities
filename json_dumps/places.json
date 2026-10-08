@@ -878,5 +878,49 @@
     "longitude": null,
     "gnd_url": "",
     "endonym": ""
+  },
+  "235": {
+    "id": 235,
+    "order": "81.00000000000000000000",
+    "label": "Schönbrunn",
+    "lb_id": "lb-place-235",
+    "geonames_url": "",
+    "latitude": null,
+    "longitude": null,
+    "gnd_url": "",
+    "endonym": ""
+  },
+  "236": {
+    "id": 236,
+    "order": "82.00000000000000000000",
+    "label": "Wilhelmsburg",
+    "lb_id": "lb-place-236",
+    "geonames_url": "",
+    "latitude": null,
+    "longitude": null,
+    "gnd_url": "",
+    "endonym": ""
+  },
+  "237": {
+    "id": 237,
+    "order": "83.00000000000000000000",
+    "label": "Görz",
+    "lb_id": "lb-place-237",
+    "geonames_url": "",
+    "latitude": null,
+    "longitude": null,
+    "gnd_url": "",
+    "endonym": ""
+  },
+  "238": {
+    "id": 238,
+    "order": "84.00000000000000000000",
+    "label": "Thürlo[?]",
+    "lb_id": "lb-place-238",
+    "geonames_url": "",
+    "latitude": null,
+    "longitude": null,
+    "gnd_url": "",
+    "endonym": ""
   }
 }

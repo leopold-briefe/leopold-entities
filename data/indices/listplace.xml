@@ -348,6 +348,18 @@
                <place xml:id="lb-place-234">
                   <placeName>Klosterneuburg</placeName>
                </place>
+               <place xml:id="lb-place-235">
+                  <placeName>Schönbrunn</placeName>
+               </place>
+               <place xml:id="lb-place-236">
+                  <placeName>Wilhelmsburg</placeName>
+               </place>
+               <place xml:id="lb-place-237">
+                  <placeName>Görz</placeName>
+               </place>
+               <place xml:id="lb-place-238">
+                  <placeName>Thürlo[?]</placeName>
+               </place>
             </listPlace>
          </div>
       </body>
