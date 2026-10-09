@@ -915,12 +915,34 @@
   "238": {
     "id": 238,
     "order": "84.00000000000000000000",
-    "label": "Thürlo[?]",
+    "label": "",
     "lb_id": "lb-place-238",
     "geonames_url": "",
     "latitude": null,
     "longitude": null,
     "gnd_url": "",
     "endonym": ""
+  },
+  "240": {
+    "id": 240,
+    "order": "85.00000000000000000000",
+    "label": "Eger",
+    "lb_id": "lb-place-240",
+    "geonames_url": "",
+    "latitude": null,
+    "longitude": null,
+    "gnd_url": "",
+    "endonym": "Cheb"
+  },
+  "241": {
+    "id": 241,
+    "order": "86.00000000000000000000",
+    "label": "Heiliger Berg",
+    "lb_id": "lb-place-241",
+    "geonames_url": "",
+    "latitude": null,
+    "longitude": null,
+    "gnd_url": "",
+    "endonym": "Svatá Hora"
   }
 }

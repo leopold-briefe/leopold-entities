@@ -358,7 +358,13 @@
                   <placeName>Görz</placeName>
                </place>
                <place xml:id="lb-place-238">
-                  <placeName>Thürlo[?]</placeName>
+                  <placeName/>
+               </place>
+               <place xml:id="lb-place-240">
+                  <placeName>Eger</placeName>
+               </place>
+               <place xml:id="lb-place-241">
+                  <placeName>Heiliger Berg</placeName>
                </place>
             </listPlace>
          </div>

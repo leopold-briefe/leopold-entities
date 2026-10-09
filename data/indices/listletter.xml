@@ -32043,6 +32043,403 @@
             </correspAction>
             <!--  -->
          </correspDesc>
+         <correspDesc xml:id="lb-01255" n="Leopold I. an Franz Eusebius von Pötting am 4. August 1673 (Wien)">
+            <noteGrp type="metadata">
+               <note type="not_before">1673-08-04</note>
+               <note type="archiv">Österreichisches Staatsarchiv, Haus-, Hof- und Staatsarchiv</note>
+               <note type="collection">Große Korrespondenz</note>
+               <note type="signatur">K. 33, Bd. 5 (1672‒1673), fol. 155r‒156v</note>
+               <note type="kind">Original</note>
+               <note type="main_language">deu</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="edition">PŘIBRAM/PRAGENAU 1903–1904.</note>
+               <note type="volume">2</note>
+               <note type="number">348</note>
+               <note type="page">344</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">ÖStA, HHStA</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+               <placeName key="lb-place-1" ref="https://sws.geonames.org/2761369/">Wien</placeName>
+               <placeName type="written">Wienn</placeName>
+               <date when="1673-08-04">4. August 1673</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-40" ref="https://d-nb.info/gnd/119324636">Franz Eusebius von Pötting</persName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-01256" n="Leopold I. an Franz Eusebius von Pötting am 9. August 1673 (Neuhaus)">
+            <noteGrp type="metadata">
+               <note type="not_before">1673-08-09</note>
+               <note type="archiv">Österreichisches Staatsarchiv, Haus-, Hof- und Staatsarchiv</note>
+               <note type="collection">Große Korrespondenz</note>
+               <note type="signatur">K. 33, Bd. 5 (1672‒1673), fol. 157r‒159v</note>
+               <note type="kind">Original</note>
+               <note type="main_language">deu</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="edition">PŘIBRAM/PRAGENAU 1903–1904.</note>
+               <note type="volume">2</note>
+               <note type="number">349</note>
+               <note type="page">345–349</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">ÖStA, HHStA</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+               <placeName key="lb-place-165">Neuhaus</placeName>
+               <placeName type="written">Neyhaus</placeName>
+               <date when="1673-08-09">9. August 1673</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-40" ref="https://d-nb.info/gnd/119324636">Franz Eusebius von Pötting</persName>
+               <placeName type="destination" key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-01257" n="Leopold I. an Franz Eusebius von Pötting am 25. August 1673 (Eger)">
+            <noteGrp type="metadata">
+               <note type="not_before">1673-08-25</note>
+               <note type="archiv">Österreichisches Staatsarchiv, Haus-, Hof- und Staatsarchiv</note>
+               <note type="collection">Große Korrespondenz</note>
+               <note type="signatur">K. 33, Bd. 5 (1672‒1673), fol. 160r‒162v</note>
+               <note type="kind">Original</note>
+               <note type="main_language">deu</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="edition">PŘIBRAM/PRAGENAU 1903–1904.</note>
+               <note type="volume">2</note>
+               <note type="number">350</note>
+               <note type="page">349–355</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">ÖStA, HHStA</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+               <placeName key="lb-place-240">Eger</placeName>
+               <placeName type="written">Eger</placeName>
+               <date when="1673-08-25">25. August 1673</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-40" ref="https://d-nb.info/gnd/119324636">Franz Eusebius von Pötting</persName>
+               <placeName type="destination" key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-01258" n="Leopold I. an Franz Eusebius von Pötting am 31. August 1673 (Heiliger Berg)">
+            <noteGrp type="metadata">
+               <note type="not_before">1673-08-31</note>
+               <note type="archiv">Österreichisches Staatsarchiv, Haus-, Hof- und Staatsarchiv</note>
+               <note type="collection">Große Korrespondenz</note>
+               <note type="signatur">K. 33, Bd. 5 (1672‒1673), fol. 163r‒165v</note>
+               <note type="kind">Original</note>
+               <note type="main_language">deu</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="edition">PŘIBRAM/PRAGENAU 1903–1904.</note>
+               <note type="volume">2</note>
+               <note type="number">351</note>
+               <note type="page">355f.</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">ÖStA, HHStA</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+               <placeName key="lb-place-241">Heiliger Berg</placeName>
+               <placeName type="written">bey dem hay. berg zue Przibram</placeName>
+               <date when="1673-08-31">31. August 1673</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-40" ref="https://d-nb.info/gnd/119324636">Franz Eusebius von Pötting</persName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-01259" n="Leopold I. an Franz Eusebius von Pötting am 6. September 1673 (Prag)">
+            <noteGrp type="metadata">
+               <note type="not_before">1673-09-06</note>
+               <note type="archiv">Österreichisches Staatsarchiv, Haus-, Hof- und Staatsarchiv</note>
+               <note type="collection">Große Korrespondenz</note>
+               <note type="signatur">K. 33, Bd. 5 (1672‒1673), fol. 166r‒168v</note>
+               <note type="kind">Original</note>
+               <note type="main_language">deu</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="edition">PŘIBRAM/PRAGENAU 1903–1904.</note>
+               <note type="volume">2</note>
+               <note type="number">352</note>
+               <note type="page">356–359</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">ÖStA, HHStA</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+               <placeName key="lb-place-69" ref="https://www.geonames.org/3067696/prague.html">Prag</placeName>
+               <placeName type="written">Prag</placeName>
+               <date when="1673-09-06">6. September 1673</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-40" ref="https://d-nb.info/gnd/119324636">Franz Eusebius von Pötting</persName>
+               <placeName type="destination" key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-01260" n="Leopold I. an Franz Eusebius von Pötting am 21. September 1673 (Wien)">
+            <noteGrp type="metadata">
+               <note type="not_before">1673-09-21</note>
+               <note type="archiv">Österreichisches Staatsarchiv, Haus-, Hof- und Staatsarchiv</note>
+               <note type="collection">Große Korrespondenz</note>
+               <note type="signatur">K. 33, Bd. 5 (1672‒1673), fol. 169r‒171v</note>
+               <note type="kind">Original</note>
+               <note type="main_language">deu</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="edition">PŘIBRAM/PRAGENAU 1903–1904.</note>
+               <note type="volume">2</note>
+               <note type="number">353</note>
+               <note type="page">359–363</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">ÖStA, HHStA</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+               <placeName key="lb-place-1" ref="https://sws.geonames.org/2761369/">Wien</placeName>
+               <placeName type="written">Wienn</placeName>
+               <date when="1673-09-21">21. September 1673</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-40" ref="https://d-nb.info/gnd/119324636">Franz Eusebius von Pötting</persName>
+               <placeName type="destination" key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-01261" n="Leopold I. an Franz Eusebius von Pötting am 4. Oktober 1673 (Graz)">
+            <noteGrp type="metadata">
+               <note type="not_before">1673-10-04</note>
+               <note type="archiv">Österreichisches Staatsarchiv, Haus-, Hof- und Staatsarchiv</note>
+               <note type="collection">Große Korrespondenz</note>
+               <note type="signatur">K. 33, Bd. 5 (1672‒1673), fol. 172r‒174v</note>
+               <note type="kind">Original</note>
+               <note type="main_language">deu</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="edition">PŘIBRAM/PRAGENAU 1903–1904.</note>
+               <note type="volume">2</note>
+               <note type="number">354</note>
+               <note type="page">363–368</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">ÖStA, HHStA</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+               <placeName key="lb-place-109" ref="https://www.geonames.org/2778067/graz.html">Graz</placeName>
+               <placeName type="written">Grätz</placeName>
+               <date when="1673-10-04">4. Oktober 1673</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-40" ref="https://d-nb.info/gnd/119324636">Franz Eusebius von Pötting</persName>
+               <placeName type="destination" key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-01262" n="Leopold I. an Franz Eusebius von Pötting am 19. Oktober 1673 (Graz)">
+            <noteGrp type="metadata">
+               <note type="not_before">1673-10-19</note>
+               <note type="archiv">Österreichisches Staatsarchiv, Haus-, Hof- und Staatsarchiv</note>
+               <note type="collection">Große Korrespondenz</note>
+               <note type="signatur">K. 33, Bd. 5 (1672‒1673), fol. 175r‒177v</note>
+               <note type="kind">Original</note>
+               <note type="main_language">deu</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="edition">PŘIBRAM/PRAGENAU 1903–1904.</note>
+               <note type="volume">2</note>
+               <note type="number">355</note>
+               <note type="page">368–371</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">ÖStA, HHStA</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+               <placeName key="lb-place-109" ref="https://www.geonames.org/2778067/graz.html">Graz</placeName>
+               <placeName type="written">Graz</placeName>
+               <date when="1673-10-19">19. Oktober 1673</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-40" ref="https://d-nb.info/gnd/119324636">Franz Eusebius von Pötting</persName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-01263" n="Leopold I. an Franz Eusebius von Pötting am 2. November 1673 (Graz)">
+            <noteGrp type="metadata">
+               <note type="not_before">1673-11-02</note>
+               <note type="archiv">Österreichisches Staatsarchiv, Haus-, Hof- und Staatsarchiv</note>
+               <note type="collection">Große Korrespondenz</note>
+               <note type="signatur">K. 33, Bd. 5 (1672‒1673), fol. 178r‒180v</note>
+               <note type="kind">Original</note>
+               <note type="main_language">deu</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="edition">PŘIBRAM/PRAGENAU 1903–1904.</note>
+               <note type="volume">2</note>
+               <note type="number">356</note>
+               <note type="page">372–374</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">ÖStA, HHStA</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+               <placeName key="lb-place-109" ref="https://www.geonames.org/2778067/graz.html">Graz</placeName>
+               <placeName type="written">Graz</placeName>
+               <date when="1673-11-02">2. November 1673</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-40" ref="https://d-nb.info/gnd/119324636">Franz Eusebius von Pötting</persName>
+               <placeName type="destination" key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-01264" n="Leopold I. an Franz Eusebius von Pötting am 16. November 1673 (Wien)">
+            <noteGrp type="metadata">
+               <note type="not_before">1673-11-16</note>
+               <note type="archiv">Österreichisches Staatsarchiv, Haus-, Hof- und Staatsarchiv</note>
+               <note type="collection">Große Korrespondenz</note>
+               <note type="signatur">K. 33, Bd. 5 (1672‒1673), fol. 181r‒182v</note>
+               <note type="kind">Original</note>
+               <note type="main_language">deu</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="edition">PŘIBRAM/PRAGENAU 1903–1904.</note>
+               <note type="volume">2</note>
+               <note type="number">357</note>
+               <note type="page">374–376</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">ÖStA, HHStA</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+               <placeName key="lb-place-1" ref="https://sws.geonames.org/2761369/">Wien</placeName>
+               <placeName type="written">Wienn</placeName>
+               <date when="1673-11-16">16. November 1673</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-40" ref="https://d-nb.info/gnd/119324636">Franz Eusebius von Pötting</persName>
+               <placeName type="destination" key="lb-place-72" ref="https://www.geonames.org/3117735/madrid.html">Madrid</placeName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-01265" n="Leopold I. an Franz Eusebius von Pötting am 30. November 1673 (Wien)">
+            <noteGrp type="metadata">
+               <note type="not_before">1673-11-30</note>
+               <note type="archiv">Österreichisches Staatsarchiv, Haus-, Hof- und Staatsarchiv</note>
+               <note type="collection">Große Korrespondenz</note>
+               <note type="signatur">K. 33, Bd. 5 (1672‒1673), fol. 183r‒184v</note>
+               <note type="kind">Original</note>
+               <note type="main_language">deu</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="edition">PŘIBRAM/PRAGENAU 1903–1904.</note>
+               <note type="volume">2</note>
+               <note type="number">358</note>
+               <note type="page">377–379</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">ÖStA, HHStA</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+               <placeName key="lb-place-1" ref="https://sws.geonames.org/2761369/">Wien</placeName>
+               <placeName type="written">Wienn</placeName>
+               <date when="1673-11-30">30. November 1673</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-40" ref="https://d-nb.info/gnd/119324636">Franz Eusebius von Pötting</persName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-01266" n="Leopold I. an Franz Eusebius von Pötting am 14. Dezember 1673 (Wien)">
+            <noteGrp type="metadata">
+               <note type="not_before">1673-12-14</note>
+               <note type="archiv">Österreichisches Staatsarchiv, Haus-, Hof- und Staatsarchiv</note>
+               <note type="collection">Große Korrespondenz</note>
+               <note type="signatur">K. 33, Bd. 5 (1672‒1673), fol. 185r‒186v</note>
+               <note type="kind">Original</note>
+               <note type="main_language">deu</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="edition">PŘIBRAM/PRAGENAU 1903–1904.</note>
+               <note type="volume">2</note>
+               <note type="number">359</note>
+               <note type="page">379–381</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">ÖStA, HHStA</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+               <placeName key="lb-place-1" ref="https://sws.geonames.org/2761369/">Wien</placeName>
+               <placeName type="written">Wienn</placeName>
+               <date when="1673-12-14">14. Dezember 1673</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-40" ref="https://d-nb.info/gnd/119324636">Franz Eusebius von Pötting</persName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-01267" n="Leopold I. an Franz Eusebius von Pötting am 28. Dezember 1673 (Wien)">
+            <noteGrp type="metadata">
+               <note type="not_before">1673-12-28</note>
+               <note type="archiv">Österreichisches Staatsarchiv, Haus-, Hof- und Staatsarchiv</note>
+               <note type="collection">Große Korrespondenz</note>
+               <note type="signatur">K. 33, Bd. 5 (1672‒1673), fol. 187r‒188v</note>
+               <note type="kind">Original</note>
+               <note type="main_language">deu</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="edition">PŘIBRAM/PRAGENAU 1903–1904.</note>
+               <note type="volume">2</note>
+               <note type="number">360</note>
+               <note type="page">381–384</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">ÖStA, HHStA</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+               <placeName key="lb-place-1" ref="https://sws.geonames.org/2761369/">Wien</placeName>
+               <placeName type="written">Wienn</placeName>
+               <date when="1673-12-28">28. Dezember 1673</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-40" ref="https://d-nb.info/gnd/119324636">Franz Eusebius von Pötting</persName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
       </profileDesc>
    </teiHeader>
    <text>
