@@ -9581,7 +9581,7 @@
                <placeName type="destination" key="lb-place-39" ref="https://www.geonames.org/2510769/kingdom-of-spain.html">Spanien</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc xml:id="lb-ml-1129" n="Leopold I. an Unbekannt am 1662-01-07 (Venedig)">
+         <correspDesc xml:id="lb-ml-1129" corresp="#lb-00425" n="Leopold I. an Unbekannt am 1662-01-07 (Venedig)">
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
                <date when="1662-01-07">1662-01-07</date>
@@ -9653,7 +9653,7 @@
                <placeName type="destination" key="lb-place-179">Köln</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc xml:id="lb-ml-1137" n="Leopold I. an Unbekannt am 1662-01-14 (Venedig)">
+         <correspDesc xml:id="lb-ml-1137" corresp="#lb-00426" n="Leopold I. an Unbekannt am 1662-01-14 (Venedig)">
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
                <date when="1662-01-14">1662-01-14</date>
@@ -10892,6 +10892,7 @@
             <correspAction type="received">
                <placeName type="destination" key="lb-place-229">Italien</placeName>
             </correspAction>
+            <note type="anmerkung">In der Edition irrtümlich datiert auf den 28. Juni.</note>
          </correspDesc>
          <correspDesc xml:id="lb-ml-1280" n="Leopold I. an Unbekannt am 1662-06-24 (Wien)">
             <correspAction type="sent">
@@ -12571,7 +12572,7 @@
                <placeName type="destination" key="lb-place-38" ref="https://www.geonames.org/2951839/bavaria.html">Bayern</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc xml:id="lb-ml-1471" n="Leopold I. an Unbekannt am 1662-11-11 (Spanien)">
+         <correspDesc xml:id="lb-ml-1471" corresp="#lb-00901" n="Leopold I. an Unbekannt am 1662-11-11 (Spanien)">
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
                <date when="1662-11-11">1662-11-11</date>
@@ -12579,6 +12580,7 @@
             <correspAction type="received">
                <placeName type="destination" key="lb-place-39" ref="https://www.geonames.org/2510769/kingdom-of-spain.html">Spanien</placeName>
             </correspAction>
+            <note type="anmerkung">Das Original datiert in Wirklichkeit vom 10. November.</note>
          </correspDesc>
          <correspDesc xml:id="lb-ml-1472" n="Leopold I. an Unbekannt am 1662-11-11 (Spanien)">
             <correspAction type="sent">

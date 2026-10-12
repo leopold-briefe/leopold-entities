@@ -29588,7 +29588,13 @@
     "dictated_letter": false,
     "note": "",
     "addressee_worked_out": [],
-    "original_letter": [],
+    "original_letter": [
+      {
+        "id": 505,
+        "value": "lb-00425",
+        "order": "37.99425287356321945254"
+      }
+    ],
     "correct_date": null,
     "lb_id": "lb-ml-1129"
   },
@@ -29804,7 +29810,13 @@
     "dictated_letter": false,
     "note": "",
     "addressee_worked_out": [],
-    "original_letter": [],
+    "original_letter": [
+      {
+        "id": 506,
+        "value": "lb-00426",
+        "order": "37.99428571428571643764"
+      }
+    ],
     "correct_date": null,
     "lb_id": "lb-ml-1137"
   },
@@ -33234,7 +33246,7 @@
       }
     ],
     "dictated_letter": false,
-    "note": "",
+    "note": "In der Edition irrtümlich datiert auf den 28. Juni.",
     "addressee_worked_out": [],
     "original_letter": [],
     "correct_date": null,
@@ -38103,9 +38115,15 @@
       }
     ],
     "dictated_letter": false,
-    "note": "",
+    "note": "Das Original datiert in Wirklichkeit vom 10. November.",
     "addressee_worked_out": [],
-    "original_letter": [],
+    "original_letter": [
+      {
+        "id": 1069,
+        "value": "lb-00901",
+        "order": "429.00000000000000000000"
+      }
+    ],
     "correct_date": null,
     "lb_id": "lb-ml-1471"
   },

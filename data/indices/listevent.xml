@@ -7525,7 +7525,7 @@
                   <label>1662-01-07</label>
                   <desc>Den 7. ein auf Venedig.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-00425">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-166">Venedig</rs>
                         </title>
                         <date>1662-01-07</date>
@@ -7577,7 +7577,7 @@
                   <label>1662-01-14</label>
                   <desc>Den 14. ein brief <hi rend="del">in</hi> auff Venedig geschriben.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-00426">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-166">Venedig</rs>
                         </title>
                         <date>1662-01-14</date>
@@ -8522,6 +8522,7 @@
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-229">Italien</rs>
                         </title>
                         <date>1662-06-23</date>
+                        <note>In der Edition irrtümlich datiert auf den 28. Juni.</note>
                      </bibl>
                   </listBibl>
                </event>
@@ -9721,10 +9722,11 @@
                   <label>1662-11-11</label>
                   <desc>Den 11. 4 in Spanien.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-00901">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
                         <date>1662-11-11</date>
+                        <note>Das Original datiert in Wirklichkeit vom 10. November.</note>
                      </bibl>
                      <bibl>
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
