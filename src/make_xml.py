@@ -139,7 +139,7 @@ for x in doc.any_xpath(".//tei:correspDesc[@xml:id]"):
             x, ".//tei:correspAction[@type='received']/tei:persName/text()"
         )[0]
     except IndexError:
-        receiver = "Unbekannt"
+        receiver = "Ungenannt"
     try:
         date = any_xpath(x, ".//tei:correspAction[@type='sent']/tei:date/text()")[0]
     except IndexError:
@@ -172,7 +172,7 @@ for x in doc.any_xpath(".//tei:correspDesc[@xml:id]"):
             x, ".//tei:correspAction[@type='received']/tei:persName/text()"
         )[0]
     except IndexError:
-        receiver = "Unbekannt"
+        receiver = "Ungenannt"
     try:
         date = any_xpath(x, ".//tei:correspAction[@type='sent']/tei:date/text()")[0]
     except IndexError:
