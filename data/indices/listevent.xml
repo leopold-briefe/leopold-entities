@@ -7630,15 +7630,16 @@
                         </title>
                         <date>1662-01-28</date>
                      </bibl>
-                     <bibl>
+                     <bibl key="lb-00428">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-229">Italien</rs>
                         </title>
                         <date>1662-01-28</date>
                      </bibl>
                      <bibl>
-                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-229">Italien</rs>
+                        <title>Leopold an <rs type="person" ref="#lb-person-123">Ferdinand Karl von Österreich</rs>[ermittelt] nach <rs type="place" ref="lb-place-229">Italien</rs>
                         </title>
                         <date>1662-01-28</date>
+                        <note>Adressat erwähnt in lb-00428.</note>
                      </bibl>
                   </listBibl>
                </event>
@@ -7765,7 +7766,7 @@
                   <label>1662-02-25</label>
                   <desc>Den 25. 2 brieff in Italien geschriben.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-00431">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-229">Italien</rs>
                         </title>
                         <date>1662-02-25</date>
@@ -7792,7 +7793,7 @@
                   <label>1662-03-04</label>
                   <desc>Den 4. <hi rend="unclear">…</hi>. Item ein brieff in Venedig geschriben.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-00432">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-166">Venedig</rs>
                         </title>
                         <date>1662-03-04</date>
@@ -7839,7 +7840,7 @@
                   <label>1662-03-11</label>
                   <desc>Den 11. <hi rend="unclear">…</hi>. Item 2 brieff in Italien gschriben.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-00433">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-229">Italien</rs>
                         </title>
                         <date>1662-03-11</date>
@@ -7950,7 +7951,7 @@
                   <label>1662-04-08</label>
                   <desc>Den 8. 2 schreiben in Italien geschriben.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-00434">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-229">Italien</rs>
                         </title>
                         <date>1662-04-08</date>
@@ -8035,7 +8036,7 @@
                   <label>1662-04-29</label>
                   <desc>Den 29. 3 geschriben.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-00435">
                         <title>Leopold an Unbekannt</title>
                         <date>1662-04-29</date>
                      </bibl>
@@ -8125,7 +8126,7 @@
                   <label>1662-05-20</label>
                   <desc>Den 20. ein brieff auf Venedig geschriben.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-00436">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-166">Venedig</rs>
                         </title>
                         <date>1662-05-20</date>
@@ -8157,7 +8158,7 @@
                   <label>1662-05-24</label>
                   <desc>Den 24. 3 in Italien geschriben.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-00437">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-229">Italien</rs>
                         </title>
                         <date>1662-05-24</date>
@@ -8276,7 +8277,7 @@
                   <label>1662-06-02</label>
                   <desc>Den 2ten Junij 1662 habe ich 3 brief geschriben.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-00438">
                         <title>Leopold an Unbekannt</title>
                         <date>1662-06-02</date>
                      </bibl>
@@ -8518,7 +8519,7 @@
                         </title>
                         <date>1662-06-23</date>
                      </bibl>
-                     <bibl>
+                     <bibl key="lb-00439">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-229">Italien</rs>
                         </title>
                         <date>1662-06-23</date>
@@ -8633,7 +8634,7 @@
                         </title>
                         <date>1662-06-30</date>
                      </bibl>
-                     <bibl>
+                     <bibl key="lb-00440">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-229">Italien</rs>
                         </title>
                         <date>1662-06-30</date>
@@ -8819,7 +8820,7 @@
                   <label>1662-07-21</label>
                   <desc>Den 21. dito 3 brief geschriben.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-00441">
                         <title>Leopold an Unbekannt</title>
                         <date>1662-07-21</date>
                      </bibl>
@@ -8919,7 +8920,7 @@
                   <label>1662-07-28</label>
                   <desc>Den 28. 3 brief geschriben.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-00442">
                         <title>Leopold an Unbekannt</title>
                         <date>1662-07-28</date>
                      </bibl>
@@ -9063,7 +9064,7 @@
                   <label>1662-08-12</label>
                   <desc>Den 12. dito <hi rend="unclear">…</hi>. Item 4 brief hinc inde geschriben.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-00444">
                         <title>Leopold an Unbekannt</title>
                         <date>1662-08-12</date>
                      </bibl>
@@ -9241,7 +9242,7 @@
                         </title>
                         <date>1662-09-01</date>
                      </bibl>
-                     <bibl>
+                     <bibl key="lb-00445">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-166">Venedig</rs>
                         </title>
                         <date>1662-09-01</date>
@@ -9472,7 +9473,7 @@
                         </title>
                         <date>1662-09-30</date>
                      </bibl>
-                     <bibl>
+                     <bibl key="lb-00446">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-229">Italien</rs>
                         </title>
                         <date>1662-09-30</date>

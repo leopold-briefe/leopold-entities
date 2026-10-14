@@ -944,5 +944,16 @@
     "longitude": null,
     "gnd_url": "",
     "endonym": "Svatá Hora"
+  },
+  "242": {
+    "id": 242,
+    "order": "87.00000000000000000000",
+    "label": "Kaltern an der Weinstraße",
+    "lb_id": "lb-place-242",
+    "geonames_url": "",
+    "latitude": null,
+    "longitude": null,
+    "gnd_url": "",
+    "endonym": ""
   }
 }

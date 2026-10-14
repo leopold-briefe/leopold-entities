@@ -320,6 +320,25 @@
                      </settlement>
                   </death>
                </person>
+               <person xml:id="lb-person-123" n="Ferdinand Karl von Österreich">
+                  <persName type="preferred">Ferdinand Karl von Österreich</persName>
+                  <persName type="parts">
+                     <forename>Ferdinand Karl</forename>
+                     <surname/>
+                  </persName>
+                  <birth>
+                     <date>1628-05-17</date>
+                     <settlement key="lb-place-160">
+                        <placeName>Innsbruck</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1662-12-30</date>
+                     <settlement key="lb-place-242">
+                        <placeName>Kaltern an der Weinstraße</placeName>
+                     </settlement>
+                  </death>
+               </person>
             </listPerson>
          </div>
       </body>

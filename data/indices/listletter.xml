@@ -8932,9 +8932,9 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00423" n="Leopold I. an Humprecht Johann Czernin von Chudenitz am 3. Jänner 1662 (Wien)">
+         <correspDesc xml:id="lb-00423" n="Leopold I. an Humprecht Johann Czernin von Chudenitz am 3. Dezember 1661 (Wien)">
             <noteGrp type="metadata">
-               <note type="not_before">1662-01-03</note>
+               <note type="not_before">1661-12-03</note>
                <note type="archiv">Státní oblastní archiv v Třeboni, pracoviště Jindřichv Hradec ‒ zámek</note>
                <note type="collection">RA Černínů</note>
                <note type="signatur">K. 247, fol. 168r‒169v</note>
@@ -8954,7 +8954,7 @@
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
                <placeName key="lb-place-1" ref="https://sws.geonames.org/2761369/">Wien</placeName>
                <placeName type="written">Vienna</placeName>
-               <date when="1662-01-03">3. Jänner 1662</date>
+               <date when="1661-12-03">3. Dezember 1661</date>
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-81">Humprecht Johann Czernin von Chudenitz</persName>
@@ -9048,9 +9048,9 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00427" n="Leopold I. an Humprecht Johann Czernin von Chudenitz am 17. Jänner 1662 (Wien)">
+         <correspDesc xml:id="lb-00427" n="Leopold I. an Humprecht Johann Czernin von Chudenitz am 17. Jänner 1666 (Wien)">
             <noteGrp type="metadata">
-               <note type="not_before">1662-01-17</note>
+               <note type="not_before">1666-01-17</note>
                <note type="archiv">Státní oblastní archiv v Třeboni, pracoviště Jindřichv Hradec ‒ zámek</note>
                <note type="collection">RA Černínů</note>
                <note type="signatur">K. 247, fol. 146r‒147v</note>
@@ -9070,8 +9070,8 @@
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
                <placeName key="lb-place-1" ref="https://sws.geonames.org/2761369/">Wien</placeName>
                <placeName type="written">Widni</placeName>
-               <date when="1662-01-17">17. Jänner 1662</date>
-               <note type="date">unsicher</note>
+               <date when="1666-01-17">17. Jänner 1666</date>
+               <note type="date">In der Edition als 1661 gelesen und falsch auf den 17. Jänner 1662 datiert.</note>
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-81">Humprecht Johann Czernin von Chudenitz</persName>
@@ -9414,6 +9414,7 @@
                <placeName key="lb-place-71" ref="https://www.geonames.org/3060972/bratislava.html">Pressburg</placeName>
                <placeName type="written">Posonia</placeName>
                <date when="1662-06-23">23. Juni 1662</date>
+               <note type="date">In der Edition irrtümlich datiert auf den 28.6.</note>
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-81">Humprecht Johann Czernin von Chudenitz</persName>
@@ -9994,7 +9995,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00460" n="Leopold I. an Unbekannt am Unbekannt (Unbekannt)">
+         <correspDesc xml:id="lb-00460" n="Leopold I. an Ungenannt am Unbekannt (Unbekannt)">
             <noteGrp type="metadata">
                <note type="kind">Original</note>
                <note type="main_language">ita</note>
@@ -16109,7 +16110,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00702" n="Leopold I. an Unbekannt am Unbekannt (Unbekannt)">
+         <correspDesc xml:id="lb-00702" n="Leopold I. an Ungenannt am Unbekannt (Unbekannt)">
             <noteGrp type="metadata">
                <note type="archiv">Státní oblastní archiv v Třeboni, pracoviště Český Krumlov</note>
                <note type="collection">RA Schwarzenberků</note>

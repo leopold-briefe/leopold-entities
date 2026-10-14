@@ -590,5 +590,45 @@
     "first_name": "Euphrosyna Dorothea",
     "last_name": "Sternberg",
     "maiden_name": ""
+  },
+  "123": {
+    "id": 123,
+    "order": "25.00000000000000000000",
+    "label": "Ferdinand Karl von Österreich",
+    "lb_id": "lb-person-123",
+    "gnd_url": "",
+    "place_of_birth": [
+      {
+        "id": 160,
+        "order": "38.00000000000000000000",
+        "label": "Innsbruck",
+        "lb_id": "lb-place-160",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
+        "gnd_url": "",
+        "endonym": ""
+      }
+    ],
+    "date_of_birth": "1628-05-17",
+    "place_of_death": [
+      {
+        "id": 242,
+        "order": "87.00000000000000000000",
+        "label": "Kaltern an der Weinstraße",
+        "lb_id": "lb-place-242",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
+        "gnd_url": "",
+        "endonym": ""
+      }
+    ],
+    "date_of_death": "1662-12-30",
+    "wikidata_url": "",
+    "mentioned_letters - courier": [],
+    "first_name": "Ferdinand Karl",
+    "last_name": "",
+    "maiden_name": ""
   }
 }
