@@ -12755,7 +12755,7 @@
                <placeName type="destination" key="lb-place-161">Tirol</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc xml:id="lb-ml-1491" n="Leopold I. an Ungenannt am 1662-11-26 (Venedig)">
+         <correspDesc xml:id="lb-ml-1491" corresp="#lb-00448" n="Leopold I. an Ungenannt am 1662-11-26 (Venedig)">
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
                <date when="1662-11-26">1662-11-26</date>
@@ -12818,7 +12818,7 @@
                <placeName type="destination" key="lb-place-38" ref="https://www.geonames.org/2951839/bavaria.html">Bayern</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc xml:id="lb-ml-1498" n="Leopold I. an Ungenannt am 1662-12-09 (Venedig)">
+         <correspDesc xml:id="lb-ml-1498" corresp="#lb-00449" n="Leopold I. an Ungenannt am 1662-12-09 (Venedig)">
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
                <date when="1662-12-09">1662-12-09</date>
@@ -12890,7 +12890,7 @@
                <placeName type="destination" key="lb-place-38" ref="https://www.geonames.org/2951839/bavaria.html">Bayern</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc xml:id="lb-ml-1506" n="Leopold I. an Ungenannt am 1662-12-23 (Venedig)">
+         <correspDesc xml:id="lb-ml-1506" corresp="#lb-00450" n="Leopold I. an Ungenannt am 1662-12-23 (Venedig)">
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
                <date when="1662-12-23">1662-12-23</date>
@@ -12971,7 +12971,7 @@
                <placeName type="destination" key="lb-place-161">Tirol</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc xml:id="lb-ml-1515" n="Leopold I. an Ungenannt am 1662-12-30 (Unbekannt)">
+         <correspDesc xml:id="lb-ml-1515" corresp="#lb-00451" n="Leopold I. an Ungenannt am 1662-12-30 (Unbekannt)">
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
                <date when="1662-12-30">1662-12-30</date>

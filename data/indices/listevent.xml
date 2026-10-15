@@ -9842,7 +9842,7 @@
                   <label>1662-11-26</label>
                   <desc>Den 26. ein auf Venedig geschriben.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-00448">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-166">Venedig</rs>
                         </title>
                         <date>1662-11-26</date>
@@ -9895,7 +9895,7 @@
                   <label>1662-12-09</label>
                   <desc>Den 9. ein in Venedig.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-00449">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-166">Venedig</rs>
                         </title>
                         <date>1662-12-09</date>
@@ -9953,7 +9953,7 @@
                   <label>1662-12-23</label>
                   <desc>Den 23. <hi rend="unclear">…</hi>. Item ein brief auf Venedig geschriben.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-00450">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-166">Venedig</rs>
                         </title>
                         <date>1662-12-23</date>
@@ -10016,7 +10016,7 @@
                   <label>1662-12-30</label>
                   <desc>Den 30. <hi rend="unclear">…</hi>. Item 3 brief geschriben.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-00451">
                         <title>Leopold an Unbekannt</title>
                         <date>1662-12-30</date>
                      </bibl>

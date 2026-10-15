@@ -36176,7 +36176,13 @@
         "dictated_letter": false,
         "note": "",
         "addressee_worked_out": [],
-        "original_letter": [],
+        "original_letter": [
+          {
+            "id": 529,
+            "value": "lb-00448",
+            "order": "37.99492385786802373104"
+          }
+        ],
         "correct_date": null,
         "lb_id": "lb-ml-1491"
       }
@@ -36362,7 +36368,13 @@
         "dictated_letter": false,
         "note": "",
         "addressee_worked_out": [],
-        "original_letter": [],
+        "original_letter": [
+          {
+            "id": 530,
+            "value": "lb-00449",
+            "order": "37.99494949494949480595"
+          }
+        ],
         "correct_date": null,
         "lb_id": "lb-ml-1498"
       }
@@ -36569,7 +36581,13 @@
         "dictated_letter": false,
         "note": "",
         "addressee_worked_out": [],
-        "original_letter": [],
+        "original_letter": [
+          {
+            "id": 531,
+            "value": "lb-00450",
+            "order": "37.99497487437185583303"
+          }
+        ],
         "correct_date": null,
         "lb_id": "lb-ml-1506"
       }
@@ -36791,7 +36809,13 @@
         "dictated_letter": false,
         "note": "",
         "addressee_worked_out": [],
-        "original_letter": [],
+        "original_letter": [
+          {
+            "id": 532,
+            "value": "lb-00451",
+            "order": "37.99499999999999744205"
+          }
+        ],
         "correct_date": null,
         "lb_id": "lb-ml-1515"
       },
