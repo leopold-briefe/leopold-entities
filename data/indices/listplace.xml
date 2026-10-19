@@ -369,6 +369,12 @@
                <place xml:id="lb-place-242">
                   <placeName>Kaltern an der Weinstraße</placeName>
                </place>
+               <place xml:id="lb-place-275">
+                  <placeName>Böhmen</placeName>
+               </place>
+               <place xml:id="lb-place-276">
+                  <placeName>Böhmen</placeName>
+               </place>
             </listPlace>
          </div>
       </body>

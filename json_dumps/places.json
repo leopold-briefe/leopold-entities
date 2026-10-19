@@ -955,5 +955,27 @@
     "longitude": null,
     "gnd_url": "",
     "endonym": ""
+  },
+  "275": {
+    "id": 275,
+    "order": "88.00000000000000000000",
+    "label": "Böhmen",
+    "lb_id": "lb-place-275",
+    "geonames_url": "",
+    "latitude": null,
+    "longitude": null,
+    "gnd_url": "",
+    "endonym": ""
+  },
+  "276": {
+    "id": 276,
+    "order": "89.00000000000000000000",
+    "label": "Böhmen",
+    "lb_id": "lb-place-276",
+    "geonames_url": "",
+    "latitude": null,
+    "longitude": null,
+    "gnd_url": "",
+    "endonym": ""
   }
 }
