@@ -43817,7 +43817,7 @@
   "1725": {
     "id": 1725,
     "order": "1590.00000000000000000000",
-    "not_before": "1663-09-07",
+    "not_before": "1663-09-05",
     "not_after": null,
     "addressee_stated": [],
     "courier": [],
@@ -43832,7 +43832,7 @@
   "1726": {
     "id": 1726,
     "order": "1591.00000000000000000000",
-    "not_before": "1663-09-07",
+    "not_before": "1663-09-05",
     "not_after": null,
     "addressee_stated": [],
     "courier": [],
@@ -43847,7 +43847,7 @@
   "1727": {
     "id": 1727,
     "order": "1592.00000000000000000000",
-    "not_before": "1663-09-07",
+    "not_before": "1663-09-05",
     "not_after": null,
     "addressee_stated": [],
     "courier": [],
@@ -43862,7 +43862,7 @@
   "1728": {
     "id": 1728,
     "order": "1593.00000000000000000000",
-    "not_before": "1663-09-07",
+    "not_before": "1663-09-05",
     "not_after": null,
     "addressee_stated": [],
     "courier": [],
@@ -43877,7 +43877,7 @@
   "1729": {
     "id": 1729,
     "order": "1594.00000000000000000000",
-    "not_before": "1663-09-07",
+    "not_before": "1663-09-05",
     "not_after": null,
     "addressee_stated": [],
     "courier": [],
@@ -43892,7 +43892,7 @@
   "1730": {
     "id": 1730,
     "order": "1595.00000000000000000000",
-    "not_before": "1663-09-07",
+    "not_before": "1663-09-05",
     "not_after": null,
     "addressee_stated": [],
     "courier": [],
@@ -43907,7 +43907,7 @@
   "1731": {
     "id": 1731,
     "order": "1596.00000000000000000000",
-    "not_before": "1663-09-07",
+    "not_before": "1663-09-05",
     "not_after": null,
     "addressee_stated": [],
     "courier": [],
@@ -46330,21 +46330,6 @@
     "original_letter": [],
     "correct_date": null,
     "lb_id": "lb-ml-1827"
-  },
-  "1828": {
-    "id": 1828,
-    "order": "1693.00000000000000000000",
-    "not_before": null,
-    "not_after": null,
-    "addressee_stated": [],
-    "courier": [],
-    "destination": [],
-    "dictated_letter": false,
-    "note": "",
-    "addressee_worked_out": [],
-    "original_letter": [],
-    "correct_date": null,
-    "lb_id": "lb-ml-1828"
   },
   "1829": {
     "id": 1829,

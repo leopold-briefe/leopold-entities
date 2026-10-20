@@ -14517,58 +14517,58 @@
                <placeName type="destination" key="lb-place-166">Venedig</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc xml:id="lb-ml-1725" n="Leopold I. an Ungenannt am 1663-09-07 (Unbekannt)">
+         <correspDesc xml:id="lb-ml-1725" n="Leopold I. an Ungenannt am 1663-09-05 (Unbekannt)">
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
-               <date when="1663-09-07">1663-09-07</date>
+               <date when="1663-09-05">1663-09-05</date>
             </correspAction>
             <correspAction type="received">
             </correspAction>
          </correspDesc>
-         <correspDesc xml:id="lb-ml-1726" n="Leopold I. an Ungenannt am 1663-09-07 (Unbekannt)">
+         <correspDesc xml:id="lb-ml-1726" n="Leopold I. an Ungenannt am 1663-09-05 (Unbekannt)">
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
-               <date when="1663-09-07">1663-09-07</date>
+               <date when="1663-09-05">1663-09-05</date>
             </correspAction>
             <correspAction type="received">
             </correspAction>
          </correspDesc>
-         <correspDesc xml:id="lb-ml-1727" n="Leopold I. an Ungenannt am 1663-09-07 (Unbekannt)">
+         <correspDesc xml:id="lb-ml-1727" n="Leopold I. an Ungenannt am 1663-09-05 (Unbekannt)">
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
-               <date when="1663-09-07">1663-09-07</date>
+               <date when="1663-09-05">1663-09-05</date>
             </correspAction>
             <correspAction type="received">
             </correspAction>
          </correspDesc>
-         <correspDesc xml:id="lb-ml-1728" n="Leopold I. an Ungenannt am 1663-09-07 (Unbekannt)">
+         <correspDesc xml:id="lb-ml-1728" n="Leopold I. an Ungenannt am 1663-09-05 (Unbekannt)">
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
-               <date when="1663-09-07">1663-09-07</date>
+               <date when="1663-09-05">1663-09-05</date>
             </correspAction>
             <correspAction type="received">
             </correspAction>
          </correspDesc>
-         <correspDesc xml:id="lb-ml-1729" n="Leopold I. an Ungenannt am 1663-09-07 (Unbekannt)">
+         <correspDesc xml:id="lb-ml-1729" n="Leopold I. an Ungenannt am 1663-09-05 (Unbekannt)">
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
-               <date when="1663-09-07">1663-09-07</date>
+               <date when="1663-09-05">1663-09-05</date>
             </correspAction>
             <correspAction type="received">
             </correspAction>
          </correspDesc>
-         <correspDesc xml:id="lb-ml-1730" n="Leopold I. an Ungenannt am 1663-09-07 (Unbekannt)">
+         <correspDesc xml:id="lb-ml-1730" n="Leopold I. an Ungenannt am 1663-09-05 (Unbekannt)">
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
-               <date when="1663-09-07">1663-09-07</date>
+               <date when="1663-09-05">1663-09-05</date>
             </correspAction>
             <correspAction type="received">
             </correspAction>
          </correspDesc>
-         <correspDesc xml:id="lb-ml-1731" n="Leopold I. an Ungenannt am 1663-09-07 (Unbekannt)">
+         <correspDesc xml:id="lb-ml-1731" n="Leopold I. an Ungenannt am 1663-09-05 (Unbekannt)">
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
-               <date when="1663-09-07">1663-09-07</date>
+               <date when="1663-09-05">1663-09-05</date>
             </correspAction>
             <correspAction type="received">
             </correspAction>
@@ -15420,14 +15420,6 @@
             </correspAction>
             <correspAction type="received">
                <placeName type="destination" key="lb-place-39" ref="https://www.geonames.org/2510769/kingdom-of-spain.html">Spanien</placeName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc xml:id="lb-ml-1828" n="Leopold I. an Ungenannt am None (Unbekannt)">
-            <correspAction type="sent">
-               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
-               <date when="None">None</date>
-            </correspAction>
-            <correspAction type="received">
             </correspAction>
          </correspDesc>
          <correspDesc xml:id="lb-ml-1829" n="Leopold I. an Ungenannt am 1663-11-28 (Spanien)">
