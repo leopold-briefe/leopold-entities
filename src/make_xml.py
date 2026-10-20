@@ -76,6 +76,25 @@ def convert_event_markup(text):
     return text
 
 
+def add_letter_label(file, mentioned=False):
+    print(f"adding labels to correspAction elements {file}")
+    doc = TeiReader(file)
+    sent = ".//tei:correspAction[@type='sent']"
+    received = ".//tei:correspAction[@type='received']"
+    for x in doc.any_xpath(".//tei:correspDesc[@xml:id]"):
+        sender = (any_xpath(x, f"{sent}/tei:persName/text()") or ["Leopold I."])[0]
+        receiver = (any_xpath(x, f"{received}/tei:persName/text()") or ["Ungenannt"])[0]
+        date = (any_xpath(x, f"{sent}/tei:date/text()") or ["Unbekannt"])[0]
+        # place: sent for original letters, received for mentioned letters ("destination" column)
+        place_corresp_action = received if mentioned else sent
+        places = any_xpath(x, f"{place_corresp_action}/tei:placeName[1]/text()")
+        place = "ohne Ortsangabe"
+        if places:
+            place = places[0] if mentioned else f"aus {places[0]}"
+        x.attrib["n"] = f"{sender} an {receiver} am {date} ({place})"
+
+    doc.tree_to_file(file)
+
 os.makedirs(out_dir, exist_ok=True)
 files = glob.glob("./json_dumps/*.json")
 
@@ -128,67 +147,5 @@ os.rename("data/indices/listcalendar_entrie.xml", "data/indices/listevent.xml")
 os.rename("data/indices/listmentioned_letter.xml", "data/indices/mentioned-letters.xml")
 
 
-file = os.path.join("data", "indices", "listletter.xml")
-print(f"adding labels to correspAction elements {file}")
-
-doc = TeiReader(file)
-for x in doc.any_xpath(".//tei:correspDesc[@xml:id]"):
-    sender = "Leopold I."
-    try:
-        receiver = any_xpath(
-            x, ".//tei:correspAction[@type='received']/tei:persName/text()"
-        )[0]
-    except IndexError:
-        receiver = "Ungenannt"
-    try:
-        date = any_xpath(x, ".//tei:correspAction[@type='sent']/tei:date/text()")[0]
-    except IndexError:
-        date = "Unbekannt"
-    try:
-        place = any_xpath(
-            x, ".//tei:correspAction[@type='sent']/tei:placeName[1]/text()"
-        )[0]
-    except IndexError:
-        place = "Unbekannt"
-    title = f"{sender} an {receiver} am {date} ({place})"
-    x.attrib["n"] = title
-
-doc.tree_to_file(file)
-
-
-file = os.path.join("data", "indices", "mentioned-letters.xml")
-print(f"adding labels to correspAction elements {file}")
-
-doc = TeiReader(file)
-for x in doc.any_xpath(".//tei:correspDesc[@xml:id]"):
-    try:
-        sender = any_xpath(x, ".//tei:correspAction[@type='sent']/tei:persName/text()")[
-            0
-        ]
-    except IndexError:
-        sender = "Leopold I."
-    try:
-        receiver = any_xpath(
-            x, ".//tei:correspAction[@type='received']/tei:persName/text()"
-        )[0]
-    except IndexError:
-        receiver = "Ungenannt"
-    try:
-        date = any_xpath(x, ".//tei:correspAction[@type='sent']/tei:date/text()")[0]
-    except IndexError:
-        date = "Unbekannt"
-    try:
-        place = any_xpath(
-            x, ".//tei:correspAction[@type='sent']/tei:placeName[1]/text()"
-        )[0]
-    except IndexError:
-        try:
-            place = any_xpath(
-                x, ".//tei:correspAction[@type='received']/tei:placeName[1]/text()"
-            )[0]
-        except IndexError:
-            place = "Unbekannt"
-    title = f"{sender} an {receiver} am {date} ({place})"
-    x.attrib["n"] = title
-
-doc.tree_to_file(file)
+add_letter_label(os.path.join("data", "indices", "listletter.xml"))
+add_letter_label(os.path.join("data", "indices", "mentioned-letters.xml"), mentioned=True)
