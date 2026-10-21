@@ -27,14 +27,6 @@
          <correspDesc xml:id="{{ x.lb_id }}" {% for y in x.original_letter %} corresp="#{{ y.value }}" {% endfor %}>
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
-           {% if x.place_of_writing or x.placename_written %}
-               {% for place in x.place_of_writing %}
-               <placeName key="{{ place.lb_id }}"{% if place.geonames_url %} ref="{{ place.geonames_url }}"{% endif %}>{{ place.label }}</placeName>
-               {% endfor %}
-               {% if x.placename_written %}
-               <placeName type="written">{{ x.placename_written }}</placeName>
-               {% endif %}
-            {% endif %}
             {% if x.correct_date %}
             <date when="{{ x.correct_date }}">{{ x.correct_date }}</date>
             {% else %}
@@ -52,14 +44,6 @@
             {% for place in x.destination %}
                <placeName type="destination" key="{{ place.lb_id }}"{% if place.geonames_url %} ref="{{ place.geonames_url }}"{% endif %}>{{ place.label }}</placeName>
                {% endfor %}
-            {% endif %}
-            {% if x.received_place %}
-               {% for place in x.received_place %}
-               <placeName type="received_place" key="{{ place.lb_id }}"{% if place.geonames_url %} ref="{{ place.geonames_url }}"{% endif %}>{{ place.label }}</placeName>
-               {% endfor %}
-            {% endif %}
-            {% if x.received_date %}
-               <date when="{{ x.received_date }}">{{ x.received_date }}</date>
             {% endif %}
             </correspAction>{% if x.note %}
             <note type="anmerkung">{{ x.note }}</note>{% endif %}
