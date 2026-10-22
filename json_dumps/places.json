@@ -977,5 +977,16 @@
     "longitude": null,
     "gnd_url": "",
     "endonym": ""
+  },
+  "308": {
+    "id": 308,
+    "order": "90.00000000000000000000",
+    "label": "Dresden",
+    "lb_id": "lb-place-308",
+    "geonames_url": "",
+    "latitude": null,
+    "longitude": null,
+    "gnd_url": "",
+    "endonym": ""
   }
 }

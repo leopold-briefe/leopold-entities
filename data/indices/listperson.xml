@@ -339,6 +339,15 @@
                      </settlement>
                   </death>
                </person>
+               <person xml:id="lb-person-124" n="Johann Georg II.">
+                  <persName type="preferred">Johann Georg II.</persName>
+               </person>
+               <person xml:id="lb-person-125" n="Erzherzog Sigismund Franz">
+                  <persName type="preferred">Erzherzog Sigismund Franz</persName>
+               </person>
+               <person xml:id="lb-person-126" n="Kaiserliche Armee">
+                  <persName type="preferred">Kaiserliche Armee</persName>
+               </person>
             </listPerson>
          </div>
       </body>

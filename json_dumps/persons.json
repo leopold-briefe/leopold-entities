@@ -630,5 +630,53 @@
     "first_name": "Ferdinand Karl",
     "last_name": "",
     "maiden_name": ""
+  },
+  "124": {
+    "id": 124,
+    "order": "26.00000000000000000000",
+    "label": "Johann Georg II.",
+    "lb_id": "lb-person-124",
+    "gnd_url": "",
+    "place_of_birth": [],
+    "date_of_birth": null,
+    "place_of_death": [],
+    "date_of_death": null,
+    "wikidata_url": "",
+    "mentioned_letters - courier": [],
+    "first_name": "",
+    "last_name": "",
+    "maiden_name": ""
+  },
+  "125": {
+    "id": 125,
+    "order": "27.00000000000000000000",
+    "label": "Erzherzog Sigismund Franz",
+    "lb_id": "lb-person-125",
+    "gnd_url": "",
+    "place_of_birth": [],
+    "date_of_birth": null,
+    "place_of_death": [],
+    "date_of_death": null,
+    "wikidata_url": "",
+    "mentioned_letters - courier": [],
+    "first_name": "",
+    "last_name": "",
+    "maiden_name": ""
+  },
+  "126": {
+    "id": 126,
+    "order": "28.00000000000000000000",
+    "label": "Kaiserliche Armee",
+    "lb_id": "lb-person-126",
+    "gnd_url": "",
+    "place_of_birth": [],
+    "date_of_birth": null,
+    "place_of_death": [],
+    "date_of_death": null,
+    "wikidata_url": "",
+    "mentioned_letters - courier": [],
+    "first_name": "",
+    "last_name": "",
+    "maiden_name": ""
   }
 }
