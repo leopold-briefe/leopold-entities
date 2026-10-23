@@ -10592,7 +10592,7 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00482" n="Leopold I. an Humprecht Johann Czernin von Chudenitz am 17. August 1664 (aus Wien)">
+         <correspDesc xml:id="lb-00482" n="Leopold I. an Humprecht Johann Czernin von Chudenitz am 17. Dezember 1664 (aus Wien)">
             <noteGrp type="metadata">
                <note type="not_before">1664-12-17</note>
                <note type="archiv">Státní oblastní archiv v Třeboni, pracoviště Jindřichv Hradec ‒ zámek</note>
@@ -10611,7 +10611,7 @@
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
                <placeName key="lb-place-1" ref="https://sws.geonames.org/2761369/">Wien</placeName>
                <placeName type="written">Vienna</placeName>
-               <date when="1664-12-17">17. August 1664</date>
+               <date when="1664-12-17">17. Dezember 1664</date>
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-81">Humprecht Johann Czernin von Chudenitz</persName>
@@ -22343,7 +22343,7 @@
          </correspDesc>
          <correspDesc xml:id="lb-00932" n="Leopold I. an Franz Eusebius von Pötting am 27. März 1664 (aus Regensburg)">
             <noteGrp type="metadata">
-               <note type="not_before">1664-04-27</note>
+               <note type="not_before">1664-03-27</note>
                <note type="archiv">Österreichisches Staatsarchiv, Haus-, Hof- und Staatsarchiv</note>
                <note type="collection">Große Korrespondenz</note>
                <note type="signatur">K. 33, Bd. 1 (1662‒1665), fol. 105r‒107v</note>
@@ -22364,7 +22364,7 @@
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
                <placeName key="lb-place-157">Regensburg</placeName>
                <placeName type="written">Regenspurg</placeName>
-               <date when="1664-04-27">27. März 1664</date>
+               <date when="1664-03-27">27. März 1664</date>
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-40" ref="https://d-nb.info/gnd/119324636">Franz Eusebius von Pötting</persName>

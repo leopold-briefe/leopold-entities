@@ -678,5 +678,101 @@
     "first_name": "",
     "last_name": "",
     "maiden_name": ""
+  },
+  "159": {
+    "id": 159,
+    "order": "29.00000000000000000000",
+    "label": "Johann Eberhard Neidhardt",
+    "lb_id": "lb-person-159",
+    "gnd_url": "",
+    "place_of_birth": [],
+    "date_of_birth": "1607-12-08",
+    "place_of_death": [
+      {
+        "id": 228,
+        "order": "75.00000000000000000000",
+        "label": "Rom",
+        "lb_id": "lb-place-228",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
+        "gnd_url": "",
+        "endonym": ""
+      }
+    ],
+    "date_of_death": "1681-02-01",
+    "wikidata_url": "",
+    "mentioned_letters - courier": [],
+    "first_name": "Johann Eberhard",
+    "last_name": "Neidhardt",
+    "maiden_name": ""
+  },
+  "160": {
+    "id": 160,
+    "order": "30.00000000000000000000",
+    "label": "Margarita Theresa von Spanien",
+    "lb_id": "lb-person-160",
+    "gnd_url": "",
+    "place_of_birth": [
+      {
+        "id": 72,
+        "order": "14.00000000000000000000",
+        "label": "Madrid",
+        "lb_id": "lb-place-72",
+        "geonames_url": "https://www.geonames.org/3117735/madrid.html",
+        "latitude": "40.41650",
+        "longitude": "-3.70256",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "date_of_birth": "1651-07-12",
+    "place_of_death": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "date_of_death": "1673-03-12",
+    "wikidata_url": "",
+    "mentioned_letters - courier": [],
+    "first_name": "Margaritha Theresa",
+    "last_name": "",
+    "maiden_name": ""
+  },
+  "161": {
+    "id": 161,
+    "order": "31.00000000000000000000",
+    "label": "Bernhard Ignaz von Martinitz",
+    "lb_id": "lb-person-161",
+    "gnd_url": "",
+    "place_of_birth": [],
+    "date_of_birth": "1615-05-06",
+    "place_of_death": [
+      {
+        "id": 69,
+        "order": "11.00000000000000000000",
+        "label": "Prag",
+        "lb_id": "lb-place-69",
+        "geonames_url": "https://www.geonames.org/3067696/prague.html",
+        "latitude": "50.08804",
+        "longitude": "14.42076",
+        "gnd_url": "",
+        "endonym": "Praha"
+      }
+    ],
+    "date_of_death": "1685-01-07",
+    "wikidata_url": "",
+    "mentioned_letters - courier": [],
+    "first_name": "Bernhard Ignaz",
+    "last_name": "Martinitz",
+    "maiden_name": ""
   }
 }

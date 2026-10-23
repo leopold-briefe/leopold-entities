@@ -348,6 +348,63 @@
                <person xml:id="lb-person-126" n="Kaiserliche Armee">
                   <persName type="preferred">Kaiserliche Armee</persName>
                </person>
+               <person xml:id="lb-person-159" n="Johann Eberhard Neidhardt">
+                  <persName type="preferred">Johann Eberhard Neidhardt</persName>
+                  <persName type="parts">
+                     <forename>Johann Eberhard</forename>
+                     <surname>Neidhardt</surname>
+                  </persName>
+                  <birth>
+                     <date>1607-12-08</date>
+                  </birth>
+                  <death>
+                     <date>1681-02-01</date>
+                     <settlement key="lb-place-228">
+                        <placeName>Rom</placeName>
+                     </settlement>
+                  </death>
+               </person>
+               <person xml:id="lb-person-160" n="Margarita Theresa von Spanien">
+                  <persName type="preferred">Margarita Theresa von Spanien</persName>
+                  <persName type="parts">
+                     <forename>Margaritha Theresa</forename>
+                     <surname/>
+                  </persName>
+                  <birth>
+                     <date>1651-07-12</date>
+                     <settlement key="lb-place-72">
+                        <placeName>Madrid</placeName>
+                        <geo>40.41650 -3.70256</geo>
+                        <idno type="geonames">https://sws.geonames.org/3117735/</idno>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1673-03-12</date>
+                     <settlement key="lb-place-1">
+                        <placeName>Wien</placeName>
+                        <geo>48.20849 16.37208</geo>
+                        <idno type="geonames">https://sws.geonames.org/2761369/</idno>
+                     </settlement>
+                  </death>
+               </person>
+               <person xml:id="lb-person-161" n="Bernhard Ignaz von Martinitz">
+                  <persName type="preferred">Bernhard Ignaz von Martinitz</persName>
+                  <persName type="parts">
+                     <forename>Bernhard Ignaz</forename>
+                     <surname>Martinitz</surname>
+                  </persName>
+                  <birth>
+                     <date>1615-05-06</date>
+                  </birth>
+                  <death>
+                     <date>1685-01-07</date>
+                     <settlement key="lb-place-69">
+                        <placeName>Prag</placeName>
+                        <geo>50.08804 14.42076</geo>
+                        <idno type="geonames">https://sws.geonames.org/3067696/</idno>
+                     </settlement>
+                  </death>
+               </person>
             </listPerson>
          </div>
       </body>
