@@ -405,6 +405,9 @@
                      </settlement>
                   </death>
                </person>
+               <person xml:id="lb-person-194" n="Heinrich Gottwald">
+                  <persName type="preferred">Heinrich Gottwald</persName>
+               </person>
             </listPerson>
          </div>
       </body>

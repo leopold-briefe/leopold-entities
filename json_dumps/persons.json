@@ -774,5 +774,47 @@
     "first_name": "Bernhard Ignaz",
     "last_name": "Martinitz",
     "maiden_name": ""
+  },
+  "194": {
+    "id": 194,
+    "order": "32.00000000000000000000",
+    "label": "Heinrich Gottwald",
+    "lb_id": "lb-person-194",
+    "gnd_url": "",
+    "place_of_birth": [],
+    "date_of_birth": null,
+    "place_of_death": [],
+    "date_of_death": null,
+    "wikidata_url": "",
+    "mentioned_letters - courier": [
+      {
+        "id": 2585,
+        "value": "1665-10-17",
+        "order": "2407.00000000000000000000"
+      },
+      {
+        "id": 2586,
+        "value": "1665-10-17",
+        "order": "2408.00000000000000000000"
+      },
+      {
+        "id": 2587,
+        "value": "1665-10-17",
+        "order": "2409.00000000000000000000"
+      },
+      {
+        "id": 2588,
+        "value": "1665-10-17",
+        "order": "2410.00000000000000000000"
+      },
+      {
+        "id": 2589,
+        "value": "1665-10-17",
+        "order": "2411.00000000000000000000"
+      }
+    ],
+    "first_name": "",
+    "last_name": "",
+    "maiden_name": ""
   }
 }
