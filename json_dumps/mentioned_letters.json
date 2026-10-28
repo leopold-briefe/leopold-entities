@@ -59224,7 +59224,13 @@
     "dictated_letter": false,
     "note": "",
     "addressee_worked_out": [],
-    "original_letter": [],
+    "original_letter": [
+      {
+        "id": 1124,
+        "value": "lb-00955",
+        "order": "483.00000000000000000000"
+      }
+    ],
     "correct_date": null,
     "lb_id": "lb-ml-2313"
   },
@@ -59465,9 +59471,15 @@
       }
     ],
     "dictated_letter": false,
-    "note": "",
+    "note": "Das Original datiert vom 15. Jänner.",
     "addressee_worked_out": [],
-    "original_letter": [],
+    "original_letter": [
+      {
+        "id": 569,
+        "value": "lb-00484",
+        "order": "42.00000000000000000000"
+      }
+    ],
     "correct_date": null,
     "lb_id": "lb-ml-2358"
   },
@@ -59563,7 +59575,13 @@
     "dictated_letter": false,
     "note": "",
     "addressee_worked_out": [],
-    "original_letter": [],
+    "original_letter": [
+      {
+        "id": 1125,
+        "value": "lb-00956",
+        "order": "484.00000000000000000000"
+      }
+    ],
     "correct_date": null,
     "lb_id": "lb-ml-2362"
   },
@@ -59779,7 +59797,13 @@
     "dictated_letter": false,
     "note": "",
     "addressee_worked_out": [],
-    "original_letter": [],
+    "original_letter": [
+      {
+        "id": 1126,
+        "value": "lb-00957",
+        "order": "485.00000000000000000000"
+      }
+    ],
     "correct_date": null,
     "lb_id": "lb-ml-2370"
   },
@@ -60022,7 +60046,13 @@
     "dictated_letter": false,
     "note": "",
     "addressee_worked_out": [],
-    "original_letter": [],
+    "original_letter": [
+      {
+        "id": 570,
+        "value": "lb-00485",
+        "order": "43.00000000000000000000"
+      }
+    ],
     "correct_date": null,
     "lb_id": "lb-ml-2379"
   },
@@ -60076,7 +60106,13 @@
     "dictated_letter": false,
     "note": "",
     "addressee_worked_out": [],
-    "original_letter": [],
+    "original_letter": [
+      {
+        "id": 1127,
+        "value": "lb-00958",
+        "order": "486.00000000000000000000"
+      }
+    ],
     "correct_date": null,
     "lb_id": "lb-ml-2381"
   },
@@ -60103,7 +60139,13 @@
     "dictated_letter": false,
     "note": "",
     "addressee_worked_out": [],
-    "original_letter": [],
+    "original_letter": [
+      {
+        "id": 1097,
+        "value": "lb-00928",
+        "order": "456.00000000000000000000"
+      }
+    ],
     "correct_date": null,
     "lb_id": "lb-ml-2690"
   },
@@ -60143,15 +60185,15 @@
     "courier": [],
     "destination": [
       {
-        "id": 36,
-        "order": "4.00000000000000000000",
-        "label": "München",
-        "lb_id": "lb-place-36",
-        "geonames_url": "https://www.geonames.org/2867714/munich.html",
-        "latitude": "48.13743",
-        "longitude": "11.57549",
+        "id": 161,
+        "order": "39.00000000000000000000",
+        "label": "Tirol",
+        "lb_id": "lb-place-161",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
         "gnd_url": "",
-        "endonym": null
+        "endonym": ""
       }
     ],
     "dictated_letter": false,
@@ -60170,15 +60212,15 @@
     "courier": [],
     "destination": [
       {
-        "id": 161,
-        "order": "39.00000000000000000000",
-        "label": "Tirol",
-        "lb_id": "lb-place-161",
-        "geonames_url": "",
-        "latitude": null,
-        "longitude": null,
+        "id": 36,
+        "order": "4.00000000000000000000",
+        "label": "München",
+        "lb_id": "lb-place-36",
+        "geonames_url": "https://www.geonames.org/2867714/munich.html",
+        "latitude": "48.13743",
+        "longitude": "11.57549",
         "gnd_url": "",
-        "endonym": ""
+        "endonym": null
       }
     ],
     "dictated_letter": false,
@@ -60209,9 +60251,15 @@
       }
     ],
     "dictated_letter": false,
-    "note": "",
+    "note": "Das Original datiert vom 20. Februar.",
     "addressee_worked_out": [],
-    "original_letter": [],
+    "original_letter": [
+      {
+        "id": 1128,
+        "value": "lb-00959",
+        "order": "487.00000000000000000000"
+      }
+    ],
     "correct_date": null,
     "lb_id": "lb-ml-2385"
   },
@@ -60319,7 +60367,13 @@
     "dictated_letter": false,
     "note": "",
     "addressee_worked_out": [],
-    "original_letter": [],
+    "original_letter": [
+      {
+        "id": 571,
+        "value": "lb-00486",
+        "order": "44.00000000000000000000"
+      }
+    ],
     "correct_date": null,
     "lb_id": "lb-ml-2389"
   },
@@ -60427,7 +60481,13 @@
     "dictated_letter": false,
     "note": "",
     "addressee_worked_out": [],
-    "original_letter": [],
+    "original_letter": [
+      {
+        "id": 1130,
+        "value": "lb-00960",
+        "order": "488.00000000000000000000"
+      }
+    ],
     "correct_date": null,
     "lb_id": "lb-ml-2393"
   },
@@ -60506,9 +60566,15 @@
       }
     ],
     "dictated_letter": false,
-    "note": "",
+    "note": "Das Original datiert vom 5. April.",
     "addressee_worked_out": [],
-    "original_letter": [],
+    "original_letter": [
+      {
+        "id": 572,
+        "value": "lb-00487",
+        "order": "45.00000000000000000000"
+      }
+    ],
     "correct_date": null,
     "lb_id": "lb-ml-2396"
   },
@@ -60697,7 +60763,13 @@
     "dictated_letter": false,
     "note": "",
     "addressee_worked_out": [],
-    "original_letter": [],
+    "original_letter": [
+      {
+        "id": 1131,
+        "value": "lb-00961",
+        "order": "489.00000000000000000000"
+      }
+    ],
     "correct_date": null,
     "lb_id": "lb-ml-2403"
   },
@@ -60913,7 +60985,13 @@
     "dictated_letter": false,
     "note": "",
     "addressee_worked_out": [],
-    "original_letter": [],
+    "original_letter": [
+      {
+        "id": 573,
+        "value": "lb-00488",
+        "order": "46.00000000000000000000"
+      }
+    ],
     "correct_date": null,
     "lb_id": "lb-ml-2411"
   },
@@ -60994,7 +61072,13 @@
     "dictated_letter": false,
     "note": "",
     "addressee_worked_out": [],
-    "original_letter": [],
+    "original_letter": [
+      {
+        "id": 1132,
+        "value": "lb-00962",
+        "order": "490.00000000000000000000"
+      }
+    ],
     "correct_date": null,
     "lb_id": "lb-ml-2414"
   },
@@ -61186,7 +61270,13 @@
     "dictated_letter": false,
     "note": "",
     "addressee_worked_out": [],
-    "original_letter": [],
+    "original_letter": [
+      {
+        "id": 574,
+        "value": "lb-00489",
+        "order": "47.00000000000000000000"
+      }
+    ],
     "correct_date": null,
     "lb_id": "lb-ml-2422"
   },
@@ -61294,7 +61384,13 @@
     "dictated_letter": false,
     "note": "",
     "addressee_worked_out": [],
-    "original_letter": [],
+    "original_letter": [
+      {
+        "id": 1133,
+        "value": "lb-00963",
+        "order": "491.00000000000000000000"
+      }
+    ],
     "correct_date": null,
     "lb_id": "lb-ml-2426"
   },
@@ -61510,7 +61606,13 @@
     "dictated_letter": false,
     "note": "",
     "addressee_worked_out": [],
-    "original_letter": [],
+    "original_letter": [
+      {
+        "id": 481,
+        "value": "lb-00401",
+        "order": "37.99333333333333229120"
+      }
+    ],
     "correct_date": null,
     "lb_id": "lb-ml-2434"
   },
@@ -61591,7 +61693,13 @@
     "dictated_letter": false,
     "note": "",
     "addressee_worked_out": [],
-    "original_letter": [],
+    "original_letter": [
+      {
+        "id": 1134,
+        "value": "lb-00964",
+        "order": "492.00000000000000000000"
+      }
+    ],
     "correct_date": null,
     "lb_id": "lb-ml-2437"
   },
@@ -61798,7 +61906,13 @@
     "dictated_letter": false,
     "note": "",
     "addressee_worked_out": [],
-    "original_letter": [],
+    "original_letter": [
+      {
+        "id": 576,
+        "value": "lb-00490",
+        "order": "49.00000000000000000000"
+      }
+    ],
     "correct_date": null,
     "lb_id": "lb-ml-2446"
   },
@@ -61852,7 +61966,13 @@
     "dictated_letter": false,
     "note": "",
     "addressee_worked_out": [],
-    "original_letter": [],
+    "original_letter": [
+      {
+        "id": 1136,
+        "value": "lb-00966",
+        "order": "494.00000000000000000000"
+      }
+    ],
     "correct_date": null,
     "lb_id": "lb-ml-2448"
   },
@@ -61987,7 +62107,13 @@
     "dictated_letter": false,
     "note": "",
     "addressee_worked_out": [],
-    "original_letter": [],
+    "original_letter": [
+      {
+        "id": 1137,
+        "value": "lb-00967",
+        "order": "495.00000000000000000000"
+      }
+    ],
     "correct_date": null,
     "lb_id": "lb-ml-2453"
   },
@@ -62012,8 +62138,37 @@
       }
     ],
     "dictated_letter": false,
-    "note": "",
-    "addressee_worked_out": [],
+    "note": "Erwähnt in lb-00967",
+    "addressee_worked_out": [
+      {
+        "id": 76,
+        "order": "12.00000000000000000000",
+        "label": "Philipp IV.",
+        "lb_id": "lb-person-76",
+        "gnd_url": "https://d-nb.info/gnd/118593870",
+        "place_of_birth": [
+          {
+            "id": 145,
+            "value": "Valladolid",
+            "order": "23.00000000000000000000"
+          }
+        ],
+        "date_of_birth": "1605-04-08",
+        "place_of_death": [
+          {
+            "id": 72,
+            "value": "Madrid",
+            "order": "14.00000000000000000000"
+          }
+        ],
+        "date_of_death": "1665-09-17",
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Philipp IV.",
+        "last_name": "",
+        "maiden_name": null
+      }
+    ],
     "original_letter": [],
     "correct_date": null,
     "lb_id": "lb-ml-2454"
@@ -62039,8 +62194,37 @@
       }
     ],
     "dictated_letter": false,
-    "note": "",
-    "addressee_worked_out": [],
+    "note": "Erwähnt in lb-00967",
+    "addressee_worked_out": [
+      {
+        "id": 75,
+        "order": "11.00000000000000000000",
+        "label": "Maria Anna (Mariana) von Österreich",
+        "lb_id": "lb-person-75",
+        "gnd_url": "https://d-nb.info/gnd/118781863",
+        "place_of_birth": [
+          {
+            "id": 144,
+            "value": "Wiener Neustadt",
+            "order": "22.00000000000000000000"
+          }
+        ],
+        "date_of_birth": "1634-12-22",
+        "place_of_death": [
+          {
+            "id": 72,
+            "value": "Madrid",
+            "order": "14.00000000000000000000"
+          }
+        ],
+        "date_of_death": "1696-05-16",
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Maria Anna",
+        "last_name": "",
+        "maiden_name": null
+      }
+    ],
     "original_letter": [],
     "correct_date": null,
     "lb_id": "lb-ml-2455"
@@ -62066,8 +62250,37 @@
       }
     ],
     "dictated_letter": false,
-    "note": "",
-    "addressee_worked_out": [],
+    "note": "Erwähnt in lb-00967",
+    "addressee_worked_out": [
+      {
+        "id": 160,
+        "order": "30.00000000000000000000",
+        "label": "Margarita Theresa von Spanien",
+        "lb_id": "lb-person-160",
+        "gnd_url": "",
+        "place_of_birth": [
+          {
+            "id": 72,
+            "value": "Madrid",
+            "order": "14.00000000000000000000"
+          }
+        ],
+        "date_of_birth": "1651-07-12",
+        "place_of_death": [
+          {
+            "id": 1,
+            "value": "Wien",
+            "order": "1.00000000000000000000"
+          }
+        ],
+        "date_of_death": "1673-03-12",
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Margaritha Theresa",
+        "last_name": "",
+        "maiden_name": ""
+      }
+    ],
     "original_letter": [],
     "correct_date": null,
     "lb_id": "lb-ml-2456"
@@ -62149,7 +62362,13 @@
     "dictated_letter": false,
     "note": "",
     "addressee_worked_out": [],
-    "original_letter": [],
+    "original_letter": [
+      {
+        "id": 1135,
+        "value": "lb-00965",
+        "order": "493.00000000000000000000"
+      }
+    ],
     "correct_date": null,
     "lb_id": "lb-ml-2459"
   },
@@ -62311,7 +62530,13 @@
     "dictated_letter": false,
     "note": "",
     "addressee_worked_out": [],
-    "original_letter": [],
+    "original_letter": [
+      {
+        "id": 577,
+        "value": "lb-00491",
+        "order": "50.00000000000000000000"
+      }
+    ],
     "correct_date": null,
     "lb_id": "lb-ml-2465"
   },
@@ -62395,7 +62620,13 @@
     "dictated_letter": false,
     "note": "",
     "addressee_worked_out": [],
-    "original_letter": [],
+    "original_letter": [
+      {
+        "id": 1138,
+        "value": "lb-00968",
+        "order": "496.00000000000000000000"
+      }
+    ],
     "correct_date": null,
     "lb_id": "lb-ml-2469"
   },
@@ -62557,7 +62788,13 @@
     "dictated_letter": false,
     "note": "",
     "addressee_worked_out": [],
-    "original_letter": [],
+    "original_letter": [
+      {
+        "id": 578,
+        "value": "lb-00492",
+        "order": "51.00000000000000000000"
+      }
+    ],
     "correct_date": null,
     "lb_id": "lb-ml-2475"
   },
@@ -62663,9 +62900,15 @@
       }
     ],
     "dictated_letter": false,
-    "note": "",
+    "note": "Das Original datiert vom 21. Juni.",
     "addressee_worked_out": [],
-    "original_letter": [],
+    "original_letter": [
+      {
+        "id": 579,
+        "value": "lb-00493",
+        "order": "52.00000000000000000000"
+      }
+    ],
     "correct_date": null,
     "lb_id": "lb-ml-2479"
   },
@@ -62719,7 +62962,13 @@
     "dictated_letter": false,
     "note": "",
     "addressee_worked_out": [],
-    "original_letter": [],
+    "original_letter": [
+      {
+        "id": 1139,
+        "value": "lb-00969",
+        "order": "497.00000000000000000000"
+      }
+    ],
     "correct_date": null,
     "lb_id": "lb-ml-2481"
   },
@@ -63127,7 +63376,13 @@
     "dictated_letter": false,
     "note": "",
     "addressee_worked_out": [],
-    "original_letter": [],
+    "original_letter": [
+      {
+        "id": 1140,
+        "value": "lb-00970",
+        "order": "498.00000000000000000000"
+      }
+    ],
     "correct_date": null,
     "lb_id": "lb-ml-2497"
   },
@@ -63152,8 +63407,37 @@
       }
     ],
     "dictated_letter": false,
-    "note": "",
-    "addressee_worked_out": [],
+    "note": "Erwähnt in lb-00970",
+    "addressee_worked_out": [
+      {
+        "id": 76,
+        "order": "12.00000000000000000000",
+        "label": "Philipp IV.",
+        "lb_id": "lb-person-76",
+        "gnd_url": "https://d-nb.info/gnd/118593870",
+        "place_of_birth": [
+          {
+            "id": 145,
+            "value": "Valladolid",
+            "order": "23.00000000000000000000"
+          }
+        ],
+        "date_of_birth": "1605-04-08",
+        "place_of_death": [
+          {
+            "id": 72,
+            "value": "Madrid",
+            "order": "14.00000000000000000000"
+          }
+        ],
+        "date_of_death": "1665-09-17",
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Philipp IV.",
+        "last_name": "",
+        "maiden_name": null
+      }
+    ],
     "original_letter": [],
     "correct_date": null,
     "lb_id": "lb-ml-2498"
@@ -63179,8 +63463,37 @@
       }
     ],
     "dictated_letter": false,
-    "note": "",
-    "addressee_worked_out": [],
+    "note": "Erwähnt in lb-00970",
+    "addressee_worked_out": [
+      {
+        "id": 76,
+        "order": "12.00000000000000000000",
+        "label": "Philipp IV.",
+        "lb_id": "lb-person-76",
+        "gnd_url": "https://d-nb.info/gnd/118593870",
+        "place_of_birth": [
+          {
+            "id": 145,
+            "value": "Valladolid",
+            "order": "23.00000000000000000000"
+          }
+        ],
+        "date_of_birth": "1605-04-08",
+        "place_of_death": [
+          {
+            "id": 72,
+            "value": "Madrid",
+            "order": "14.00000000000000000000"
+          }
+        ],
+        "date_of_death": "1665-09-17",
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Philipp IV.",
+        "last_name": "",
+        "maiden_name": null
+      }
+    ],
     "original_letter": [],
     "correct_date": null,
     "lb_id": "lb-ml-2499"
@@ -63206,8 +63519,37 @@
       }
     ],
     "dictated_letter": false,
-    "note": "",
-    "addressee_worked_out": [],
+    "note": "Erwähnt in lb-00970",
+    "addressee_worked_out": [
+      {
+        "id": 75,
+        "order": "11.00000000000000000000",
+        "label": "Maria Anna (Mariana) von Österreich",
+        "lb_id": "lb-person-75",
+        "gnd_url": "https://d-nb.info/gnd/118781863",
+        "place_of_birth": [
+          {
+            "id": 144,
+            "value": "Wiener Neustadt",
+            "order": "22.00000000000000000000"
+          }
+        ],
+        "date_of_birth": "1634-12-22",
+        "place_of_death": [
+          {
+            "id": 72,
+            "value": "Madrid",
+            "order": "14.00000000000000000000"
+          }
+        ],
+        "date_of_death": "1696-05-16",
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Maria Anna",
+        "last_name": "",
+        "maiden_name": null
+      }
+    ],
     "original_letter": [],
     "correct_date": null,
     "lb_id": "lb-ml-2500"
@@ -63302,9 +63644,15 @@
       }
     ],
     "dictated_letter": false,
-    "note": "",
+    "note": "Das Original datiert vom 8. Juli.",
     "addressee_worked_out": [],
-    "original_letter": [],
+    "original_letter": [
+      {
+        "id": 1143,
+        "value": "lb-00973",
+        "order": "501.00000000000000000000"
+      }
+    ],
     "correct_date": null,
     "lb_id": "lb-ml-2504"
   },
@@ -63410,9 +63758,15 @@
       }
     ],
     "dictated_letter": false,
-    "note": "",
+    "note": "Das Original datiert vom 9. Juli.",
     "addressee_worked_out": [],
-    "original_letter": [],
+    "original_letter": [
+      {
+        "id": 1141,
+        "value": "lb-00971",
+        "order": "499.00000000000000000000"
+      }
+    ],
     "correct_date": null,
     "lb_id": "lb-ml-2508"
   },
@@ -63655,7 +64009,13 @@
     "dictated_letter": false,
     "note": "",
     "addressee_worked_out": [],
-    "original_letter": [],
+    "original_letter": [
+      {
+        "id": 1142,
+        "value": "lb-00972",
+        "order": "500.00000000000000000000"
+      }
+    ],
     "correct_date": null,
     "lb_id": "lb-ml-2518"
   },
@@ -63817,7 +64177,13 @@
     "dictated_letter": false,
     "note": "",
     "addressee_worked_out": [],
-    "original_letter": [],
+    "original_letter": [
+      {
+        "id": 1144,
+        "value": "lb-00974",
+        "order": "502.00000000000000000000"
+      }
+    ],
     "correct_date": null,
     "lb_id": "lb-ml-2524"
   },
@@ -64108,7 +64474,13 @@
     "dictated_letter": false,
     "note": "",
     "addressee_worked_out": [],
-    "original_letter": [],
+    "original_letter": [
+      {
+        "id": 1145,
+        "value": "lb-00975",
+        "order": "503.00000000000000000000"
+      }
+    ],
     "correct_date": null,
     "lb_id": "lb-ml-2537"
   },
@@ -64276,7 +64648,13 @@
     "dictated_letter": false,
     "note": "",
     "addressee_worked_out": [],
-    "original_letter": [],
+    "original_letter": [
+      {
+        "id": 1146,
+        "value": "lb-00976",
+        "order": "504.00000000000000000000"
+      }
+    ],
     "correct_date": null,
     "lb_id": "lb-ml-2545"
   },
@@ -64301,8 +64679,37 @@
       }
     ],
     "dictated_letter": false,
-    "note": "",
-    "addressee_worked_out": [],
+    "note": "Erwähnt in lb-00976",
+    "addressee_worked_out": [
+      {
+        "id": 160,
+        "order": "30.00000000000000000000",
+        "label": "Margarita Theresa von Spanien",
+        "lb_id": "lb-person-160",
+        "gnd_url": "",
+        "place_of_birth": [
+          {
+            "id": 72,
+            "value": "Madrid",
+            "order": "14.00000000000000000000"
+          }
+        ],
+        "date_of_birth": "1651-07-12",
+        "place_of_death": [
+          {
+            "id": 1,
+            "value": "Wien",
+            "order": "1.00000000000000000000"
+          }
+        ],
+        "date_of_death": "1673-03-12",
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Margaritha Theresa",
+        "last_name": "",
+        "maiden_name": ""
+      }
+    ],
     "original_letter": [],
     "correct_date": null,
     "lb_id": "lb-ml-2546"
@@ -64387,33 +64794,6 @@
     "original_letter": [],
     "correct_date": null,
     "lb_id": "lb-ml-2549"
-  },
-  "2550": {
-    "id": 2550,
-    "order": "2372.00000000000000000000",
-    "not_before": "1665-09-02",
-    "not_after": null,
-    "addressee_stated": [],
-    "courier": [],
-    "destination": [
-      {
-        "id": 39,
-        "order": "7.00000000000000000000",
-        "label": "Spanien",
-        "lb_id": "lb-place-39",
-        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
-        "latitude": "40.00000",
-        "longitude": "-4.00000",
-        "gnd_url": "",
-        "endonym": null
-      }
-    ],
-    "dictated_letter": false,
-    "note": "",
-    "addressee_worked_out": [],
-    "original_letter": [],
-    "correct_date": null,
-    "lb_id": "lb-ml-2550"
   },
   "2551": {
     "id": 2551,
@@ -64642,7 +65022,13 @@
     "dictated_letter": false,
     "note": "",
     "addressee_worked_out": [],
-    "original_letter": [],
+    "original_letter": [
+      {
+        "id": 1148,
+        "value": "lb-00978",
+        "order": "506.00000000000000000000"
+      }
+    ],
     "correct_date": null,
     "lb_id": "lb-ml-2559"
   },
@@ -65062,7 +65448,13 @@
     "dictated_letter": false,
     "note": "",
     "addressee_worked_out": [],
-    "original_letter": [],
+    "original_letter": [
+      {
+        "id": 1149,
+        "value": "lb-00979",
+        "order": "507.00000000000000000000"
+      }
+    ],
     "correct_date": null,
     "lb_id": "lb-ml-2575"
   },
@@ -65338,7 +65730,13 @@
     "dictated_letter": false,
     "note": "",
     "addressee_worked_out": [],
-    "original_letter": [],
+    "original_letter": [
+      {
+        "id": 1150,
+        "value": "lb-00980",
+        "order": "508.00000000000000000000"
+      }
+    ],
     "correct_date": null,
     "lb_id": "lb-ml-2585"
   },
@@ -65369,8 +65767,37 @@
       }
     ],
     "dictated_letter": false,
-    "note": "",
-    "addressee_worked_out": [],
+    "note": "Erwähnt in lb-00980",
+    "addressee_worked_out": [
+      {
+        "id": 160,
+        "order": "30.00000000000000000000",
+        "label": "Margarita Theresa von Spanien",
+        "lb_id": "lb-person-160",
+        "gnd_url": "",
+        "place_of_birth": [
+          {
+            "id": 72,
+            "value": "Madrid",
+            "order": "14.00000000000000000000"
+          }
+        ],
+        "date_of_birth": "1651-07-12",
+        "place_of_death": [
+          {
+            "id": 1,
+            "value": "Wien",
+            "order": "1.00000000000000000000"
+          }
+        ],
+        "date_of_death": "1673-03-12",
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Margaritha Theresa",
+        "last_name": "",
+        "maiden_name": ""
+      }
+    ],
     "original_letter": [],
     "correct_date": null,
     "lb_id": "lb-ml-2586"
@@ -65659,7 +66086,13 @@
     "dictated_letter": false,
     "note": "",
     "addressee_worked_out": [],
-    "original_letter": [],
+    "original_letter": [
+      {
+        "id": 1151,
+        "value": "lb-00981",
+        "order": "509.00000000000000000000"
+      }
+    ],
     "correct_date": null,
     "lb_id": "lb-ml-2596"
   },
@@ -65743,33 +66176,6 @@
     "original_letter": [],
     "correct_date": null,
     "lb_id": "lb-ml-2599"
-  },
-  "2600": {
-    "id": 2600,
-    "order": "2422.00000000000000000000",
-    "not_before": "1665-10-27",
-    "not_after": null,
-    "addressee_stated": [],
-    "courier": [],
-    "destination": [
-      {
-        "id": 39,
-        "order": "7.00000000000000000000",
-        "label": "Spanien",
-        "lb_id": "lb-place-39",
-        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
-        "latitude": "40.00000",
-        "longitude": "-4.00000",
-        "gnd_url": "",
-        "endonym": null
-      }
-    ],
-    "dictated_letter": false,
-    "note": "",
-    "addressee_worked_out": [],
-    "original_letter": [],
-    "correct_date": null,
-    "lb_id": "lb-ml-2600"
   },
   "2601": {
     "id": 2601,
@@ -65987,6 +66393,33 @@
     "correct_date": null,
     "lb_id": "lb-ml-2608"
   },
+  "2723": {
+    "id": 2723,
+    "order": "2430.50000000000000000000",
+    "not_before": "1665-10-31",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "label": "Wien",
+        "lb_id": "lb-place-1",
+        "geonames_url": "https://sws.geonames.org/2761369/",
+        "latitude": "48.20849",
+        "longitude": "16.37208",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-2723"
+  },
   "2609": {
     "id": 2609,
     "order": "2431.00000000000000000000",
@@ -66188,9 +66621,15 @@
       }
     ],
     "dictated_letter": false,
-    "note": "",
+    "note": "Das Original datiert vom 12. November.",
     "addressee_worked_out": [],
-    "original_letter": [],
+    "original_letter": [
+      {
+        "id": 805,
+        "value": "lb-00710",
+        "order": "259.89999999999997726263"
+      }
+    ],
     "correct_date": null,
     "lb_id": "lb-ml-2617"
   },
@@ -66217,7 +66656,13 @@
     "dictated_letter": false,
     "note": "",
     "addressee_worked_out": [],
-    "original_letter": [],
+    "original_letter": [
+      {
+        "id": 1147,
+        "value": "lb-00977",
+        "order": "505.00000000000000000000"
+      }
+    ],
     "correct_date": null,
     "lb_id": "lb-ml-2618"
   },
@@ -66394,7 +66839,13 @@
     "dictated_letter": false,
     "note": "",
     "addressee_worked_out": [],
-    "original_letter": [],
+    "original_letter": [
+      {
+        "id": 1152,
+        "value": "lb-00982",
+        "order": "510.00000000000000000000"
+      }
+    ],
     "correct_date": null,
     "lb_id": "lb-ml-2625"
   },
@@ -66419,8 +66870,37 @@
       }
     ],
     "dictated_letter": false,
-    "note": "",
-    "addressee_worked_out": [],
+    "note": "Erwähnt in lb-00982",
+    "addressee_worked_out": [
+      {
+        "id": 75,
+        "order": "11.00000000000000000000",
+        "label": "Maria Anna (Mariana) von Österreich",
+        "lb_id": "lb-person-75",
+        "gnd_url": "https://d-nb.info/gnd/118781863",
+        "place_of_birth": [
+          {
+            "id": 144,
+            "value": "Wiener Neustadt",
+            "order": "22.00000000000000000000"
+          }
+        ],
+        "date_of_birth": "1634-12-22",
+        "place_of_death": [
+          {
+            "id": 72,
+            "value": "Madrid",
+            "order": "14.00000000000000000000"
+          }
+        ],
+        "date_of_death": "1696-05-16",
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Maria Anna",
+        "last_name": "",
+        "maiden_name": null
+      }
+    ],
     "original_letter": [],
     "correct_date": null,
     "lb_id": "lb-ml-2656"
@@ -66446,8 +66926,31 @@
       }
     ],
     "dictated_letter": false,
-    "note": "",
-    "addressee_worked_out": [],
+    "note": "Erwähnt in lb-00982",
+    "addressee_worked_out": [
+      {
+        "id": 159,
+        "order": "29.00000000000000000000",
+        "label": "Johann Eberhard Neidhardt",
+        "lb_id": "lb-person-159",
+        "gnd_url": "",
+        "place_of_birth": [],
+        "date_of_birth": "1607-12-08",
+        "place_of_death": [
+          {
+            "id": 228,
+            "value": "Rom",
+            "order": "75.00000000000000000000"
+          }
+        ],
+        "date_of_death": "1681-02-01",
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Johann Eberhard",
+        "last_name": "Neidhardt",
+        "maiden_name": ""
+      }
+    ],
     "original_letter": [],
     "correct_date": null,
     "lb_id": "lb-ml-2657"
@@ -66473,8 +66976,41 @@
       }
     ],
     "dictated_letter": false,
-    "note": "",
-    "addressee_worked_out": [],
+    "note": "Erwähnt in lb-00982",
+    "addressee_worked_out": [
+      {
+        "id": 119,
+        "order": "21.00000000000000000000",
+        "label": "Ferdinand Bonaventura von Harrach",
+        "lb_id": "lb-person-119",
+        "gnd_url": "",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [
+          {
+            "id": 968,
+            "value": "1661-04-29",
+            "order": "896.00000000000000000000"
+          },
+          {
+            "id": 969,
+            "value": "1661-04-29",
+            "order": "897.00000000000000000000"
+          },
+          {
+            "id": 970,
+            "value": "1661-04-29",
+            "order": "898.00000000000000000000"
+          }
+        ],
+        "first_name": "Ferdinand Bonaventura",
+        "last_name": "Harrach",
+        "maiden_name": ""
+      }
+    ],
     "original_letter": [],
     "correct_date": null,
     "lb_id": "lb-ml-2689"
@@ -66613,7 +67149,13 @@
     "dictated_letter": false,
     "note": "",
     "addressee_worked_out": [],
-    "original_letter": [],
+    "original_letter": [
+      {
+        "id": 1153,
+        "value": "lb-00983",
+        "order": "511.00000000000000000000"
+      }
+    ],
     "correct_date": null,
     "lb_id": "lb-ml-2630"
   },
@@ -66883,7 +67425,13 @@
     "dictated_letter": false,
     "note": "",
     "addressee_worked_out": [],
-    "original_letter": [],
+    "original_letter": [
+      {
+        "id": 1154,
+        "value": "lb-00984",
+        "order": "512.00000000000000000000"
+      }
+    ],
     "correct_date": null,
     "lb_id": "lb-ml-2640"
   },
