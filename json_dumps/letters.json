@@ -50561,7 +50561,7 @@
     "not_before": "1665-07-04",
     "not_after": "1665-07-04",
     "written_date": "4. Juli 1665",
-    "date_note": "1",
+    "date_note": "",
     "archiv": [
       {
         "id": 70,
@@ -141121,7 +141121,7 @@
   "1482": {
     "id": 1482,
     "order": "779.00000000000000000000",
-    "lb_id": "",
+    "lb_id": "lb-01268",
     "sender": [
       {
         "id": 1,
@@ -141129,43 +141129,401 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "receiver": [],
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "receiver": [
+      {
+        "id": 38,
+        "order": "6.00000000000000000000",
+        "label": "Adolf Wratislaw von Sternberg",
+        "lb_id": "lb-person-38",
+        "gnd_url": "https://d-nb.info/gnd/136018599",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Adolf Wratislaw von",
+        "last_name": "Sternberg",
+        "maiden_name": null
+      }
+    ],
+    "not_before": "1668-01-28",
+    "not_after": "1668-01-28",
+    "written_date": "28. Jänner 1668",
     "date_note": "",
     "archiv": [
       {
-        "id": 3,
-        "order": "3.00000000000000000000",
-        "abbr": "ÖStA, HHStA",
-        "label": "Österreichisches Staatsarchiv, Haus-, Hof- und Staatsarchiv",
-        "lb_id": "lb-org-3",
+        "id": 36,
+        "order": "4.00000000000000000000",
+        "abbr": "ANM",
+        "label": "Archiv Národního muzea",
+        "lb_id": "lb-org-36",
         "kind": {
           "id": 23014,
           "value": "archiv/library",
           "color": "dark-cyan"
         },
-        "gnd_url": "https://d-nb.info/gnd/1045024-5",
+        "gnd_url": "",
         "located_in": [
           {
-            "id": 1,
-            "order": "1.00000000000000000000",
-            "label": "Wien",
-            "lb_id": "lb-place-1",
-            "geonames_url": "https://sws.geonames.org/2761369/",
-            "latitude": "48.20849",
-            "longitude": "16.37208",
+            "id": 69,
+            "order": "11.00000000000000000000",
+            "label": "Prag",
+            "lb_id": "lb-place-69",
+            "geonames_url": "https://www.geonames.org/3067696/prague.html",
+            "latitude": "50.08804",
+            "longitude": "14.42076",
             "gnd_url": "",
-            "endonym": null
+            "endonym": "Praha"
           }
         ],
         "has_license": "",
-        "translation": null
+        "translation": "Archiv des Nationalmuseums"
       }
     ],
-    "collection": "Große Korrespondenz",
-    "signatur": "",
+    "collection": "RA Sternberg-Manderscheid",
+    "signatur": "K. 197",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [],
+    "placename_written": "",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "2",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": "",
+    "entities": false,
+    "related_letters": [
+      {
+        "id": "lb-01269",
+        "kind": [
+          {
+            "id": 23077,
+            "value": "spätere Abschrift",
+            "color": "purple"
+          }
+        ],
+        "relation_type": "Kopie von"
+      },
+      {
+        "id": "lb-01270",
+        "kind": [
+          {
+            "id": 23077,
+            "value": "spätere Abschrift",
+            "color": "purple"
+          }
+        ],
+        "relation_type": "Kopie von"
+      }
+    ]
+  },
+  "1484": {
+    "id": 1484,
+    "order": "779.50000000000000000000",
+    "lb_id": "lb-01269",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 38,
+        "order": "6.00000000000000000000",
+        "label": "Adolf Wratislaw von Sternberg",
+        "lb_id": "lb-person-38",
+        "gnd_url": "https://d-nb.info/gnd/136018599",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Adolf Wratislaw von",
+        "last_name": "Sternberg",
+        "maiden_name": null
+      }
+    ],
+    "not_before": "1668-01-28",
+    "not_after": "1668-01-28",
+    "written_date": "28. Jänner 1668",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 36,
+        "order": "4.00000000000000000000",
+        "abbr": "ANM",
+        "label": "Archiv Národního muzea",
+        "lb_id": "lb-org-36",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "",
+        "located_in": [
+          {
+            "id": 69,
+            "order": "11.00000000000000000000",
+            "label": "Prag",
+            "lb_id": "lb-place-69",
+            "geonames_url": "https://www.geonames.org/3067696/prague.html",
+            "latitude": "50.08804",
+            "longitude": "14.42076",
+            "gnd_url": "",
+            "endonym": "Praha"
+          }
+        ],
+        "has_license": "",
+        "translation": "Archiv des Nationalmuseums"
+      }
+    ],
+    "collection": "RA Sternberg-Manderscheid",
+    "signatur": "K. 197",
+    "kind": [
+      {
+        "id": 23077,
+        "value": "spätere Abschrift",
+        "color": "purple"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [
+      {
+        "id": 1482,
+        "value": "lb-01268",
+        "order": "779.00000000000000000000"
+      }
+    ],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [],
+    "placename_written": "",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "2",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": "",
+    "entities": false,
+    "related_letters": []
+  },
+  "1485": {
+    "id": 1485,
+    "order": "779.66666666666662877105",
+    "lb_id": "lb-01270",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 38,
+        "order": "6.00000000000000000000",
+        "label": "Adolf Wratislaw von Sternberg",
+        "lb_id": "lb-person-38",
+        "gnd_url": "https://d-nb.info/gnd/136018599",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Adolf Wratislaw von",
+        "last_name": "Sternberg",
+        "maiden_name": null
+      }
+    ],
+    "not_before": "1668-01-28",
+    "not_after": "1668-01-28",
+    "written_date": "28. Jänner 1668",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 36,
+        "order": "4.00000000000000000000",
+        "abbr": "ANM",
+        "label": "Archiv Národního muzea",
+        "lb_id": "lb-org-36",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "",
+        "located_in": [
+          {
+            "id": 69,
+            "order": "11.00000000000000000000",
+            "label": "Prag",
+            "lb_id": "lb-place-69",
+            "geonames_url": "https://www.geonames.org/3067696/prague.html",
+            "latitude": "50.08804",
+            "longitude": "14.42076",
+            "gnd_url": "",
+            "endonym": "Praha"
+          }
+        ],
+        "has_license": "",
+        "translation": "Archiv des Nationalmuseums"
+      }
+    ],
+    "collection": "RA Sternberg-Manderscheid",
+    "signatur": "K. 197",
+    "kind": [
+      {
+        "id": 23077,
+        "value": "spätere Abschrift",
+        "color": "purple"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [
+      {
+        "id": 1482,
+        "value": "lb-01268",
+        "order": "779.00000000000000000000"
+      }
+    ],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [],
+    "placename_written": "",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "2",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": "",
+    "entities": false,
+    "related_letters": []
+  },
+  "1486": {
+    "id": 1486,
+    "order": "779.75000000000000000000",
+    "lb_id": "lb-01271",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 38,
+        "order": "6.00000000000000000000",
+        "label": "Adolf Wratislaw von Sternberg",
+        "lb_id": "lb-person-38",
+        "gnd_url": "https://d-nb.info/gnd/136018599",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Adolf Wratislaw von",
+        "last_name": "Sternberg",
+        "maiden_name": null
+      }
+    ],
+    "not_before": "1672-06-20",
+    "not_after": "1672-06-20",
+    "written_date": "20. Juni 1672",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 36,
+        "order": "4.00000000000000000000",
+        "abbr": "ANM",
+        "label": "Archiv Národního muzea",
+        "lb_id": "lb-org-36",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "",
+        "located_in": [
+          {
+            "id": 69,
+            "order": "11.00000000000000000000",
+            "label": "Prag",
+            "lb_id": "lb-place-69",
+            "geonames_url": "https://www.geonames.org/3067696/prague.html",
+            "latitude": "50.08804",
+            "longitude": "14.42076",
+            "gnd_url": "",
+            "endonym": "Praha"
+          }
+        ],
+        "has_license": "",
+        "translation": "Archiv des Nationalmuseums"
+      }
+    ],
+    "collection": "RA Sternberg-Manderscheid",
+    "signatur": "K. 197",
     "kind": [
       {
         "id": 23015,
@@ -141206,7 +141564,149 @@
     "edition": [],
     "volume": "2",
     "number": "",
-    "page": "–",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": "",
+    "entities": false,
+    "related_letters": []
+  },
+  "1487": {
+    "id": 1487,
+    "order": "779.79999999999995452526",
+    "lb_id": "",
+    "sender": [
+      {
+        "id": 1,
+        "value": "Leopold I.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "receiver": [
+      {
+        "id": 38,
+        "order": "6.00000000000000000000",
+        "label": "Adolf Wratislaw von Sternberg",
+        "lb_id": "lb-person-38",
+        "gnd_url": "https://d-nb.info/gnd/136018599",
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "Adolf Wratislaw von",
+        "last_name": "Sternberg",
+        "maiden_name": null
+      }
+    ],
+    "not_before": null,
+    "not_after": null,
+    "written_date": "",
+    "date_note": "",
+    "archiv": [
+      {
+        "id": 36,
+        "order": "4.00000000000000000000",
+        "abbr": "ANM",
+        "label": "Archiv Národního muzea",
+        "lb_id": "lb-org-36",
+        "kind": {
+          "id": 23014,
+          "value": "archiv/library",
+          "color": "dark-cyan"
+        },
+        "gnd_url": "",
+        "located_in": [
+          {
+            "id": 69,
+            "order": "11.00000000000000000000",
+            "label": "Prag",
+            "lb_id": "lb-place-69",
+            "geonames_url": "https://www.geonames.org/3067696/prague.html",
+            "latitude": "50.08804",
+            "longitude": "14.42076",
+            "gnd_url": "",
+            "endonym": "Praha"
+          }
+        ],
+        "has_license": "",
+        "translation": "Archiv des Nationalmuseums"
+      }
+    ],
+    "collection": "RA Sternberg-Manderscheid",
+    "signatur": "K. 197",
+    "kind": [
+      {
+        "id": 23015,
+        "value": "Original",
+        "color": "dark-green"
+      }
+    ],
+    "main_language": {
+      "id": 23018,
+      "value": "deu",
+      "color": "darker-brown"
+    },
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [],
+    "placename_written": "",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "2",
+    "number": "",
+    "page": "",
+    "received_place": [],
+    "received_date": null,
+    "images_on_share": false,
+    "contributors": [],
+    "credits": "",
+    "entities": false,
+    "related_letters": []
+  },
+  "1483": {
+    "id": 1483,
+    "order": "780.00000000000000000000",
+    "lb_id": "",
+    "sender": [],
+    "receiver": [],
+    "not_before": null,
+    "not_after": null,
+    "written_date": "",
+    "date_note": "",
+    "archiv": [],
+    "collection": "",
+    "signatur": "",
+    "kind": [],
+    "main_language": null,
+    "daily_order": "1",
+    "copy_of": [],
+    "concept_for": [],
+    "regest": false,
+    "status_transkription": {
+      "id": 23031,
+      "value": "nicht vorhanden",
+      "color": "darker-red"
+    },
+    "place_of_writing": [],
+    "placename_written": "",
+    "destination": [],
+    "hand": [],
+    "edition": [],
+    "volume": "",
+    "number": "",
+    "page": "",
     "received_place": [],
     "received_date": null,
     "images_on_share": false,

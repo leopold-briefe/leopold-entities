@@ -16128,7 +16128,7 @@
                   <label>1665-07-04</label>
                   <desc>Den 4. 2 auf Prag vnd 1 alio geschriben.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-00494">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-69">Prag</rs>
                         </title>
                         <date>1665-07-04</date>
@@ -16217,7 +16217,7 @@
                         </title>
                         <date>1665-07-15</date>
                      </bibl>
-                     <bibl>
+                     <bibl key="lb-00495">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-69">Prag</rs>
                         </title>
                         <date>1665-07-15</date>
@@ -17029,7 +17029,7 @@
                   <label>1665-11-29</label>
                   <desc>Den 29. 2 brieff geschriben.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-00496">
                         <title>Leopold an Unbekannt</title>
                         <date>1665-11-29</date>
                      </bibl>
@@ -17084,7 +17084,7 @@
                         </title>
                         <date>1665-12-16</date>
                      </bibl>
-                     <bibl>
+                     <bibl key="lb-00497">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-69">Prag</rs>
                         </title>
                         <date>1665-12-16</date>

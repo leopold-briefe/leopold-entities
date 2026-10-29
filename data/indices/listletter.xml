@@ -10920,7 +10920,6 @@
                <placeName key="lb-place-1" ref="https://sws.geonames.org/2761369/">Wien</placeName>
                <placeName type="written">Vienna</placeName>
                <date when="1665-07-04">4. Juli 1665</date>
-               <note type="date">1</note>
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-81">Humprecht Johann Czernin von Chudenitz</persName>
@@ -32555,6 +32554,114 @@
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-40" ref="https://d-nb.info/gnd/119324636">Franz Eusebius von Pötting</persName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-01268" n="Leopold I. an Adolf Wratislaw von Sternberg am 28. Jänner 1668 (ohne Ortsangabe)">
+            <noteGrp type="metadata">
+               <note type="not_before">1668-01-28</note>
+               <note type="archiv">Archiv Národního muzea</note>
+               <note type="collection">RA Sternberg-Manderscheid</note>
+               <note type="signatur">K. 197</note>
+               <note type="kind">Original</note>
+               <note type="main_language">deu</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="volume">2</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">ANM</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+               <date when="1668-01-28">28. Jänner 1668</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-38" ref="https://d-nb.info/gnd/136018599">Adolf Wratislaw von Sternberg</persName>
+            </correspAction>
+            <!--             <correspContext>
+               <ref target="#lb-01269" type="Kopie von">spätere Abschrift</ref>
+               <ref target="#lb-01270" type="Kopie von">spätere Abschrift</ref>
+            </correspContext>
+ -->
+         </correspDesc>
+         <correspDesc xml:id="lb-01269" n="Leopold I. an Adolf Wratislaw von Sternberg am 28. Jänner 1668 (ohne Ortsangabe)">
+            <noteGrp type="metadata">
+               <note type="not_before">1668-01-28</note>
+               <note type="archiv">Archiv Národního muzea</note>
+               <note type="collection">RA Sternberg-Manderscheid</note>
+               <note type="signatur">K. 197</note>
+               <note type="kind">spätere Abschrift</note>
+               <note type="main_language">deu</note>
+               <note type="daily_order">1</note>
+               <note type="copy_of">lb-01268</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="volume">2</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">ANM</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+               <date when="1668-01-28">28. Jänner 1668</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-38" ref="https://d-nb.info/gnd/136018599">Adolf Wratislaw von Sternberg</persName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-01270" n="Leopold I. an Adolf Wratislaw von Sternberg am 28. Jänner 1668 (ohne Ortsangabe)">
+            <noteGrp type="metadata">
+               <note type="not_before">1668-01-28</note>
+               <note type="archiv">Archiv Národního muzea</note>
+               <note type="collection">RA Sternberg-Manderscheid</note>
+               <note type="signatur">K. 197</note>
+               <note type="kind">spätere Abschrift</note>
+               <note type="main_language">deu</note>
+               <note type="daily_order">1</note>
+               <note type="copy_of">lb-01268</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="volume">2</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">ANM</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+               <date when="1668-01-28">28. Jänner 1668</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-38" ref="https://d-nb.info/gnd/136018599">Adolf Wratislaw von Sternberg</persName>
+            </correspAction>
+            <!--  -->
+         </correspDesc>
+         <correspDesc xml:id="lb-01271" n="Leopold I. an Adolf Wratislaw von Sternberg am 20. Juni 1672 (aus Wien)">
+            <noteGrp type="metadata">
+               <note type="not_before">1672-06-20</note>
+               <note type="archiv">Archiv Národního muzea</note>
+               <note type="collection">RA Sternberg-Manderscheid</note>
+               <note type="signatur">K. 197</note>
+               <note type="kind">Original</note>
+               <note type="main_language">deu</note>
+               <note type="daily_order">1</note>
+               <note type="regest">False</note>
+               <note type="status_transkription">nicht vorhanden</note>
+               <note type="volume">2</note>
+               <note type="images_on_share">False</note>
+               <note type="entities">False</note>
+               <note type="archiv_abbr">ANM</note>
+            </noteGrp>
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+               <placeName key="lb-place-1" ref="https://sws.geonames.org/2761369/">Wien</placeName>
+               <placeName type="written">Wienn</placeName>
+               <date when="1672-06-20">20. Juni 1672</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="lb-person-38" ref="https://d-nb.info/gnd/136018599">Adolf Wratislaw von Sternberg</persName>
             </correspAction>
             <!--  -->
          </correspDesc>

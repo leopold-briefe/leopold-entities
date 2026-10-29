@@ -21056,7 +21056,7 @@
             </correspAction>
             <note type="anmerkung">Erwähnt in lb-00970</note>
          </correspDesc>
-         <correspDesc xml:id="lb-ml-2501" n="Leopold I. an Ungenannt am 1665-07-04 (Prag)">
+         <correspDesc xml:id="lb-ml-2501" corresp="#lb-00494" n="Leopold I. an Ungenannt am 1665-07-04 (Prag)">
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
                <date when="1665-07-04">1665-07-04</date>
@@ -21183,7 +21183,7 @@
                <placeName type="destination" key="lb-place-38" ref="https://www.geonames.org/2951839/bavaria.html">Bayern</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc xml:id="lb-ml-2516" n="Leopold I. an Ungenannt am 1665-07-15 (Prag)">
+         <correspDesc xml:id="lb-ml-2516" corresp="#lb-00495" n="Leopold I. an Ungenannt am 1665-07-15 (Prag)">
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
                <date when="1665-07-15">1665-07-15</date>
@@ -22214,7 +22214,7 @@
                <placeName type="destination" key="lb-place-38" ref="https://www.geonames.org/2951839/bavaria.html">Bayern</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc xml:id="lb-ml-2628" n="Leopold I. an Ungenannt am 1665-11-29 (ohne Ortsangabe)">
+         <correspDesc xml:id="lb-ml-2628" corresp="#lb-00496" n="Leopold I. an Ungenannt am 1665-11-29 (ohne Ortsangabe)">
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
                <date when="1665-11-29">1665-11-29</date>
@@ -22293,7 +22293,7 @@
                <placeName type="destination" key="lb-place-38" ref="https://www.geonames.org/2951839/bavaria.html">Bayern</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc xml:id="lb-ml-2637" n="Leopold I. an Ungenannt am 1665-12-16 (Prag)">
+         <correspDesc xml:id="lb-ml-2637" corresp="#lb-00497" n="Leopold I. an Ungenannt am 1665-12-16 (Prag)">
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
                <date when="1665-12-16">1665-12-16</date>
