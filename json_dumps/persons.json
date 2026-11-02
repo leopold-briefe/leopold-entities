@@ -39,7 +39,7 @@
     "date_of_death": null,
     "wikidata_url": "",
     "mentioned_letters - courier": [],
-    "first_name": null,
+    "first_name": "Eleonora Magdalena Theresia",
     "last_name": null,
     "maiden_name": "Pfalz-Neuburg"
   },
@@ -338,9 +338,25 @@
     "place_of_death": [],
     "date_of_death": null,
     "wikidata_url": "",
-    "mentioned_letters - courier": [],
-    "first_name": "",
-    "last_name": "",
+    "mentioned_letters - courier": [
+      {
+        "id": 2816,
+        "value": "1666-05-26",
+        "order": "2570.00000000000000000000"
+      },
+      {
+        "id": 2817,
+        "value": "1666-05-26",
+        "order": "2571.00000000000000000000"
+      },
+      {
+        "id": 2823,
+        "value": "1666-05-27",
+        "order": "2577.00000000000000000000"
+      }
+    ],
+    "first_name": "Raimondo",
+    "last_name": "Montecuccoli",
     "maiden_name": ""
   },
   "81": {
@@ -467,7 +483,7 @@
         "order": "898.00000000000000000000"
       }
     ],
-    "first_name": "Ferdinand Bonaventura",
+    "first_name": "Ferdinand Bonaventura von",
     "last_name": "Harrach",
     "maiden_name": ""
   },
@@ -587,7 +603,7 @@
     "date_of_death": "1686-05-13",
     "wikidata_url": "",
     "mentioned_letters - courier": [],
-    "first_name": "Euphrosyna Dorothea",
+    "first_name": "Euphrosyna Dorothea von",
     "last_name": "Sternberg",
     "maiden_name": ""
   },
@@ -634,7 +650,7 @@
   "124": {
     "id": 124,
     "order": "26.00000000000000000000",
-    "label": "Johann Georg II.",
+    "label": "Johann Georg II. von Sachsen",
     "lb_id": "lb-person-124",
     "gnd_url": "",
     "place_of_birth": [],
@@ -643,14 +659,14 @@
     "date_of_death": null,
     "wikidata_url": "",
     "mentioned_letters - courier": [],
-    "first_name": "",
+    "first_name": "Johann Georg II.",
     "last_name": "",
     "maiden_name": ""
   },
   "125": {
     "id": 125,
     "order": "27.00000000000000000000",
-    "label": "Erzherzog Sigismund Franz",
+    "label": "Sigismund Franz",
     "lb_id": "lb-person-125",
     "gnd_url": "",
     "place_of_birth": [],
@@ -659,7 +675,7 @@
     "date_of_death": null,
     "wikidata_url": "",
     "mentioned_letters - courier": [],
-    "first_name": "",
+    "first_name": "Sigismund Franz",
     "last_name": "",
     "maiden_name": ""
   },
@@ -743,7 +759,7 @@
     "date_of_death": "1673-03-12",
     "wikidata_url": "",
     "mentioned_letters - courier": [],
-    "first_name": "Margaritha Theresa",
+    "first_name": "Margarita Theresa",
     "last_name": "",
     "maiden_name": ""
   },
@@ -771,7 +787,7 @@
     "date_of_death": "1685-01-07",
     "wikidata_url": "",
     "mentioned_letters - courier": [],
-    "first_name": "Bernhard Ignaz",
+    "first_name": "Bernhard Ignaz von",
     "last_name": "Martinitz",
     "maiden_name": ""
   },
@@ -813,8 +829,248 @@
         "order": "2411.00000000000000000000"
       }
     ],
+    "first_name": "Heinrich",
+    "last_name": "Gottwald",
+    "maiden_name": ""
+  },
+  "195": {
+    "id": 195,
+    "order": "33.00000000000000000000",
+    "label": "Don Martín",
+    "lb_id": "lb-person-195",
+    "gnd_url": "",
+    "place_of_birth": [],
+    "date_of_birth": null,
+    "place_of_death": [],
+    "date_of_death": null,
+    "wikidata_url": "",
+    "mentioned_letters - courier": [
+      {
+        "id": 2747,
+        "value": "1666-02-08",
+        "order": "2501.00000000000000000000"
+      },
+      {
+        "id": 2748,
+        "value": "1666-02-08",
+        "order": "2502.00000000000000000000"
+      },
+      {
+        "id": 2749,
+        "value": "1666-02-08",
+        "order": "2503.00000000000000000000"
+      },
+      {
+        "id": 2750,
+        "value": "1666-02-08",
+        "order": "2504.00000000000000000000"
+      }
+    ],
     "first_name": "",
     "last_name": "",
+    "maiden_name": ""
+  },
+  "196": {
+    "id": 196,
+    "order": "34.00000000000000000000",
+    "label": "Denia",
+    "lb_id": "lb-person-196",
+    "gnd_url": "",
+    "place_of_birth": [],
+    "date_of_birth": null,
+    "place_of_death": [],
+    "date_of_death": null,
+    "wikidata_url": "",
+    "mentioned_letters - courier": [
+      {
+        "id": 2854,
+        "value": "1666-07-14",
+        "order": "2608.00000000000000000000"
+      },
+      {
+        "id": 2855,
+        "value": "1666-07-14",
+        "order": "2609.00000000000000000000"
+      },
+      {
+        "id": 2856,
+        "value": "1666-07-14",
+        "order": "2610.00000000000000000000"
+      }
+    ],
+    "first_name": "",
+    "last_name": "",
+    "maiden_name": ""
+  },
+  "197": {
+    "id": 197,
+    "order": "35.00000000000000000000",
+    "label": "Johann Franz von Wicka",
+    "lb_id": "lb-person-197",
+    "gnd_url": "",
+    "place_of_birth": [],
+    "date_of_birth": null,
+    "place_of_death": [],
+    "date_of_death": null,
+    "wikidata_url": "",
+    "mentioned_letters - courier": [
+      {
+        "id": 2914,
+        "value": "1666-10-03",
+        "order": "2668.00000000000000000000"
+      },
+      {
+        "id": 2915,
+        "value": "1666-10-03",
+        "order": "2669.00000000000000000000"
+      }
+    ],
+    "first_name": "Johann Franz von",
+    "last_name": "Wicka",
+    "maiden_name": ""
+  },
+  "198": {
+    "id": 198,
+    "order": "36.00000000000000000000",
+    "label": "David Ungnad von Weißenwolff",
+    "lb_id": "lb-person-198",
+    "gnd_url": "",
+    "place_of_birth": [],
+    "date_of_birth": null,
+    "place_of_death": [],
+    "date_of_death": null,
+    "wikidata_url": "",
+    "mentioned_letters - courier": [
+      {
+        "id": 2952,
+        "value": "1666-11-06",
+        "order": "2706.00000000000000000000"
+      },
+      {
+        "id": 2953,
+        "value": "1666-11-06",
+        "order": "2707.00000000000000000000"
+      },
+      {
+        "id": 2954,
+        "value": "1666-11-06",
+        "order": "2708.00000000000000000000"
+      }
+    ],
+    "first_name": "David",
+    "last_name": "Ungnad von Weißenwolff",
+    "maiden_name": ""
+  },
+  "199": {
+    "id": 199,
+    "order": "37.00000000000000000000",
+    "label": "Franz Augustin von Waldstein",
+    "lb_id": "lb-person-199",
+    "gnd_url": "",
+    "place_of_birth": [],
+    "date_of_birth": null,
+    "place_of_death": [],
+    "date_of_death": null,
+    "wikidata_url": "",
+    "mentioned_letters - courier": [
+      {
+        "id": 2966,
+        "value": "1666-11-19",
+        "order": "2720.00000000000000000000"
+      },
+      {
+        "id": 2967,
+        "value": "1666-11-19",
+        "order": "2721.00000000000000000000"
+      },
+      {
+        "id": 2968,
+        "value": "1666-11-19",
+        "order": "2722.00000000000000000000"
+      },
+      {
+        "id": 2969,
+        "value": "1666-11-21",
+        "order": "2723.00000000000000000000"
+      },
+      {
+        "id": 2970,
+        "value": "1666-11-21",
+        "order": "2724.00000000000000000000"
+      }
+    ],
+    "first_name": "Franz Augustin von",
+    "last_name": "Waldstein",
+    "maiden_name": ""
+  },
+  "200": {
+    "id": 200,
+    "order": "38.00000000000000000000",
+    "label": "Gundaker von Dietrichstein",
+    "lb_id": "lb-person-200",
+    "gnd_url": "",
+    "place_of_birth": [],
+    "date_of_birth": null,
+    "place_of_death": [],
+    "date_of_death": null,
+    "wikidata_url": "",
+    "mentioned_letters - courier": [
+      {
+        "id": 2969,
+        "value": "1666-11-21",
+        "order": "2723.00000000000000000000"
+      },
+      {
+        "id": 2970,
+        "value": "1666-11-21",
+        "order": "2724.00000000000000000000"
+      }
+    ],
+    "first_name": "Gundaker von",
+    "last_name": "Dietrichstein",
+    "maiden_name": ""
+  },
+  "201": {
+    "id": 201,
+    "order": "39.00000000000000000000",
+    "label": "",
+    "lb_id": "lb-person-201",
+    "gnd_url": "",
+    "place_of_birth": [],
+    "date_of_birth": null,
+    "place_of_death": [],
+    "date_of_death": null,
+    "wikidata_url": "",
+    "mentioned_letters - courier": [],
+    "first_name": "",
+    "last_name": "",
+    "maiden_name": ""
+  },
+  "202": {
+    "id": 202,
+    "order": "40.00000000000000000000",
+    "label": "Leopold Wilhelm von Baden-Baden",
+    "lb_id": "lb-person-202",
+    "gnd_url": "",
+    "place_of_birth": [],
+    "date_of_birth": null,
+    "place_of_death": [],
+    "date_of_death": null,
+    "wikidata_url": "",
+    "mentioned_letters - courier": [
+      {
+        "id": 2978,
+        "value": "1666-12-01",
+        "order": "2732.00000000000000000000"
+      },
+      {
+        "id": 2979,
+        "value": "1666-12-01",
+        "order": "2733.00000000000000000000"
+      }
+    ],
+    "first_name": "Leopold Wilhelm von",
+    "last_name": "Baden-Baden",
     "maiden_name": ""
   }
 }

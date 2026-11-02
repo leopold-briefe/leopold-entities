@@ -988,5 +988,60 @@
     "longitude": null,
     "gnd_url": "",
     "endonym": ""
+  },
+  "309": {
+    "id": 309,
+    "order": "91.00000000000000000000",
+    "label": "Raab",
+    "lb_id": "lb-place-309",
+    "geonames_url": "",
+    "latitude": null,
+    "longitude": null,
+    "gnd_url": "",
+    "endonym": "Győr"
+  },
+  "310": {
+    "id": 310,
+    "order": "92.00000000000000000000",
+    "label": "Leßle?",
+    "lb_id": "lb-place-310",
+    "geonames_url": "",
+    "latitude": null,
+    "longitude": null,
+    "gnd_url": "",
+    "endonym": ""
+  },
+  "311": {
+    "id": 311,
+    "order": "93.00000000000000000000",
+    "label": "Trient",
+    "lb_id": "lb-place-311",
+    "geonames_url": "",
+    "latitude": null,
+    "longitude": null,
+    "gnd_url": "",
+    "endonym": "Trento"
+  },
+  "312": {
+    "id": 312,
+    "order": "94.00000000000000000000",
+    "label": "Kindberg",
+    "lb_id": "lb-place-312",
+    "geonames_url": "",
+    "latitude": null,
+    "longitude": null,
+    "gnd_url": "",
+    "endonym": ""
+  },
+  "313": {
+    "id": 313,
+    "order": "95.00000000000000000000",
+    "label": "Loiben",
+    "lb_id": "lb-place-313",
+    "geonames_url": "",
+    "latitude": null,
+    "longitude": null,
+    "gnd_url": "",
+    "endonym": ""
   }
 }

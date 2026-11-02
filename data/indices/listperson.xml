@@ -49,6 +49,10 @@
                </person>
                <person xml:id="lb-person-2" n="Eleonora Magdalena Theresia, geb. Pfalz-Neuburg">
                   <persName type="preferred">Eleonora Magdalena Theresia, geb. Pfalz-Neuburg</persName>
+                  <persName type="parts">
+                     <forename>Eleonora Magdalena Theresia</forename>
+                     <surname>None</surname>
+                  </persName>
                   <idno type="gnd">https://d-nb.info/gnd/101026641</idno>
                </person>
                <person xml:id="lb-person-3" n="Johann Maximilian von Lamberg">
@@ -205,6 +209,10 @@
                </person>
                <person xml:id="lb-person-79" n="Raimondo Montecuccoli">
                   <persName type="preferred">Raimondo Montecuccoli</persName>
+                  <persName type="parts">
+                     <forename>Raimondo</forename>
+                     <surname>Montecuccoli</surname>
+                  </persName>
                </person>
                <person xml:id="lb-person-81" n="Humprecht Johann Czernin von Chudenitz">
                   <persName type="preferred">Humprecht Johann Czernin von Chudenitz</persName>
@@ -251,7 +259,7 @@
                <person xml:id="lb-person-119" n="Ferdinand Bonaventura von Harrach">
                   <persName type="preferred">Ferdinand Bonaventura von Harrach</persName>
                   <persName type="parts">
-                     <forename>Ferdinand Bonaventura</forename>
+                     <forename>Ferdinand Bonaventura von</forename>
                      <surname>Harrach</surname>
                   </persName>
                </person>
@@ -300,7 +308,7 @@
                <person xml:id="lb-person-122" n="Maria Eufrosina a Sanctissima Trinitate (Eufrosina Dorothea von Sternberg)">
                   <persName type="preferred">Maria Eufrosina a Sanctissima Trinitate (Eufrosina Dorothea von Sternberg)</persName>
                   <persName type="parts">
-                     <forename>Euphrosyna Dorothea</forename>
+                     <forename>Euphrosyna Dorothea von</forename>
                      <surname>Sternberg</surname>
                   </persName>
                   <birth>
@@ -339,11 +347,19 @@
                      </settlement>
                   </death>
                </person>
-               <person xml:id="lb-person-124" n="Johann Georg II.">
-                  <persName type="preferred">Johann Georg II.</persName>
+               <person xml:id="lb-person-124" n="Johann Georg II. von Sachsen">
+                  <persName type="preferred">Johann Georg II. von Sachsen</persName>
+                  <persName type="parts">
+                     <forename>Johann Georg II.</forename>
+                     <surname/>
+                  </persName>
                </person>
-               <person xml:id="lb-person-125" n="Erzherzog Sigismund Franz">
-                  <persName type="preferred">Erzherzog Sigismund Franz</persName>
+               <person xml:id="lb-person-125" n="Sigismund Franz">
+                  <persName type="preferred">Sigismund Franz</persName>
+                  <persName type="parts">
+                     <forename>Sigismund Franz</forename>
+                     <surname/>
+                  </persName>
                </person>
                <person xml:id="lb-person-126" n="Kaiserliche Armee">
                   <persName type="preferred">Kaiserliche Armee</persName>
@@ -367,7 +383,7 @@
                <person xml:id="lb-person-160" n="Margarita Theresa von Spanien">
                   <persName type="preferred">Margarita Theresa von Spanien</persName>
                   <persName type="parts">
-                     <forename>Margaritha Theresa</forename>
+                     <forename>Margarita Theresa</forename>
                      <surname/>
                   </persName>
                   <birth>
@@ -390,7 +406,7 @@
                <person xml:id="lb-person-161" n="Bernhard Ignaz von Martinitz">
                   <persName type="preferred">Bernhard Ignaz von Martinitz</persName>
                   <persName type="parts">
-                     <forename>Bernhard Ignaz</forename>
+                     <forename>Bernhard Ignaz von</forename>
                      <surname>Martinitz</surname>
                   </persName>
                   <birth>
@@ -407,6 +423,54 @@
                </person>
                <person xml:id="lb-person-194" n="Heinrich Gottwald">
                   <persName type="preferred">Heinrich Gottwald</persName>
+                  <persName type="parts">
+                     <forename>Heinrich</forename>
+                     <surname>Gottwald</surname>
+                  </persName>
+               </person>
+               <person xml:id="lb-person-195" n="Don Martín">
+                  <persName type="preferred">Don Martín</persName>
+               </person>
+               <person xml:id="lb-person-196" n="Denia">
+                  <persName type="preferred">Denia</persName>
+               </person>
+               <person xml:id="lb-person-197" n="Johann Franz von Wicka">
+                  <persName type="preferred">Johann Franz von Wicka</persName>
+                  <persName type="parts">
+                     <forename>Johann Franz von</forename>
+                     <surname>Wicka</surname>
+                  </persName>
+               </person>
+               <person xml:id="lb-person-198" n="David Ungnad von Weißenwolff">
+                  <persName type="preferred">David Ungnad von Weißenwolff</persName>
+                  <persName type="parts">
+                     <forename>David</forename>
+                     <surname>Ungnad von Weißenwolff</surname>
+                  </persName>
+               </person>
+               <person xml:id="lb-person-199" n="Franz Augustin von Waldstein">
+                  <persName type="preferred">Franz Augustin von Waldstein</persName>
+                  <persName type="parts">
+                     <forename>Franz Augustin von</forename>
+                     <surname>Waldstein</surname>
+                  </persName>
+               </person>
+               <person xml:id="lb-person-200" n="Gundaker von Dietrichstein">
+                  <persName type="preferred">Gundaker von Dietrichstein</persName>
+                  <persName type="parts">
+                     <forename>Gundaker von</forename>
+                     <surname>Dietrichstein</surname>
+                  </persName>
+               </person>
+               <person xml:id="lb-person-201" n="">
+                  <persName type="preferred"/>
+               </person>
+               <person xml:id="lb-person-202" n="Leopold Wilhelm von Baden-Baden">
+                  <persName type="preferred">Leopold Wilhelm von Baden-Baden</persName>
+                  <persName type="parts">
+                     <forename>Leopold Wilhelm von</forename>
+                     <surname>Baden-Baden</surname>
+                  </persName>
                </person>
             </listPerson>
          </div>

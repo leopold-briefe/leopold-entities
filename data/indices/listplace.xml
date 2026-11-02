@@ -378,6 +378,21 @@
                <place xml:id="lb-place-308">
                   <placeName>Dresden</placeName>
                </place>
+               <place xml:id="lb-place-309">
+                  <placeName>Raab</placeName>
+               </place>
+               <place xml:id="lb-place-310">
+                  <placeName>Leßle?</placeName>
+               </place>
+               <place xml:id="lb-place-311">
+                  <placeName>Trient</placeName>
+               </place>
+               <place xml:id="lb-place-312">
+                  <placeName>Kindberg</placeName>
+               </place>
+               <place xml:id="lb-place-313">
+                  <placeName>Loiben</placeName>
+               </place>
             </listPlace>
          </div>
       </body>
