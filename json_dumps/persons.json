@@ -836,7 +836,7 @@
   "195": {
     "id": 195,
     "order": "33.00000000000000000000",
-    "label": "Don Martín",
+    "label": "Martín Erasquin",
     "lb_id": "lb-person-195",
     "gnd_url": "",
     "place_of_birth": [],
@@ -864,38 +864,6 @@
         "id": 2750,
         "value": "1666-02-08",
         "order": "2504.00000000000000000000"
-      }
-    ],
-    "first_name": "",
-    "last_name": "",
-    "maiden_name": ""
-  },
-  "196": {
-    "id": 196,
-    "order": "34.00000000000000000000",
-    "label": "Denia",
-    "lb_id": "lb-person-196",
-    "gnd_url": "",
-    "place_of_birth": [],
-    "date_of_birth": null,
-    "place_of_death": [],
-    "date_of_death": null,
-    "wikidata_url": "",
-    "mentioned_letters - courier": [
-      {
-        "id": 2854,
-        "value": "1666-07-14",
-        "order": "2608.00000000000000000000"
-      },
-      {
-        "id": 2855,
-        "value": "1666-07-14",
-        "order": "2609.00000000000000000000"
-      },
-      {
-        "id": 2856,
-        "value": "1666-07-14",
-        "order": "2610.00000000000000000000"
       }
     ],
     "first_name": "",
@@ -1071,6 +1039,22 @@
     ],
     "first_name": "Leopold Wilhelm von",
     "last_name": "Baden-Baden",
+    "maiden_name": ""
+  },
+  "235": {
+    "id": 235,
+    "order": "41.00000000000000000000",
+    "label": "Walter Leslie",
+    "lb_id": "lb-person-235",
+    "gnd_url": "",
+    "place_of_birth": [],
+    "date_of_birth": null,
+    "place_of_death": [],
+    "date_of_death": null,
+    "wikidata_url": "",
+    "mentioned_letters - courier": [],
+    "first_name": "",
+    "last_name": "",
     "maiden_name": ""
   }
 }

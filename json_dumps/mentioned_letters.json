@@ -68462,7 +68462,7 @@
     "courier": [
       {
         "id": 195,
-        "value": "Don Martín",
+        "value": "Martín Erasquin",
         "order": "33.00000000000000000000"
       }
     ],
@@ -68495,7 +68495,7 @@
     "courier": [
       {
         "id": 195,
-        "value": "Don Martín",
+        "value": "Martín Erasquin",
         "order": "33.00000000000000000000"
       }
     ],
@@ -68528,7 +68528,7 @@
     "courier": [
       {
         "id": 195,
-        "value": "Don Martín",
+        "value": "Martín Erasquin",
         "order": "33.00000000000000000000"
       }
     ],
@@ -68561,7 +68561,7 @@
     "courier": [
       {
         "id": 195,
-        "value": "Don Martín",
+        "value": "Martín Erasquin",
         "order": "33.00000000000000000000"
       }
     ],
@@ -68590,21 +68590,26 @@
     "order": "2505.00000000000000000000",
     "not_before": "1666-02-09",
     "not_after": null,
-    "addressee_stated": [],
-    "courier": [],
-    "destination": [
+    "addressee_stated": [
       {
-        "id": 310,
-        "order": "92.00000000000000000000",
-        "label": "Leßle?",
-        "lb_id": "lb-place-310",
-        "geonames_url": "",
-        "latitude": null,
-        "longitude": null,
+        "id": 235,
+        "order": "41.00000000000000000000",
+        "label": "Walter Leslie",
+        "lb_id": "lb-person-235",
         "gnd_url": "",
-        "endonym": ""
+        "place_of_birth": [],
+        "date_of_birth": null,
+        "place_of_death": [],
+        "date_of_death": null,
+        "wikidata_url": "",
+        "mentioned_letters - courier": [],
+        "first_name": "",
+        "last_name": "",
+        "maiden_name": ""
       }
     ],
+    "courier": [],
+    "destination": [],
     "dictated_letter": false,
     "note": "",
     "addressee_worked_out": [],
@@ -70390,36 +70395,7 @@
     "order": "2570.00000000000000000000",
     "not_before": "1666-05-26",
     "not_after": null,
-    "addressee_stated": [
-      {
-        "id": 160,
-        "order": "30.00000000000000000000",
-        "label": "Margarita Theresa von Spanien",
-        "lb_id": "lb-person-160",
-        "gnd_url": "",
-        "place_of_birth": [
-          {
-            "id": 72,
-            "value": "Madrid",
-            "order": "14.00000000000000000000"
-          }
-        ],
-        "date_of_birth": "1651-07-12",
-        "place_of_death": [
-          {
-            "id": 1,
-            "value": "Wien",
-            "order": "1.00000000000000000000"
-          }
-        ],
-        "date_of_death": "1673-03-12",
-        "wikidata_url": "",
-        "mentioned_letters - courier": [],
-        "first_name": "Margarita Theresa",
-        "last_name": "",
-        "maiden_name": ""
-      }
-    ],
+    "addressee_stated": [],
     "courier": [
       {
         "id": 79,
@@ -70427,7 +70403,19 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "destination": [],
+    "destination": [
+      {
+        "id": 347,
+        "order": "97.00000000000000000000",
+        "label": "Hof der Kaiserin Margarita Theresa",
+        "lb_id": "lb-place-347",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
+        "gnd_url": "",
+        "endonym": ""
+      }
+    ],
     "dictated_letter": false,
     "note": "",
     "addressee_worked_out": [],
@@ -70440,36 +70428,7 @@
     "order": "2571.00000000000000000000",
     "not_before": "1666-05-26",
     "not_after": null,
-    "addressee_stated": [
-      {
-        "id": 160,
-        "order": "30.00000000000000000000",
-        "label": "Margarita Theresa von Spanien",
-        "lb_id": "lb-person-160",
-        "gnd_url": "",
-        "place_of_birth": [
-          {
-            "id": 72,
-            "value": "Madrid",
-            "order": "14.00000000000000000000"
-          }
-        ],
-        "date_of_birth": "1651-07-12",
-        "place_of_death": [
-          {
-            "id": 1,
-            "value": "Wien",
-            "order": "1.00000000000000000000"
-          }
-        ],
-        "date_of_death": "1673-03-12",
-        "wikidata_url": "",
-        "mentioned_letters - courier": [],
-        "first_name": "Margarita Theresa",
-        "last_name": "",
-        "maiden_name": ""
-      }
-    ],
+    "addressee_stated": [],
     "courier": [
       {
         "id": 79,
@@ -70477,7 +70436,19 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "destination": [],
+    "destination": [
+      {
+        "id": 347,
+        "order": "97.00000000000000000000",
+        "label": "Hof der Kaiserin Margarita Theresa",
+        "lb_id": "lb-place-347",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
+        "gnd_url": "",
+        "endonym": ""
+      }
+    ],
     "dictated_letter": false,
     "note": "",
     "addressee_worked_out": [],
@@ -71417,44 +71388,32 @@
     "order": "2608.00000000000000000000",
     "not_before": "1666-07-14",
     "not_after": null,
-    "addressee_stated": [
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
       {
-        "id": 160,
-        "order": "30.00000000000000000000",
-        "label": "Margarita Theresa von Spanien",
-        "lb_id": "lb-person-160",
+        "id": 346,
+        "order": "96.00000000000000000000",
+        "label": "Denía",
+        "lb_id": "lb-place-346",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
         "gnd_url": "",
-        "place_of_birth": [
-          {
-            "id": 72,
-            "value": "Madrid",
-            "order": "14.00000000000000000000"
-          }
-        ],
-        "date_of_birth": "1651-07-12",
-        "place_of_death": [
-          {
-            "id": 1,
-            "value": "Wien",
-            "order": "1.00000000000000000000"
-          }
-        ],
-        "date_of_death": "1673-03-12",
-        "wikidata_url": "",
-        "mentioned_letters - courier": [],
-        "first_name": "Margarita Theresa",
-        "last_name": "",
-        "maiden_name": ""
-      }
-    ],
-    "courier": [
+        "endonym": ""
+      },
       {
-        "id": 196,
-        "value": "Denia",
-        "order": "34.00000000000000000000"
+        "id": 347,
+        "order": "97.00000000000000000000",
+        "label": "Hof der Kaiserin Margarita Theresa",
+        "lb_id": "lb-place-347",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
+        "gnd_url": "",
+        "endonym": ""
       }
     ],
-    "destination": [],
     "dictated_letter": false,
     "note": "",
     "addressee_worked_out": [],
@@ -71467,44 +71426,32 @@
     "order": "2609.00000000000000000000",
     "not_before": "1666-07-14",
     "not_after": null,
-    "addressee_stated": [
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
       {
-        "id": 160,
-        "order": "30.00000000000000000000",
-        "label": "Margarita Theresa von Spanien",
-        "lb_id": "lb-person-160",
+        "id": 346,
+        "order": "96.00000000000000000000",
+        "label": "Denía",
+        "lb_id": "lb-place-346",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
         "gnd_url": "",
-        "place_of_birth": [
-          {
-            "id": 72,
-            "value": "Madrid",
-            "order": "14.00000000000000000000"
-          }
-        ],
-        "date_of_birth": "1651-07-12",
-        "place_of_death": [
-          {
-            "id": 1,
-            "value": "Wien",
-            "order": "1.00000000000000000000"
-          }
-        ],
-        "date_of_death": "1673-03-12",
-        "wikidata_url": "",
-        "mentioned_letters - courier": [],
-        "first_name": "Margarita Theresa",
-        "last_name": "",
-        "maiden_name": ""
-      }
-    ],
-    "courier": [
+        "endonym": ""
+      },
       {
-        "id": 196,
-        "value": "Denia",
-        "order": "34.00000000000000000000"
+        "id": 347,
+        "order": "97.00000000000000000000",
+        "label": "Hof der Kaiserin Margarita Theresa",
+        "lb_id": "lb-place-347",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
+        "gnd_url": "",
+        "endonym": ""
       }
     ],
-    "destination": [],
     "dictated_letter": false,
     "note": "",
     "addressee_worked_out": [],
@@ -71517,44 +71464,32 @@
     "order": "2610.00000000000000000000",
     "not_before": "1666-07-14",
     "not_after": null,
-    "addressee_stated": [
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
       {
-        "id": 160,
-        "order": "30.00000000000000000000",
-        "label": "Margarita Theresa von Spanien",
-        "lb_id": "lb-person-160",
+        "id": 346,
+        "order": "96.00000000000000000000",
+        "label": "Denía",
+        "lb_id": "lb-place-346",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
         "gnd_url": "",
-        "place_of_birth": [
-          {
-            "id": 72,
-            "value": "Madrid",
-            "order": "14.00000000000000000000"
-          }
-        ],
-        "date_of_birth": "1651-07-12",
-        "place_of_death": [
-          {
-            "id": 1,
-            "value": "Wien",
-            "order": "1.00000000000000000000"
-          }
-        ],
-        "date_of_death": "1673-03-12",
-        "wikidata_url": "",
-        "mentioned_letters - courier": [],
-        "first_name": "Margarita Theresa",
-        "last_name": "",
-        "maiden_name": ""
-      }
-    ],
-    "courier": [
+        "endonym": ""
+      },
       {
-        "id": 196,
-        "value": "Denia",
-        "order": "34.00000000000000000000"
+        "id": 347,
+        "order": "97.00000000000000000000",
+        "label": "Hof der Kaiserin Margarita Theresa",
+        "lb_id": "lb-place-347",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
+        "gnd_url": "",
+        "endonym": ""
       }
     ],
-    "destination": [],
     "dictated_letter": false,
     "note": "",
     "addressee_worked_out": [],
@@ -72539,38 +72474,21 @@
     "order": "2648.00000000000000000000",
     "not_before": "1666-09-03",
     "not_after": null,
-    "addressee_stated": [
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
       {
-        "id": 160,
-        "order": "30.00000000000000000000",
-        "label": "Margarita Theresa von Spanien",
-        "lb_id": "lb-person-160",
+        "id": 347,
+        "order": "97.00000000000000000000",
+        "label": "Hof der Kaiserin Margarita Theresa",
+        "lb_id": "lb-place-347",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
         "gnd_url": "",
-        "place_of_birth": [
-          {
-            "id": 72,
-            "value": "Madrid",
-            "order": "14.00000000000000000000"
-          }
-        ],
-        "date_of_birth": "1651-07-12",
-        "place_of_death": [
-          {
-            "id": 1,
-            "value": "Wien",
-            "order": "1.00000000000000000000"
-          }
-        ],
-        "date_of_death": "1673-03-12",
-        "wikidata_url": "",
-        "mentioned_letters - courier": [],
-        "first_name": "Margarita Theresa",
-        "last_name": "",
-        "maiden_name": ""
+        "endonym": ""
       }
     ],
-    "courier": [],
-    "destination": [],
     "dictated_letter": false,
     "note": "",
     "addressee_worked_out": [],
@@ -72583,38 +72501,21 @@
     "order": "2649.00000000000000000000",
     "not_before": "1666-09-03",
     "not_after": null,
-    "addressee_stated": [
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
       {
-        "id": 160,
-        "order": "30.00000000000000000000",
-        "label": "Margarita Theresa von Spanien",
-        "lb_id": "lb-person-160",
+        "id": 347,
+        "order": "97.00000000000000000000",
+        "label": "Hof der Kaiserin Margarita Theresa",
+        "lb_id": "lb-place-347",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
         "gnd_url": "",
-        "place_of_birth": [
-          {
-            "id": 72,
-            "value": "Madrid",
-            "order": "14.00000000000000000000"
-          }
-        ],
-        "date_of_birth": "1651-07-12",
-        "place_of_death": [
-          {
-            "id": 1,
-            "value": "Wien",
-            "order": "1.00000000000000000000"
-          }
-        ],
-        "date_of_death": "1673-03-12",
-        "wikidata_url": "",
-        "mentioned_letters - courier": [],
-        "first_name": "Margarita Theresa",
-        "last_name": "",
-        "maiden_name": ""
+        "endonym": ""
       }
     ],
-    "courier": [],
-    "destination": [],
     "dictated_letter": false,
     "note": "",
     "addressee_worked_out": [],
@@ -73790,38 +73691,21 @@
     "order": "2689.50000000000000000000",
     "not_before": "1666-10-26",
     "not_after": null,
-    "addressee_stated": [
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
       {
-        "id": 160,
-        "order": "30.00000000000000000000",
-        "label": "Margarita Theresa von Spanien",
-        "lb_id": "lb-person-160",
+        "id": 347,
+        "order": "97.00000000000000000000",
+        "label": "Hof der Kaiserin Margarita Theresa",
+        "lb_id": "lb-place-347",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
         "gnd_url": "",
-        "place_of_birth": [
-          {
-            "id": 72,
-            "value": "Madrid",
-            "order": "14.00000000000000000000"
-          }
-        ],
-        "date_of_birth": "1651-07-12",
-        "place_of_death": [
-          {
-            "id": 1,
-            "value": "Wien",
-            "order": "1.00000000000000000000"
-          }
-        ],
-        "date_of_death": "1673-03-12",
-        "wikidata_url": "",
-        "mentioned_letters - courier": [],
-        "first_name": "Margarita Theresa",
-        "last_name": "",
-        "maiden_name": ""
+        "endonym": ""
       }
     ],
-    "courier": [],
-    "destination": [],
     "dictated_letter": false,
     "note": "",
     "addressee_worked_out": [],
@@ -73834,38 +73718,21 @@
     "order": "2689.66666666666651508422",
     "not_before": "1666-10-26",
     "not_after": null,
-    "addressee_stated": [
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
       {
-        "id": 160,
-        "order": "30.00000000000000000000",
-        "label": "Margarita Theresa von Spanien",
-        "lb_id": "lb-person-160",
+        "id": 347,
+        "order": "97.00000000000000000000",
+        "label": "Hof der Kaiserin Margarita Theresa",
+        "lb_id": "lb-place-347",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
         "gnd_url": "",
-        "place_of_birth": [
-          {
-            "id": 72,
-            "value": "Madrid",
-            "order": "14.00000000000000000000"
-          }
-        ],
-        "date_of_birth": "1651-07-12",
-        "place_of_death": [
-          {
-            "id": 1,
-            "value": "Wien",
-            "order": "1.00000000000000000000"
-          }
-        ],
-        "date_of_death": "1673-03-12",
-        "wikidata_url": "",
-        "mentioned_letters - courier": [],
-        "first_name": "Margarita Theresa",
-        "last_name": "",
-        "maiden_name": ""
+        "endonym": ""
       }
     ],
-    "courier": [],
-    "destination": [],
     "dictated_letter": false,
     "note": "",
     "addressee_worked_out": [],
@@ -73959,38 +73826,21 @@
     "order": "2694.00000000000000000000",
     "not_before": "1666-10-30",
     "not_after": null,
-    "addressee_stated": [
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
       {
-        "id": 160,
-        "order": "30.00000000000000000000",
-        "label": "Margarita Theresa von Spanien",
-        "lb_id": "lb-person-160",
+        "id": 347,
+        "order": "97.00000000000000000000",
+        "label": "Hof der Kaiserin Margarita Theresa",
+        "lb_id": "lb-place-347",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
         "gnd_url": "",
-        "place_of_birth": [
-          {
-            "id": 72,
-            "value": "Madrid",
-            "order": "14.00000000000000000000"
-          }
-        ],
-        "date_of_birth": "1651-07-12",
-        "place_of_death": [
-          {
-            "id": 1,
-            "value": "Wien",
-            "order": "1.00000000000000000000"
-          }
-        ],
-        "date_of_death": "1673-03-12",
-        "wikidata_url": "",
-        "mentioned_letters - courier": [],
-        "first_name": "Margarita Theresa",
-        "last_name": "",
-        "maiden_name": ""
+        "endonym": ""
       }
     ],
-    "courier": [],
-    "destination": [],
     "dictated_letter": false,
     "note": "",
     "addressee_worked_out": [],
@@ -74003,38 +73853,21 @@
     "order": "2695.00000000000000000000",
     "not_before": "1666-10-30",
     "not_after": null,
-    "addressee_stated": [
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
       {
-        "id": 160,
-        "order": "30.00000000000000000000",
-        "label": "Margarita Theresa von Spanien",
-        "lb_id": "lb-person-160",
+        "id": 347,
+        "order": "97.00000000000000000000",
+        "label": "Hof der Kaiserin Margarita Theresa",
+        "lb_id": "lb-place-347",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
         "gnd_url": "",
-        "place_of_birth": [
-          {
-            "id": 72,
-            "value": "Madrid",
-            "order": "14.00000000000000000000"
-          }
-        ],
-        "date_of_birth": "1651-07-12",
-        "place_of_death": [
-          {
-            "id": 1,
-            "value": "Wien",
-            "order": "1.00000000000000000000"
-          }
-        ],
-        "date_of_death": "1673-03-12",
-        "wikidata_url": "",
-        "mentioned_letters - courier": [],
-        "first_name": "Margarita Theresa",
-        "last_name": "",
-        "maiden_name": ""
+        "endonym": ""
       }
     ],
-    "courier": [],
-    "destination": [],
     "dictated_letter": false,
     "note": "",
     "addressee_worked_out": [],
@@ -74047,38 +73880,21 @@
     "order": "2696.00000000000000000000",
     "not_before": "1666-10-30",
     "not_after": null,
-    "addressee_stated": [
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
       {
-        "id": 160,
-        "order": "30.00000000000000000000",
-        "label": "Margarita Theresa von Spanien",
-        "lb_id": "lb-person-160",
+        "id": 347,
+        "order": "97.00000000000000000000",
+        "label": "Hof der Kaiserin Margarita Theresa",
+        "lb_id": "lb-place-347",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
         "gnd_url": "",
-        "place_of_birth": [
-          {
-            "id": 72,
-            "value": "Madrid",
-            "order": "14.00000000000000000000"
-          }
-        ],
-        "date_of_birth": "1651-07-12",
-        "place_of_death": [
-          {
-            "id": 1,
-            "value": "Wien",
-            "order": "1.00000000000000000000"
-          }
-        ],
-        "date_of_death": "1673-03-12",
-        "wikidata_url": "",
-        "mentioned_letters - courier": [],
-        "first_name": "Margarita Theresa",
-        "last_name": "",
-        "maiden_name": ""
+        "endonym": ""
       }
     ],
-    "courier": [],
-    "destination": [],
     "dictated_letter": false,
     "note": "",
     "addressee_worked_out": [],
@@ -74091,38 +73907,21 @@
     "order": "2697.00000000000000000000",
     "not_before": "1666-11-01",
     "not_after": null,
-    "addressee_stated": [
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
       {
-        "id": 160,
-        "order": "30.00000000000000000000",
-        "label": "Margarita Theresa von Spanien",
-        "lb_id": "lb-person-160",
+        "id": 347,
+        "order": "97.00000000000000000000",
+        "label": "Hof der Kaiserin Margarita Theresa",
+        "lb_id": "lb-place-347",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
         "gnd_url": "",
-        "place_of_birth": [
-          {
-            "id": 72,
-            "value": "Madrid",
-            "order": "14.00000000000000000000"
-          }
-        ],
-        "date_of_birth": "1651-07-12",
-        "place_of_death": [
-          {
-            "id": 1,
-            "value": "Wien",
-            "order": "1.00000000000000000000"
-          }
-        ],
-        "date_of_death": "1673-03-12",
-        "wikidata_url": "",
-        "mentioned_letters - courier": [],
-        "first_name": "Margarita Theresa",
-        "last_name": "",
-        "maiden_name": ""
+        "endonym": ""
       }
     ],
-    "courier": [],
-    "destination": [],
     "dictated_letter": false,
     "note": "",
     "addressee_worked_out": [],
@@ -74135,38 +73934,21 @@
     "order": "2698.00000000000000000000",
     "not_before": "1666-11-01",
     "not_after": null,
-    "addressee_stated": [
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
       {
-        "id": 160,
-        "order": "30.00000000000000000000",
-        "label": "Margarita Theresa von Spanien",
-        "lb_id": "lb-person-160",
+        "id": 347,
+        "order": "97.00000000000000000000",
+        "label": "Hof der Kaiserin Margarita Theresa",
+        "lb_id": "lb-place-347",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
         "gnd_url": "",
-        "place_of_birth": [
-          {
-            "id": 72,
-            "value": "Madrid",
-            "order": "14.00000000000000000000"
-          }
-        ],
-        "date_of_birth": "1651-07-12",
-        "place_of_death": [
-          {
-            "id": 1,
-            "value": "Wien",
-            "order": "1.00000000000000000000"
-          }
-        ],
-        "date_of_death": "1673-03-12",
-        "wikidata_url": "",
-        "mentioned_letters - courier": [],
-        "first_name": "Margarita Theresa",
-        "last_name": "",
-        "maiden_name": ""
+        "endonym": ""
       }
     ],
-    "courier": [],
-    "destination": [],
     "dictated_letter": false,
     "note": "",
     "addressee_worked_out": [],
@@ -74341,38 +74123,21 @@
     "order": "2705.00000000000000000000",
     "not_before": "1666-11-04",
     "not_after": null,
-    "addressee_stated": [
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
       {
-        "id": 160,
-        "order": "30.00000000000000000000",
-        "label": "Margarita Theresa von Spanien",
-        "lb_id": "lb-person-160",
+        "id": 347,
+        "order": "97.00000000000000000000",
+        "label": "Hof der Kaiserin Margarita Theresa",
+        "lb_id": "lb-place-347",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
         "gnd_url": "",
-        "place_of_birth": [
-          {
-            "id": 72,
-            "value": "Madrid",
-            "order": "14.00000000000000000000"
-          }
-        ],
-        "date_of_birth": "1651-07-12",
-        "place_of_death": [
-          {
-            "id": 1,
-            "value": "Wien",
-            "order": "1.00000000000000000000"
-          }
-        ],
-        "date_of_death": "1673-03-12",
-        "wikidata_url": "",
-        "mentioned_letters - courier": [],
-        "first_name": "Margarita Theresa",
-        "last_name": "",
-        "maiden_name": ""
+        "endonym": ""
       }
     ],
-    "courier": [],
-    "destination": [],
     "dictated_letter": false,
     "note": "",
     "addressee_worked_out": [],
@@ -74385,36 +74150,7 @@
     "order": "2706.00000000000000000000",
     "not_before": "1666-11-06",
     "not_after": null,
-    "addressee_stated": [
-      {
-        "id": 160,
-        "order": "30.00000000000000000000",
-        "label": "Margarita Theresa von Spanien",
-        "lb_id": "lb-person-160",
-        "gnd_url": "",
-        "place_of_birth": [
-          {
-            "id": 72,
-            "value": "Madrid",
-            "order": "14.00000000000000000000"
-          }
-        ],
-        "date_of_birth": "1651-07-12",
-        "place_of_death": [
-          {
-            "id": 1,
-            "value": "Wien",
-            "order": "1.00000000000000000000"
-          }
-        ],
-        "date_of_death": "1673-03-12",
-        "wikidata_url": "",
-        "mentioned_letters - courier": [],
-        "first_name": "Margarita Theresa",
-        "last_name": "",
-        "maiden_name": ""
-      }
-    ],
+    "addressee_stated": [],
     "courier": [
       {
         "id": 198,
@@ -74422,7 +74158,19 @@
         "order": "36.00000000000000000000"
       }
     ],
-    "destination": [],
+    "destination": [
+      {
+        "id": 347,
+        "order": "97.00000000000000000000",
+        "label": "Hof der Kaiserin Margarita Theresa",
+        "lb_id": "lb-place-347",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
+        "gnd_url": "",
+        "endonym": ""
+      }
+    ],
     "dictated_letter": false,
     "note": "",
     "addressee_worked_out": [],
@@ -74435,36 +74183,7 @@
     "order": "2707.00000000000000000000",
     "not_before": "1666-11-06",
     "not_after": null,
-    "addressee_stated": [
-      {
-        "id": 160,
-        "order": "30.00000000000000000000",
-        "label": "Margarita Theresa von Spanien",
-        "lb_id": "lb-person-160",
-        "gnd_url": "",
-        "place_of_birth": [
-          {
-            "id": 72,
-            "value": "Madrid",
-            "order": "14.00000000000000000000"
-          }
-        ],
-        "date_of_birth": "1651-07-12",
-        "place_of_death": [
-          {
-            "id": 1,
-            "value": "Wien",
-            "order": "1.00000000000000000000"
-          }
-        ],
-        "date_of_death": "1673-03-12",
-        "wikidata_url": "",
-        "mentioned_letters - courier": [],
-        "first_name": "Margarita Theresa",
-        "last_name": "",
-        "maiden_name": ""
-      }
-    ],
+    "addressee_stated": [],
     "courier": [
       {
         "id": 198,
@@ -74472,7 +74191,19 @@
         "order": "36.00000000000000000000"
       }
     ],
-    "destination": [],
+    "destination": [
+      {
+        "id": 347,
+        "order": "97.00000000000000000000",
+        "label": "Hof der Kaiserin Margarita Theresa",
+        "lb_id": "lb-place-347",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
+        "gnd_url": "",
+        "endonym": ""
+      }
+    ],
     "dictated_letter": false,
     "note": "",
     "addressee_worked_out": [],
@@ -74485,36 +74216,7 @@
     "order": "2708.00000000000000000000",
     "not_before": "1666-11-06",
     "not_after": null,
-    "addressee_stated": [
-      {
-        "id": 160,
-        "order": "30.00000000000000000000",
-        "label": "Margarita Theresa von Spanien",
-        "lb_id": "lb-person-160",
-        "gnd_url": "",
-        "place_of_birth": [
-          {
-            "id": 72,
-            "value": "Madrid",
-            "order": "14.00000000000000000000"
-          }
-        ],
-        "date_of_birth": "1651-07-12",
-        "place_of_death": [
-          {
-            "id": 1,
-            "value": "Wien",
-            "order": "1.00000000000000000000"
-          }
-        ],
-        "date_of_death": "1673-03-12",
-        "wikidata_url": "",
-        "mentioned_letters - courier": [],
-        "first_name": "Margarita Theresa",
-        "last_name": "",
-        "maiden_name": ""
-      }
-    ],
+    "addressee_stated": [],
     "courier": [
       {
         "id": 198,
@@ -74522,7 +74224,19 @@
         "order": "36.00000000000000000000"
       }
     ],
-    "destination": [],
+    "destination": [
+      {
+        "id": 347,
+        "order": "97.00000000000000000000",
+        "label": "Hof der Kaiserin Margarita Theresa",
+        "lb_id": "lb-place-347",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
+        "gnd_url": "",
+        "endonym": ""
+      }
+    ],
     "dictated_letter": false,
     "note": "",
     "addressee_worked_out": [],
@@ -74616,38 +74330,21 @@
     "order": "2712.00000000000000000000",
     "not_before": "1666-11-10",
     "not_after": null,
-    "addressee_stated": [
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
       {
-        "id": 160,
-        "order": "30.00000000000000000000",
-        "label": "Margarita Theresa von Spanien",
-        "lb_id": "lb-person-160",
+        "id": 347,
+        "order": "97.00000000000000000000",
+        "label": "Hof der Kaiserin Margarita Theresa",
+        "lb_id": "lb-place-347",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
         "gnd_url": "",
-        "place_of_birth": [
-          {
-            "id": 72,
-            "value": "Madrid",
-            "order": "14.00000000000000000000"
-          }
-        ],
-        "date_of_birth": "1651-07-12",
-        "place_of_death": [
-          {
-            "id": 1,
-            "value": "Wien",
-            "order": "1.00000000000000000000"
-          }
-        ],
-        "date_of_death": "1673-03-12",
-        "wikidata_url": "",
-        "mentioned_letters - courier": [],
-        "first_name": "Margarita Theresa",
-        "last_name": "",
-        "maiden_name": ""
+        "endonym": ""
       }
     ],
-    "courier": [],
-    "destination": [],
     "dictated_letter": false,
     "note": "",
     "addressee_worked_out": [],
@@ -74660,38 +74357,21 @@
     "order": "2713.00000000000000000000",
     "not_before": "1666-11-17",
     "not_after": null,
-    "addressee_stated": [
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
       {
-        "id": 160,
-        "order": "30.00000000000000000000",
-        "label": "Margarita Theresa von Spanien",
-        "lb_id": "lb-person-160",
+        "id": 347,
+        "order": "97.00000000000000000000",
+        "label": "Hof der Kaiserin Margarita Theresa",
+        "lb_id": "lb-place-347",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
         "gnd_url": "",
-        "place_of_birth": [
-          {
-            "id": 72,
-            "value": "Madrid",
-            "order": "14.00000000000000000000"
-          }
-        ],
-        "date_of_birth": "1651-07-12",
-        "place_of_death": [
-          {
-            "id": 1,
-            "value": "Wien",
-            "order": "1.00000000000000000000"
-          }
-        ],
-        "date_of_death": "1673-03-12",
-        "wikidata_url": "",
-        "mentioned_letters - courier": [],
-        "first_name": "Margarita Theresa",
-        "last_name": "",
-        "maiden_name": ""
+        "endonym": ""
       }
     ],
-    "courier": [],
-    "destination": [],
     "dictated_letter": false,
     "note": "",
     "addressee_worked_out": [],
@@ -74704,38 +74384,21 @@
     "order": "2714.00000000000000000000",
     "not_before": "1666-11-17",
     "not_after": null,
-    "addressee_stated": [
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
       {
-        "id": 160,
-        "order": "30.00000000000000000000",
-        "label": "Margarita Theresa von Spanien",
-        "lb_id": "lb-person-160",
+        "id": 347,
+        "order": "97.00000000000000000000",
+        "label": "Hof der Kaiserin Margarita Theresa",
+        "lb_id": "lb-place-347",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
         "gnd_url": "",
-        "place_of_birth": [
-          {
-            "id": 72,
-            "value": "Madrid",
-            "order": "14.00000000000000000000"
-          }
-        ],
-        "date_of_birth": "1651-07-12",
-        "place_of_death": [
-          {
-            "id": 1,
-            "value": "Wien",
-            "order": "1.00000000000000000000"
-          }
-        ],
-        "date_of_death": "1673-03-12",
-        "wikidata_url": "",
-        "mentioned_letters - courier": [],
-        "first_name": "Margarita Theresa",
-        "last_name": "",
-        "maiden_name": ""
+        "endonym": ""
       }
     ],
-    "courier": [],
-    "destination": [],
     "dictated_letter": false,
     "note": "",
     "addressee_worked_out": [],
@@ -74748,38 +74411,21 @@
     "order": "2715.00000000000000000000",
     "not_before": "1666-11-17",
     "not_after": null,
-    "addressee_stated": [
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
       {
-        "id": 160,
-        "order": "30.00000000000000000000",
-        "label": "Margarita Theresa von Spanien",
-        "lb_id": "lb-person-160",
+        "id": 347,
+        "order": "97.00000000000000000000",
+        "label": "Hof der Kaiserin Margarita Theresa",
+        "lb_id": "lb-place-347",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
         "gnd_url": "",
-        "place_of_birth": [
-          {
-            "id": 72,
-            "value": "Madrid",
-            "order": "14.00000000000000000000"
-          }
-        ],
-        "date_of_birth": "1651-07-12",
-        "place_of_death": [
-          {
-            "id": 1,
-            "value": "Wien",
-            "order": "1.00000000000000000000"
-          }
-        ],
-        "date_of_death": "1673-03-12",
-        "wikidata_url": "",
-        "mentioned_letters - courier": [],
-        "first_name": "Margarita Theresa",
-        "last_name": "",
-        "maiden_name": ""
+        "endonym": ""
       }
     ],
-    "courier": [],
-    "destination": [],
     "dictated_letter": false,
     "note": "",
     "addressee_worked_out": [],
@@ -74792,38 +74438,21 @@
     "order": "2716.00000000000000000000",
     "not_before": "1666-11-17",
     "not_after": null,
-    "addressee_stated": [
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
       {
-        "id": 160,
-        "order": "30.00000000000000000000",
-        "label": "Margarita Theresa von Spanien",
-        "lb_id": "lb-person-160",
+        "id": 347,
+        "order": "97.00000000000000000000",
+        "label": "Hof der Kaiserin Margarita Theresa",
+        "lb_id": "lb-place-347",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
         "gnd_url": "",
-        "place_of_birth": [
-          {
-            "id": 72,
-            "value": "Madrid",
-            "order": "14.00000000000000000000"
-          }
-        ],
-        "date_of_birth": "1651-07-12",
-        "place_of_death": [
-          {
-            "id": 1,
-            "value": "Wien",
-            "order": "1.00000000000000000000"
-          }
-        ],
-        "date_of_death": "1673-03-12",
-        "wikidata_url": "",
-        "mentioned_letters - courier": [],
-        "first_name": "Margarita Theresa",
-        "last_name": "",
-        "maiden_name": ""
+        "endonym": ""
       }
     ],
-    "courier": [],
-    "destination": [],
     "dictated_letter": false,
     "note": "",
     "addressee_worked_out": [],
@@ -74917,36 +74546,7 @@
     "order": "2720.00000000000000000000",
     "not_before": "1666-11-19",
     "not_after": null,
-    "addressee_stated": [
-      {
-        "id": 160,
-        "order": "30.00000000000000000000",
-        "label": "Margarita Theresa von Spanien",
-        "lb_id": "lb-person-160",
-        "gnd_url": "",
-        "place_of_birth": [
-          {
-            "id": 72,
-            "value": "Madrid",
-            "order": "14.00000000000000000000"
-          }
-        ],
-        "date_of_birth": "1651-07-12",
-        "place_of_death": [
-          {
-            "id": 1,
-            "value": "Wien",
-            "order": "1.00000000000000000000"
-          }
-        ],
-        "date_of_death": "1673-03-12",
-        "wikidata_url": "",
-        "mentioned_letters - courier": [],
-        "first_name": "Margarita Theresa",
-        "last_name": "",
-        "maiden_name": ""
-      }
-    ],
+    "addressee_stated": [],
     "courier": [
       {
         "id": 199,
@@ -74960,6 +74560,17 @@
         "order": "95.00000000000000000000",
         "label": "Loiben",
         "lb_id": "lb-place-313",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
+        "gnd_url": "",
+        "endonym": ""
+      },
+      {
+        "id": 347,
+        "order": "97.00000000000000000000",
+        "label": "Hof der Kaiserin Margarita Theresa",
+        "lb_id": "lb-place-347",
         "geonames_url": "",
         "latitude": null,
         "longitude": null,
@@ -74979,36 +74590,7 @@
     "order": "2721.00000000000000000000",
     "not_before": "1666-11-19",
     "not_after": null,
-    "addressee_stated": [
-      {
-        "id": 160,
-        "order": "30.00000000000000000000",
-        "label": "Margarita Theresa von Spanien",
-        "lb_id": "lb-person-160",
-        "gnd_url": "",
-        "place_of_birth": [
-          {
-            "id": 72,
-            "value": "Madrid",
-            "order": "14.00000000000000000000"
-          }
-        ],
-        "date_of_birth": "1651-07-12",
-        "place_of_death": [
-          {
-            "id": 1,
-            "value": "Wien",
-            "order": "1.00000000000000000000"
-          }
-        ],
-        "date_of_death": "1673-03-12",
-        "wikidata_url": "",
-        "mentioned_letters - courier": [],
-        "first_name": "Margarita Theresa",
-        "last_name": "",
-        "maiden_name": ""
-      }
-    ],
+    "addressee_stated": [],
     "courier": [
       {
         "id": 199,
@@ -75022,6 +74604,17 @@
         "order": "95.00000000000000000000",
         "label": "Loiben",
         "lb_id": "lb-place-313",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
+        "gnd_url": "",
+        "endonym": ""
+      },
+      {
+        "id": 347,
+        "order": "97.00000000000000000000",
+        "label": "Hof der Kaiserin Margarita Theresa",
+        "lb_id": "lb-place-347",
         "geonames_url": "",
         "latitude": null,
         "longitude": null,
@@ -75041,36 +74634,7 @@
     "order": "2722.00000000000000000000",
     "not_before": "1666-11-19",
     "not_after": null,
-    "addressee_stated": [
-      {
-        "id": 160,
-        "order": "30.00000000000000000000",
-        "label": "Margarita Theresa von Spanien",
-        "lb_id": "lb-person-160",
-        "gnd_url": "",
-        "place_of_birth": [
-          {
-            "id": 72,
-            "value": "Madrid",
-            "order": "14.00000000000000000000"
-          }
-        ],
-        "date_of_birth": "1651-07-12",
-        "place_of_death": [
-          {
-            "id": 1,
-            "value": "Wien",
-            "order": "1.00000000000000000000"
-          }
-        ],
-        "date_of_death": "1673-03-12",
-        "wikidata_url": "",
-        "mentioned_letters - courier": [],
-        "first_name": "Margarita Theresa",
-        "last_name": "",
-        "maiden_name": ""
-      }
-    ],
+    "addressee_stated": [],
     "courier": [
       {
         "id": 199,
@@ -75084,6 +74648,17 @@
         "order": "95.00000000000000000000",
         "label": "Loiben",
         "lb_id": "lb-place-313",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
+        "gnd_url": "",
+        "endonym": ""
+      },
+      {
+        "id": 347,
+        "order": "97.00000000000000000000",
+        "label": "Hof der Kaiserin Margarita Theresa",
+        "lb_id": "lb-place-347",
         "geonames_url": "",
         "latitude": null,
         "longitude": null,
@@ -75332,36 +74907,7 @@
     "order": "2732.00000000000000000000",
     "not_before": "1666-12-01",
     "not_after": null,
-    "addressee_stated": [
-      {
-        "id": 160,
-        "order": "30.00000000000000000000",
-        "label": "Margarita Theresa von Spanien",
-        "lb_id": "lb-person-160",
-        "gnd_url": "",
-        "place_of_birth": [
-          {
-            "id": 72,
-            "value": "Madrid",
-            "order": "14.00000000000000000000"
-          }
-        ],
-        "date_of_birth": "1651-07-12",
-        "place_of_death": [
-          {
-            "id": 1,
-            "value": "Wien",
-            "order": "1.00000000000000000000"
-          }
-        ],
-        "date_of_death": "1673-03-12",
-        "wikidata_url": "",
-        "mentioned_letters - courier": [],
-        "first_name": "Margarita Theresa",
-        "last_name": "",
-        "maiden_name": ""
-      }
-    ],
+    "addressee_stated": [],
     "courier": [
       {
         "id": 202,
@@ -75369,7 +74915,19 @@
         "order": "40.00000000000000000000"
       }
     ],
-    "destination": [],
+    "destination": [
+      {
+        "id": 347,
+        "order": "97.00000000000000000000",
+        "label": "Hof der Kaiserin Margarita Theresa",
+        "lb_id": "lb-place-347",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
+        "gnd_url": "",
+        "endonym": ""
+      }
+    ],
     "dictated_letter": false,
     "note": "",
     "addressee_worked_out": [],
@@ -75382,36 +74940,7 @@
     "order": "2733.00000000000000000000",
     "not_before": "1666-12-01",
     "not_after": null,
-    "addressee_stated": [
-      {
-        "id": 160,
-        "order": "30.00000000000000000000",
-        "label": "Margarita Theresa von Spanien",
-        "lb_id": "lb-person-160",
-        "gnd_url": "",
-        "place_of_birth": [
-          {
-            "id": 72,
-            "value": "Madrid",
-            "order": "14.00000000000000000000"
-          }
-        ],
-        "date_of_birth": "1651-07-12",
-        "place_of_death": [
-          {
-            "id": 1,
-            "value": "Wien",
-            "order": "1.00000000000000000000"
-          }
-        ],
-        "date_of_death": "1673-03-12",
-        "wikidata_url": "",
-        "mentioned_letters - courier": [],
-        "first_name": "Margarita Theresa",
-        "last_name": "",
-        "maiden_name": ""
-      }
-    ],
+    "addressee_stated": [],
     "courier": [
       {
         "id": 202,
@@ -75419,7 +74948,19 @@
         "order": "40.00000000000000000000"
       }
     ],
-    "destination": [],
+    "destination": [
+      {
+        "id": 347,
+        "order": "97.00000000000000000000",
+        "label": "Hof der Kaiserin Margarita Theresa",
+        "lb_id": "lb-place-347",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
+        "gnd_url": "",
+        "endonym": ""
+      }
+    ],
     "dictated_letter": false,
     "note": "",
     "addressee_worked_out": [],
@@ -76221,5 +75762,20 @@
     "original_letter": [],
     "correct_date": null,
     "lb_id": "lb-ml-3020"
+  },
+  "3060": {
+    "id": 3060,
+    "order": "2775.00000000000000000000",
+    "not_before": null,
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3060"
   }
 }

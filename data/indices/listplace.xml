@@ -381,9 +381,6 @@
                <place xml:id="lb-place-309">
                   <placeName>Raab</placeName>
                </place>
-               <place xml:id="lb-place-310">
-                  <placeName>Leßle?</placeName>
-               </place>
                <place xml:id="lb-place-311">
                   <placeName>Trient</placeName>
                </place>
@@ -392,6 +389,12 @@
                </place>
                <place xml:id="lb-place-313">
                   <placeName>Loiben</placeName>
+               </place>
+               <place xml:id="lb-place-346">
+                  <placeName>Denía</placeName>
+               </place>
+               <place xml:id="lb-place-347">
+                  <placeName>Hof der Kaiserin Margarita Theresa</placeName>
                </place>
             </listPlace>
          </div>

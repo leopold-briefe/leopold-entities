@@ -22703,13 +22703,13 @@
                <placeName type="destination" key="lb-place-39" ref="https://www.geonames.org/2510769/kingdom-of-spain.html">Spanien</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc xml:id="lb-ml-2751" n="Leopold I. an Ungenannt am 1666-02-09 (Leßle?)">
+         <correspDesc xml:id="lb-ml-2751" n="Leopold I. an Walter Leslie am 1666-02-09 (ohne Ortsangabe)">
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
                <date when="1666-02-09">1666-02-09</date>
             </correspAction>
             <correspAction type="received">
-               <placeName type="destination" key="lb-place-310">Leßle?</placeName>
+               <persName type="addressee_stated" key="lb-person-235">Walter Leslie</persName>
             </correspAction>
          </correspDesc>
          <correspDesc xml:id="lb-ml-2752" n="Leopold I. an Ungenannt am 1666-02-10 (Tirol)">
@@ -23312,22 +23312,22 @@
                <placeName type="destination" key="lb-place-41" ref="https://www.geonames.org/3017382/republic-of-france.html">Frankreich</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc xml:id="lb-ml-2816" n="Leopold I. an Margarita Theresa von Spanien am 1666-05-26 (ohne Ortsangabe)">
+         <correspDesc xml:id="lb-ml-2816" n="Leopold I. an Ungenannt am 1666-05-26 (Hof der Kaiserin Margarita Theresa)">
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
                <date when="1666-05-26">1666-05-26</date>
             </correspAction>
             <correspAction type="received">
-               <persName type="addressee_stated" key="lb-person-160">Margarita Theresa von Spanien</persName>
+               <placeName type="destination" key="lb-place-347">Hof der Kaiserin Margarita Theresa</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc xml:id="lb-ml-2817" n="Leopold I. an Margarita Theresa von Spanien am 1666-05-26 (ohne Ortsangabe)">
+         <correspDesc xml:id="lb-ml-2817" n="Leopold I. an Ungenannt am 1666-05-26 (Hof der Kaiserin Margarita Theresa)">
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
                <date when="1666-05-26">1666-05-26</date>
             </correspAction>
             <correspAction type="received">
-               <persName type="addressee_stated" key="lb-person-160">Margarita Theresa von Spanien</persName>
+               <placeName type="destination" key="lb-place-347">Hof der Kaiserin Margarita Theresa</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc xml:id="lb-ml-2819" n="Leopold I. an Ungenannt am 1666-05-26 (Prag)">
@@ -23643,31 +23643,34 @@
             <correspAction type="received">
             </correspAction>
          </correspDesc>
-         <correspDesc xml:id="lb-ml-2854" n="Leopold I. an Margarita Theresa von Spanien am 1666-07-14 (ohne Ortsangabe)">
+         <correspDesc xml:id="lb-ml-2854" n="Leopold I. an Ungenannt am 1666-07-14 (Denía)">
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
                <date when="1666-07-14">1666-07-14</date>
             </correspAction>
             <correspAction type="received">
-               <persName type="addressee_stated" key="lb-person-160">Margarita Theresa von Spanien</persName>
+               <placeName type="destination" key="lb-place-346">Denía</placeName>
+               <placeName type="destination" key="lb-place-347">Hof der Kaiserin Margarita Theresa</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc xml:id="lb-ml-2855" n="Leopold I. an Margarita Theresa von Spanien am 1666-07-14 (ohne Ortsangabe)">
+         <correspDesc xml:id="lb-ml-2855" n="Leopold I. an Ungenannt am 1666-07-14 (Denía)">
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
                <date when="1666-07-14">1666-07-14</date>
             </correspAction>
             <correspAction type="received">
-               <persName type="addressee_stated" key="lb-person-160">Margarita Theresa von Spanien</persName>
+               <placeName type="destination" key="lb-place-346">Denía</placeName>
+               <placeName type="destination" key="lb-place-347">Hof der Kaiserin Margarita Theresa</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc xml:id="lb-ml-2856" n="Leopold I. an Margarita Theresa von Spanien am 1666-07-14 (ohne Ortsangabe)">
+         <correspDesc xml:id="lb-ml-2856" n="Leopold I. an Ungenannt am 1666-07-14 (Denía)">
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
                <date when="1666-07-14">1666-07-14</date>
             </correspAction>
             <correspAction type="received">
-               <persName type="addressee_stated" key="lb-person-160">Margarita Theresa von Spanien</persName>
+               <placeName type="destination" key="lb-place-346">Denía</placeName>
+               <placeName type="destination" key="lb-place-347">Hof der Kaiserin Margarita Theresa</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc xml:id="lb-ml-2859" n="Leopold I. an Ungenannt am 1666-07-15 (Bayern)">
@@ -23994,22 +23997,22 @@
                <placeName type="destination" key="lb-place-39" ref="https://www.geonames.org/2510769/kingdom-of-spain.html">Spanien</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc xml:id="lb-ml-2894" n="Leopold I. an Margarita Theresa von Spanien am 1666-09-03 (ohne Ortsangabe)">
+         <correspDesc xml:id="lb-ml-2894" n="Leopold I. an Ungenannt am 1666-09-03 (Hof der Kaiserin Margarita Theresa)">
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
                <date when="1666-09-03">1666-09-03</date>
             </correspAction>
             <correspAction type="received">
-               <persName type="addressee_stated" key="lb-person-160">Margarita Theresa von Spanien</persName>
+               <placeName type="destination" key="lb-place-347">Hof der Kaiserin Margarita Theresa</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc xml:id="lb-ml-2895" n="Leopold I. an Margarita Theresa von Spanien am 1666-09-03 (ohne Ortsangabe)">
+         <correspDesc xml:id="lb-ml-2895" n="Leopold I. an Ungenannt am 1666-09-03 (Hof der Kaiserin Margarita Theresa)">
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
                <date when="1666-09-03">1666-09-03</date>
             </correspAction>
             <correspAction type="received">
-               <persName type="addressee_stated" key="lb-person-160">Margarita Theresa von Spanien</persName>
+               <placeName type="destination" key="lb-place-347">Hof der Kaiserin Margarita Theresa</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc xml:id="lb-ml-2896" n="Leopold I. an Ungenannt am 1666-09-03 (Tirol)">
@@ -24390,22 +24393,22 @@
                <placeName type="destination" key="lb-place-161">Tirol</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc xml:id="lb-ml-3021" n="Leopold I. an Margarita Theresa von Spanien am 1666-10-26 (ohne Ortsangabe)">
+         <correspDesc xml:id="lb-ml-3021" n="Leopold I. an Ungenannt am 1666-10-26 (Hof der Kaiserin Margarita Theresa)">
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
                <date when="1666-10-26">1666-10-26</date>
             </correspAction>
             <correspAction type="received">
-               <persName type="addressee_stated" key="lb-person-160">Margarita Theresa von Spanien</persName>
+               <placeName type="destination" key="lb-place-347">Hof der Kaiserin Margarita Theresa</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc xml:id="lb-ml-3022" n="Leopold I. an Margarita Theresa von Spanien am 1666-10-26 (ohne Ortsangabe)">
+         <correspDesc xml:id="lb-ml-3022" n="Leopold I. an Ungenannt am 1666-10-26 (Hof der Kaiserin Margarita Theresa)">
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
                <date when="1666-10-26">1666-10-26</date>
             </correspAction>
             <correspAction type="received">
-               <persName type="addressee_stated" key="lb-person-160">Margarita Theresa von Spanien</persName>
+               <placeName type="destination" key="lb-place-347">Hof der Kaiserin Margarita Theresa</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc xml:id="lb-ml-2936" n="Leopold I. an Ungenannt am 1666-10-27 (Spanien)">
@@ -24435,49 +24438,49 @@
                <placeName type="destination" key="lb-place-39" ref="https://www.geonames.org/2510769/kingdom-of-spain.html">Spanien</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc xml:id="lb-ml-2940" n="Leopold I. an Margarita Theresa von Spanien am 1666-10-30 (ohne Ortsangabe)">
+         <correspDesc xml:id="lb-ml-2940" n="Leopold I. an Ungenannt am 1666-10-30 (Hof der Kaiserin Margarita Theresa)">
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
                <date when="1666-10-30">1666-10-30</date>
             </correspAction>
             <correspAction type="received">
-               <persName type="addressee_stated" key="lb-person-160">Margarita Theresa von Spanien</persName>
+               <placeName type="destination" key="lb-place-347">Hof der Kaiserin Margarita Theresa</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc xml:id="lb-ml-2941" n="Leopold I. an Margarita Theresa von Spanien am 1666-10-30 (ohne Ortsangabe)">
+         <correspDesc xml:id="lb-ml-2941" n="Leopold I. an Ungenannt am 1666-10-30 (Hof der Kaiserin Margarita Theresa)">
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
                <date when="1666-10-30">1666-10-30</date>
             </correspAction>
             <correspAction type="received">
-               <persName type="addressee_stated" key="lb-person-160">Margarita Theresa von Spanien</persName>
+               <placeName type="destination" key="lb-place-347">Hof der Kaiserin Margarita Theresa</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc xml:id="lb-ml-2942" n="Leopold I. an Margarita Theresa von Spanien am 1666-10-30 (ohne Ortsangabe)">
+         <correspDesc xml:id="lb-ml-2942" n="Leopold I. an Ungenannt am 1666-10-30 (Hof der Kaiserin Margarita Theresa)">
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
                <date when="1666-10-30">1666-10-30</date>
             </correspAction>
             <correspAction type="received">
-               <persName type="addressee_stated" key="lb-person-160">Margarita Theresa von Spanien</persName>
+               <placeName type="destination" key="lb-place-347">Hof der Kaiserin Margarita Theresa</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc xml:id="lb-ml-2943" n="Leopold I. an Margarita Theresa von Spanien am 1666-11-01 (ohne Ortsangabe)">
+         <correspDesc xml:id="lb-ml-2943" n="Leopold I. an Ungenannt am 1666-11-01 (Hof der Kaiserin Margarita Theresa)">
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
                <date when="1666-11-01">1666-11-01</date>
             </correspAction>
             <correspAction type="received">
-               <persName type="addressee_stated" key="lb-person-160">Margarita Theresa von Spanien</persName>
+               <placeName type="destination" key="lb-place-347">Hof der Kaiserin Margarita Theresa</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc xml:id="lb-ml-2944" n="Leopold I. an Margarita Theresa von Spanien am 1666-11-01 (ohne Ortsangabe)">
+         <correspDesc xml:id="lb-ml-2944" n="Leopold I. an Ungenannt am 1666-11-01 (Hof der Kaiserin Margarita Theresa)">
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
                <date when="1666-11-01">1666-11-01</date>
             </correspAction>
             <correspAction type="received">
-               <persName type="addressee_stated" key="lb-person-160">Margarita Theresa von Spanien</persName>
+               <placeName type="destination" key="lb-place-347">Hof der Kaiserin Margarita Theresa</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc xml:id="lb-ml-2945" n="Leopold I. an Ungenannt am 1666-11-03 (Bayern)">
@@ -24534,40 +24537,40 @@
                <placeName type="destination" key="lb-place-69" ref="https://www.geonames.org/3067696/prague.html">Prag</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc xml:id="lb-ml-2951" n="Leopold I. an Margarita Theresa von Spanien am 1666-11-04 (ohne Ortsangabe)">
+         <correspDesc xml:id="lb-ml-2951" n="Leopold I. an Ungenannt am 1666-11-04 (Hof der Kaiserin Margarita Theresa)">
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
                <date when="1666-11-04">1666-11-04</date>
             </correspAction>
             <correspAction type="received">
-               <persName type="addressee_stated" key="lb-person-160">Margarita Theresa von Spanien</persName>
+               <placeName type="destination" key="lb-place-347">Hof der Kaiserin Margarita Theresa</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc xml:id="lb-ml-2952" n="Leopold I. an Margarita Theresa von Spanien am 1666-11-06 (ohne Ortsangabe)">
+         <correspDesc xml:id="lb-ml-2952" n="Leopold I. an Ungenannt am 1666-11-06 (Hof der Kaiserin Margarita Theresa)">
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
                <date when="1666-11-06">1666-11-06</date>
             </correspAction>
             <correspAction type="received">
-               <persName type="addressee_stated" key="lb-person-160">Margarita Theresa von Spanien</persName>
+               <placeName type="destination" key="lb-place-347">Hof der Kaiserin Margarita Theresa</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc xml:id="lb-ml-2953" n="Leopold I. an Margarita Theresa von Spanien am 1666-11-06 (ohne Ortsangabe)">
+         <correspDesc xml:id="lb-ml-2953" n="Leopold I. an Ungenannt am 1666-11-06 (Hof der Kaiserin Margarita Theresa)">
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
                <date when="1666-11-06">1666-11-06</date>
             </correspAction>
             <correspAction type="received">
-               <persName type="addressee_stated" key="lb-person-160">Margarita Theresa von Spanien</persName>
+               <placeName type="destination" key="lb-place-347">Hof der Kaiserin Margarita Theresa</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc xml:id="lb-ml-2954" n="Leopold I. an Margarita Theresa von Spanien am 1666-11-06 (ohne Ortsangabe)">
+         <correspDesc xml:id="lb-ml-2954" n="Leopold I. an Ungenannt am 1666-11-06 (Hof der Kaiserin Margarita Theresa)">
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
                <date when="1666-11-06">1666-11-06</date>
             </correspAction>
             <correspAction type="received">
-               <persName type="addressee_stated" key="lb-person-160">Margarita Theresa von Spanien</persName>
+               <placeName type="destination" key="lb-place-347">Hof der Kaiserin Margarita Theresa</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc xml:id="lb-ml-2955" n="Leopold I. an Ungenannt am 1666-11-10 (Spanien)">
@@ -24597,49 +24600,49 @@
                <placeName type="destination" key="lb-place-39" ref="https://www.geonames.org/2510769/kingdom-of-spain.html">Spanien</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc xml:id="lb-ml-2958" n="Leopold I. an Margarita Theresa von Spanien am 1666-11-10 (ohne Ortsangabe)">
+         <correspDesc xml:id="lb-ml-2958" n="Leopold I. an Ungenannt am 1666-11-10 (Hof der Kaiserin Margarita Theresa)">
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
                <date when="1666-11-10">1666-11-10</date>
             </correspAction>
             <correspAction type="received">
-               <persName type="addressee_stated" key="lb-person-160">Margarita Theresa von Spanien</persName>
+               <placeName type="destination" key="lb-place-347">Hof der Kaiserin Margarita Theresa</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc xml:id="lb-ml-2959" n="Leopold I. an Margarita Theresa von Spanien am 1666-11-17 (ohne Ortsangabe)">
+         <correspDesc xml:id="lb-ml-2959" n="Leopold I. an Ungenannt am 1666-11-17 (Hof der Kaiserin Margarita Theresa)">
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
                <date when="1666-11-17">1666-11-17</date>
             </correspAction>
             <correspAction type="received">
-               <persName type="addressee_stated" key="lb-person-160">Margarita Theresa von Spanien</persName>
+               <placeName type="destination" key="lb-place-347">Hof der Kaiserin Margarita Theresa</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc xml:id="lb-ml-2960" n="Leopold I. an Margarita Theresa von Spanien am 1666-11-17 (ohne Ortsangabe)">
+         <correspDesc xml:id="lb-ml-2960" n="Leopold I. an Ungenannt am 1666-11-17 (Hof der Kaiserin Margarita Theresa)">
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
                <date when="1666-11-17">1666-11-17</date>
             </correspAction>
             <correspAction type="received">
-               <persName type="addressee_stated" key="lb-person-160">Margarita Theresa von Spanien</persName>
+               <placeName type="destination" key="lb-place-347">Hof der Kaiserin Margarita Theresa</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc xml:id="lb-ml-2961" n="Leopold I. an Margarita Theresa von Spanien am 1666-11-17 (ohne Ortsangabe)">
+         <correspDesc xml:id="lb-ml-2961" n="Leopold I. an Ungenannt am 1666-11-17 (Hof der Kaiserin Margarita Theresa)">
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
                <date when="1666-11-17">1666-11-17</date>
             </correspAction>
             <correspAction type="received">
-               <persName type="addressee_stated" key="lb-person-160">Margarita Theresa von Spanien</persName>
+               <placeName type="destination" key="lb-place-347">Hof der Kaiserin Margarita Theresa</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc xml:id="lb-ml-2962" n="Leopold I. an Margarita Theresa von Spanien am 1666-11-17 (ohne Ortsangabe)">
+         <correspDesc xml:id="lb-ml-2962" n="Leopold I. an Ungenannt am 1666-11-17 (Hof der Kaiserin Margarita Theresa)">
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
                <date when="1666-11-17">1666-11-17</date>
             </correspAction>
             <correspAction type="received">
-               <persName type="addressee_stated" key="lb-person-160">Margarita Theresa von Spanien</persName>
+               <placeName type="destination" key="lb-place-347">Hof der Kaiserin Margarita Theresa</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc xml:id="lb-ml-2963" n="Leopold I. an Ungenannt am 1666-11-17 (Bayern)">
@@ -24669,34 +24672,34 @@
                <placeName type="destination" key="lb-place-161">Tirol</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc xml:id="lb-ml-2966" n="Leopold I. an Margarita Theresa von Spanien am 1666-11-19 (Loiben)">
+         <correspDesc xml:id="lb-ml-2966" n="Leopold I. an Ungenannt am 1666-11-19 (Loiben)">
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
                <date when="1666-11-19">1666-11-19</date>
             </correspAction>
             <correspAction type="received">
-               <persName type="addressee_stated" key="lb-person-160">Margarita Theresa von Spanien</persName>
                <placeName type="destination" key="lb-place-313">Loiben</placeName>
+               <placeName type="destination" key="lb-place-347">Hof der Kaiserin Margarita Theresa</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc xml:id="lb-ml-2967" n="Leopold I. an Margarita Theresa von Spanien am 1666-11-19 (Loiben)">
+         <correspDesc xml:id="lb-ml-2967" n="Leopold I. an Ungenannt am 1666-11-19 (Loiben)">
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
                <date when="1666-11-19">1666-11-19</date>
             </correspAction>
             <correspAction type="received">
-               <persName type="addressee_stated" key="lb-person-160">Margarita Theresa von Spanien</persName>
                <placeName type="destination" key="lb-place-313">Loiben</placeName>
+               <placeName type="destination" key="lb-place-347">Hof der Kaiserin Margarita Theresa</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc xml:id="lb-ml-2968" n="Leopold I. an Margarita Theresa von Spanien am 1666-11-19 (Loiben)">
+         <correspDesc xml:id="lb-ml-2968" n="Leopold I. an Ungenannt am 1666-11-19 (Loiben)">
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
                <date when="1666-11-19">1666-11-19</date>
             </correspAction>
             <correspAction type="received">
-               <persName type="addressee_stated" key="lb-person-160">Margarita Theresa von Spanien</persName>
                <placeName type="destination" key="lb-place-313">Loiben</placeName>
+               <placeName type="destination" key="lb-place-347">Hof der Kaiserin Margarita Theresa</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc xml:id="lb-ml-2969" n="Leopold I. an Ungenannt am 1666-11-21 (Kindberg)">
@@ -24777,22 +24780,22 @@
             <correspAction type="received">
             </correspAction>
          </correspDesc>
-         <correspDesc xml:id="lb-ml-2978" n="Leopold I. an Margarita Theresa von Spanien am 1666-12-01 (ohne Ortsangabe)">
+         <correspDesc xml:id="lb-ml-2978" n="Leopold I. an Ungenannt am 1666-12-01 (Hof der Kaiserin Margarita Theresa)">
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
                <date when="1666-12-01">1666-12-01</date>
             </correspAction>
             <correspAction type="received">
-               <persName type="addressee_stated" key="lb-person-160">Margarita Theresa von Spanien</persName>
+               <placeName type="destination" key="lb-place-347">Hof der Kaiserin Margarita Theresa</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc xml:id="lb-ml-2979" n="Leopold I. an Margarita Theresa von Spanien am 1666-12-01 (ohne Ortsangabe)">
+         <correspDesc xml:id="lb-ml-2979" n="Leopold I. an Ungenannt am 1666-12-01 (Hof der Kaiserin Margarita Theresa)">
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
                <date when="1666-12-01">1666-12-01</date>
             </correspAction>
             <correspAction type="received">
-               <persName type="addressee_stated" key="lb-person-160">Margarita Theresa von Spanien</persName>
+               <placeName type="destination" key="lb-place-347">Hof der Kaiserin Margarita Theresa</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc xml:id="lb-ml-2980" n="Leopold I. an Ungenannt am 1666-12-02 (ohne Ortsangabe)">
@@ -25131,6 +25134,14 @@
             </correspAction>
          </correspDesc>
          <correspDesc xml:id="lb-ml-3020" n="Leopold I. an Ungenannt am None (ohne Ortsangabe)">
+            <correspAction type="sent">
+               <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
+               <date when="None">None</date>
+            </correspAction>
+            <correspAction type="received">
+            </correspAction>
+         </correspDesc>
+         <correspDesc xml:id="lb-ml-3060" n="Leopold I. an Ungenannt am None (ohne Ortsangabe)">
             <correspAction type="sent">
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
                <date when="None">None</date>

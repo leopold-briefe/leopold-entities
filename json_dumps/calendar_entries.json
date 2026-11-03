@@ -64051,7 +64051,7 @@
         "courier": [
           {
             "id": 195,
-            "value": "Don Martín",
+            "value": "Martín Erasquin",
             "order": "33.00000000000000000000"
           }
         ],
@@ -64078,7 +64078,7 @@
         "courier": [
           {
             "id": 195,
-            "value": "Don Martín",
+            "value": "Martín Erasquin",
             "order": "33.00000000000000000000"
           }
         ],
@@ -64105,7 +64105,7 @@
         "courier": [
           {
             "id": 195,
-            "value": "Don Martín",
+            "value": "Martín Erasquin",
             "order": "33.00000000000000000000"
           }
         ],
@@ -64132,7 +64132,7 @@
         "courier": [
           {
             "id": 195,
-            "value": "Don Martín",
+            "value": "Martín Erasquin",
             "order": "33.00000000000000000000"
           }
         ],
@@ -64168,15 +64168,15 @@
         "order": "2505.00000000000000000000",
         "not_before": "1666-02-09",
         "not_after": null,
-        "addressee_stated": [],
-        "courier": [],
-        "destination": [
+        "addressee_stated": [
           {
-            "id": 310,
-            "value": "Leßle?",
-            "order": "92.00000000000000000000"
+            "id": 235,
+            "value": "Walter Leslie",
+            "order": "41.00000000000000000000"
           }
         ],
+        "courier": [],
+        "destination": [],
         "dictated_letter": false,
         "note": "",
         "addressee_worked_out": [],
@@ -65851,13 +65851,7 @@
         "order": "2570.00000000000000000000",
         "not_before": "1666-05-26",
         "not_after": null,
-        "addressee_stated": [
-          {
-            "id": 160,
-            "value": "Margarita Theresa von Spanien",
-            "order": "30.00000000000000000000"
-          }
-        ],
+        "addressee_stated": [],
         "courier": [
           {
             "id": 79,
@@ -65865,7 +65859,13 @@
             "order": "14.00000000000000000000"
           }
         ],
-        "destination": [],
+        "destination": [
+          {
+            "id": 347,
+            "value": "Hof der Kaiserin Margarita Theresa",
+            "order": "97.00000000000000000000"
+          }
+        ],
         "dictated_letter": false,
         "note": "",
         "addressee_worked_out": [],
@@ -65878,13 +65878,7 @@
         "order": "2571.00000000000000000000",
         "not_before": "1666-05-26",
         "not_after": null,
-        "addressee_stated": [
-          {
-            "id": 160,
-            "value": "Margarita Theresa von Spanien",
-            "order": "30.00000000000000000000"
-          }
-        ],
+        "addressee_stated": [],
         "courier": [
           {
             "id": 79,
@@ -65892,7 +65886,13 @@
             "order": "14.00000000000000000000"
           }
         ],
-        "destination": [],
+        "destination": [
+          {
+            "id": 347,
+            "value": "Hof der Kaiserin Margarita Theresa",
+            "order": "97.00000000000000000000"
+          }
+        ],
         "dictated_letter": false,
         "note": "",
         "addressee_worked_out": [],
@@ -66777,21 +66777,20 @@
         "order": "2608.00000000000000000000",
         "not_before": "1666-07-14",
         "not_after": null,
-        "addressee_stated": [
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
           {
-            "id": 160,
-            "value": "Margarita Theresa von Spanien",
-            "order": "30.00000000000000000000"
+            "id": 346,
+            "value": "Denía",
+            "order": "96.00000000000000000000"
+          },
+          {
+            "id": 347,
+            "value": "Hof der Kaiserin Margarita Theresa",
+            "order": "97.00000000000000000000"
           }
         ],
-        "courier": [
-          {
-            "id": 196,
-            "value": "Denia",
-            "order": "34.00000000000000000000"
-          }
-        ],
-        "destination": [],
         "dictated_letter": false,
         "note": "",
         "addressee_worked_out": [],
@@ -66804,21 +66803,20 @@
         "order": "2609.00000000000000000000",
         "not_before": "1666-07-14",
         "not_after": null,
-        "addressee_stated": [
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
           {
-            "id": 160,
-            "value": "Margarita Theresa von Spanien",
-            "order": "30.00000000000000000000"
+            "id": 346,
+            "value": "Denía",
+            "order": "96.00000000000000000000"
+          },
+          {
+            "id": 347,
+            "value": "Hof der Kaiserin Margarita Theresa",
+            "order": "97.00000000000000000000"
           }
         ],
-        "courier": [
-          {
-            "id": 196,
-            "value": "Denia",
-            "order": "34.00000000000000000000"
-          }
-        ],
-        "destination": [],
         "dictated_letter": false,
         "note": "",
         "addressee_worked_out": [],
@@ -66831,21 +66829,20 @@
         "order": "2610.00000000000000000000",
         "not_before": "1666-07-14",
         "not_after": null,
-        "addressee_stated": [
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
           {
-            "id": 160,
-            "value": "Margarita Theresa von Spanien",
-            "order": "30.00000000000000000000"
+            "id": 346,
+            "value": "Denía",
+            "order": "96.00000000000000000000"
+          },
+          {
+            "id": 347,
+            "value": "Hof der Kaiserin Margarita Theresa",
+            "order": "97.00000000000000000000"
           }
         ],
-        "courier": [
-          {
-            "id": 196,
-            "value": "Denia",
-            "order": "34.00000000000000000000"
-          }
-        ],
-        "destination": [],
         "dictated_letter": false,
         "note": "",
         "addressee_worked_out": [],
@@ -67770,15 +67767,15 @@
         "order": "2648.00000000000000000000",
         "not_before": "1666-09-03",
         "not_after": null,
-        "addressee_stated": [
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
           {
-            "id": 160,
-            "value": "Margarita Theresa von Spanien",
-            "order": "30.00000000000000000000"
+            "id": 347,
+            "value": "Hof der Kaiserin Margarita Theresa",
+            "order": "97.00000000000000000000"
           }
         ],
-        "courier": [],
-        "destination": [],
         "dictated_letter": false,
         "note": "",
         "addressee_worked_out": [],
@@ -67791,15 +67788,15 @@
         "order": "2649.00000000000000000000",
         "not_before": "1666-09-03",
         "not_after": null,
-        "addressee_stated": [
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
           {
-            "id": 160,
-            "value": "Margarita Theresa von Spanien",
-            "order": "30.00000000000000000000"
+            "id": 347,
+            "value": "Hof der Kaiserin Margarita Theresa",
+            "order": "97.00000000000000000000"
           }
         ],
-        "courier": [],
-        "destination": [],
         "dictated_letter": false,
         "note": "",
         "addressee_worked_out": [],
@@ -68862,15 +68859,15 @@
         "order": "2689.50000000000000000000",
         "not_before": "1666-10-26",
         "not_after": null,
-        "addressee_stated": [
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
           {
-            "id": 160,
-            "value": "Margarita Theresa von Spanien",
-            "order": "30.00000000000000000000"
+            "id": 347,
+            "value": "Hof der Kaiserin Margarita Theresa",
+            "order": "97.00000000000000000000"
           }
         ],
-        "courier": [],
-        "destination": [],
         "dictated_letter": false,
         "note": "",
         "addressee_worked_out": [],
@@ -68883,15 +68880,15 @@
         "order": "2689.66666666666651508422",
         "not_before": "1666-10-26",
         "not_after": null,
-        "addressee_stated": [
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
           {
-            "id": 160,
-            "value": "Margarita Theresa von Spanien",
-            "order": "30.00000000000000000000"
+            "id": 347,
+            "value": "Hof der Kaiserin Margarita Theresa",
+            "order": "97.00000000000000000000"
           }
         ],
-        "courier": [],
-        "destination": [],
         "dictated_letter": false,
         "note": "",
         "addressee_worked_out": [],
@@ -68993,15 +68990,15 @@
         "order": "2694.00000000000000000000",
         "not_before": "1666-10-30",
         "not_after": null,
-        "addressee_stated": [
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
           {
-            "id": 160,
-            "value": "Margarita Theresa von Spanien",
-            "order": "30.00000000000000000000"
+            "id": 347,
+            "value": "Hof der Kaiserin Margarita Theresa",
+            "order": "97.00000000000000000000"
           }
         ],
-        "courier": [],
-        "destination": [],
         "dictated_letter": false,
         "note": "",
         "addressee_worked_out": [],
@@ -69014,15 +69011,15 @@
         "order": "2695.00000000000000000000",
         "not_before": "1666-10-30",
         "not_after": null,
-        "addressee_stated": [
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
           {
-            "id": 160,
-            "value": "Margarita Theresa von Spanien",
-            "order": "30.00000000000000000000"
+            "id": 347,
+            "value": "Hof der Kaiserin Margarita Theresa",
+            "order": "97.00000000000000000000"
           }
         ],
-        "courier": [],
-        "destination": [],
         "dictated_letter": false,
         "note": "",
         "addressee_worked_out": [],
@@ -69035,15 +69032,15 @@
         "order": "2696.00000000000000000000",
         "not_before": "1666-10-30",
         "not_after": null,
-        "addressee_stated": [
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
           {
-            "id": 160,
-            "value": "Margarita Theresa von Spanien",
-            "order": "30.00000000000000000000"
+            "id": 347,
+            "value": "Hof der Kaiserin Margarita Theresa",
+            "order": "97.00000000000000000000"
           }
         ],
-        "courier": [],
-        "destination": [],
         "dictated_letter": false,
         "note": "",
         "addressee_worked_out": [],
@@ -69069,15 +69066,15 @@
         "order": "2697.00000000000000000000",
         "not_before": "1666-11-01",
         "not_after": null,
-        "addressee_stated": [
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
           {
-            "id": 160,
-            "value": "Margarita Theresa von Spanien",
-            "order": "30.00000000000000000000"
+            "id": 347,
+            "value": "Hof der Kaiserin Margarita Theresa",
+            "order": "97.00000000000000000000"
           }
         ],
-        "courier": [],
-        "destination": [],
         "dictated_letter": false,
         "note": "",
         "addressee_worked_out": [],
@@ -69090,15 +69087,15 @@
         "order": "2698.00000000000000000000",
         "not_before": "1666-11-01",
         "not_after": null,
-        "addressee_stated": [
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
           {
-            "id": 160,
-            "value": "Margarita Theresa von Spanien",
-            "order": "30.00000000000000000000"
+            "id": 347,
+            "value": "Hof der Kaiserin Margarita Theresa",
+            "order": "97.00000000000000000000"
           }
         ],
-        "courier": [],
-        "destination": [],
         "dictated_letter": false,
         "note": "",
         "addressee_worked_out": [],
@@ -69263,15 +69260,15 @@
         "order": "2705.00000000000000000000",
         "not_before": "1666-11-04",
         "not_after": null,
-        "addressee_stated": [
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
           {
-            "id": 160,
-            "value": "Margarita Theresa von Spanien",
-            "order": "30.00000000000000000000"
+            "id": 347,
+            "value": "Hof der Kaiserin Margarita Theresa",
+            "order": "97.00000000000000000000"
           }
         ],
-        "courier": [],
-        "destination": [],
         "dictated_letter": false,
         "note": "",
         "addressee_worked_out": [],
@@ -69297,13 +69294,7 @@
         "order": "2706.00000000000000000000",
         "not_before": "1666-11-06",
         "not_after": null,
-        "addressee_stated": [
-          {
-            "id": 160,
-            "value": "Margarita Theresa von Spanien",
-            "order": "30.00000000000000000000"
-          }
-        ],
+        "addressee_stated": [],
         "courier": [
           {
             "id": 198,
@@ -69311,7 +69302,13 @@
             "order": "36.00000000000000000000"
           }
         ],
-        "destination": [],
+        "destination": [
+          {
+            "id": 347,
+            "value": "Hof der Kaiserin Margarita Theresa",
+            "order": "97.00000000000000000000"
+          }
+        ],
         "dictated_letter": false,
         "note": "",
         "addressee_worked_out": [],
@@ -69324,13 +69321,7 @@
         "order": "2707.00000000000000000000",
         "not_before": "1666-11-06",
         "not_after": null,
-        "addressee_stated": [
-          {
-            "id": 160,
-            "value": "Margarita Theresa von Spanien",
-            "order": "30.00000000000000000000"
-          }
-        ],
+        "addressee_stated": [],
         "courier": [
           {
             "id": 198,
@@ -69338,7 +69329,13 @@
             "order": "36.00000000000000000000"
           }
         ],
-        "destination": [],
+        "destination": [
+          {
+            "id": 347,
+            "value": "Hof der Kaiserin Margarita Theresa",
+            "order": "97.00000000000000000000"
+          }
+        ],
         "dictated_letter": false,
         "note": "",
         "addressee_worked_out": [],
@@ -69351,13 +69348,7 @@
         "order": "2708.00000000000000000000",
         "not_before": "1666-11-06",
         "not_after": null,
-        "addressee_stated": [
-          {
-            "id": 160,
-            "value": "Margarita Theresa von Spanien",
-            "order": "30.00000000000000000000"
-          }
-        ],
+        "addressee_stated": [],
         "courier": [
           {
             "id": 198,
@@ -69365,7 +69356,13 @@
             "order": "36.00000000000000000000"
           }
         ],
-        "destination": [],
+        "destination": [
+          {
+            "id": 347,
+            "value": "Hof der Kaiserin Margarita Theresa",
+            "order": "97.00000000000000000000"
+          }
+        ],
         "dictated_letter": false,
         "note": "",
         "addressee_worked_out": [],
@@ -69454,15 +69451,15 @@
         "order": "2712.00000000000000000000",
         "not_before": "1666-11-10",
         "not_after": null,
-        "addressee_stated": [
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
           {
-            "id": 160,
-            "value": "Margarita Theresa von Spanien",
-            "order": "30.00000000000000000000"
+            "id": 347,
+            "value": "Hof der Kaiserin Margarita Theresa",
+            "order": "97.00000000000000000000"
           }
         ],
-        "courier": [],
-        "destination": [],
         "dictated_letter": false,
         "note": "",
         "addressee_worked_out": [],
@@ -69488,15 +69485,15 @@
         "order": "2713.00000000000000000000",
         "not_before": "1666-11-17",
         "not_after": null,
-        "addressee_stated": [
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
           {
-            "id": 160,
-            "value": "Margarita Theresa von Spanien",
-            "order": "30.00000000000000000000"
+            "id": 347,
+            "value": "Hof der Kaiserin Margarita Theresa",
+            "order": "97.00000000000000000000"
           }
         ],
-        "courier": [],
-        "destination": [],
         "dictated_letter": false,
         "note": "",
         "addressee_worked_out": [],
@@ -69509,15 +69506,15 @@
         "order": "2714.00000000000000000000",
         "not_before": "1666-11-17",
         "not_after": null,
-        "addressee_stated": [
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
           {
-            "id": 160,
-            "value": "Margarita Theresa von Spanien",
-            "order": "30.00000000000000000000"
+            "id": 347,
+            "value": "Hof der Kaiserin Margarita Theresa",
+            "order": "97.00000000000000000000"
           }
         ],
-        "courier": [],
-        "destination": [],
         "dictated_letter": false,
         "note": "",
         "addressee_worked_out": [],
@@ -69530,15 +69527,15 @@
         "order": "2715.00000000000000000000",
         "not_before": "1666-11-17",
         "not_after": null,
-        "addressee_stated": [
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
           {
-            "id": 160,
-            "value": "Margarita Theresa von Spanien",
-            "order": "30.00000000000000000000"
+            "id": 347,
+            "value": "Hof der Kaiserin Margarita Theresa",
+            "order": "97.00000000000000000000"
           }
         ],
-        "courier": [],
-        "destination": [],
         "dictated_letter": false,
         "note": "",
         "addressee_worked_out": [],
@@ -69551,15 +69548,15 @@
         "order": "2716.00000000000000000000",
         "not_before": "1666-11-17",
         "not_after": null,
-        "addressee_stated": [
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [
           {
-            "id": 160,
-            "value": "Margarita Theresa von Spanien",
-            "order": "30.00000000000000000000"
+            "id": 347,
+            "value": "Hof der Kaiserin Margarita Theresa",
+            "order": "97.00000000000000000000"
           }
         ],
-        "courier": [],
-        "destination": [],
         "dictated_letter": false,
         "note": "",
         "addressee_worked_out": [],
@@ -69648,13 +69645,7 @@
         "order": "2720.00000000000000000000",
         "not_before": "1666-11-19",
         "not_after": null,
-        "addressee_stated": [
-          {
-            "id": 160,
-            "value": "Margarita Theresa von Spanien",
-            "order": "30.00000000000000000000"
-          }
-        ],
+        "addressee_stated": [],
         "courier": [
           {
             "id": 199,
@@ -69667,6 +69658,11 @@
             "id": 313,
             "value": "Loiben",
             "order": "95.00000000000000000000"
+          },
+          {
+            "id": 347,
+            "value": "Hof der Kaiserin Margarita Theresa",
+            "order": "97.00000000000000000000"
           }
         ],
         "dictated_letter": false,
@@ -69681,13 +69677,7 @@
         "order": "2721.00000000000000000000",
         "not_before": "1666-11-19",
         "not_after": null,
-        "addressee_stated": [
-          {
-            "id": 160,
-            "value": "Margarita Theresa von Spanien",
-            "order": "30.00000000000000000000"
-          }
-        ],
+        "addressee_stated": [],
         "courier": [
           {
             "id": 199,
@@ -69700,6 +69690,11 @@
             "id": 313,
             "value": "Loiben",
             "order": "95.00000000000000000000"
+          },
+          {
+            "id": 347,
+            "value": "Hof der Kaiserin Margarita Theresa",
+            "order": "97.00000000000000000000"
           }
         ],
         "dictated_letter": false,
@@ -69714,13 +69709,7 @@
         "order": "2722.00000000000000000000",
         "not_before": "1666-11-19",
         "not_after": null,
-        "addressee_stated": [
-          {
-            "id": 160,
-            "value": "Margarita Theresa von Spanien",
-            "order": "30.00000000000000000000"
-          }
-        ],
+        "addressee_stated": [],
         "courier": [
           {
             "id": 199,
@@ -69733,6 +69722,11 @@
             "id": 313,
             "value": "Loiben",
             "order": "95.00000000000000000000"
+          },
+          {
+            "id": 347,
+            "value": "Hof der Kaiserin Margarita Theresa",
+            "order": "97.00000000000000000000"
           }
         ],
         "dictated_letter": false,
@@ -70005,13 +69999,7 @@
         "order": "2732.00000000000000000000",
         "not_before": "1666-12-01",
         "not_after": null,
-        "addressee_stated": [
-          {
-            "id": 160,
-            "value": "Margarita Theresa von Spanien",
-            "order": "30.00000000000000000000"
-          }
-        ],
+        "addressee_stated": [],
         "courier": [
           {
             "id": 202,
@@ -70019,7 +70007,13 @@
             "order": "40.00000000000000000000"
           }
         ],
-        "destination": [],
+        "destination": [
+          {
+            "id": 347,
+            "value": "Hof der Kaiserin Margarita Theresa",
+            "order": "97.00000000000000000000"
+          }
+        ],
         "dictated_letter": false,
         "note": "",
         "addressee_worked_out": [],
@@ -70032,13 +70026,7 @@
         "order": "2733.00000000000000000000",
         "not_before": "1666-12-01",
         "not_after": null,
-        "addressee_stated": [
-          {
-            "id": 160,
-            "value": "Margarita Theresa von Spanien",
-            "order": "30.00000000000000000000"
-          }
-        ],
+        "addressee_stated": [],
         "courier": [
           {
             "id": 202,
@@ -70046,7 +70034,13 @@
             "order": "40.00000000000000000000"
           }
         ],
-        "destination": [],
+        "destination": [
+          {
+            "id": 347,
+            "value": "Hof der Kaiserin Margarita Theresa",
+            "order": "97.00000000000000000000"
+          }
+        ],
         "dictated_letter": false,
         "note": "",
         "addressee_worked_out": [],
@@ -70849,6 +70843,21 @@
         "original_letter": [],
         "correct_date": null,
         "lb_id": "lb-ml-3020"
+      },
+      {
+        "id": 3060,
+        "order": "2775.00000000000000000000",
+        "not_before": null,
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-3060"
       }
     ]
   },
@@ -71207,6 +71216,21 @@
         "original_letter": [],
         "correct_date": null,
         "lb_id": "lb-ml-3020"
+      },
+      {
+        "id": 3060,
+        "order": "2775.00000000000000000000",
+        "not_before": null,
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-3060"
       }
     ]
   },
@@ -71565,6 +71589,21 @@
         "original_letter": [],
         "correct_date": null,
         "lb_id": "lb-ml-3020"
+      },
+      {
+        "id": 3060,
+        "order": "2775.00000000000000000000",
+        "not_before": null,
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-3060"
       }
     ]
   },
@@ -71923,6 +71962,21 @@
         "original_letter": [],
         "correct_date": null,
         "lb_id": "lb-ml-3020"
+      },
+      {
+        "id": 3060,
+        "order": "2775.00000000000000000000",
+        "not_before": null,
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-3060"
       }
     ]
   },
@@ -72281,6 +72335,21 @@
         "original_letter": [],
         "correct_date": null,
         "lb_id": "lb-ml-3020"
+      },
+      {
+        "id": 3060,
+        "order": "2775.00000000000000000000",
+        "not_before": null,
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-3060"
       }
     ]
   },
@@ -72639,6 +72708,21 @@
         "original_letter": [],
         "correct_date": null,
         "lb_id": "lb-ml-3020"
+      },
+      {
+        "id": 3060,
+        "order": "2775.00000000000000000000",
+        "not_before": null,
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-3060"
       }
     ]
   },
@@ -72997,6 +73081,21 @@
         "original_letter": [],
         "correct_date": null,
         "lb_id": "lb-ml-3020"
+      },
+      {
+        "id": 3060,
+        "order": "2775.00000000000000000000",
+        "not_before": null,
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-3060"
       }
     ]
   },
@@ -73355,6 +73454,21 @@
         "original_letter": [],
         "correct_date": null,
         "lb_id": "lb-ml-3020"
+      },
+      {
+        "id": 3060,
+        "order": "2775.00000000000000000000",
+        "not_before": null,
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-3060"
       }
     ]
   },
@@ -73713,6 +73827,21 @@
         "original_letter": [],
         "correct_date": null,
         "lb_id": "lb-ml-3020"
+      },
+      {
+        "id": 3060,
+        "order": "2775.00000000000000000000",
+        "not_before": null,
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-3060"
       }
     ]
   },
@@ -74071,6 +74200,21 @@
         "original_letter": [],
         "correct_date": null,
         "lb_id": "lb-ml-3020"
+      },
+      {
+        "id": 3060,
+        "order": "2775.00000000000000000000",
+        "not_before": null,
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-3060"
       }
     ]
   },
@@ -74429,6 +74573,21 @@
         "original_letter": [],
         "correct_date": null,
         "lb_id": "lb-ml-3020"
+      },
+      {
+        "id": 3060,
+        "order": "2775.00000000000000000000",
+        "not_before": null,
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-3060"
       }
     ]
   },
@@ -74787,6 +74946,21 @@
         "original_letter": [],
         "correct_date": null,
         "lb_id": "lb-ml-3020"
+      },
+      {
+        "id": 3060,
+        "order": "2775.00000000000000000000",
+        "not_before": null,
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-3060"
       }
     ]
   },
@@ -75145,6 +75319,21 @@
         "original_letter": [],
         "correct_date": null,
         "lb_id": "lb-ml-3020"
+      },
+      {
+        "id": 3060,
+        "order": "2775.00000000000000000000",
+        "not_before": null,
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-3060"
       }
     ]
   },
@@ -75503,6 +75692,21 @@
         "original_letter": [],
         "correct_date": null,
         "lb_id": "lb-ml-3020"
+      },
+      {
+        "id": 3060,
+        "order": "2775.00000000000000000000",
+        "not_before": null,
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-3060"
       }
     ]
   },
@@ -75861,6 +76065,21 @@
         "original_letter": [],
         "correct_date": null,
         "lb_id": "lb-ml-3020"
+      },
+      {
+        "id": 3060,
+        "order": "2775.00000000000000000000",
+        "not_before": null,
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-3060"
       }
     ]
   },
@@ -76219,6 +76438,21 @@
         "original_letter": [],
         "correct_date": null,
         "lb_id": "lb-ml-3020"
+      },
+      {
+        "id": 3060,
+        "order": "2775.00000000000000000000",
+        "not_before": null,
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-3060"
       }
     ]
   },
@@ -76577,6 +76811,21 @@
         "original_letter": [],
         "correct_date": null,
         "lb_id": "lb-ml-3020"
+      },
+      {
+        "id": 3060,
+        "order": "2775.00000000000000000000",
+        "not_before": null,
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-3060"
       }
     ]
   },
@@ -76935,6 +77184,21 @@
         "original_letter": [],
         "correct_date": null,
         "lb_id": "lb-ml-3020"
+      },
+      {
+        "id": 3060,
+        "order": "2775.00000000000000000000",
+        "not_before": null,
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-3060"
       }
     ]
   },
@@ -77293,6 +77557,21 @@
         "original_letter": [],
         "correct_date": null,
         "lb_id": "lb-ml-3020"
+      },
+      {
+        "id": 3060,
+        "order": "2775.00000000000000000000",
+        "not_before": null,
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-3060"
       }
     ]
   },
@@ -77651,6 +77930,21 @@
         "original_letter": [],
         "correct_date": null,
         "lb_id": "lb-ml-3020"
+      },
+      {
+        "id": 3060,
+        "order": "2775.00000000000000000000",
+        "not_before": null,
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-3060"
       }
     ]
   },
@@ -78009,6 +78303,21 @@
         "original_letter": [],
         "correct_date": null,
         "lb_id": "lb-ml-3020"
+      },
+      {
+        "id": 3060,
+        "order": "2775.00000000000000000000",
+        "not_before": null,
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-3060"
       }
     ]
   },
@@ -78367,6 +78676,21 @@
         "original_letter": [],
         "correct_date": null,
         "lb_id": "lb-ml-3020"
+      },
+      {
+        "id": 3060,
+        "order": "2775.00000000000000000000",
+        "not_before": null,
+        "not_after": null,
+        "addressee_stated": [],
+        "courier": [],
+        "destination": [],
+        "dictated_letter": false,
+        "note": "",
+        "addressee_worked_out": [],
+        "original_letter": [],
+        "correct_date": null,
+        "lb_id": "lb-ml-3060"
       }
     ]
   }

@@ -428,11 +428,8 @@
                      <surname>Gottwald</surname>
                   </persName>
                </person>
-               <person xml:id="lb-person-195" n="Don Martín">
-                  <persName type="preferred">Don Martín</persName>
-               </person>
-               <person xml:id="lb-person-196" n="Denia">
-                  <persName type="preferred">Denia</persName>
+               <person xml:id="lb-person-195" n="Martín Erasquin">
+                  <persName type="preferred">Martín Erasquin</persName>
                </person>
                <person xml:id="lb-person-197" n="Johann Franz von Wicka">
                   <persName type="preferred">Johann Franz von Wicka</persName>
@@ -471,6 +468,9 @@
                      <forename>Leopold Wilhelm von</forename>
                      <surname>Baden-Baden</surname>
                   </persName>
+               </person>
+               <person xml:id="lb-person-235" n="Walter Leslie">
+                  <persName type="preferred">Walter Leslie</persName>
                </person>
             </listPerson>
          </div>

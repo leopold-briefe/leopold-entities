@@ -1000,17 +1000,6 @@
     "gnd_url": "",
     "endonym": "Győr"
   },
-  "310": {
-    "id": 310,
-    "order": "92.00000000000000000000",
-    "label": "Leßle?",
-    "lb_id": "lb-place-310",
-    "geonames_url": "",
-    "latitude": null,
-    "longitude": null,
-    "gnd_url": "",
-    "endonym": ""
-  },
   "311": {
     "id": 311,
     "order": "93.00000000000000000000",
@@ -1038,6 +1027,28 @@
     "order": "95.00000000000000000000",
     "label": "Loiben",
     "lb_id": "lb-place-313",
+    "geonames_url": "",
+    "latitude": null,
+    "longitude": null,
+    "gnd_url": "",
+    "endonym": ""
+  },
+  "346": {
+    "id": 346,
+    "order": "96.00000000000000000000",
+    "label": "Denía",
+    "lb_id": "lb-place-346",
+    "geonames_url": "",
+    "latitude": null,
+    "longitude": null,
+    "gnd_url": "",
+    "endonym": ""
+  },
+  "347": {
+    "id": 347,
+    "order": "97.00000000000000000000",
+    "label": "Hof der Kaiserin Margarita Theresa",
+    "lb_id": "lb-place-347",
     "geonames_url": "",
     "latitude": null,
     "longitude": null,
