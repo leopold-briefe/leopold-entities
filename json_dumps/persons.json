@@ -1056,5 +1056,128 @@
     "first_name": "",
     "last_name": "",
     "maiden_name": ""
+  },
+  "268": {
+    "id": 268,
+    "order": "42.00000000000000000000",
+    "label": "Baltasar de la Cueva Enríquez, conde de Castellar",
+    "lb_id": "lb-person-268",
+    "gnd_url": "",
+    "place_of_birth": [],
+    "date_of_birth": null,
+    "place_of_death": [],
+    "date_of_death": null,
+    "wikidata_url": "",
+    "mentioned_letters - courier": [
+      {
+        "id": 3123,
+        "value": "1667-03-28",
+        "order": "2806.00000000000000000000"
+      },
+      {
+        "id": 3124,
+        "value": "1667-03-28",
+        "order": "2807.00000000000000000000"
+      },
+      {
+        "id": 3125,
+        "value": "1667-03-28",
+        "order": "2808.00000000000000000000"
+      }
+    ],
+    "first_name": "",
+    "last_name": "",
+    "maiden_name": ""
+  },
+  "269": {
+    "id": 269,
+    "order": "43.00000000000000000000",
+    "label": "Ferdinand Maria von Bayern",
+    "lb_id": "lb-person-269",
+    "gnd_url": "",
+    "place_of_birth": [],
+    "date_of_birth": null,
+    "place_of_death": [],
+    "date_of_death": null,
+    "wikidata_url": "",
+    "mentioned_letters - courier": [],
+    "first_name": "",
+    "last_name": "",
+    "maiden_name": ""
+  },
+  "270": {
+    "id": 270,
+    "order": "44.00000000000000000000",
+    "label": "Clemens IX.",
+    "lb_id": "lb-person-270",
+    "gnd_url": "",
+    "place_of_birth": [],
+    "date_of_birth": null,
+    "place_of_death": [],
+    "date_of_death": null,
+    "wikidata_url": "",
+    "mentioned_letters - courier": [],
+    "first_name": "",
+    "last_name": "",
+    "maiden_name": ""
+  },
+  "271": {
+    "id": 271,
+    "order": "45.00000000000000000000",
+    "label": "Franz Joseph von Lamberg",
+    "lb_id": "lb-person-271",
+    "gnd_url": "",
+    "place_of_birth": [],
+    "date_of_birth": null,
+    "place_of_death": [],
+    "date_of_death": null,
+    "wikidata_url": "",
+    "mentioned_letters - courier": [
+      {
+        "id": 3241,
+        "value": "1667-09-28",
+        "order": "2924.00000000000000000000"
+      },
+      {
+        "id": 3242,
+        "value": "1667-09-28",
+        "order": "2925.00000000000000000000"
+      },
+      {
+        "id": 3243,
+        "value": "1667-09-28",
+        "order": "2926.00000000000000000000"
+      }
+    ],
+    "first_name": "",
+    "last_name": "",
+    "maiden_name": ""
+  },
+  "272": {
+    "id": 272,
+    "order": "46.00000000000000000000",
+    "label": "Guy de Chaumont, marquis de Guitry",
+    "lb_id": "lb-person-272",
+    "gnd_url": "",
+    "place_of_birth": [],
+    "date_of_birth": null,
+    "place_of_death": [],
+    "date_of_death": null,
+    "wikidata_url": "",
+    "mentioned_letters - courier": [
+      {
+        "id": 3341,
+        "value": "1667-12-20",
+        "order": "3023.00000000000000000000"
+      },
+      {
+        "id": 3342,
+        "value": "1667-12-20",
+        "order": "3024.00000000000000000000"
+      }
+    ],
+    "first_name": "",
+    "last_name": "",
+    "maiden_name": ""
   }
 }

@@ -472,6 +472,21 @@
                <person xml:id="lb-person-235" n="Walter Leslie">
                   <persName type="preferred">Walter Leslie</persName>
                </person>
+               <person xml:id="lb-person-268" n="Baltasar de la Cueva Enríquez, conde de Castellar">
+                  <persName type="preferred">Baltasar de la Cueva Enríquez, conde de Castellar</persName>
+               </person>
+               <person xml:id="lb-person-269" n="Ferdinand Maria von Bayern">
+                  <persName type="preferred">Ferdinand Maria von Bayern</persName>
+               </person>
+               <person xml:id="lb-person-270" n="Clemens IX.">
+                  <persName type="preferred">Clemens IX.</persName>
+               </person>
+               <person xml:id="lb-person-271" n="Franz Joseph von Lamberg">
+                  <persName type="preferred">Franz Joseph von Lamberg</persName>
+               </person>
+               <person xml:id="lb-person-272" n="Guy de Chaumont, marquis de Guitry">
+                  <persName type="preferred">Guy de Chaumont, marquis de Guitry</persName>
+               </person>
             </listPerson>
          </div>
       </body>
