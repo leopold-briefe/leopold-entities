@@ -459,9 +459,6 @@
                      <surname>Dietrichstein</surname>
                   </persName>
                </person>
-               <person xml:id="lb-person-201" n="">
-                  <persName type="preferred"/>
-               </person>
                <person xml:id="lb-person-202" n="Leopold Wilhelm von Baden-Baden">
                   <persName type="preferred">Leopold Wilhelm von Baden-Baden</persName>
                   <persName type="parts">
@@ -471,21 +468,65 @@
                </person>
                <person xml:id="lb-person-235" n="Walter Leslie">
                   <persName type="preferred">Walter Leslie</persName>
+                  <persName type="parts">
+                     <forename>Walter</forename>
+                     <surname>Leslie</surname>
+                  </persName>
                </person>
                <person xml:id="lb-person-268" n="Baltasar de la Cueva Enríquez, conde de Castellar">
                   <persName type="preferred">Baltasar de la Cueva Enríquez, conde de Castellar</persName>
                </person>
                <person xml:id="lb-person-269" n="Ferdinand Maria von Bayern">
                   <persName type="preferred">Ferdinand Maria von Bayern</persName>
+                  <persName type="parts">
+                     <forename>Ferdinand Maria von Bayern</forename>
+                     <surname/>
+                  </persName>
                </person>
                <person xml:id="lb-person-270" n="Clemens IX.">
                   <persName type="preferred">Clemens IX.</persName>
                </person>
                <person xml:id="lb-person-271" n="Franz Joseph von Lamberg">
                   <persName type="preferred">Franz Joseph von Lamberg</persName>
+                  <persName type="parts">
+                     <forename>Franz Joseph</forename>
+                     <surname>Lamberg</surname>
+                  </persName>
                </person>
                <person xml:id="lb-person-272" n="Guy de Chaumont, marquis de Guitry">
                   <persName type="preferred">Guy de Chaumont, marquis de Guitry</persName>
+               </person>
+               <person xml:id="lb-person-273" n="Jean Le Roy (Johann König) genannt Tyrol">
+                  <persName type="preferred">Jean Le Roy (Johann König) genannt Tyrol</persName>
+                  <persName type="parts">
+                     <forename>Jean (Johann)</forename>
+                     <surname>Le Roy (König) / Tyrol</surname>
+                  </persName>
+               </person>
+               <person xml:id="lb-person-274" n="Geronimo Colonna d. Ä.">
+                  <persName type="preferred">Geronimo Colonna d. Ä.</persName>
+                  <persName type="parts">
+                     <forename>Geronimo</forename>
+                     <surname>Colonna</surname>
+                  </persName>
+                  <birth>
+                     <date>1604-03-23</date>
+                  </birth>
+                  <death>
+                     <date>1666-09-04</date>
+                  </death>
+               </person>
+               <person xml:id="lb-person-275" n="Francisco Fernández de la Cueva y Enríquez, Herzog von Alburquerque">
+                  <persName type="preferred">Francisco Fernández de la Cueva y Enríquez, Herzog von Alburquerque</persName>
+                  <death>
+                     <date>1676-03-27</date>
+                  </death>
+               </person>
+               <person xml:id="lb-person-276" n="Antonia de Mendoza y Orense, condesa de Benavente">
+                  <persName type="preferred">Antonia de Mendoza y Orense, condesa de Benavente</persName>
+               </person>
+               <person xml:id="lb-person-277" n="">
+                  <persName type="preferred"/>
                </person>
             </listPerson>
          </div>

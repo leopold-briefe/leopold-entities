@@ -372,9 +372,6 @@
                <place xml:id="lb-place-275">
                   <placeName>Böhmen</placeName>
                </place>
-               <place xml:id="lb-place-276">
-                  <placeName>Böhmen</placeName>
-               </place>
                <place xml:id="lb-place-308">
                   <placeName>Dresden</placeName>
                </place>
@@ -388,13 +385,16 @@
                   <placeName>Kindberg</placeName>
                </place>
                <place xml:id="lb-place-313">
-                  <placeName>Loiben</placeName>
+                  <placeName>Leoben</placeName>
                </place>
                <place xml:id="lb-place-346">
                   <placeName>Denía</placeName>
                </place>
                <place xml:id="lb-place-347">
                   <placeName>Hof der Kaiserin Margarita Theresa</placeName>
+               </place>
+               <place xml:id="lb-place-380">
+                  <placeName>Mürzzuschlag</placeName>
                </place>
             </listPlace>
          </div>

@@ -11446,9 +11446,9 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00515" n="Leopold I. an Humprecht Johann Czernin von Chudenitz am 20. November 1666 (aus Ebersdorf)">
+         <correspDesc xml:id="lb-00515" n="Leopold I. an Humprecht Johann Czernin von Chudenitz am 20. Oktober 1666 (aus Ebersdorf)">
             <noteGrp type="metadata">
-               <note type="not_before">1666-11-20</note>
+               <note type="not_before">1666-10-20</note>
                <note type="archiv">Státní oblastní archiv v Třeboni, pracoviště Jindřichv Hradec ‒ zámek</note>
                <note type="collection">RA Černínů</note>
                <note type="signatur">K. 246, fol. r‒v</note>
@@ -11465,7 +11465,8 @@
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
                <placeName key="lb-place-70" ref="https://www.geonames.org/12500696/jagd-schloss-ebersdorf.html">Ebersdorf</placeName>
                <placeName type="written">Ebertorf</placeName>
-               <date when="1666-11-20">20. November 1666</date>
+               <date when="1666-10-20">20. Oktober 1666</date>
+               <note type="date">Von Archivaren auf den 20. November datiert</note>
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-81">Humprecht Johann Czernin von Chudenitz</persName>
@@ -24655,6 +24656,7 @@
                <placeName key="lb-place-1" ref="https://sws.geonames.org/2761369/">Wien</placeName>
                <placeName type="written">Wien</placeName>
                <date when="1666-09-29">29. September 1666</date>
+               <note type="date">In der Edition of den 27. September datiert</note>
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-40" ref="https://d-nb.info/gnd/119324636">Franz Eusebius von Pötting</persName>

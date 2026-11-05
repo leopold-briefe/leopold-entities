@@ -967,17 +967,6 @@
     "gnd_url": "",
     "endonym": ""
   },
-  "276": {
-    "id": 276,
-    "order": "89.00000000000000000000",
-    "label": "Böhmen",
-    "lb_id": "lb-place-276",
-    "geonames_url": "",
-    "latitude": null,
-    "longitude": null,
-    "gnd_url": "",
-    "endonym": ""
-  },
   "308": {
     "id": 308,
     "order": "90.00000000000000000000",
@@ -1025,7 +1014,7 @@
   "313": {
     "id": 313,
     "order": "95.00000000000000000000",
-    "label": "Loiben",
+    "label": "Leoben",
     "lb_id": "lb-place-313",
     "geonames_url": "",
     "latitude": null,
@@ -1049,6 +1038,17 @@
     "order": "97.00000000000000000000",
     "label": "Hof der Kaiserin Margarita Theresa",
     "lb_id": "lb-place-347",
+    "geonames_url": "",
+    "latitude": null,
+    "longitude": null,
+    "gnd_url": "",
+    "endonym": ""
+  },
+  "380": {
+    "id": 380,
+    "order": "98.00000000000000000000",
+    "label": "Mürzzuschlag",
+    "lb_id": "lb-place-380",
     "geonames_url": "",
     "latitude": null,
     "longitude": null,
