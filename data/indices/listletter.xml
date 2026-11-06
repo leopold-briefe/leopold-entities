@@ -11889,9 +11889,9 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-00532" n="Leopold I. an Humprecht Johann Czernin von Chudenitz am 7. Dezember 1667 (aus Wien)">
+         <correspDesc xml:id="lb-00532" n="Leopold I. an Humprecht Johann Czernin von Chudenitz am 7. Dezember 1669 (aus Wien)">
             <noteGrp type="metadata">
-               <note type="not_before">1667-12-07</note>
+               <note type="not_before">1669-12-07</note>
                <note type="archiv">Státní oblastní archiv v Třeboni, pracoviště Jindřichv Hradec ‒ zámek</note>
                <note type="collection">RA Černínů</note>
                <note type="signatur">K. 246, fol. r‒v</note>
@@ -11908,7 +11908,7 @@
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
                <placeName key="lb-place-1" ref="https://sws.geonames.org/2761369/">Wien</placeName>
                <placeName type="written">Vienna</placeName>
-               <date when="1667-12-07">7. Dezember 1667</date>
+               <date when="1669-12-07">7. Dezember 1669</date>
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-81">Humprecht Johann Czernin von Chudenitz</persName>
@@ -25421,9 +25421,9 @@
             </correspAction>
             <!--  -->
          </correspDesc>
-         <correspDesc xml:id="lb-01034" n="Leopold I. an Franz Eusebius von Pötting am 20. Juni 1667 (aus Wien)">
+         <correspDesc xml:id="lb-01034" n="Leopold I. an Franz Eusebius von Pötting am 23. Juni 1667 (aus Wien)">
             <noteGrp type="metadata">
-               <note type="not_before">1667-06-20</note>
+               <note type="not_before">1667-06-23</note>
                <note type="archiv">Österreichisches Staatsarchiv, Haus-, Hof- und Staatsarchiv</note>
                <note type="collection">Große Korrespondenz</note>
                <note type="signatur">K. 33, Bd. 2 (1666‒1667), fol. 149r‒151v</note>
@@ -25444,7 +25444,7 @@
                <persName key="lb-person-1" ref="https://d-nb.info/gnd/118571869">Leopold I.</persName>
                <placeName key="lb-place-1" ref="https://sws.geonames.org/2761369/">Wien</placeName>
                <placeName type="written">Wienn</placeName>
-               <date when="1667-06-20">20. Juni 1667</date>
+               <date when="1667-06-23">23. Juni 1667</date>
             </correspAction>
             <correspAction type="received">
                <persName key="lb-person-40" ref="https://d-nb.info/gnd/119324636">Franz Eusebius von Pötting</persName>

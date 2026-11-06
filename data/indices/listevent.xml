@@ -19475,10 +19475,11 @@
                   <label>1667-03-26</label>
                   <desc>Den <hi rend="del">27.</hi> 26.  2 brif auf Prag.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-00516">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-69">Prag</rs>
                         </title>
                         <date>1667-03-26</date>
+                        <note>Das Original datiert vom 27. März.</note>
                      </bibl>
                      <bibl>
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-69">Prag</rs>
@@ -19534,7 +19535,7 @@
                   <label>1667-04-07</label>
                   <desc>Den 7. April 1667 2 brif in Boheimb, 1 in Tyrol vnd 1 in Bayrn geschriben.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-00517">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-275">Böhmen</rs>
                         </title>
                         <date>1667-04-07</date>
@@ -19602,7 +19603,7 @@
                   <label>1667-04-24</label>
                   <desc>Den 24. <hi rend="del">2</hi> 3 brif auf Prag geschriben.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-00518">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-69">Prag</rs>
                         </title>
                         <date>1667-04-24</date>
@@ -19687,10 +19688,11 @@
                   <label>1667-05-04</label>
                   <desc>Den 4. 2 brief auf Prag, 2 in Bayrn vnd 1 in Tyrol geschriben.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-00519">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-69">Prag</rs>
                         </title>
                         <date>1667-05-04</date>
+                        <note>Das Original datiert vom 5. Mai.</note>
                      </bibl>
                      <bibl>
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-69">Prag</rs>
@@ -19739,7 +19741,7 @@
                   <label>1667-05-21</label>
                   <desc>Den 21. 2 brieff auf Prag, 1 in Bayrn vnd 1 in Tyrol geschriben.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-00520">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-69">Prag</rs>
                         </title>
                         <date>1667-05-21</date>
@@ -19822,7 +19824,7 @@
                         </title>
                         <date>1667-06-08</date>
                      </bibl>
-                     <bibl>
+                     <bibl key="lb-00521">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-69">Prag</rs>
                         </title>
                         <date>1667-06-08</date>
@@ -19864,10 +19866,11 @@
                   <label>1667-06-22</label>
                   <desc>Den 22. 3 brieff in Spanien.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-01034">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
                         <date>1667-06-22</date>
+                        <note>Das Original datiert vom 23. Juni.</note>
                      </bibl>
                      <bibl>
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
@@ -19896,7 +19899,7 @@
                   <label>1667-06-30</label>
                   <desc>Den 30. 2 brieff auf Prag, ein in Tyrol vnd 1 in Italien geschriben.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-00522">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-69">Prag</rs>
                         </title>
                         <date>1667-06-30</date>
@@ -19933,10 +19936,11 @@
                   <label>1667-07-06</label>
                   <desc>Den 6. vnd 7. 3 brief in Spanien vnd 1 auf Rom S. D. M. <hi rend="unclear">!</hi> Clementi geschriben .</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-01035">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
                         <date>1667-07-06</date>
+                        <note>Das Original datiert vom 7. Juli.</note>
                      </bibl>
                      <bibl>
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
@@ -19959,7 +19963,7 @@
                   <label>1667-07-14</label>
                   <desc>Den 14. 2 brief auf Prag vnd 1 in Tyrol geschriben.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-00523">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-69">Prag</rs>
                         </title>
                         <date>1667-07-14</date>
@@ -19980,10 +19984,11 @@
                   <label>1667-07-20</label>
                   <desc>Den 20. vnd 21. 3 briff in Spanien vnd 1 in Bayrn gschriben.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-01036">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
                         <date>1667-07-20</date>
+                        <note>Das Original datiert vom 21. Juli.</note>
                      </bibl>
                      <bibl>
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
@@ -20017,7 +20022,7 @@
                   <label>1667-08-03</label>
                   <desc>Den 3 Augusti 1667 habe ich 3 brieff in Hispanien geschriben.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-01037">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
                         <date>1667-08-03</date>
@@ -20043,7 +20048,7 @@
                         </title>
                         <date>1667-08-06</date>
                      </bibl>
-                     <bibl>
+                     <bibl key="lb-00524">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-69">Prag</rs>
                         </title>
                         <date>1667-08-06</date>
@@ -20070,7 +20075,7 @@
                   <label>1667-08-17</label>
                   <desc>Den 17. 3 briff in Spanien vnd 1 in Tyrol geschriben.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-01038">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
                         <date>1667-08-17</date>
@@ -20106,7 +20111,7 @@
                         </title>
                         <date>1667-08-24</date>
                      </bibl>
-                     <bibl>
+                     <bibl key="lb-00525">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-69">Prag</rs>
                         </title>
                         <date>1667-08-24</date>
@@ -20127,7 +20132,7 @@
                   <label>1667-08-31</label>
                   <desc>Den lezten 2 brieff in Spanien geschriben.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-01039">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
                         <date>1667-08-31</date>
@@ -20175,7 +20180,7 @@
                   <label>1667-09-10</label>
                   <desc>Den 10. <hi rend="unclear">…</hi>. Sodann 3 brieff in Spanien vnd 1 auf Rom geschriben.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-01040">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
                         <date>1667-09-10</date>
@@ -20217,7 +20222,7 @@
                   <label>1667-09-14</label>
                   <desc>Den 14. 3 brieff in Spanien geschriben.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-01041">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
                         <date>1667-09-14</date>
@@ -20238,10 +20243,11 @@
                   <label>1667-09-17</label>
                   <desc>Den 17. <hi rend="unclear">…</hi>. Item ein briff auf Spanien geschriben.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-01042">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
                         <date>1667-09-17</date>
+                        <note>Das Original datiert vom 18. September.</note>
                      </bibl>
                   </listBibl>
                </event>
@@ -20270,22 +20276,24 @@
                   <label>1667-09-24</label>
                   <desc>Den 24. 3 briff in Spanien per Italiam vnd 3 auf Prag geschriben.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-01043">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
                         <date>1667-09-24</date>
                      </bibl>
                      <bibl>
-                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
+                        <title>Leopold an <rs type="person" ref="#lb-person-75">Maria Anna (Mariana) von Österreich</rs>[ermittelt] nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
                         <date>1667-09-24</date>
+                        <note>Erwähnt in lb-01043</note>
                      </bibl>
                      <bibl>
-                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
+                        <title>Leopold an <rs type="person" ref="#lb-person-159">Johann Eberhard Neidhardt</rs>[ermittelt] nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
                         <date>1667-09-24</date>
+                        <note>Erwähnt in lb-01043</note>
                      </bibl>
-                     <bibl>
+                     <bibl key="lb-00526">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-69">Prag</rs>
                         </title>
                         <date>1667-09-24</date>
@@ -20306,7 +20314,7 @@
                   <label>1667-09-28</label>
                   <desc>Den 28. dato in festo S. Wenceslai <hi rend="unclear">…</hi>. Eadem die habe ich 3 briff in Spanien cum notificatione durch den graven Franzen von Lamberg geschriben, 3 eodem cum ordinario vnd 3 auf Prag.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-01044">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
                         <date>1667-09-28</date>
@@ -20321,7 +20329,7 @@
                         </title>
                         <date>1667-09-28</date>
                      </bibl>
-                     <bibl>
+                     <bibl key="lb-01045">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
                         <date>1667-09-28</date>
@@ -20336,7 +20344,7 @@
                         </title>
                         <date>1667-09-28</date>
                      </bibl>
-                     <bibl>
+                     <bibl key="lb-00527">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-69">Prag</rs>
                         </title>
                         <date>1667-09-28</date>
@@ -20409,7 +20417,7 @@
                   <label>1667-10-03</label>
                   <desc>Den 3. 2 brieff in Spanien.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-01046">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
                         <date>1667-10-03</date>
@@ -20451,7 +20459,7 @@
                         </title>
                         <date>1667-10-08</date>
                      </bibl>
-                     <bibl>
+                     <bibl key="lb-01047">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
                         <date>1667-10-08</date>
@@ -20467,7 +20475,7 @@
                   <label>1667-10-12</label>
                   <desc>Den 12. 3 briff in Spanien geschriben.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-01048">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
                         <date>1667-10-12</date>
@@ -20488,7 +20496,7 @@
                   <label>1667-10-15</label>
                   <desc>Den 15. 2 briff in Spanien geschriben.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-01049">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
                         <date>1667-10-15</date>
@@ -20535,7 +20543,7 @@
                   <label>1667-10-22</label>
                   <desc>Den 22. 3 brief in Spanien, 1 in Bohmen vnd 1 in Italien geschriben.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-01050">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
                         <date>1667-10-22</date>
@@ -20550,7 +20558,7 @@
                         </title>
                         <date>1667-10-22</date>
                      </bibl>
-                     <bibl>
+                     <bibl key="lb-00528">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-275">Böhmen</rs>
                         </title>
                         <date>1667-10-22</date>
@@ -20571,7 +20579,7 @@
                         </title>
                         <date>1667-10-26</date>
                      </bibl>
-                     <bibl>
+                     <bibl key="lb-01051">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
                         <date>1667-10-26</date>
@@ -20587,7 +20595,7 @@
                   <label>1667-10-27</label>
                   <desc>Den 27. 2 briff auf Prag geschriben.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-00529">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-69">Prag</rs>
                         </title>
                         <date>1667-10-27</date>
@@ -20603,7 +20611,7 @@
                   <label>1667-10-29</label>
                   <desc>Den 29. 2 brieff in Spanien geschriben.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-01052">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
                         <date>1667-10-29</date>
@@ -20640,7 +20648,7 @@
                   <label>1667-11-06</label>
                   <desc>Den. 6. 3 brieff in Spanien gschriben.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-01054">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
                         <date>1667-11-06</date>
@@ -20661,10 +20669,11 @@
                   <label>1667-11-09</label>
                   <desc>Den 9. <hi rend="unclear">…</hi>. Item 3 brieff in Spanien geschriben.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-01053">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
                         <date>1667-11-09</date>
+                        <note>Das Original datiert vom 10. November.</note>
                      </bibl>
                      <bibl>
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
@@ -20682,7 +20691,7 @@
                   <label>1667-11-12</label>
                   <desc>Den 12. 3 brieff in Spanien geschriben.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-01055">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
                         <date>1667-11-12</date>
@@ -20713,7 +20722,7 @@
                         </title>
                         <date>1667-11-16</date>
                      </bibl>
-                     <bibl>
+                     <bibl key="lb-00530">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-69">Prag</rs>
                         </title>
                         <date>1667-11-16</date>
@@ -20739,7 +20748,7 @@
                   <label>1667-11-20</label>
                   <desc>Den 20. 3 briff in Spanien geschriben.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-01056">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
                         <date>1667-11-20</date>
@@ -20760,7 +20769,7 @@
                   <label>1667-11-23</label>
                   <desc>Den 23. 3 briff in Spanien geschriben.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-01057">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
                         <date>1667-11-23</date>
@@ -20797,20 +20806,22 @@
                   <label>1667-11-26</label>
                   <desc>Den 26. <hi rend="unclear">…</hi>. 3 briff in Spanien geschriben.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-01058">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
                         <date>1667-11-26</date>
                      </bibl>
                      <bibl>
-                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
+                        <title>Leopold an <rs type="person" ref="#lb-person-75">Maria Anna (Mariana) von Österreich</rs>[ermittelt] nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
                         <date>1667-11-26</date>
+                        <note>Erwähnt in lb-01058</note>
                      </bibl>
                      <bibl>
-                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
+                        <title>Leopold an <rs type="person" ref="#lb-person-159">Johann Eberhard Neidhardt</rs>[ermittelt] nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
                         <date>1667-11-26</date>
+                        <note>Erwähnt in lb-01058</note>
                      </bibl>
                   </listBibl>
                </event>
@@ -20829,7 +20840,7 @@
                   <label>1667-11-30</label>
                   <desc>Den 30. 3 briff auf Prag, 1 auf Inspruch vnd 1 in Bayrn geschriben.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-00531">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-69">Prag</rs>
                         </title>
                         <date>1667-11-30</date>
@@ -20860,7 +20871,7 @@
                   <label>1667-12-03</label>
                   <desc>Den 3. 10b<hi rend="unclear">ris</hi> habe ich 3 briff in Spanien geschriben.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-01059">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
                         <date>1667-12-03</date>
@@ -20881,15 +20892,17 @@
                   <label>1667-12-07</label>
                   <desc>Den 7. 2 briev in Spanien geschriben.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-01060">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
                         <date>1667-12-07</date>
+                        <note>Das Original datiert vom 8. Dezember.</note>
                      </bibl>
                      <bibl>
-                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
+                        <title>Leopold an <rs type="person" ref="#lb-person-75">Maria Anna (Mariana) von Österreich</rs>[ermittelt] nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
                         <date>1667-12-07</date>
+                        <note>Erwähnt in lb-01060.</note>
                      </bibl>
                   </listBibl>
                </event>
@@ -20897,15 +20910,17 @@
                   <label>1667-12-10</label>
                   <desc>Den 10. 2 briff in Spanien geschriben.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-01061">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
                         <date>1667-12-10</date>
+                        <note>Das Original datiert vom 11. Dezember.</note>
                      </bibl>
                      <bibl>
-                        <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
+                        <title>Leopold an <rs type="person" ref="#lb-person-75">Maria Anna (Mariana) von Österreich</rs>[ermittelt] nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
                         <date>1667-12-10</date>
+                        <note>Erwähnt in lb-01061.</note>
                      </bibl>
                   </listBibl>
                </event>
@@ -20913,7 +20928,7 @@
                   <label>1667-12-13</label>
                   <desc>Den 13. 2 eodem vnd 1 in Tyrol.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-01062">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
                         <date>1667-12-13</date>
@@ -20955,10 +20970,11 @@
                   <label>1667-12-17</label>
                   <desc>Den <hi rend="del">18.</hi> 17. vnd 18. 3 brieff in Spanien geschriben.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-01063">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
                         <date>1667-12-17</date>
+                        <note>Das Original datiert vom 17. Dezember.</note>
                      </bibl>
                      <bibl>
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
@@ -20992,7 +21008,7 @@
                   <label>1667-12-21</label>
                   <desc>Den 21. 3 briff in Spanien geschriben.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-01064">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
                         <date>1667-12-21</date>
@@ -21046,23 +21062,23 @@
                   </listBibl>
                </event>
                <event xml:id="lb-cal-1099">
-                  <label>1667-12-30</label>
-                  <desc>Den 30. 3 briff in Spanien geschriben.</desc>
+                  <label>1667-12-31</label>
+                  <desc>Den 31. <hi rend="unclear">30.?</hi> 3 briff in Spanien geschriben.</desc>
                   <listBibl>
-                     <bibl>
+                     <bibl key="lb-01065">
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
-                        <date>1667-12-30</date>
+                        <date>1667-12-31</date>
                      </bibl>
                      <bibl>
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
-                        <date>1667-12-30</date>
+                        <date>1667-12-31</date>
                      </bibl>
                      <bibl>
                         <title>Leopold an Unbekannt nach <rs type="place" ref="lb-place-39">Spanien</rs>
                         </title>
-                        <date>1667-12-30</date>
+                        <date>1667-12-31</date>
                      </bibl>
                   </listBibl>
                </event>
