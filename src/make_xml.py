@@ -83,7 +83,7 @@ def add_letter_label(file, mentioned=False):
     received = ".//tei:correspAction[@type='received']"
     for x in doc.any_xpath(".//tei:correspDesc[@xml:id]"):
         sender = (any_xpath(x, f"{sent}/tei:persName/text()") or ["Leopold I."])[0]
-        receiver = (any_xpath(x, f"{received}/tei:persName/text()") or ["Ungenannt"])[0]
+        receiver = (any_xpath(x, f"{received}/tei:persName[not(@type='addressee_worked_out')]/text()") or ["Ungenannt"])[0]
         date = (any_xpath(x, f"{sent}/tei:date/text()") or ["Unbekannt"])[0]
         # place: sent for original letters, received for mentioned letters ("destination" column)
         place_corresp_action = received if mentioned else sent
