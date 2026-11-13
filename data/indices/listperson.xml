@@ -525,8 +525,12 @@
                <person xml:id="lb-person-276" n="Antonia de Mendoza y Orense, condesa de Benavente">
                   <persName type="preferred">Antonia de Mendoza y Orense, condesa de Benavente</persName>
                </person>
-               <person xml:id="lb-person-277" n="">
-                  <persName type="preferred"/>
+               <person xml:id="lb-person-277" n="Ottone Enrico del Carretto, Marchese di Savona e di Grana, Conte di Millesimo">
+                  <persName type="preferred">Ottone Enrico del Carretto, Marchese di Savona e di Grana, Conte di Millesimo</persName>
+                  <persName type="parts">
+                     <forename>Ottone Enrico</forename>
+                     <surname>Carreto</surname>
+                  </persName>
                </person>
             </listPerson>
          </div>
