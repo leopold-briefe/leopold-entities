@@ -85894,125 +85894,14 @@
   "1140": {
     "id": 1140,
     "order": "1030.00000000000000000000",
-    "not_before": "1668-07-01",
-    "text": "Den [!] Julij 1668 habe ich 3 brieff in Spanien, 1 in Bohaimb v[n]d 1 auf Cölln geschriben.",
-    "not_after": "1668-06-06",
+    "not_before": "1668-07-04",
+    "text": "Den \\[4.\\] Julij 1668 habe ich 3 brieff in Spanien, 1 in Bohaimb v\\[n\\]d 1 auf Cölln geschriben.",
+    "not_after": "1668-07-04",
     "folio": "75r",
     "file_name": "",
     "lb_id": "lb-cal-1140",
     "places": [],
-    "mentioned_letters": [
-      {
-        "id": 3512,
-        "order": "3193.00000000000000000000",
-        "not_before": "1668-07-01",
-        "not_after": "1668-07-06",
-        "addressee_stated": [],
-        "courier": [],
-        "destination": [
-          {
-            "id": 39,
-            "value": "Spanien",
-            "order": "7.00000000000000000000"
-          }
-        ],
-        "dictated_letter": false,
-        "note": "",
-        "addressee_worked_out": [],
-        "original_letter": [],
-        "correct_date": null,
-        "lb_id": "lb-ml-3512",
-        "addressee_worked_out_source": []
-      },
-      {
-        "id": 3513,
-        "order": "3194.00000000000000000000",
-        "not_before": "1668-07-01",
-        "not_after": "1668-07-06",
-        "addressee_stated": [],
-        "courier": [],
-        "destination": [
-          {
-            "id": 39,
-            "value": "Spanien",
-            "order": "7.00000000000000000000"
-          }
-        ],
-        "dictated_letter": false,
-        "note": "",
-        "addressee_worked_out": [],
-        "original_letter": [],
-        "correct_date": null,
-        "lb_id": "lb-ml-3513",
-        "addressee_worked_out_source": []
-      },
-      {
-        "id": 3514,
-        "order": "3195.00000000000000000000",
-        "not_before": "1668-07-01",
-        "not_after": "1668-07-06",
-        "addressee_stated": [],
-        "courier": [],
-        "destination": [
-          {
-            "id": 39,
-            "value": "Spanien",
-            "order": "7.00000000000000000000"
-          }
-        ],
-        "dictated_letter": false,
-        "note": "",
-        "addressee_worked_out": [],
-        "original_letter": [],
-        "correct_date": null,
-        "lb_id": "lb-ml-3514",
-        "addressee_worked_out_source": []
-      },
-      {
-        "id": 3515,
-        "order": "3196.00000000000000000000",
-        "not_before": "1668-07-01",
-        "not_after": "1668-07-06",
-        "addressee_stated": [],
-        "courier": [],
-        "destination": [
-          {
-            "id": 275,
-            "value": "Böhmen",
-            "order": "88.00000000000000000000"
-          }
-        ],
-        "dictated_letter": false,
-        "note": "",
-        "addressee_worked_out": [],
-        "original_letter": [],
-        "correct_date": null,
-        "lb_id": "lb-ml-3515",
-        "addressee_worked_out_source": []
-      },
-      {
-        "id": 3516,
-        "order": "3197.00000000000000000000",
-        "not_before": "1668-07-01",
-        "not_after": "1668-07-06",
-        "addressee_stated": [],
-        "courier": [],
-        "destination": [
-          {
-            "id": 179,
-            "value": "Köln",
-            "order": "57.00000000000000000000"
-          }
-        ],
-        "dictated_letter": false,
-        "note": "",
-        "addressee_worked_out": [],
-        "original_letter": [],
-        "correct_date": null,
-        "lb_id": "lb-ml-3516",
-        "addressee_worked_out_source": []
-      }
-    ]
+    "mentioned_letters": []
   },
   "1141": {
     "id": 1141,
