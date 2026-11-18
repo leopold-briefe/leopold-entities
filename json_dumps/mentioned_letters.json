@@ -95801,5 +95801,4815 @@
     "correct_date": null,
     "lb_id": "lb-ml-3610",
     "addressee_worked_out_source": []
+  },
+  "3612": {
+    "id": 3612,
+    "order": "3292.00000000000000000000",
+    "not_before": "1669-01-02",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 39,
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3612",
+    "addressee_worked_out_source": []
+  },
+  "3613": {
+    "id": 3613,
+    "order": "3293.00000000000000000000",
+    "not_before": "1669-01-02",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 39,
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3613",
+    "addressee_worked_out_source": []
+  },
+  "3614": {
+    "id": 3614,
+    "order": "3294.00000000000000000000",
+    "not_before": "1669-01-02",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 39,
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3614",
+    "addressee_worked_out_source": []
+  },
+  "3615": {
+    "id": 3615,
+    "order": "3295.00000000000000000000",
+    "not_before": "1669-01-09",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 38,
+        "order": "6.00000000000000000000",
+        "label": "Bayern",
+        "lb_id": "lb-place-38",
+        "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
+        "latitude": "49.00000",
+        "longitude": "11.50000",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3615",
+    "addressee_worked_out_source": []
+  },
+  "3616": {
+    "id": 3616,
+    "order": "3296.00000000000000000000",
+    "not_before": "1669-01-09",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 161,
+        "order": "39.00000000000000000000",
+        "label": "Tirol",
+        "lb_id": "lb-place-161",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
+        "gnd_url": "",
+        "endonym": ""
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3616",
+    "addressee_worked_out_source": []
+  },
+  "3617": {
+    "id": 3617,
+    "order": "3297.00000000000000000000",
+    "not_before": "1669-01-09",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 179,
+        "order": "57.00000000000000000000",
+        "label": "Köln",
+        "lb_id": "lb-place-179",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
+        "gnd_url": "",
+        "endonym": ""
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3617",
+    "addressee_worked_out_source": []
+  },
+  "3618": {
+    "id": 3618,
+    "order": "3298.00000000000000000000",
+    "not_before": "1669-01-16",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 39,
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3618",
+    "addressee_worked_out_source": []
+  },
+  "3619": {
+    "id": 3619,
+    "order": "3299.00000000000000000000",
+    "not_before": "1669-01-16",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 39,
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3619",
+    "addressee_worked_out_source": []
+  },
+  "3620": {
+    "id": 3620,
+    "order": "3300.00000000000000000000",
+    "not_before": "1669-01-16",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 39,
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3620",
+    "addressee_worked_out_source": []
+  },
+  "3621": {
+    "id": 3621,
+    "order": "3301.00000000000000000000",
+    "not_before": "1669-01-16",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 275,
+        "order": "88.00000000000000000000",
+        "label": "Böhmen",
+        "lb_id": "lb-place-275",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
+        "gnd_url": "",
+        "endonym": ""
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3621",
+    "addressee_worked_out_source": []
+  },
+  "3622": {
+    "id": 3622,
+    "order": "3302.00000000000000000000",
+    "not_before": "1669-01-16",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 275,
+        "order": "88.00000000000000000000",
+        "label": "Böhmen",
+        "lb_id": "lb-place-275",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
+        "gnd_url": "",
+        "endonym": ""
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3622",
+    "addressee_worked_out_source": []
+  },
+  "3623": {
+    "id": 3623,
+    "order": "3303.00000000000000000000",
+    "not_before": "1669-01-18",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [
+      {
+        "id": 278,
+        "value": "Francisco Offeral",
+        "order": "52.00000000000000000000"
+      }
+    ],
+    "destination": [
+      {
+        "id": 39,
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3623",
+    "addressee_worked_out_source": []
+  },
+  "3624": {
+    "id": 3624,
+    "order": "3304.00000000000000000000",
+    "not_before": "1669-01-18",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [
+      {
+        "id": 278,
+        "value": "Francisco Offeral",
+        "order": "52.00000000000000000000"
+      }
+    ],
+    "destination": [
+      {
+        "id": 39,
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3624",
+    "addressee_worked_out_source": []
+  },
+  "3625": {
+    "id": 3625,
+    "order": "3305.00000000000000000000",
+    "not_before": "1669-01-18",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [
+      {
+        "id": 278,
+        "value": "Francisco Offeral",
+        "order": "52.00000000000000000000"
+      }
+    ],
+    "destination": [
+      {
+        "id": 39,
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3625",
+    "addressee_worked_out_source": []
+  },
+  "3626": {
+    "id": 3626,
+    "order": "3306.00000000000000000000",
+    "not_before": "1669-01-19",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 161,
+        "order": "39.00000000000000000000",
+        "label": "Tirol",
+        "lb_id": "lb-place-161",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
+        "gnd_url": "",
+        "endonym": ""
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3626",
+    "addressee_worked_out_source": []
+  },
+  "3627": {
+    "id": 3627,
+    "order": "3307.00000000000000000000",
+    "not_before": "1669-01-19",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 161,
+        "order": "39.00000000000000000000",
+        "label": "Tirol",
+        "lb_id": "lb-place-161",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
+        "gnd_url": "",
+        "endonym": ""
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3627",
+    "addressee_worked_out_source": []
+  },
+  "3628": {
+    "id": 3628,
+    "order": "3308.00000000000000000000",
+    "not_before": "1669-01-19",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 161,
+        "order": "39.00000000000000000000",
+        "label": "Tirol",
+        "lb_id": "lb-place-161",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
+        "gnd_url": "",
+        "endonym": ""
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3628",
+    "addressee_worked_out_source": []
+  },
+  "3629": {
+    "id": 3629,
+    "order": "3309.00000000000000000000",
+    "not_before": "1669-01-19",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 38,
+        "order": "6.00000000000000000000",
+        "label": "Bayern",
+        "lb_id": "lb-place-38",
+        "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
+        "latitude": "49.00000",
+        "longitude": "11.50000",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3629",
+    "addressee_worked_out_source": []
+  },
+  "3630": {
+    "id": 3630,
+    "order": "3310.00000000000000000000",
+    "not_before": "1669-01-19",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 38,
+        "order": "6.00000000000000000000",
+        "label": "Bayern",
+        "lb_id": "lb-place-38",
+        "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
+        "latitude": "49.00000",
+        "longitude": "11.50000",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3630",
+    "addressee_worked_out_source": []
+  },
+  "3631": {
+    "id": 3631,
+    "order": "3311.00000000000000000000",
+    "not_before": "1669-01-19",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 41,
+        "order": "9.00000000000000000000",
+        "label": "Frankreich",
+        "lb_id": "lb-place-41",
+        "geonames_url": "https://www.geonames.org/3017382/republic-of-france.html",
+        "latitude": "46.00000",
+        "longitude": "2.00000",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3631",
+    "addressee_worked_out_source": []
+  },
+  "3632": {
+    "id": 3632,
+    "order": "3312.00000000000000000000",
+    "not_before": "1669-01-19",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 41,
+        "order": "9.00000000000000000000",
+        "label": "Frankreich",
+        "lb_id": "lb-place-41",
+        "geonames_url": "https://www.geonames.org/3017382/republic-of-france.html",
+        "latitude": "46.00000",
+        "longitude": "2.00000",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3632",
+    "addressee_worked_out_source": []
+  },
+  "3633": {
+    "id": 3633,
+    "order": "3313.00000000000000000000",
+    "not_before": "1669-01-19",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 69,
+        "order": "11.00000000000000000000",
+        "label": "Prag",
+        "lb_id": "lb-place-69",
+        "geonames_url": "https://www.geonames.org/3067696/prague.html",
+        "latitude": "50.08804",
+        "longitude": "14.42076",
+        "gnd_url": "",
+        "endonym": "Praha"
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3633",
+    "addressee_worked_out_source": []
+  },
+  "3634": {
+    "id": 3634,
+    "order": "3314.00000000000000000000",
+    "not_before": "1669-01-19",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 228,
+        "order": "75.00000000000000000000",
+        "label": "Rom",
+        "lb_id": "lb-place-228",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
+        "gnd_url": "",
+        "endonym": ""
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3634",
+    "addressee_worked_out_source": []
+  },
+  "3635": {
+    "id": 3635,
+    "order": "3315.00000000000000000000",
+    "not_before": "1669-01-21",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 39,
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3635",
+    "addressee_worked_out_source": []
+  },
+  "3636": {
+    "id": 3636,
+    "order": "3316.00000000000000000000",
+    "not_before": "1669-01-21",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 39,
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3636",
+    "addressee_worked_out_source": []
+  },
+  "3637": {
+    "id": 3637,
+    "order": "3317.00000000000000000000",
+    "not_before": "1669-01-29",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 39,
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3637",
+    "addressee_worked_out_source": []
+  },
+  "3638": {
+    "id": 3638,
+    "order": "3318.00000000000000000000",
+    "not_before": "1669-01-29",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 39,
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3638",
+    "addressee_worked_out_source": []
+  },
+  "3639": {
+    "id": 3639,
+    "order": "3319.00000000000000000000",
+    "not_before": "1669-01-29",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 39,
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3639",
+    "addressee_worked_out_source": []
+  },
+  "3640": {
+    "id": 3640,
+    "order": "3320.00000000000000000000",
+    "not_before": "1669-01-29",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 161,
+        "order": "39.00000000000000000000",
+        "label": "Tirol",
+        "lb_id": "lb-place-161",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
+        "gnd_url": "",
+        "endonym": ""
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3640",
+    "addressee_worked_out_source": []
+  },
+  "3641": {
+    "id": 3641,
+    "order": "3321.00000000000000000000",
+    "not_before": "1669-01-29",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 161,
+        "order": "39.00000000000000000000",
+        "label": "Tirol",
+        "lb_id": "lb-place-161",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
+        "gnd_url": "",
+        "endonym": ""
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3641",
+    "addressee_worked_out_source": []
+  },
+  "3642": {
+    "id": 3642,
+    "order": "3322.00000000000000000000",
+    "not_before": "1669-01-29",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 161,
+        "order": "39.00000000000000000000",
+        "label": "Tirol",
+        "lb_id": "lb-place-161",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
+        "gnd_url": "",
+        "endonym": ""
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3642",
+    "addressee_worked_out_source": []
+  },
+  "3643": {
+    "id": 3643,
+    "order": "3323.00000000000000000000",
+    "not_before": "1669-01-29",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 38,
+        "order": "6.00000000000000000000",
+        "label": "Bayern",
+        "lb_id": "lb-place-38",
+        "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
+        "latitude": "49.00000",
+        "longitude": "11.50000",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3643",
+    "addressee_worked_out_source": []
+  },
+  "3644": {
+    "id": 3644,
+    "order": "3324.00000000000000000000",
+    "not_before": "1669-02-06",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 69,
+        "order": "11.00000000000000000000",
+        "label": "Prag",
+        "lb_id": "lb-place-69",
+        "geonames_url": "https://www.geonames.org/3067696/prague.html",
+        "latitude": "50.08804",
+        "longitude": "14.42076",
+        "gnd_url": "",
+        "endonym": "Praha"
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3644",
+    "addressee_worked_out_source": []
+  },
+  "3645": {
+    "id": 3645,
+    "order": "3325.00000000000000000000",
+    "not_before": "1669-02-06",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 69,
+        "order": "11.00000000000000000000",
+        "label": "Prag",
+        "lb_id": "lb-place-69",
+        "geonames_url": "https://www.geonames.org/3067696/prague.html",
+        "latitude": "50.08804",
+        "longitude": "14.42076",
+        "gnd_url": "",
+        "endonym": "Praha"
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3645",
+    "addressee_worked_out_source": []
+  },
+  "3646": {
+    "id": 3646,
+    "order": "3326.00000000000000000000",
+    "not_before": "1669-02-06",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 36,
+        "order": "4.00000000000000000000",
+        "label": "München",
+        "lb_id": "lb-place-36",
+        "geonames_url": "https://www.geonames.org/2867714/munich.html",
+        "latitude": "48.13743",
+        "longitude": "11.57549",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3646",
+    "addressee_worked_out_source": []
+  },
+  "3647": {
+    "id": 3647,
+    "order": "3327.00000000000000000000",
+    "not_before": "1669-02-13",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 39,
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3647",
+    "addressee_worked_out_source": []
+  },
+  "3648": {
+    "id": 3648,
+    "order": "3328.00000000000000000000",
+    "not_before": "1669-02-13",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 39,
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3648",
+    "addressee_worked_out_source": []
+  },
+  "3649": {
+    "id": 3649,
+    "order": "3329.00000000000000000000",
+    "not_before": "1669-02-13",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 39,
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3649",
+    "addressee_worked_out_source": []
+  },
+  "3650": {
+    "id": 3650,
+    "order": "3330.00000000000000000000",
+    "not_before": "1669-02-13",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 161,
+        "order": "39.00000000000000000000",
+        "label": "Tirol",
+        "lb_id": "lb-place-161",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
+        "gnd_url": "",
+        "endonym": ""
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3650",
+    "addressee_worked_out_source": []
+  },
+  "3651": {
+    "id": 3651,
+    "order": "3331.00000000000000000000",
+    "not_before": "1669-02-24",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 69,
+        "order": "11.00000000000000000000",
+        "label": "Prag",
+        "lb_id": "lb-place-69",
+        "geonames_url": "https://www.geonames.org/3067696/prague.html",
+        "latitude": "50.08804",
+        "longitude": "14.42076",
+        "gnd_url": "",
+        "endonym": "Praha"
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3651",
+    "addressee_worked_out_source": []
+  },
+  "3652": {
+    "id": 3652,
+    "order": "3332.00000000000000000000",
+    "not_before": "1669-02-24",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 69,
+        "order": "11.00000000000000000000",
+        "label": "Prag",
+        "lb_id": "lb-place-69",
+        "geonames_url": "https://www.geonames.org/3067696/prague.html",
+        "latitude": "50.08804",
+        "longitude": "14.42076",
+        "gnd_url": "",
+        "endonym": "Praha"
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3652",
+    "addressee_worked_out_source": []
+  },
+  "3653": {
+    "id": 3653,
+    "order": "3333.00000000000000000000",
+    "not_before": "1669-02-27",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 39,
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3653",
+    "addressee_worked_out_source": []
+  },
+  "3654": {
+    "id": 3654,
+    "order": "3334.00000000000000000000",
+    "not_before": "1669-02-27",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 39,
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3654",
+    "addressee_worked_out_source": []
+  },
+  "3655": {
+    "id": 3655,
+    "order": "3335.00000000000000000000",
+    "not_before": "1669-02-27",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 39,
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3655",
+    "addressee_worked_out_source": []
+  },
+  "3656": {
+    "id": 3656,
+    "order": "3336.00000000000000000000",
+    "not_before": "1669-02-27",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 161,
+        "order": "39.00000000000000000000",
+        "label": "Tirol",
+        "lb_id": "lb-place-161",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
+        "gnd_url": "",
+        "endonym": ""
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3656",
+    "addressee_worked_out_source": []
+  },
+  "3657": {
+    "id": 3657,
+    "order": "3337.00000000000000000000",
+    "not_before": "1669-03-06",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 161,
+        "order": "39.00000000000000000000",
+        "label": "Tirol",
+        "lb_id": "lb-place-161",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
+        "gnd_url": "",
+        "endonym": ""
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3657",
+    "addressee_worked_out_source": []
+  },
+  "3658": {
+    "id": 3658,
+    "order": "3338.00000000000000000000",
+    "not_before": "1669-03-06",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 38,
+        "order": "6.00000000000000000000",
+        "label": "Bayern",
+        "lb_id": "lb-place-38",
+        "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
+        "latitude": "49.00000",
+        "longitude": "11.50000",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3658",
+    "addressee_worked_out_source": []
+  },
+  "3659": {
+    "id": 3659,
+    "order": "3339.00000000000000000000",
+    "not_before": "1669-03-06",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 228,
+        "order": "75.00000000000000000000",
+        "label": "Rom",
+        "lb_id": "lb-place-228",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
+        "gnd_url": "",
+        "endonym": ""
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3659",
+    "addressee_worked_out_source": []
+  },
+  "3660": {
+    "id": 3660,
+    "order": "3340.00000000000000000000",
+    "not_before": "1669-03-13",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 39,
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3660",
+    "addressee_worked_out_source": []
+  },
+  "3661": {
+    "id": 3661,
+    "order": "3341.00000000000000000000",
+    "not_before": "1669-03-13",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 39,
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3661",
+    "addressee_worked_out_source": []
+  },
+  "3662": {
+    "id": 3662,
+    "order": "3342.00000000000000000000",
+    "not_before": "1669-03-13",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 39,
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3662",
+    "addressee_worked_out_source": []
+  },
+  "3663": {
+    "id": 3663,
+    "order": "3343.00000000000000000000",
+    "not_before": "1669-03-20",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 69,
+        "order": "11.00000000000000000000",
+        "label": "Prag",
+        "lb_id": "lb-place-69",
+        "geonames_url": "https://www.geonames.org/3067696/prague.html",
+        "latitude": "50.08804",
+        "longitude": "14.42076",
+        "gnd_url": "",
+        "endonym": "Praha"
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3663",
+    "addressee_worked_out_source": []
+  },
+  "3664": {
+    "id": 3664,
+    "order": "3344.00000000000000000000",
+    "not_before": "1669-03-20",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 69,
+        "order": "11.00000000000000000000",
+        "label": "Prag",
+        "lb_id": "lb-place-69",
+        "geonames_url": "https://www.geonames.org/3067696/prague.html",
+        "latitude": "50.08804",
+        "longitude": "14.42076",
+        "gnd_url": "",
+        "endonym": "Praha"
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3664",
+    "addressee_worked_out_source": []
+  },
+  "3665": {
+    "id": 3665,
+    "order": "3345.00000000000000000000",
+    "not_before": "1669-03-20",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 69,
+        "order": "11.00000000000000000000",
+        "label": "Prag",
+        "lb_id": "lb-place-69",
+        "geonames_url": "https://www.geonames.org/3067696/prague.html",
+        "latitude": "50.08804",
+        "longitude": "14.42076",
+        "gnd_url": "",
+        "endonym": "Praha"
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3665",
+    "addressee_worked_out_source": []
+  },
+  "3666": {
+    "id": 3666,
+    "order": "3346.00000000000000000000",
+    "not_before": "1669-03-20",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 161,
+        "order": "39.00000000000000000000",
+        "label": "Tirol",
+        "lb_id": "lb-place-161",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
+        "gnd_url": "",
+        "endonym": ""
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3666",
+    "addressee_worked_out_source": []
+  },
+  "3667": {
+    "id": 3667,
+    "order": "3347.00000000000000000000",
+    "not_before": "1669-03-20",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 161,
+        "order": "39.00000000000000000000",
+        "label": "Tirol",
+        "lb_id": "lb-place-161",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
+        "gnd_url": "",
+        "endonym": ""
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3667",
+    "addressee_worked_out_source": []
+  },
+  "3668": {
+    "id": 3668,
+    "order": "3348.00000000000000000000",
+    "not_before": "1669-03-27",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 39,
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3668",
+    "addressee_worked_out_source": []
+  },
+  "3669": {
+    "id": 3669,
+    "order": "3349.00000000000000000000",
+    "not_before": "1669-03-27",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 39,
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3669",
+    "addressee_worked_out_source": []
+  },
+  "3670": {
+    "id": 3670,
+    "order": "3350.00000000000000000000",
+    "not_before": "1669-03-27",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 39,
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3670",
+    "addressee_worked_out_source": []
+  },
+  "3671": {
+    "id": 3671,
+    "order": "3351.00000000000000000000",
+    "not_before": "1669-04-04",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 161,
+        "order": "39.00000000000000000000",
+        "label": "Tirol",
+        "lb_id": "lb-place-161",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
+        "gnd_url": "",
+        "endonym": ""
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3671",
+    "addressee_worked_out_source": []
+  },
+  "3672": {
+    "id": 3672,
+    "order": "3352.00000000000000000000",
+    "not_before": "1669-04-04",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 38,
+        "order": "6.00000000000000000000",
+        "label": "Bayern",
+        "lb_id": "lb-place-38",
+        "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
+        "latitude": "49.00000",
+        "longitude": "11.50000",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3672",
+    "addressee_worked_out_source": []
+  },
+  "3673": {
+    "id": 3673,
+    "order": "3353.00000000000000000000",
+    "not_before": "1669-04-10",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 39,
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3673",
+    "addressee_worked_out_source": []
+  },
+  "3674": {
+    "id": 3674,
+    "order": "3354.00000000000000000000",
+    "not_before": "1669-04-10",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 39,
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3674",
+    "addressee_worked_out_source": []
+  },
+  "3675": {
+    "id": 3675,
+    "order": "3355.00000000000000000000",
+    "not_before": "1669-04-10",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 39,
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3675",
+    "addressee_worked_out_source": []
+  },
+  "3676": {
+    "id": 3676,
+    "order": "3356.00000000000000000000",
+    "not_before": "1669-04-10",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 39,
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3676",
+    "addressee_worked_out_source": []
+  },
+  "3677": {
+    "id": 3677,
+    "order": "3357.00000000000000000000",
+    "not_before": "1669-04-13",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 69,
+        "order": "11.00000000000000000000",
+        "label": "Prag",
+        "lb_id": "lb-place-69",
+        "geonames_url": "https://www.geonames.org/3067696/prague.html",
+        "latitude": "50.08804",
+        "longitude": "14.42076",
+        "gnd_url": "",
+        "endonym": "Praha"
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3677",
+    "addressee_worked_out_source": []
+  },
+  "3678": {
+    "id": 3678,
+    "order": "3358.00000000000000000000",
+    "not_before": "1669-04-13",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 38,
+        "order": "6.00000000000000000000",
+        "label": "Bayern",
+        "lb_id": "lb-place-38",
+        "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
+        "latitude": "49.00000",
+        "longitude": "11.50000",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3678",
+    "addressee_worked_out_source": []
+  },
+  "3679": {
+    "id": 3679,
+    "order": "3359.00000000000000000000",
+    "not_before": "1669-04-18",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 161,
+        "order": "39.00000000000000000000",
+        "label": "Tirol",
+        "lb_id": "lb-place-161",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
+        "gnd_url": "",
+        "endonym": ""
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3679",
+    "addressee_worked_out_source": []
+  },
+  "3680": {
+    "id": 3680,
+    "order": "3360.00000000000000000000",
+    "not_before": "1669-04-24",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 39,
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3680",
+    "addressee_worked_out_source": []
+  },
+  "3681": {
+    "id": 3681,
+    "order": "3361.00000000000000000000",
+    "not_before": "1669-04-24",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 39,
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3681",
+    "addressee_worked_out_source": []
+  },
+  "3682": {
+    "id": 3682,
+    "order": "3362.00000000000000000000",
+    "not_before": "1669-05-01",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 69,
+        "order": "11.00000000000000000000",
+        "label": "Prag",
+        "lb_id": "lb-place-69",
+        "geonames_url": "https://www.geonames.org/3067696/prague.html",
+        "latitude": "50.08804",
+        "longitude": "14.42076",
+        "gnd_url": "",
+        "endonym": "Praha"
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3682",
+    "addressee_worked_out_source": []
+  },
+  "3683": {
+    "id": 3683,
+    "order": "3363.00000000000000000000",
+    "not_before": "1669-05-01",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 69,
+        "order": "11.00000000000000000000",
+        "label": "Prag",
+        "lb_id": "lb-place-69",
+        "geonames_url": "https://www.geonames.org/3067696/prague.html",
+        "latitude": "50.08804",
+        "longitude": "14.42076",
+        "gnd_url": "",
+        "endonym": "Praha"
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3683",
+    "addressee_worked_out_source": []
+  },
+  "3684": {
+    "id": 3684,
+    "order": "3364.00000000000000000000",
+    "not_before": "1669-05-01",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 161,
+        "order": "39.00000000000000000000",
+        "label": "Tirol",
+        "lb_id": "lb-place-161",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
+        "gnd_url": "",
+        "endonym": ""
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3684",
+    "addressee_worked_out_source": []
+  },
+  "3685": {
+    "id": 3685,
+    "order": "3365.00000000000000000000",
+    "not_before": "1669-05-01",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 38,
+        "order": "6.00000000000000000000",
+        "label": "Bayern",
+        "lb_id": "lb-place-38",
+        "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
+        "latitude": "49.00000",
+        "longitude": "11.50000",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3685",
+    "addressee_worked_out_source": []
+  },
+  "3686": {
+    "id": 3686,
+    "order": "3366.00000000000000000000",
+    "not_before": "1669-05-08",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 39,
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3686",
+    "addressee_worked_out_source": []
+  },
+  "3687": {
+    "id": 3687,
+    "order": "3367.00000000000000000000",
+    "not_before": "1669-05-08",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 39,
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3687",
+    "addressee_worked_out_source": []
+  },
+  "3688": {
+    "id": 3688,
+    "order": "3368.00000000000000000000",
+    "not_before": "1669-05-15",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 69,
+        "order": "11.00000000000000000000",
+        "label": "Prag",
+        "lb_id": "lb-place-69",
+        "geonames_url": "https://www.geonames.org/3067696/prague.html",
+        "latitude": "50.08804",
+        "longitude": "14.42076",
+        "gnd_url": "",
+        "endonym": "Praha"
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3688",
+    "addressee_worked_out_source": []
+  },
+  "3689": {
+    "id": 3689,
+    "order": "3369.00000000000000000000",
+    "not_before": "1669-05-15",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 69,
+        "order": "11.00000000000000000000",
+        "label": "Prag",
+        "lb_id": "lb-place-69",
+        "geonames_url": "https://www.geonames.org/3067696/prague.html",
+        "latitude": "50.08804",
+        "longitude": "14.42076",
+        "gnd_url": "",
+        "endonym": "Praha"
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3689",
+    "addressee_worked_out_source": []
+  },
+  "3690": {
+    "id": 3690,
+    "order": "3370.00000000000000000000",
+    "not_before": "1669-05-15",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 161,
+        "order": "39.00000000000000000000",
+        "label": "Tirol",
+        "lb_id": "lb-place-161",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
+        "gnd_url": "",
+        "endonym": ""
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3690",
+    "addressee_worked_out_source": []
+  },
+  "3692": {
+    "id": 3692,
+    "order": "3372.00000000000000000000",
+    "not_before": "1669-05-22",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 39,
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3692",
+    "addressee_worked_out_source": []
+  },
+  "3693": {
+    "id": 3693,
+    "order": "3373.00000000000000000000",
+    "not_before": "1669-05-29",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 161,
+        "order": "39.00000000000000000000",
+        "label": "Tirol",
+        "lb_id": "lb-place-161",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
+        "gnd_url": "",
+        "endonym": ""
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3693",
+    "addressee_worked_out_source": []
+  },
+  "3694": {
+    "id": 3694,
+    "order": "3374.00000000000000000000",
+    "not_before": "1669-06-05",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 39,
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3694",
+    "addressee_worked_out_source": []
+  },
+  "3695": {
+    "id": 3695,
+    "order": "3375.00000000000000000000",
+    "not_before": "1669-06-05",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 39,
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3695",
+    "addressee_worked_out_source": []
+  },
+  "3696": {
+    "id": 3696,
+    "order": "3376.00000000000000000000",
+    "not_before": "1669-06-05",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 161,
+        "order": "39.00000000000000000000",
+        "label": "Tirol",
+        "lb_id": "lb-place-161",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
+        "gnd_url": "",
+        "endonym": ""
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3696",
+    "addressee_worked_out_source": []
+  },
+  "3697": {
+    "id": 3697,
+    "order": "3377.00000000000000000000",
+    "not_before": "1669-06-05",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 161,
+        "order": "39.00000000000000000000",
+        "label": "Tirol",
+        "lb_id": "lb-place-161",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
+        "gnd_url": "",
+        "endonym": ""
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3697",
+    "addressee_worked_out_source": []
+  },
+  "3698": {
+    "id": 3698,
+    "order": "3378.00000000000000000000",
+    "not_before": "1669-06-19",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 39,
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3698",
+    "addressee_worked_out_source": []
+  },
+  "3699": {
+    "id": 3699,
+    "order": "3379.00000000000000000000",
+    "not_before": "1669-06-19",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 39,
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3699",
+    "addressee_worked_out_source": []
+  },
+  "3700": {
+    "id": 3700,
+    "order": "3380.00000000000000000000",
+    "not_before": "1669-06-26",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 69,
+        "order": "11.00000000000000000000",
+        "label": "Prag",
+        "lb_id": "lb-place-69",
+        "geonames_url": "https://www.geonames.org/3067696/prague.html",
+        "latitude": "50.08804",
+        "longitude": "14.42076",
+        "gnd_url": "",
+        "endonym": "Praha"
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3700",
+    "addressee_worked_out_source": []
+  },
+  "3701": {
+    "id": 3701,
+    "order": "3381.00000000000000000000",
+    "not_before": "1669-06-26",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 69,
+        "order": "11.00000000000000000000",
+        "label": "Prag",
+        "lb_id": "lb-place-69",
+        "geonames_url": "https://www.geonames.org/3067696/prague.html",
+        "latitude": "50.08804",
+        "longitude": "14.42076",
+        "gnd_url": "",
+        "endonym": "Praha"
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3701",
+    "addressee_worked_out_source": []
+  },
+  "3702": {
+    "id": 3702,
+    "order": "3382.00000000000000000000",
+    "not_before": "1669-06-26",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 69,
+        "order": "11.00000000000000000000",
+        "label": "Prag",
+        "lb_id": "lb-place-69",
+        "geonames_url": "https://www.geonames.org/3067696/prague.html",
+        "latitude": "50.08804",
+        "longitude": "14.42076",
+        "gnd_url": "",
+        "endonym": "Praha"
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3702",
+    "addressee_worked_out_source": []
+  },
+  "3703": {
+    "id": 3703,
+    "order": "3383.00000000000000000000",
+    "not_before": "1669-06-26",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 36,
+        "order": "4.00000000000000000000",
+        "label": "München",
+        "lb_id": "lb-place-36",
+        "geonames_url": "https://www.geonames.org/2867714/munich.html",
+        "latitude": "48.13743",
+        "longitude": "11.57549",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3703",
+    "addressee_worked_out_source": []
+  },
+  "3704": {
+    "id": 3704,
+    "order": "3384.00000000000000000000",
+    "not_before": "1669-06-26",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 160,
+        "order": "38.00000000000000000000",
+        "label": "Innsbruck",
+        "lb_id": "lb-place-160",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
+        "gnd_url": "",
+        "endonym": ""
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3704",
+    "addressee_worked_out_source": []
+  },
+  "3705": {
+    "id": 3705,
+    "order": "3385.00000000000000000000",
+    "not_before": "1669-07-03",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 39,
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3705",
+    "addressee_worked_out_source": []
+  },
+  "3706": {
+    "id": 3706,
+    "order": "3386.00000000000000000000",
+    "not_before": "1669-07-03",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 39,
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3706",
+    "addressee_worked_out_source": []
+  },
+  "3707": {
+    "id": 3707,
+    "order": "3387.00000000000000000000",
+    "not_before": "1669-07-03",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 39,
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3707",
+    "addressee_worked_out_source": []
+  },
+  "3708": {
+    "id": 3708,
+    "order": "3388.00000000000000000000",
+    "not_before": "1669-07-10",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 161,
+        "order": "39.00000000000000000000",
+        "label": "Tirol",
+        "lb_id": "lb-place-161",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
+        "gnd_url": "",
+        "endonym": ""
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3708",
+    "addressee_worked_out_source": []
+  },
+  "3709": {
+    "id": 3709,
+    "order": "3389.00000000000000000000",
+    "not_before": "1669-07-10",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 69,
+        "order": "11.00000000000000000000",
+        "label": "Prag",
+        "lb_id": "lb-place-69",
+        "geonames_url": "https://www.geonames.org/3067696/prague.html",
+        "latitude": "50.08804",
+        "longitude": "14.42076",
+        "gnd_url": "",
+        "endonym": "Praha"
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3709",
+    "addressee_worked_out_source": []
+  },
+  "3710": {
+    "id": 3710,
+    "order": "3390.00000000000000000000",
+    "not_before": "1669-07-10",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 69,
+        "order": "11.00000000000000000000",
+        "label": "Prag",
+        "lb_id": "lb-place-69",
+        "geonames_url": "https://www.geonames.org/3067696/prague.html",
+        "latitude": "50.08804",
+        "longitude": "14.42076",
+        "gnd_url": "",
+        "endonym": "Praha"
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3710",
+    "addressee_worked_out_source": []
+  },
+  "3711": {
+    "id": 3711,
+    "order": "3391.00000000000000000000",
+    "not_before": "1669-07-17",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 39,
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3711",
+    "addressee_worked_out_source": []
+  },
+  "3712": {
+    "id": 3712,
+    "order": "3392.00000000000000000000",
+    "not_before": "1669-07-17",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 39,
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3712",
+    "addressee_worked_out_source": []
+  },
+  "3713": {
+    "id": 3713,
+    "order": "3393.00000000000000000000",
+    "not_before": "1669-07-24",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 161,
+        "order": "39.00000000000000000000",
+        "label": "Tirol",
+        "lb_id": "lb-place-161",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
+        "gnd_url": "",
+        "endonym": ""
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3713",
+    "addressee_worked_out_source": []
+  },
+  "3714": {
+    "id": 3714,
+    "order": "3394.00000000000000000000",
+    "not_before": "1669-07-27",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 228,
+        "order": "75.00000000000000000000",
+        "label": "Rom",
+        "lb_id": "lb-place-228",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
+        "gnd_url": "",
+        "endonym": ""
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3714",
+    "addressee_worked_out_source": []
+  },
+  "3715": {
+    "id": 3715,
+    "order": "3395.00000000000000000000",
+    "not_before": "1669-07-31",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 39,
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3715",
+    "addressee_worked_out_source": []
+  },
+  "3716": {
+    "id": 3716,
+    "order": "3396.00000000000000000000",
+    "not_before": "1669-07-31",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 39,
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3716",
+    "addressee_worked_out_source": []
+  },
+  "3717": {
+    "id": 3717,
+    "order": "3397.00000000000000000000",
+    "not_before": "1669-08-07",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 38,
+        "order": "6.00000000000000000000",
+        "label": "Bayern",
+        "lb_id": "lb-place-38",
+        "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
+        "latitude": "49.00000",
+        "longitude": "11.50000",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3717",
+    "addressee_worked_out_source": []
+  },
+  "3718": {
+    "id": 3718,
+    "order": "3398.00000000000000000000",
+    "not_before": "1669-08-07",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 38,
+        "order": "6.00000000000000000000",
+        "label": "Bayern",
+        "lb_id": "lb-place-38",
+        "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
+        "latitude": "49.00000",
+        "longitude": "11.50000",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3718",
+    "addressee_worked_out_source": []
+  },
+  "3719": {
+    "id": 3719,
+    "order": "3399.00000000000000000000",
+    "not_before": "1669-08-07",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 69,
+        "order": "11.00000000000000000000",
+        "label": "Prag",
+        "lb_id": "lb-place-69",
+        "geonames_url": "https://www.geonames.org/3067696/prague.html",
+        "latitude": "50.08804",
+        "longitude": "14.42076",
+        "gnd_url": "",
+        "endonym": "Praha"
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3719",
+    "addressee_worked_out_source": []
+  },
+  "3720": {
+    "id": 3720,
+    "order": "3400.00000000000000000000",
+    "not_before": "1669-08-07",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 69,
+        "order": "11.00000000000000000000",
+        "label": "Prag",
+        "lb_id": "lb-place-69",
+        "geonames_url": "https://www.geonames.org/3067696/prague.html",
+        "latitude": "50.08804",
+        "longitude": "14.42076",
+        "gnd_url": "",
+        "endonym": "Praha"
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3720",
+    "addressee_worked_out_source": []
+  },
+  "3721": {
+    "id": 3721,
+    "order": "3401.00000000000000000000",
+    "not_before": "1669-08-07",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 161,
+        "order": "39.00000000000000000000",
+        "label": "Tirol",
+        "lb_id": "lb-place-161",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
+        "gnd_url": "",
+        "endonym": ""
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3721",
+    "addressee_worked_out_source": []
+  },
+  "3722": {
+    "id": 3722,
+    "order": "3402.00000000000000000000",
+    "not_before": "1669-08-07",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 161,
+        "order": "39.00000000000000000000",
+        "label": "Tirol",
+        "lb_id": "lb-place-161",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
+        "gnd_url": "",
+        "endonym": ""
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3722",
+    "addressee_worked_out_source": []
+  },
+  "3723": {
+    "id": 3723,
+    "order": "3403.00000000000000000000",
+    "not_before": "1669-08-14",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 39,
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3723",
+    "addressee_worked_out_source": []
+  },
+  "3724": {
+    "id": 3724,
+    "order": "3404.00000000000000000000",
+    "not_before": "1669-08-14",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 39,
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3724",
+    "addressee_worked_out_source": []
+  },
+  "3725": {
+    "id": 3725,
+    "order": "3405.00000000000000000000",
+    "not_before": "1669-08-21",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 161,
+        "order": "39.00000000000000000000",
+        "label": "Tirol",
+        "lb_id": "lb-place-161",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
+        "gnd_url": "",
+        "endonym": ""
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3725",
+    "addressee_worked_out_source": []
+  },
+  "3726": {
+    "id": 3726,
+    "order": "3406.00000000000000000000",
+    "not_before": "1669-08-28",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 39,
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3726",
+    "addressee_worked_out_source": []
+  },
+  "3727": {
+    "id": 3727,
+    "order": "3407.00000000000000000000",
+    "not_before": "1669-08-28",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 39,
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3727",
+    "addressee_worked_out_source": []
+  },
+  "3728": {
+    "id": 3728,
+    "order": "3408.00000000000000000000",
+    "not_before": "1669-08-31",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 69,
+        "order": "11.00000000000000000000",
+        "label": "Prag",
+        "lb_id": "lb-place-69",
+        "geonames_url": "https://www.geonames.org/3067696/prague.html",
+        "latitude": "50.08804",
+        "longitude": "14.42076",
+        "gnd_url": "",
+        "endonym": "Praha"
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3728",
+    "addressee_worked_out_source": []
+  },
+  "3729": {
+    "id": 3729,
+    "order": "3409.00000000000000000000",
+    "not_before": "1669-08-31",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 69,
+        "order": "11.00000000000000000000",
+        "label": "Prag",
+        "lb_id": "lb-place-69",
+        "geonames_url": "https://www.geonames.org/3067696/prague.html",
+        "latitude": "50.08804",
+        "longitude": "14.42076",
+        "gnd_url": "",
+        "endonym": "Praha"
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3729",
+    "addressee_worked_out_source": []
+  },
+  "3730": {
+    "id": 3730,
+    "order": "3410.00000000000000000000",
+    "not_before": "1669-08-31",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 69,
+        "order": "11.00000000000000000000",
+        "label": "Prag",
+        "lb_id": "lb-place-69",
+        "geonames_url": "https://www.geonames.org/3067696/prague.html",
+        "latitude": "50.08804",
+        "longitude": "14.42076",
+        "gnd_url": "",
+        "endonym": "Praha"
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3730",
+    "addressee_worked_out_source": []
+  },
+  "3731": {
+    "id": 3731,
+    "order": "3411.00000000000000000000",
+    "not_before": "1669-09-04",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 69,
+        "order": "11.00000000000000000000",
+        "label": "Prag",
+        "lb_id": "lb-place-69",
+        "geonames_url": "https://www.geonames.org/3067696/prague.html",
+        "latitude": "50.08804",
+        "longitude": "14.42076",
+        "gnd_url": "",
+        "endonym": "Praha"
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3731",
+    "addressee_worked_out_source": []
+  },
+  "3733": {
+    "id": 3733,
+    "order": "3413.00000000000000000000",
+    "not_before": "1669-09-04",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 161,
+        "order": "39.00000000000000000000",
+        "label": "Tirol",
+        "lb_id": "lb-place-161",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
+        "gnd_url": "",
+        "endonym": ""
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3733",
+    "addressee_worked_out_source": []
+  },
+  "3735": {
+    "id": 3735,
+    "order": "3415.00000000000000000000",
+    "not_before": "1669-09-11",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 39,
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3735",
+    "addressee_worked_out_source": []
+  },
+  "3736": {
+    "id": 3736,
+    "order": "3416.00000000000000000000",
+    "not_before": "1669-09-11",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 39,
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3736",
+    "addressee_worked_out_source": []
+  },
+  "3737": {
+    "id": 3737,
+    "order": "3417.00000000000000000000",
+    "not_before": "1669-09-18",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 69,
+        "order": "11.00000000000000000000",
+        "label": "Prag",
+        "lb_id": "lb-place-69",
+        "geonames_url": "https://www.geonames.org/3067696/prague.html",
+        "latitude": "50.08804",
+        "longitude": "14.42076",
+        "gnd_url": "",
+        "endonym": "Praha"
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3737",
+    "addressee_worked_out_source": []
+  },
+  "3738": {
+    "id": 3738,
+    "order": "3418.00000000000000000000",
+    "not_before": "1669-09-18",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 69,
+        "order": "11.00000000000000000000",
+        "label": "Prag",
+        "lb_id": "lb-place-69",
+        "geonames_url": "https://www.geonames.org/3067696/prague.html",
+        "latitude": "50.08804",
+        "longitude": "14.42076",
+        "gnd_url": "",
+        "endonym": "Praha"
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3738",
+    "addressee_worked_out_source": []
+  },
+  "3739": {
+    "id": 3739,
+    "order": "3419.00000000000000000000",
+    "not_before": "1669-09-18",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 161,
+        "order": "39.00000000000000000000",
+        "label": "Tirol",
+        "lb_id": "lb-place-161",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
+        "gnd_url": "",
+        "endonym": ""
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3739",
+    "addressee_worked_out_source": []
+  },
+  "3740": {
+    "id": 3740,
+    "order": "3420.00000000000000000000",
+    "not_before": "1669-09-18",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 38,
+        "order": "6.00000000000000000000",
+        "label": "Bayern",
+        "lb_id": "lb-place-38",
+        "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
+        "latitude": "49.00000",
+        "longitude": "11.50000",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3740",
+    "addressee_worked_out_source": []
+  },
+  "3741": {
+    "id": 3741,
+    "order": "3421.00000000000000000000",
+    "not_before": "1669-09-21",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 39,
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3741",
+    "addressee_worked_out_source": []
+  },
+  "3742": {
+    "id": 3742,
+    "order": "3422.00000000000000000000",
+    "not_before": "1669-09-21",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 39,
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3742",
+    "addressee_worked_out_source": []
+  },
+  "3743": {
+    "id": 3743,
+    "order": "3423.00000000000000000000",
+    "not_before": "1669-10-02",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 69,
+        "order": "11.00000000000000000000",
+        "label": "Prag",
+        "lb_id": "lb-place-69",
+        "geonames_url": "https://www.geonames.org/3067696/prague.html",
+        "latitude": "50.08804",
+        "longitude": "14.42076",
+        "gnd_url": "",
+        "endonym": "Praha"
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3743",
+    "addressee_worked_out_source": []
+  },
+  "3744": {
+    "id": 3744,
+    "order": "3424.00000000000000000000",
+    "not_before": "1669-10-02",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 69,
+        "order": "11.00000000000000000000",
+        "label": "Prag",
+        "lb_id": "lb-place-69",
+        "geonames_url": "https://www.geonames.org/3067696/prague.html",
+        "latitude": "50.08804",
+        "longitude": "14.42076",
+        "gnd_url": "",
+        "endonym": "Praha"
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3744",
+    "addressee_worked_out_source": []
+  },
+  "3745": {
+    "id": 3745,
+    "order": "3425.00000000000000000000",
+    "not_before": "1669-10-02",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 69,
+        "order": "11.00000000000000000000",
+        "label": "Prag",
+        "lb_id": "lb-place-69",
+        "geonames_url": "https://www.geonames.org/3067696/prague.html",
+        "latitude": "50.08804",
+        "longitude": "14.42076",
+        "gnd_url": "",
+        "endonym": "Praha"
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3745",
+    "addressee_worked_out_source": []
+  },
+  "3746": {
+    "id": 3746,
+    "order": "3426.00000000000000000000",
+    "not_before": "1669-10-02",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 161,
+        "order": "39.00000000000000000000",
+        "label": "Tirol",
+        "lb_id": "lb-place-161",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
+        "gnd_url": "",
+        "endonym": ""
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3746",
+    "addressee_worked_out_source": []
+  },
+  "3747": {
+    "id": 3747,
+    "order": "3427.00000000000000000000",
+    "not_before": "1669-10-02",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 38,
+        "order": "6.00000000000000000000",
+        "label": "Bayern",
+        "lb_id": "lb-place-38",
+        "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
+        "latitude": "49.00000",
+        "longitude": "11.50000",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3747",
+    "addressee_worked_out_source": []
+  },
+  "3748": {
+    "id": 3748,
+    "order": "3428.00000000000000000000",
+    "not_before": "1669-10-05",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 39,
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3748",
+    "addressee_worked_out_source": []
+  },
+  "3795": {
+    "id": 3795,
+    "order": "3428.50000000000000000000",
+    "not_before": "1669-10-05",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 39,
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3795",
+    "addressee_worked_out_source": []
+  },
+  "3749": {
+    "id": 3749,
+    "order": "3429.00000000000000000000",
+    "not_before": "1669-10-19",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 39,
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3749",
+    "addressee_worked_out_source": []
+  },
+  "3750": {
+    "id": 3750,
+    "order": "3430.00000000000000000000",
+    "not_before": "1669-10-19",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 39,
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3750",
+    "addressee_worked_out_source": []
+  },
+  "3751": {
+    "id": 3751,
+    "order": "3431.00000000000000000000",
+    "not_before": "1669-10-22",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 161,
+        "order": "39.00000000000000000000",
+        "label": "Tirol",
+        "lb_id": "lb-place-161",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
+        "gnd_url": "",
+        "endonym": ""
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3751",
+    "addressee_worked_out_source": []
+  },
+  "3752": {
+    "id": 3752,
+    "order": "3432.00000000000000000000",
+    "not_before": "1669-10-26",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 69,
+        "order": "11.00000000000000000000",
+        "label": "Prag",
+        "lb_id": "lb-place-69",
+        "geonames_url": "https://www.geonames.org/3067696/prague.html",
+        "latitude": "50.08804",
+        "longitude": "14.42076",
+        "gnd_url": "",
+        "endonym": "Praha"
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3752",
+    "addressee_worked_out_source": []
+  },
+  "3753": {
+    "id": 3753,
+    "order": "3433.00000000000000000000",
+    "not_before": "1669-10-26",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 69,
+        "order": "11.00000000000000000000",
+        "label": "Prag",
+        "lb_id": "lb-place-69",
+        "geonames_url": "https://www.geonames.org/3067696/prague.html",
+        "latitude": "50.08804",
+        "longitude": "14.42076",
+        "gnd_url": "",
+        "endonym": "Praha"
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3753",
+    "addressee_worked_out_source": []
+  },
+  "3754": {
+    "id": 3754,
+    "order": "3434.00000000000000000000",
+    "not_before": "1669-11-02",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 39,
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3754",
+    "addressee_worked_out_source": []
+  },
+  "3755": {
+    "id": 3755,
+    "order": "3435.00000000000000000000",
+    "not_before": "1669-11-02",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 39,
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3755",
+    "addressee_worked_out_source": []
+  },
+  "3756": {
+    "id": 3756,
+    "order": "3436.00000000000000000000",
+    "not_before": "1669-11-06",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 69,
+        "order": "11.00000000000000000000",
+        "label": "Prag",
+        "lb_id": "lb-place-69",
+        "geonames_url": "https://www.geonames.org/3067696/prague.html",
+        "latitude": "50.08804",
+        "longitude": "14.42076",
+        "gnd_url": "",
+        "endonym": "Praha"
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3756",
+    "addressee_worked_out_source": []
+  },
+  "3757": {
+    "id": 3757,
+    "order": "3437.00000000000000000000",
+    "not_before": "1669-11-06",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 161,
+        "order": "39.00000000000000000000",
+        "label": "Tirol",
+        "lb_id": "lb-place-161",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
+        "gnd_url": "",
+        "endonym": ""
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3757",
+    "addressee_worked_out_source": []
+  },
+  "3758": {
+    "id": 3758,
+    "order": "3438.00000000000000000000",
+    "not_before": "1669-11-06",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 36,
+        "order": "4.00000000000000000000",
+        "label": "München",
+        "lb_id": "lb-place-36",
+        "geonames_url": "https://www.geonames.org/2867714/munich.html",
+        "latitude": "48.13743",
+        "longitude": "11.57549",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3758",
+    "addressee_worked_out_source": []
+  },
+  "3759": {
+    "id": 3759,
+    "order": "3439.00000000000000000000",
+    "not_before": "1669-11-16",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 39,
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3759",
+    "addressee_worked_out_source": []
+  },
+  "3760": {
+    "id": 3760,
+    "order": "3440.00000000000000000000",
+    "not_before": "1669-11-16",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 39,
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3760",
+    "addressee_worked_out_source": []
+  },
+  "3761": {
+    "id": 3761,
+    "order": "3441.00000000000000000000",
+    "not_before": "1669-11-27",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 161,
+        "order": "39.00000000000000000000",
+        "label": "Tirol",
+        "lb_id": "lb-place-161",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
+        "gnd_url": "",
+        "endonym": ""
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3761",
+    "addressee_worked_out_source": []
+  },
+  "3762": {
+    "id": 3762,
+    "order": "3442.00000000000000000000",
+    "not_before": "1669-11-27",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 38,
+        "order": "6.00000000000000000000",
+        "label": "Bayern",
+        "lb_id": "lb-place-38",
+        "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
+        "latitude": "49.00000",
+        "longitude": "11.50000",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3762",
+    "addressee_worked_out_source": []
+  },
+  "3763": {
+    "id": 3763,
+    "order": "3443.00000000000000000000",
+    "not_before": "1669-11-30",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 39,
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3763",
+    "addressee_worked_out_source": []
+  },
+  "3764": {
+    "id": 3764,
+    "order": "3444.00000000000000000000",
+    "not_before": "1669-11-30",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 39,
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3764",
+    "addressee_worked_out_source": []
+  },
+  "3765": {
+    "id": 3765,
+    "order": "3445.00000000000000000000",
+    "not_before": "1669-12-07",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 69,
+        "order": "11.00000000000000000000",
+        "label": "Prag",
+        "lb_id": "lb-place-69",
+        "geonames_url": "https://www.geonames.org/3067696/prague.html",
+        "latitude": "50.08804",
+        "longitude": "14.42076",
+        "gnd_url": "",
+        "endonym": "Praha"
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3765",
+    "addressee_worked_out_source": []
+  },
+  "3766": {
+    "id": 3766,
+    "order": "3446.00000000000000000000",
+    "not_before": "1669-12-07",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 69,
+        "order": "11.00000000000000000000",
+        "label": "Prag",
+        "lb_id": "lb-place-69",
+        "geonames_url": "https://www.geonames.org/3067696/prague.html",
+        "latitude": "50.08804",
+        "longitude": "14.42076",
+        "gnd_url": "",
+        "endonym": "Praha"
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3766",
+    "addressee_worked_out_source": []
+  },
+  "3767": {
+    "id": 3767,
+    "order": "3447.00000000000000000000",
+    "not_before": "1669-12-07",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 69,
+        "order": "11.00000000000000000000",
+        "label": "Prag",
+        "lb_id": "lb-place-69",
+        "geonames_url": "https://www.geonames.org/3067696/prague.html",
+        "latitude": "50.08804",
+        "longitude": "14.42076",
+        "gnd_url": "",
+        "endonym": "Praha"
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3767",
+    "addressee_worked_out_source": []
+  },
+  "3768": {
+    "id": 3768,
+    "order": "3448.00000000000000000000",
+    "not_before": "1669-12-07",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 69,
+        "order": "11.00000000000000000000",
+        "label": "Prag",
+        "lb_id": "lb-place-69",
+        "geonames_url": "https://www.geonames.org/3067696/prague.html",
+        "latitude": "50.08804",
+        "longitude": "14.42076",
+        "gnd_url": "",
+        "endonym": "Praha"
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3768",
+    "addressee_worked_out_source": []
+  },
+  "3769": {
+    "id": 3769,
+    "order": "3449.00000000000000000000",
+    "not_before": "1669-12-14",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 39,
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3769",
+    "addressee_worked_out_source": []
+  },
+  "3770": {
+    "id": 3770,
+    "order": "3450.00000000000000000000",
+    "not_before": "1669-12-14",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 39,
+        "order": "7.00000000000000000000",
+        "label": "Spanien",
+        "lb_id": "lb-place-39",
+        "geonames_url": "https://www.geonames.org/2510769/kingdom-of-spain.html",
+        "latitude": "40.00000",
+        "longitude": "-4.00000",
+        "gnd_url": "",
+        "endonym": null
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3770",
+    "addressee_worked_out_source": []
+  },
+  "3771": {
+    "id": 3771,
+    "order": "3451.00000000000000000000",
+    "not_before": "1669-12-18",
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [
+      {
+        "id": 161,
+        "order": "39.00000000000000000000",
+        "label": "Tirol",
+        "lb_id": "lb-place-161",
+        "geonames_url": "",
+        "latitude": null,
+        "longitude": null,
+        "gnd_url": "",
+        "endonym": ""
+      }
+    ],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3771",
+    "addressee_worked_out_source": []
+  },
+  "3772": {
+    "id": 3772,
+    "order": "3452.00000000000000000000",
+    "not_before": null,
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3772",
+    "addressee_worked_out_source": []
+  },
+  "3773": {
+    "id": 3773,
+    "order": "3453.00000000000000000000",
+    "not_before": null,
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3773",
+    "addressee_worked_out_source": []
+  },
+  "3774": {
+    "id": 3774,
+    "order": "3454.00000000000000000000",
+    "not_before": null,
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3774",
+    "addressee_worked_out_source": []
+  },
+  "3775": {
+    "id": 3775,
+    "order": "3455.00000000000000000000",
+    "not_before": null,
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3775",
+    "addressee_worked_out_source": []
+  },
+  "3776": {
+    "id": 3776,
+    "order": "3456.00000000000000000000",
+    "not_before": null,
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3776",
+    "addressee_worked_out_source": []
+  },
+  "3777": {
+    "id": 3777,
+    "order": "3457.00000000000000000000",
+    "not_before": null,
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3777",
+    "addressee_worked_out_source": []
+  },
+  "3778": {
+    "id": 3778,
+    "order": "3458.00000000000000000000",
+    "not_before": null,
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3778",
+    "addressee_worked_out_source": []
+  },
+  "3779": {
+    "id": 3779,
+    "order": "3459.00000000000000000000",
+    "not_before": null,
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3779",
+    "addressee_worked_out_source": []
+  },
+  "3780": {
+    "id": 3780,
+    "order": "3460.00000000000000000000",
+    "not_before": null,
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3780",
+    "addressee_worked_out_source": []
+  },
+  "3781": {
+    "id": 3781,
+    "order": "3461.00000000000000000000",
+    "not_before": null,
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3781",
+    "addressee_worked_out_source": []
+  },
+  "3782": {
+    "id": 3782,
+    "order": "3462.00000000000000000000",
+    "not_before": null,
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3782",
+    "addressee_worked_out_source": []
+  },
+  "3783": {
+    "id": 3783,
+    "order": "3463.00000000000000000000",
+    "not_before": null,
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3783",
+    "addressee_worked_out_source": []
+  },
+  "3784": {
+    "id": 3784,
+    "order": "3464.00000000000000000000",
+    "not_before": null,
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3784",
+    "addressee_worked_out_source": []
+  },
+  "3785": {
+    "id": 3785,
+    "order": "3465.00000000000000000000",
+    "not_before": null,
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3785",
+    "addressee_worked_out_source": []
+  },
+  "3786": {
+    "id": 3786,
+    "order": "3466.00000000000000000000",
+    "not_before": null,
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3786",
+    "addressee_worked_out_source": []
+  },
+  "3787": {
+    "id": 3787,
+    "order": "3467.00000000000000000000",
+    "not_before": null,
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3787",
+    "addressee_worked_out_source": []
+  },
+  "3788": {
+    "id": 3788,
+    "order": "3468.00000000000000000000",
+    "not_before": null,
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3788",
+    "addressee_worked_out_source": []
+  },
+  "3789": {
+    "id": 3789,
+    "order": "3469.00000000000000000000",
+    "not_before": null,
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3789",
+    "addressee_worked_out_source": []
+  },
+  "3790": {
+    "id": 3790,
+    "order": "3470.00000000000000000000",
+    "not_before": null,
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3790",
+    "addressee_worked_out_source": []
+  },
+  "3791": {
+    "id": 3791,
+    "order": "3471.00000000000000000000",
+    "not_before": null,
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3791",
+    "addressee_worked_out_source": []
+  },
+  "3792": {
+    "id": 3792,
+    "order": "3472.00000000000000000000",
+    "not_before": null,
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3792",
+    "addressee_worked_out_source": []
+  },
+  "3793": {
+    "id": 3793,
+    "order": "3473.00000000000000000000",
+    "not_before": null,
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3793",
+    "addressee_worked_out_source": []
+  },
+  "3794": {
+    "id": 3794,
+    "order": "3474.00000000000000000000",
+    "not_before": null,
+    "not_after": null,
+    "addressee_stated": [],
+    "courier": [],
+    "destination": [],
+    "dictated_letter": false,
+    "note": "",
+    "addressee_worked_out": [],
+    "original_letter": [],
+    "correct_date": null,
+    "lb_id": "lb-ml-3794",
+    "addressee_worked_out_source": []
   }
 }

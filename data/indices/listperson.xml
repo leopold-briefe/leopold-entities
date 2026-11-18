@@ -532,6 +532,16 @@
                      <surname>Carreto</surname>
                   </persName>
                </person>
+               <person xml:id="lb-person-278" n="Francisco Offeral">
+                  <persName type="preferred">Francisco Offeral</persName>
+                  <persName type="parts">
+                     <forename>Francisco</forename>
+                     <surname>Offeral</surname>
+                  </persName>
+               </person>
+               <person xml:id="lb-person-279" n="">
+                  <persName type="preferred"/>
+               </person>
             </listPerson>
          </div>
       </body>
