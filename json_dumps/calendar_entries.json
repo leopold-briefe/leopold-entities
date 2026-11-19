@@ -88998,7 +88998,7 @@
   "1175": {
     "id": 1175,
     "order": "1064.00000000000000000000",
-    "not_before": "1669-01-09",
+    "not_before": "1669-01-02",
     "text": "Den 2ten Januarij 1669 habe ich 3 brieff in Spanien geschriben.",
     "not_after": null,
     "folio": "44r",
@@ -89007,17 +89007,17 @@
     "places": [],
     "mentioned_letters": [
       {
-        "id": 3615,
-        "order": "3295.00000000000000000000",
-        "not_before": "1669-01-09",
+        "id": 3612,
+        "order": "3292.00000000000000000000",
+        "not_before": "1669-01-02",
         "not_after": null,
         "addressee_stated": [],
         "courier": [],
         "destination": [
           {
-            "id": 38,
-            "value": "Bayern",
-            "order": "6.00000000000000000000"
+            "id": 39,
+            "value": "Spanien",
+            "order": "7.00000000000000000000"
           }
         ],
         "dictated_letter": false,
@@ -89025,21 +89025,21 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb_id": "lb-ml-3615",
+        "lb_id": "lb-ml-3612",
         "addressee_worked_out_source": []
       },
       {
-        "id": 3616,
-        "order": "3296.00000000000000000000",
-        "not_before": "1669-01-09",
+        "id": 3613,
+        "order": "3293.00000000000000000000",
+        "not_before": "1669-01-02",
         "not_after": null,
         "addressee_stated": [],
         "courier": [],
         "destination": [
           {
-            "id": 161,
-            "value": "Tirol",
-            "order": "39.00000000000000000000"
+            "id": 39,
+            "value": "Spanien",
+            "order": "7.00000000000000000000"
           }
         ],
         "dictated_letter": false,
@@ -89047,21 +89047,21 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb_id": "lb-ml-3616",
+        "lb_id": "lb-ml-3613",
         "addressee_worked_out_source": []
       },
       {
-        "id": 3617,
-        "order": "3297.00000000000000000000",
-        "not_before": "1669-01-09",
+        "id": 3614,
+        "order": "3294.00000000000000000000",
+        "not_before": "1669-01-02",
         "not_after": null,
         "addressee_stated": [],
         "courier": [],
         "destination": [
           {
-            "id": 179,
-            "value": "Köln",
-            "order": "57.00000000000000000000"
+            "id": 39,
+            "value": "Spanien",
+            "order": "7.00000000000000000000"
           }
         ],
         "dictated_letter": false,
@@ -89069,7 +89069,7 @@
         "addressee_worked_out": [],
         "original_letter": [],
         "correct_date": null,
-        "lb_id": "lb-ml-3617",
+        "lb_id": "lb-ml-3614",
         "addressee_worked_out_source": []
       }
     ]
